@@ -1,11 +1,12 @@
 ---
 layout: post
+title: Někdo to rád sladké | Behind the Screens
 ---
 
-# Někdo to rád sladké | Behind the Screens
 Participuju na normalizaci užívání návykový látky — kvůli mindfulness. Další článek zpoza obrazovek.
 
 ## Obsah
+- [Obsah](#obsah)
 - [Krátký úvod](#kratky-uvod)
 - [Whiskey je pití sebevědomých](#whiskey-je-piti-sebevedomych)
 - [Výlety do Skotska a Irska](#vylety-do-skotska-a-irska)
