@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap')
 @import url("https://use.typekit.net/ubc7mok.css");
 
 html { height: 100%;
@@ -7,7 +7,7 @@ html { height: 100%;
 }
 
 body {
-  font-family: "Gelasio", serif;
+  font-family: "Source Serif 4", serif;
   font-size: 1.25rem;
   line-height: 2rem;
   min-height: 100%;
@@ -130,7 +130,7 @@ img {
       --headings: #1e293b;
       --text: #0D151A;
       --text-secondary: #6b7280;
-      --links: #41C7C7;
+      --links: #1a895b;
       --highlight: #FFECB2; // light yellow
       --code-text: #9D174D;
       --share-text: #999;
@@ -140,12 +140,12 @@ img {
 @mixin dark-appearance {
   html, body  {
       --headings: #FFE6C1;
-      --links: #41C7C7;
-      --highlight: #41C7C7;
+      --links: #8aeb6a;
+      --highlight: #b20000;
       --bg: #0D151A;
-      --bg-secondary: #323945;
+      --bg-secondary: #00ff00;
       --text: #CCC0B8;
-      --text-secondary: #597380;
+      --text-secondary: #0000ff;
       --code-text: #91A7FF;
       --share-text: #C4C4C4;
   };
