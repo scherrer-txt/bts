@@ -13,8 +13,8 @@ body {
 }
 pre, code {
   font-family: "Roboto Mono", "Courier New", monospace;
-  font-size: 1rem;
-  font-weight: 200;
+  font-size: 0.75rem;
+  font-weight: 100;
 }
 
   h1 {
@@ -107,12 +107,12 @@ img {
 }
 @mixin light-appearance {
   html, body {
-      --bg: #FFF;
+      --bg: #CCC0B8;
       --bg-secondary: #f3f4f6;
       --headings: #1e293b;
-      --text: #374151;
+      --text: #0D151A;
       --text-secondary: #6b7280;
-      --links: #6366f1;
+      --links: #41C7C7;
       --highlight: #FFECB2; // light yellow
       --code-text: #9D174D;
       --share-text: #999;
@@ -122,7 +122,7 @@ img {
 @mixin dark-appearance {
   html, body  {
       --headings: #FFE6C1;
-      --links: #2E4A76;
+      --links: #41C7C7;
       --highlight: #41C7C7;
       --bg: #0D151A;
       --bg-secondary: #323945;
@@ -209,7 +209,7 @@ mark {
 .post-date {
   color: var(--text-secondary);
   margin-top: 1rem;
-  font-size: 0.7em;
+  font-size: 0.75em;
   font-family: "Roboto Mono", "Courier New", monospace;
 }
 .home-date {
@@ -254,11 +254,11 @@ p code, li code {
 .tag {
   font-family: "Roboto Mono", "Courier New", monospace;
   color: var(--text);
-  padding: 1em 1em;
+  padding: 0.5em 0.5em;
   margin-right: 0.5em;
   border-radius: 1em;
-  //background-color: var(--bg-secondary);
-  font-size: 1em;
+  background-color: var(--bg);
+  font-size: 0.5em;
   font-weight: bold;
   text-transform: lowercase;
   border: 1px solid var(--text);
