@@ -131,6 +131,7 @@ img {
       --text: #121212;
       --text-secondary: #36007B;
       --links: #0076A9;
+      --links-hover: #0000ff;
       --highlight: #FFECB2; // light yellow
       --code-text: #595959;
       --share-text: #595959;
@@ -141,6 +142,7 @@ img {
   html, body  {
       --headings: #E3D1CC;
       --links: #8aeb6a;
+      --links-hover: #00ff00;
       --highlight: #b20000;
       --bg: #121212;
       --bg-secondary: #0A0A0A;
@@ -273,7 +275,7 @@ p code, li code {
     font-style: normal;
   }
   a:hover {
-    color: var(--links);
+    color: var(--links-hover);
   }
 }
 .tag {
