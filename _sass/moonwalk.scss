@@ -2,7 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url("https://use.typekit.net/ubc7mok.css");
 
-html { height: 100%; }
+html { height: 100%;
+  font-size: 16px;
+}
 
 body {
   font-family: "Gelasio", serif;
@@ -19,6 +21,7 @@ pre, code {
   font-family: "roc-grotesk-wide", sans-serif;
   font-size: 4.0rem;
   font-weight: 700;
+  line-height: 3rem;
   margin-top: 1.5em;
   margin-down: 1em;
 }
@@ -27,6 +30,7 @@ pre, code {
   font-family: "roc-grotesk-wide", sans-serif;
   font-size: 3.0rem;
   font-weight: 700;
+  line-height: 2.5rem;
   margin-top: 1.5em;
   margin-down: 1em;
 }
