@@ -97,11 +97,11 @@ table, th, td {
   padding: 0.4em;
 }
 
-div.highlighter-rouge pre code, pre code.highlighter-rouge {
-  display: block;
-  overflow-x: auto;
-  padding: 1em;
-}
+//div.highlighter-rouge pre code, pre code.highlighter-rouge {
+  //display: block;
+  //overflow-x: auto;
+  //padding: 1em;
+//}
 
 blockquote {
   font-family: "roc-grotesk-wide", sans-serif;
@@ -110,6 +110,7 @@ blockquote {
   line-height: 3rem;
   margin-top: 2em;
   padding: 2em;
+  width: 130%;
 
   p { margin: 0; }
 }
@@ -175,8 +176,7 @@ p, strong, b, em, small, li, hr, table, figcaption {
   border-radius: 25px;
 }
 blockquote {
-  background-color: var(--bg);
-  border: 1px var(--border) solid;
+  border: 0px var(--border) solid;
 }
 a {
   color: var(--links);
