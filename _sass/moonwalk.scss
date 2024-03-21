@@ -8,7 +8,7 @@ html { height: 100%;
 
 body {
   font-family: "Source Serif 4", serif;
-  font-size: 1.25rem;
+  font-size: 1.4rem;
   line-height: 2rem;
   min-height: 100%;
   margin-top: 0.5em;
@@ -92,7 +92,7 @@ li { margin: 0.4em 0; }
 
 //Page Width
 .w {
-  max-width: 800px;
+  max-width: 760px;
   margin: 0 auto;
   padding: 4em 2em;
 }
@@ -112,8 +112,7 @@ div.highlighter-rouge pre code, pre code.highlighter-rouge {
 
 blockquote {
   font-style: italic;
-  border: thin solid black;
-  padding: 1em;
+  padding: 2em;
 
   p { margin: 0; }
 }
@@ -185,6 +184,9 @@ blockquote {
 a {
   color: var(--links);
 }
+  a:hover {
+    color: var(--links-hover);
+}
 *:target { background-color: var(--bg-secondary); }
 
 html.transition,
@@ -254,7 +256,7 @@ p code, li code {
   background-color: var(--bg-secondary);
   padding: 0.2rem;
   color: var(--code-text);
-  font-weight: 100;
+  font-weight: 400;
   font-style: normal;
 }
 .post-title {
@@ -271,7 +273,7 @@ p code, li code {
   a {
     color: var(--text);
     text-decoration: none;
-    font-weight: 100;
+    font-weight: 400;
     font-style: normal;
   }
   a:hover {
@@ -280,14 +282,12 @@ p code, li code {
 }
 .tag {
   font-family: "Roboto Mono", "Courier New", monospace;
-  color: var(--text);
-  padding: 0.5em 0.5em;
+  color: var(--bg);
+  padding: 1em 0.5em;
   margin-right: 0.5em;
-  border-radius: 1em;
-  background-color: var(--bg);
+  background-color: var(--text);
   font-size: 1rem;
-  font-weight: 100;
+  font-weight: 400;
   font-style: normal;
   text-transform: lowercase;
-  border: 1px solid var(--text);
 }
