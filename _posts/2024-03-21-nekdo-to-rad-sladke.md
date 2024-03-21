@@ -7,15 +7,15 @@ Participuju na normalizaci užívání návykový látky — kvůli mindfulness.
 
 ## Obsah
 - [Obsah](#obsah)
-- [Krátký úvod](#kratky-uvod)
-- [Whiskey je pití sebevědomých](#whiskey-je-piti-sebevedomych)
-- [Výlety do Skotska a Irska](#vylety-do-skotska-a-irska)
-- [Výlety do Karibiku](#vylety-do-karibiku)
-- [Bariéry](#bariery)
-- [Rumový znalec](#rumovy-znalec)
-- [Co jsem o sobě zjistil](#co-jsem-o-sobe-zjistil)
-- [Jak hodnotím](#jak-hodnotim)
-- [Moje oblíbené rumy](#moje-oblibene-rumy)
+- [Krátký úvod](#kratký-úvod)
+- [Whiskey je pití sebevědomých](#whiskey-je-pití-sebevědomých)
+- [Výlety do Skotska a Irska](#výlety-do-skotska-a-irska)
+- [Výlety do Karibiku](#výlety-do-karibiku)
+- [Bariéry](#bariéry)
+- [Rumový znalec](#rumový-znalec)
+- [Co jsem o sobě zjistil](#co-jsem-o-sobě-zjistil)
+- [Jak hodnotím](#jak-hodnotím)
+- [Moje oblíbený rumy](#moje-oblíbený-rumy)
 
 
 ## Krátký úvod
@@ -40,7 +40,7 @@ Odmalička jsem docela dost velký požitkář, ale dělal jsem to automaticky. 
 
 Dát si „sklenku nebo panáka večer na relax“ je hrozně zprofanovaná představa. Začíná ale dávat smysl, když se pozastavím nad tím, co se v ní skrývá. Jasně, často je to alkoholismus. Taky je to ale způsob, jak zastavit čas a přimět se vychutnat si pomíjející okamžik. A to pak nemusí v rovnici figurovat panák, může to být pivo, čaj, kafe, čokoláda, jídlo — často to jsou věci, požitky, který zaměstnávají naplno ty smysly, kterým jinak nedávám moc prostoru. Řekl bych, že u mě je to cokoliv, kde nehraje příliš velkou roli zrak nebo sluch — a to občas rád jen tak sedím a poslouchám hudbu po albech, od první do poslední skladby. Což je teda samo o sobě zkušenost k mání.
 
-## [Výlety do Karibiku](#vylety-do-karibiku)
+## Výlety do Karibiku
 
 První výlet do světa rumů jsem zažil díky tomu, že jsem byl součást organizačního týmu Konference Glorious; jedním z bodů VIP programu byla totiž řízená skupinová ochutnávka rumů. Ochutnávaly se dost vzácný i docela běžný lahve. Nechyběl bohatý výklad a zasvěcení do určitých rituálů, jak podpořit zážitek. Nahřátí sklenky s alkoholem v dlaních, aby se líp projevila vůně; kroužit s tekutinou po stěnách panáku, aby se otevřela chuť a zároveň aby šlo poznat, jak je alkohol viskózní; *opravdu* se zaměřit na vůni a barvu. Skvělá zkušenost.
 
@@ -54,7 +54,7 @@ Do tý doby jsem si myslel, že jsem na whiskey. Po druhým panáku rumu jsem te
 
 ---
 
-## [Bariéry](#bariery)
+## Bariéry
 
 Když to srovnám, oba prostory byly super. Lidi se o alkoholu rádi bavili, zapáleně ho sbírali a navzájem si doporučovali zajímavý lahve. První bariérou, kterou ale nový člověk musel překonávat, je slovník. Snažil jsem se sám rozklíčovat, co znamená „rašelinitý“ nebo „nakouřený“. Mohl jsem se zeptat. Místo toho jsem ale zkoušel extrémy a hledal, což mě přivedlo na zajímavější cestu.
 
@@ -64,7 +64,7 @@ Estery, kámo, co to kurva znamená? Co to je za pojem? Jak se, když každý vn
 
 Jsem rád, že mám vrozený odpor vůči autoritám a neschopnost vycítit nepsaný pravidla (autism much?). Kdybych na tuhle hru přistoupil, rumy bych si tím zkazil, protože bych pil jen to, co ostatní považují za kvalitní, ze strachu, že se shodím tím, že tomu nerozumím.
 
-## [Rumový znalec](#rumovy-znalec)
+## Rumový znalec
 
 Na nějakou dobu jsem se rumům přestal věnovat. Pak ale můj kamarád Stalin začal pracovat v brněnským Baru, který neexistuje. Při jedný návštěvě jsem si vzpomněl, že můj oblíbený rum byl vždycky Non plus ultra od A.H. Riise — už ani nevím, kdy a jak jsem se k týhle diagnóze dostal. Každopádně jsem měl chuť. Nebylo těžký si všimnout, že bar zdobí několik desítek rumových lahví. Rumy se v ten večer staly králičí norou; Alenka stála u dveří a králík ji zval dál.
 
@@ -84,7 +84,7 @@ Ze všech rumů v BKN jsem ochutnal přes půlku; původní cíl se lehce změni
 
 ---
 
-## [Co jsem o sobě zjistil](#co-jsem-o-sobe-zjistil)
+## Co jsem o sobě zjistil
 
 Nemám rád, když mi někdo říká, co mám mít rád. Mám rád sladký rumy. Moje cesta vedla od těch nejsušších, nejuzenějších, nejnakouřenějších whiskey k sladkým rumům a rumovým elixirům.
 
@@ -96,13 +96,13 @@ To, že jsem se soustředil na sebe a na svoje vlastní prožívání věcí, mi
 
 Přiznám se, že i já občas sklouznu k nějaký podivný formě pocitu nadřazenosti, když vidím si někoho dávat do panáku led. Tohle totiž efektivně zabíjí veškerý nuance chuti a vůně, kterou ten panák má. Navíc se tím zbytečně ředí. Doteď si pamatuju ten šok, když jsem si ten stejný panák dal s ledem a bez ledu — a když jsem si ten stejný panák dal v pokojový teplotě a pak  ochlazený o čtyři stupně. Ty rozdíly byly propastný. Jenže kdo jsem já, abych jim říkal, jak si mají vychutnávat věci. Nebo se jim za to smál. A proč bych si o sobě měl myslet něco víc? Let’s just enjoy things, brány není potřeba hlídat. Nic se nezkazí, když budou lidi volně objevovat a interagovat s tím, co mají rádi; tak, jak jim to vyhovuje. Navíc, třeba je pro to nějaký zajímavý důvod, takže fajn příležitost pro pokec a výměnu zkušeností. Krátký self check a naštěstí ze mě tenhle elitářský snobismus rychle vyprchá.
 
-## [Jak hodnotím](#jak-hodnotim)
+## Jak hodnotím
 
 Rumy hodnotím na škále 1-7; tři pozitivní (dobrý, lepší, nejlepší), tři negativní (špatný, horší, nejhorší) a jeden neutrální stupeň. 5 rumů mám na nejvyšší příčce. Dohromady 42 rumů mi chutnalo, 16 mi přišlo neutrálních, 32 mi nechutnalo. Rumy ochutnávám od začátku znova, zkušenosti z minulosti neberu, protože se na ně nedokážu podívat současnou optikou a srovnat je s rumy, co jsem měl nedávno. Proto číslo rumů, který mi nechutnaly, není příliš vysoký — protože chybí klasický Havany, Millonaria, Zacapy, Morgany, Bacardi, Heffrony a Republicy. Tenhle typ běžných/koktejlových rumů mi nechutná, protože jsou schválně dělaný tak, aby ani neurazily, ani nenadchly a pily se buď s colou nebo na ledu.
 
 Měl jsem rum, co chutnal jako tekutý dřevo, lékořicový pendrek nebo rajčatová polívka. Měl jsem rum, jehož aftertaste jsem cítil ještě tři hodiny v krku, i rum, co měl sametovou, až lehce sirupovou texturu na jazyku. Rum, co chutnal jako moje oblíbený čokoládovo-karamelový belgický pralinky; rum, který chutnal tak, jak voněla stodola ve Švýcarsku; rum, co voněl po dešti a chutnal jako říční kameny. Rum, ve kterým šlo cítit moře a písečná pláž.
 
-## [Moje oblíbené rumy](#moje-oblibene-rumy)
+## Moje oblíbený rumy
 
 ##### A. H. Riise Non Plus Ultra
 
