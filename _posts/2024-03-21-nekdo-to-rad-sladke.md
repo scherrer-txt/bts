@@ -16,13 +16,10 @@ Participuju na normalizaci užívání návykový látky — kvůli mindfulness.
 - [Jak hodnotím](#jak-hodnotim)
 - [Moje oblíbené rumy](#moje-oblibene-rumy)
 
----
 
 ## Krátký úvod
 
 Vždycky jsem si myslel, že mám rád whiskey. Nebo že bych ji měl mít rád. Popíjení whiskey mi přijde jako něco, co je společensky přijatelné, taková docela běžná „chlapská“ věc. Něco, co když řeknu, že dělám rád a pravidelně, nejspíš nezpůsobí udivený zvednutí jednoho obočí nebo znechucené nakrčení nosu. Všechny ty reklamy, filmy, seriály a ostatní média, který konzumujeme, se na našem způsobu nahlížení na svět prostě podepisují.
-
----
 
 ## Whiskey je pití sebevědomých
 
