@@ -18,7 +18,7 @@ pre, code {
   font-weight: 100;
   font-style: normal;
   margin-top: 1em;
-  margin-down: 0.5em;
+  margin-down: 1em;
 }
 
   h1 {
@@ -26,7 +26,7 @@ pre, code {
   font-size: 4.0rem;
   font-weight: 700;
   line-height: 4.5rem;
-  margin-top: 1.5em;
+  margin-top: 2em;
   //margin-down: 1em;
 }
 
@@ -35,7 +35,7 @@ pre, code {
   font-size: 3.0rem;
   font-weight: 700;
   line-height: 3.5rem;
-  margin-top: 1.5em;
+  margin-top: 2em;
   //margin-down: 1em;
 }
 
@@ -44,7 +44,7 @@ pre, code {
   font-size: 2.5rem;
   font-weight: 600;
   line-height: 3rem;
-  margin-top: 3em;
+  margin-top: 2em;
   //margin-down: 1em;
 }
 
@@ -53,7 +53,7 @@ pre, code {
   font-size: 2.0rem;
   font-weight: 500;
   line-height: 2.5rem;
-  margin-top: 2.5em;
+  margin-top: 2em;
   //margin-down: 1em;
 }
 
@@ -237,7 +237,7 @@ mark {
   text-decoration: none;
 }
 .text-bold {
-  font-weight: bold;
+  font-weight: 100;
 }
 .text-upcase {
   text-transform: uppercase;
