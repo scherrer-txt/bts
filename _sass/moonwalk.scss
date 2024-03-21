@@ -15,8 +15,8 @@ body {
 }
 pre, code {
   font-family: "Roboto Mono", monospace;
-  font-size: 0.75rem;
-  font-weight: 100;
+  font-size: 1rem;
+  font-weight: 400;
   font-style: normal;
   margin-top: 1em;
 }
@@ -104,7 +104,11 @@ div.highlighter-rouge pre code, pre code.highlighter-rouge {
 }
 
 blockquote {
-  font-style: italic;
+  font-family: "roc-grotesk-wide", sans-serif;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 3rem;
+  margin-top: 2em;
   padding: 2em;
 
   p { margin: 0; }
@@ -168,10 +172,10 @@ p, strong, b, em, small, li, hr, table, figcaption {
     color: var(--text);
 }
 .highlight, pre code, blockquote {
-  border-radius: 0.5em;
+  border-radius: 25px;
 }
 blockquote {
-  background-color: var(--bg-secondary);
+  background-color: var(--bg);
   border: 1px var(--border) solid;
 }
 a {
@@ -277,11 +281,11 @@ p code, li code {
   font-family: "Roboto Mono", "Courier New", monospace;
   color: var(--bg);
   padding: 1em 0.5em;
+  border-radius: 25 px;
   margin-right: 0.5em;
   background-color: var(--code-text);
   font-size: 1rem;
   font-weight: 400;
   font-style: normal;
   text-transform: lowercase;
-  border-radius: 25 px;
 }
