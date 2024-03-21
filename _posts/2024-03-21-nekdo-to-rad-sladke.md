@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Někdo to rád sladké
-subtitle: | Behind the Screens
+title: Někdo to rád sladké | Behind the Screens
 author: scherrer.txt
 ---
 
