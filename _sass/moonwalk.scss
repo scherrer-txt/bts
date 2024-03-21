@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url("https://use.typekit.net/ubc7mok.css");
 
 html { height: 100%; }
 
@@ -15,7 +16,13 @@ pre, code {
   font-size: 0.9rem;
 }
 
-h2, h3, h4, h5 { margin-top: 1.5em; }
+h2, h3, h4, h5 {
+  font-family: "pragmatica-extended", sans-serif;
+  font-size: 2.0rem;
+  font-weight: 400;
+  font-style: normal;
+  margin-top: 1.5em;
+}
 
 hr { margin: 1em 0; }
 
