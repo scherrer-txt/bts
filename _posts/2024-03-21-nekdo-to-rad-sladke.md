@@ -7,8 +7,8 @@ Participuju na normalizaci užívání návykový látky — kvůli mindfulness.
 
 ## Obsah
 - [Krátký úvod](#kratky-uvod)
-- [Whiskey je pití sebevědomých](#whiskey-je-piti)
-- [Výlety do Skotska a Irska](#vylety-do-skotska)
+- [Whiskey je pití sebevědomých](#whiskey-je-piti-sebevedomych)
+- [Výlety do Skotska a Irska](#vylety-do-skotska-a-irska)
 - [Výlety do Karibiku](#vylety-do-karibiku)
 - [Bariéry](#bariery)
 - [Rumový znalec](#rumovy-znalec)
@@ -18,13 +18,13 @@ Participuju na normalizaci užívání návykový látky — kvůli mindfulness.
 
 ---
 
-## [Krátký úvod](#kratky-uvod)
+## Krátký úvod
 
 Vždycky jsem si myslel, že mám rád whiskey. Nebo že bych ji měl mít rád. Popíjení whiskey mi přijde jako něco, co je společensky přijatelné, taková docela běžná „chlapská“ věc. Něco, co když řeknu, že dělám rád a pravidelně, nejspíš nezpůsobí udivený zvednutí jednoho obočí nebo znechucené nakrčení nosu. Všechny ty reklamy, filmy, seriály a ostatní média, který konzumujeme, se na našem způsobu nahlížení na svět prostě podepisují.
 
 ---
 
-## [Whiskey je pití sebevědomých](#whiskey-je-piti)
+## Whiskey je pití sebevědomých
 
 Mad Men, Breaking Bad, Peaky Blinders, Suits, HIMYM, Archer, Dexter, Sherlock, House of Cards, Better Call Saul, Two and a half man. Casablanca, Godfather, Inglorious Basterds, American Psycho, Iron Man, Blade Runner, Pulp Fiction, The Big Lebowski, Goodfellas.
 
@@ -34,7 +34,7 @@ Problém je, když tyhle zkratky/symboliku, co fungujou v kontextu spotřební z
 
 ---
 
-## [Výlety do Skotska a Irska](#vylety-do-skotska)
+## Výlety do Skotska a Irska
 
 Když mi bylo čerstvě 18, začal jsem chodit do Whiskey Shopu na Pekařské, kde každý pátek probíhaly ochutnávky. Komorní akce pro zhruba 10-15 lidí. Majitel shopu byl hodně zapálený a jezdil i do Skotska a Irska, měl i dobrý vztahy s těma nejznámějšíma palírnama. Ke každý degustaci měl hodně zajímavý výklad a chystal nám i nějaký chuťovky k podpoření celýho zážitku — chlebík, nakládaný okurky, rajčata, šunky, salámy, sýry, ovoce. Vždycky to nějak zajímavě spároval, aby to sedělo k tomu, co jsme degustovali. Jestli mě pamět neklame, tak nám jednou doporučil usrknout whiskey, dipnout okurku do hořcice a zajíst to s ní. Zní to divně, ale fakt to fungovalo. 
 
