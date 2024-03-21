@@ -11,7 +11,7 @@ body {
   font-size: 1.25rem;
   line-height: 2rem;
   min-height: 100%;
-  margin-top: 2em;
+  margin-top: 0.5em;
 }
 pre, code {
   font-family: "Roboto Mono", monospace;
@@ -125,29 +125,29 @@ img {
 }
 @mixin light-appearance {
   html, body {
-      --bg: #CCC0B8;
-      --bg-secondary: #f3f4f6;
-      --headings: #1e293b;
-      --text: #0D151A;
-      --text-secondary: #6b7280;
-      --links: #1a895b;
+      --bg: #E3D1CC;
+      --bg-secondary: #E3D1CC;
+      --headings: #121212;
+      --text: #121212;
+      --text-secondary: #36007B;
+      --links: #0076A9;
       --highlight: #FFECB2; // light yellow
-      --code-text: #9D174D;
-      --share-text: #999;
+      --code-text: #595959;
+      --share-text: #595959;
   }
 }
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   html, body  {
-      --headings: #FFE6C1;
+      --headings: #E3D1CC;
       --links: #8aeb6a;
       --highlight: #b20000;
-      --bg: #0D151A;
-      --bg-secondary: #00ff00;
-      --text: #CCC0B8;
-      --text-secondary: #0000ff;
-      --code-text: #91A7FF;
-      --share-text: #C4C4C4;
+      --bg: #121212;
+      --bg-secondary: #0A0A0A;
+      --text: #E3D1CC;
+      --text-secondary: #FF5500;
+      --code-text: #595959;
+      --share-text: #595959;
   };
 }
 
