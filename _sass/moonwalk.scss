@@ -86,8 +86,8 @@ li { margin: 0.4em 0; }
 /* Page Width */
 .w {
   max-width: 760px;
-  /* margin: 0 auto; */
-  /* padding: 4em 2em; */
+  margin: 0 auto;
+  padding: 4em 2em;
 }
 
 table, th, td {
@@ -298,6 +298,7 @@ p code, li code {
   /* Styles for small devices */
   body {
     font-size: 1rem; /* Adjust font size for smaller screens */
+    line-height: 1.3rem;
   }
 
   h1 {
