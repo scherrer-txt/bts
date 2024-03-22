@@ -283,7 +283,8 @@ p code, li code {
   font-family: "Roboto Mono", "Courier New", monospace;
   color: var(--bg);
   padding: 1em 0.5em;
-  border-radius: 25 px;
+  border-radius: 50 px;
+  border: 2px solid;
   margin-right: 0.5em;
   background-color: var(--code-text);
   font-size: 1rem;
