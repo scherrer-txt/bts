@@ -281,13 +281,13 @@ p code, li code {
 }
 .tag {
   font-family: "Roboto Mono", "Courier New", monospace;
-  color: var(--bg);
+  color: var(--bg-secondary);
   border-radius: 50px;
   padding: 0.5em 1em;
   margin-right: 0.5em;
   background-color: var(--code-text);
   font-size: 0.75rem;
-  font-weight: 400;
+  font-weight: 600;
   text-transform: lowercase;
 }
 
