@@ -109,6 +109,7 @@ blockquote {
   font-weight: 600;
   line-height: 3rem;
   margin-top: 2em;
+  padding: 2em;
   text-align: center;
   width: 130%; /* Adjust this value as needed */
   margin-left: -15%; /* Negative margin to center the blockquote */
@@ -302,36 +303,44 @@ p code, li code {
   h1 {
   font-family: "roc-grotesk-wide", sans-serif;
   font-size: 1.9rem;
+  line-height: 2.15rem;
 }
 
   h2 {
   font-family: "roc-grotesk-wide", sans-serif;
   font-size: 1.75rem;
+  line-height: 1.9rem;
 }
 
   h3 {
   font-family: "roc-grotesk-wide", sans-serif;
   font-size: 1.6rem;
+  line-height: 1.75rem;
 }
 
   h4 {
   font-family: "roc-grotesk-wide", sans-serif;
   font-size: 1.45rem;
+  line-height: 1.6rem;
 }
 
   h5 {
   font-family: "roc-grotesk-wide", sans-serif;
   font-size: 1.3rem;
+  line-height: 1.45rem;
 }
 
   h6 {
   font-family: "roc-grotesk-wide", sans-serif;
   font-size: 1.15rem;
+  line-height: 1.3rem;
 }
 
   blockquote {
   font-family: "roc-grotesk-wide", sans-serif;
   font-size: 1.9rem;
+  padding: 1em;
+  line-height: 2.15rem;
 }
   /* Add more styles as needed for small devices */
 }
