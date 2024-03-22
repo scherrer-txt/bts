@@ -340,7 +340,10 @@ p code, li code {
   font-family: "roc-grotesk-wide", sans-serif;
   font-size: 1.45rem;
   width: 100%;
+  padding: 1rem;
   line-height: 1.6rem;
+  margin-left: -10%; /* Negative margin to center the blockquote */
+  margin-right: -10%; /* Negative margin to center the blockquote */
 }
   /* Add more styles as needed for small devices */
 }
