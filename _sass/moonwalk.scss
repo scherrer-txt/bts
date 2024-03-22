@@ -297,7 +297,7 @@ p code, li code {
 @media only screen and (max-width: 600px) {
   /* Styles for small devices */
   body {
-    font-size: 1rem; /* Adjust font size for smaller screens */
+    font-size: 1.2rem; /* Adjust font size for smaller screens */
   }
 
   h1 {
@@ -340,6 +340,7 @@ p code, li code {
   font-family: "roc-grotesk-wide", sans-serif;
   font-size: 1.9rem;
   padding: 1em;
+  width: 100%;
   line-height: 2.15rem;
 }
   /* Add more styles as needed for small devices */
