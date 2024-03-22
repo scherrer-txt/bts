@@ -107,15 +107,14 @@ blockquote {
   font-family: "roc-grotesk-wide", sans-serif;
   font-size: 4rem;
   font-weight: 600;
-  line-height: 3rem;
+  line-height: 3.5rem;
   margin-top: 2em;
-  padding: 2em;
   text-align: center;
   width: 130%; /* Adjust this value as needed */
   margin-left: -15%; /* Negative margin to center the blockquote */
   margin-right: -15%; /* Negative margin to center the blockquote */
 
-  p { margin: 0; }
+  /* p { margin: 0; } */
 }
 
 img {
