@@ -103,6 +103,30 @@ table, th, td {
   padding: 0.4em;
 }
 
+// Define a mixin to apply italic styling to text within quotation marks
+@mixin italicizeQuotedText {
+  // Regular expression to match text within German-style quotation marks („“)
+  $quotedTextRegex: /„(.*?)“/gi;
+
+  // Apply italic styling to text within quotation marks using the regular expression
+  &:before, &:after {
+    content: '';
+  }
+  &:before {
+    content: open-quote;
+    font-style: italic;
+  }
+  &:after {
+    content: close-quote;
+    font-style: italic;
+  }
+}
+
+// Apply italic styling to text within quotation marks using the mixin
+.quoted-text {
+  @include italicizeQuotedText;
+}
+
 /* div.highlighter-rouge pre code, pre code.highlighter-rouge {
   display: block;
   overflow-x: auto;
