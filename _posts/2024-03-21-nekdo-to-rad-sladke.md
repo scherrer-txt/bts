@@ -2,11 +2,11 @@
 layout: post
 title: Někdo to rád sladké | Behind the Screens
 author: scherrer.txt
-thumbnail: https://raw.githubusercontent.com/TenKWS/bts/master/assets/bts-15-thumb.png
-img: https://raw.githubusercontent.com/TenKWS/bts/master/assets/bts-15-thumb.png
+thumbnail: /assets/bts-15-thumb.png
+img: /assets/bts-15-thumb.png
 ---
 
-![Někdo to rád sladké](https://raw.githubusercontent.com/TenKWS/bts/master/assets/bts-15-thumb.png)
+![Někdo to rád sladké](/assets/bts-15-thumb.png)
 
 Podporuju normalizaci užívání návykový látky — kvůli mindfulness. Další článek zpoza obrazovek.
 
