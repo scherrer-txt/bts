@@ -9,9 +9,9 @@ html { height: 100%;
 body {
   font-family: "Source Serif 4", serif;
   font-size: 1.4rem;
-  line-height: 2rem;
+  line-height: 2.2rem;
   min-height: 100%;
-  margin-top: 0.5em;
+  margin-top: 1rem;
 }
 pre, code {
   font-family: "Roboto Mono", monospace;
@@ -23,50 +23,50 @@ pre, code {
 
   h1 {
   font-family: "roc-grotesk-wide", sans-serif;
-  font-size: 4.0rem;
+  font-size: 4rem;
   font-weight: 700;
-  line-height: 4.5rem;
-  margin-top: 2em;
+  line-height: 4rem;
+  margin-top: 4em;
 }
 
   h2 {
   font-family: "roc-grotesk-wide", sans-serif;
-  font-size: 3.0rem;
+  font-size: 3.5rem;
   font-weight: 700;
   line-height: 3.5rem;
-  margin-top: 2em;
+  margin-top: 3.5em;
 }
 
   h3 {
   font-family: "roc-grotesk-wide", sans-serif;
-  font-size: 2.5rem;
+  font-size: 3rem;
   font-weight: 600;
   line-height: 3rem;
-  margin-top: 2em;
+  margin-top: 3em;
 }
 
   h4 {
   font-family: "roc-grotesk-wide", sans-serif;
-  font-size: 2.0rem;
-  font-weight: 500;
+  font-size: 2.5rem;
+  font-weight: 600;
   line-height: 2.5rem;
-  margin-top: 2em;
+  margin-top: 2.5em;
 }
 
   h5 {
   font-family: "roc-grotesk-wide", sans-serif;
-  font-size: 1.75rem;
-  font-weight: 500;
-  line-height: 2.25rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 2rem;
   margin-top: 2em;
 }
 
   h6 {
   font-family: "roc-grotesk-wide", sans-serif;
-  font-size: 1.5rem;
-  font-weight: 500;
-  line-height: 2rem;
-  margin-top: 2em;
+  font-size: 1.75rem;
+  font-weight: 600;
+  line-height: 1.75rem;
+  margin-top: 1.75em;
 }
 
 hr { margin: 3em 0; }
@@ -281,11 +281,11 @@ p code, li code {
 }
 .tag {
   font-family: "Roboto Mono", "Courier New", monospace;
-  color: var(--bg-secondary);
+  color: var(--code-text);
+  border: 2px var(--code-text) solid;
   border-radius: 50px;
   padding: 0.5em 1em;
   margin-right: 0.5em;
-  background-color: var(--code-text);
   font-size: 0.75rem;
   font-weight: 600;
   text-transform: lowercase;
