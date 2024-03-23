@@ -17,21 +17,3 @@ layout: default
 <h1 class="post-title">{{ page.title }}</h1>
 {% include date_and_social_share.html %}
 {{ content | markdown_paragraphs }}
-
-  <script>
-          // Select all paragraphs in the post content
-var paragraphs = document.querySelectorAll('.post-content p');
-
-// Iterate over each paragraph
-paragraphs.forEach(function(paragraph) {
-    // Get the text content of the paragraph
-    var text = paragraph.textContent.trim();
-
-    // Check if the last character is one of the specified characters
-    var lastChar = text.charAt(text.length - 1);
-    if (lastChar.match(/[aszikuvo]$/i)) { // Match "a", "s", "z", or "i" (case-insensitive)
-        // Insert a non-breaking space after the last character
-        paragraph.innerHTML = text.slice(0, -1) + lastChar + '&nbsp;';
-    }
-});
-  </script>
