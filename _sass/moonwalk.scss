@@ -297,6 +297,14 @@ p code, li code {
   text-transform: lowercase;
 }
 
+.home-link {
+  margin-bottom: 5rem; /* Adjust the margin as needed */
+}
+
+.thumbnail-container {
+  margin-bottom: 3rem; /* Adjust the margin as needed */
+}
+
 /* Media query for small devices (e.g., phones) */
 @media only screen and (max-width: 600px) {
   /* Styles for small devices */
