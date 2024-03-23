@@ -89,6 +89,12 @@ p { margin: 1em 0; }
 
 li { margin: 0.4em 0; }
 
+em,
+i {
+  font-style: italic;
+  color: blue; /* Change the color as desired */
+}
+
 /* Page Width */
 .w {
   max-width: 760px;
@@ -106,7 +112,7 @@ table, th, td {
 // Define a mixin to apply italic styling to text within quotation marks
 @mixin italicizeQuotedText {
   // Regular expression to match text within German-style quotation marks („“)
-  $quotedTextRegex: /„“/gi;
+  $quotedTextRegex: /„(.*?)“/gi;
 
   // Apply italic styling to text within quotation marks using the regular expression
   &:before, &:after {
@@ -126,6 +132,7 @@ table, th, td {
 .quoted-text {
   @include italicizeQuotedText;
 }
+
 
 /* div.highlighter-rouge pre code, pre code.highlighter-rouge {
   display: block;
