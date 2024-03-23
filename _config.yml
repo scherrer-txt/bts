@@ -34,6 +34,9 @@ theme_config:
     title_blog: Blog
     title_old_projects: Old Projects
 
+soopr:
+  publish-token: "pt_be2b591b4540b65cd5050fb3f7006806" 
+
 highlighter: rouge
 
 sass:
