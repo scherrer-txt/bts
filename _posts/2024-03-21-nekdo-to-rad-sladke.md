@@ -2,9 +2,10 @@
 layout: post
 title: Někdo to rád sladké | Behind the Screens
 author: scherrer.txt
+thumbnail: https://raw.githubusercontent.com/TenKWS/bts/master/assets/bts-15-thumb.png
 ---
 
-Participuju na normalizaci užívání návykový látky — kvůli mindfulness. Další článek zpoza obrazovek.
+Podporuju normalizaci užívání návykový látky — kvůli mindfulness. Další článek zpoza obrazovek.
 
 ## Obsah
 - [Obsah](#obsah)
