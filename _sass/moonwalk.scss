@@ -14,13 +14,6 @@ body {
   margin-top: 2.14em;
 }
 
-* {
-  &:not(i):not(em) {
-    font-style: italic;
-    color: #FF0000; /* Change the color as desired */
-  }
-}
-
 pre, code {
   font-family: "Roboto Mono", monospace;
   font-size: 1rem;
@@ -153,7 +146,7 @@ img {
       --links-hover: #0000ff;
       --highlight: #FFECB2; // light yellow
       --code-text: #595959;
-      --share-text: #595959;
+      --share-text: #666666;
   }
 }
 // -------------- THEME SWITCHER -------------- //
@@ -168,7 +161,7 @@ img {
       --text: #E3D1CC;
       --text-secondary: #FF5500;
       --code-text: #595959;
-      --share-text: #595959;
+      --share-text: #666666;
   };
 }
 
@@ -207,6 +200,12 @@ a {
     color: var(--links-hover);
 }
 *:target { background-color: var(--bg-secondary); }
+
+/* Target specific elements for italicized text */
+em, i {
+  font-style: italic;
+  color: var(--share-text); /* Change the color as desired */
+}
 
 html.transition,
 html.transition *,
