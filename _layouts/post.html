@@ -27,8 +27,9 @@ layout: default
   {% endif %}
   {% if page.next %}
     <div class="pagination">
+      <div class="pagination-divider"></div>
       <a href="{{ site.url }}{{ page.next.url }}" class="next-button">Novější článek</a>
-      <p class="post-title-next">{{ page.next.title }}</p>
+      <p class="{{ post-title-next }}{{ page.next.url }}">{{ page.next.title }}</p>
     </div>
   {% endif %}
 </div>
