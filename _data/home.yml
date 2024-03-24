@@ -3,7 +3,7 @@ navbar_entries:
     url: /bts/
 
   - title: články
-    url: blog
+    url: vypis
   
   - title: o blogu
     url: about
