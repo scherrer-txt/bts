@@ -7,8 +7,6 @@ img: /assets/bts-15-thumb.png
 order: 16
 ---
 
-![Někdo to rád sladké](/assets/bts-15-thumb.png)
-
 Podporuju normalizaci užívání návykový látky — kvůli mindfulness. Další článek zpoza obrazovek.
 
 ## Obsah
