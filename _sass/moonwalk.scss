@@ -318,31 +318,31 @@ p code, li code {
   margin-bottom: 1rem; /* Adjust the margin as needed */
 }
 
+//Pagination
 .pagination {
   display: inline-block;
-  margin-right: 20px; /* Adjust the margin as needed */
+  margin-right: 5em;
 }
 
 .prev-button,
 .next-button {
-  color: var(--code-text);
-  border: 2px var(--code-text) solid;
+  border: 2px var(--links) solid;
   border-radius: 50px;
-  padding: 0.5em 1em;
+  padding: 0.5rem 1rem;
   margin-right: 0.5em;
-  font-size: 0.75rem;
+  font-size: 2rem;
   font-weight: 600;
 }
 
-.post-title-previous {
-  font-size: 14px;
-  margin-top: 5px;
-  color: #333;
-}
+.post-title-previous,
 .post-title-next {
-  font-size: 14px;
-  margin-top: 5px;
-  color: #333;
+  color: var(--text-secondary);
+  font-family: "roc-grotesk-wide", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2rem;
+  margin-top: 5rem;
+  margin-bottom: 1rem;
 }
 
 
