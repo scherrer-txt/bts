@@ -47,3 +47,15 @@ plugins:
   - jekyll-soopr-seo-tag
   - jekyll-paginate
   
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:year/:month/:day/:title
+    order: reverse
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
