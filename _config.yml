@@ -52,7 +52,7 @@ plugins:
 collections:
   posts:
     output: true
-    permalink: /bts/posts/:title
+    permalink: /posts/:title
     order: reverse
 
 defaults:
