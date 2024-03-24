@@ -327,25 +327,31 @@ p code, li code {
 .pagination {
   flex: 0 0 auto; /* Prevent the items from growing or shrinking */
   max-width: calc(50% - 10px); /* Adjust the width as needed */
-  margin-right: 5em;
   margin-top: 5em;
+}
+
+.pagination-divider {
+  position: absolute; /* Position the divider absolutely */
+  top: 50%; /* Position the divider in the middle vertically */
+  left: 50%; /* Position the divider in the middle horizontally */
+  transform: translate(-50%, -50%); /* Center the divider */
+  height: 100%; /* Make the divider span the entire height of the container */
+  width: 2px; /* Set the width of the divider */
+  background-color: var(--code-text); /* Set the color of the divider */
 }
 
 .prev-button,
 .next-button {
-  padding: 0.5rem 1rem;
-  margin-right: 0.5em;
-  font-size: 1rem;
 }
 
 .post-title-previous,
 .post-title-next {
-  color: var(--text-secondary);
+  color: var(--code-text);
   font-family: "roc-grotesk-wide", sans-serif;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 600;
-  line-height: 2rem;
-  margin-top: 2rem;
+  line-height: 1.5rem;
+  margin-top: 0.2rem;
   margin-bottom: 1rem;
   white-space: normal; /* Allow text wrapping */
   overflow: hidden; /* Hide overflowing text */
