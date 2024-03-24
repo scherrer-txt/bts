@@ -1,4 +1,7 @@
 navbar_entries:
+  - title: domů
+    url: index
+
   - title: články
     url: blog
   
