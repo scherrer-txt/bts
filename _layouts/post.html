@@ -7,6 +7,12 @@ layout: default
 <meta property="og:image:height" content="1080">
 {% endif %}
 
+<header>
+{% if site.theme_config.show_navbar == true %}
+  {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+  <div class="dashed"></div>
+{% endif %}
+
 <div class="home-link">
   <a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
 </div>
