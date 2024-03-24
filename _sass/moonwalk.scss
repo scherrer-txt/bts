@@ -325,50 +325,30 @@ p code, li code {
 }
 
 .pagination {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  position: relative; /* Make the position relative */
-}
-
-.pagination-divider {
-  position: absolute; /* Position the divider absolutely */
-  /* top: 50%; /* Position the divider in the middle vertically */
-  /* left: 50%; /* Position the divider in the middle horizontally */
-  /* transform: translate(-50%, -50%); /* Center the divider */
-  height: 100%; /* Make the divider span the entire height of the container */
-  width: 2px; /* Set the width of the divider */
-  background-color: var(--code-text); /* Set the color of the divider */
+  flex: 0 0 auto; /* Prevent the items from growing or shrinking */
+  max-width: calc(50% - 10px); /* Adjust the width as needed */
+  margin-right: 5em;
+  margin-top: 5em;
 }
 
 .prev-button,
-.next-button,
-
-.post-title-previous {
-  color: var(--code-text);
-  font-family: "roc-grotesk-wide", sans-serif;
-  font-size: 1.5rem;
-  font-weight: 600;
-  line-height: 1.5rem;
-  margin-top: 0.2rem;
-  margin-bottom: 1rem;
-  white-space: normal; /* Allow text wrapping */
-  overflow: hidden; /* Hide overflowing text */
-  text-overflow: ellipsis; /* Display ellipsis for overflow */
+.next-button {
+  font-size: 1rem;
 }
+
+.post-title-previous,
 .post-title-next {
-  color: var(--code-text);
+  color: var(--text-secondary);
   font-family: "roc-grotesk-wide", sans-serif;
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: 600;
-  line-height: 1.5rem;
-  margin-top: 0.2rem;
+  line-height: 2rem;
+  margin-top: 2rem;
   margin-bottom: 1rem;
   white-space: normal; /* Allow text wrapping */
   overflow: hidden; /* Hide overflowing text */
   text-overflow: ellipsis; /* Display ellipsis for overflow */
 }
-
 
 /* Media query for small devices (e.g., phones) */
 @media only screen and (max-width: 600px) {
