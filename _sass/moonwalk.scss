@@ -333,17 +333,16 @@ p code, li code {
 
 .pagination-divider {
   position: absolute; /* Position the divider absolutely */
-  top: 50%; /* Position the divider in the middle vertically */
-  left: 50%; /* Position the divider in the middle horizontally */
-  transform: translate(-50%, -50%); /* Center the divider */
+  /* top: 50%; /* Position the divider in the middle vertically */
+  /* left: 50%; /* Position the divider in the middle horizontally */
+  /* transform: translate(-50%, -50%); /* Center the divider */
   height: 100%; /* Make the divider span the entire height of the container */
   width: 2px; /* Set the width of the divider */
-  background-color: black; /* Set the color of the divider */
+  background-color: var(--code-text); /* Set the color of the divider */
 }
 
 .prev-button,
-.next-button {
-}
+.next-button,
 
 .post-title-previous {
   color: var(--code-text);
