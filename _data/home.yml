@@ -1,6 +1,6 @@
 navbar_entries:
   - title: domů
-    url: /
+    url: /bts/
 
   - title: články
     url: blog
