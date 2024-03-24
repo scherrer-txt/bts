@@ -13,14 +13,13 @@ body {
   min-height: 100%;
   margin-top: 2.14em;
 }
-* {
-  font-style: italic;
-}
+
 /* Target all <em> and <i> elements */
 em,
 i {
   color: #FF0000; /* Change the color as desired */
 }
+
 pre, code {
   font-family: "Roboto Mono", monospace;
   font-size: 1rem;
