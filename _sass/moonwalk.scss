@@ -318,24 +318,33 @@ p code, li code {
   margin-bottom: 1rem; /* Adjust the margin as needed */
 }
 
-/* Style for previous button */
-.prev-button {
-    background-color: #007bff; /* Blue background color */
-    color: #fff; /* White text color */
-    padding: 10px 20px; /* Padding for button */
-    text-decoration: none; /* Remove underline */
-    border-radius: 5px; /* Rounded corners */
-    margin-right: 10px; /* Add space between buttons */
+.pagination {
+  display: inline-block;
+  margin-right: 20px; /* Adjust the margin as needed */
 }
 
-/* Style for next button */
+.prev-button,
 .next-button {
-    background-color: #28a745; /* Green background color */
-    color: #fff; /* White text color */
-    padding: 10px 20px; /* Padding for button */
-    text-decoration: none; /* Remove underline */
-    border-radius: 5px; /* Rounded corners */
+  color: var(--code-text);
+  border: 2px var(--code-text) solid;
+  border-radius: 50px;
+  padding: 0.5em 1em;
+  margin-right: 0.5em;
+  font-size: 0.75rem;
+  font-weight: 600;
 }
+
+.post-title-previous {
+  font-size: 14px;
+  margin-top: 5px;
+  color: #333;
+}
+.post-title-next {
+  font-size: 14px;
+  margin-top: 5px;
+  color: #333;
+}
+
 
 /* Media query for small devices (e.g., phones) */
 @media only screen and (max-width: 600px) {
