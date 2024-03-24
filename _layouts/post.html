@@ -19,9 +19,21 @@ layout: default
 
 <h1 class="post-title">{{ page.title }}</h1>
 
-{% if page.subtitle %}
-<h5 class="post-subtitle">{{ page.subtitle }}</h5>
-  {% endif %}
+{% if page.subtitle or page.order %}
+  <div class="post-meta">
+    {% if page.subtitle %}
+      <h5 class="post-subtitle">{{ page.subtitle }}</h5>
+    {% endif %}
+    
+    {% if page.subtitle and page.order %}
+      <h5 class="post-subtitle"> | </h5>
+    {% endif %}
+        
+    {% if page.order %}
+      <h5 class="post-subtitle">{{ page.order }}</h5>
+    {% endif %}
+  </div>
+{% endif %}
 
 {% include date_and_social_share.html %}
 
