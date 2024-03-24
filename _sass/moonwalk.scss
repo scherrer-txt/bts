@@ -14,10 +14,11 @@ body {
   margin-top: 2.14em;
 }
 
-/* Target all <em> and <i> elements */
-em,
-i {
-  color: #FF0000; /* Change the color as desired */
+* {
+  &:not(i):not(em) {
+    font-style: italic;
+    color: #FF0000; /* Change the color as desired */
+  }
 }
 
 pre, code {
