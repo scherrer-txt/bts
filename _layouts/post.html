@@ -20,11 +20,15 @@ layout: default
 
 <div class="post-navigation">
   {% if page.previous %}
-    <a href="{{ site.url }}{{ page.previous.url }}" class="prev-button">Starší článek</a>
-    <p class="post-title-previous">{{ page.previous.title }}</p>
+    <div class="pagination">
+      <a href="{{ site.url }}" class="prev-button">Starší článek</a>
+      <p class="post-title-previous">{{ page.previous.title }}</p>
+    </div>
   {% endif %}
   {% if page.next %}
-    <a href="{{ site.url }}{{ page.next.url }}" class="next-button">Novější článek</a>
-    <p class="post-title-next">{{ page.next.title }}</p>
+    <div class="pagination">
+      <a href="{{ site.url }}" class="next-button">Novější článek</a>
+      <p class="post-title-next">{{ page.next.title }}</p>
+    </div>
   {% endif %}
 </div>
