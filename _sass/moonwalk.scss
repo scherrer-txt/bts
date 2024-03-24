@@ -318,6 +318,25 @@ p code, li code {
   margin-bottom: 1rem; /* Adjust the margin as needed */
 }
 
+/* Style for previous button */
+.prev-button {
+    background-color: #007bff; /* Blue background color */
+    color: #fff; /* White text color */
+    padding: 10px 20px; /* Padding for button */
+    text-decoration: none; /* Remove underline */
+    border-radius: 5px; /* Rounded corners */
+    margin-right: 10px; /* Add space between buttons */
+}
+
+/* Style for next button */
+.next-button {
+    background-color: #28a745; /* Green background color */
+    color: #fff; /* White text color */
+    padding: 10px 20px; /* Padding for button */
+    text-decoration: none; /* Remove underline */
+    border-radius: 5px; /* Rounded corners */
+}
+
 /* Media query for small devices (e.g., phones) */
 @media only screen and (max-width: 600px) {
   /* Styles for small devices */
