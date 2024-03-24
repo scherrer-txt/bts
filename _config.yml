@@ -50,7 +50,7 @@ plugins:
 collections:
   posts:
     output: true
-    permalink: /:title
+    permalink: /:posts/:title
     order: reverse
 
 defaults:
