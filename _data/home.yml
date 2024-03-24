@@ -6,7 +6,7 @@ navbar_entries:
     url: vypis
   
   - title: o blogu
-    url: about
+    url: o-blogu
 
   - title: o mně
     url: https://scherrer.carrd.co
