@@ -327,7 +327,6 @@ p code, li code {
 .pagination {
   flex: 0 0 auto; /* Prevent the items from growing or shrinking */
   max-width: calc(50% - 10px); /* Adjust the width as needed */
-  margin-right: 5em;
   margin-top: 5em;
 }
 
@@ -342,11 +341,11 @@ p code, li code {
   font-size: 2rem;
   font-weight: 600;
   line-height: 2rem;
-  margin-top: 2rem;
+  margin-top: 0.2rem;
   margin-bottom: 1rem;
-  white-space: normal; /* Allow text wrapping */
-  overflow: hidden; /* Hide overflowing text */
-  text-overflow: ellipsis; /* Display ellipsis for overflow */
+  white-space: normal;
+  overflow-wrap: break-word;
+  /* text-overflow: ellipsis; /* Display ellipsis for overflow */
 }
 
 /* Media query for small devices (e.g., phones) */
