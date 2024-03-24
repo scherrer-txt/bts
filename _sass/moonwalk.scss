@@ -277,12 +277,22 @@ p code, li code {
   font-weight: 400;
   font-style: normal;
 }
+
 .post-title {
   margin-bottom: -1rem;
 }
+
+.post-subtitle {
+  color: var(--code-text);
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 3.3rem;
+}
+
 .project-title {
   margin-bottom: 0.8rem;
 }
+
 .credits {
   font-size: 0.5em;
   color: var(--text);
