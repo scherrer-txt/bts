@@ -325,9 +325,10 @@ p code, li code {
 }
 
 .pagination {
-  flex: 0 0 auto; /* Prevent the items from growing or shrinking */
-  max-width: calc(50% - 10px); /* Adjust the width as needed */
-  margin-top: 5em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative; /* Make the position relative */
 }
 
 .pagination-divider {
@@ -337,14 +338,25 @@ p code, li code {
   transform: translate(-50%, -50%); /* Center the divider */
   height: 100%; /* Make the divider span the entire height of the container */
   width: 2px; /* Set the width of the divider */
-  background-color: var(--code-text); /* Set the color of the divider */
+  background-color: black; /* Set the color of the divider */
 }
 
 .prev-button,
 .next-button {
 }
 
-.post-title-previous,
+.post-title-previous {
+  color: var(--code-text);
+  font-family: "roc-grotesk-wide", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5rem;
+  margin-top: 0.2rem;
+  margin-bottom: 1rem;
+  white-space: normal; /* Allow text wrapping */
+  overflow: hidden; /* Hide overflowing text */
+  text-overflow: ellipsis; /* Display ellipsis for overflow */
+}
 .post-title-next {
   color: var(--code-text);
   font-family: "roc-grotesk-wide", sans-serif;
