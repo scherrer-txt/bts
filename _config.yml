@@ -1,6 +1,7 @@
 title: Behind the Screens
 author: scherrer.txt
 url: https://www.scherrer-txt.github.io/bts # root address of the site
+baseurl: /bts
 description: > # description of the site (multiple lines allowed)
   Behind the Screens je můj blog, kde píšu o všem, s čím se jako kreativní člověk setkávám za obrazovkama.<br>
   Since 2020.<br>
