@@ -282,6 +282,15 @@ p code, li code {
   margin-bottom: -1rem;
 }
 
+.post-meta {
+  display: flex;
+  align-items: center; /* Align items vertically */
+}
+
+.post-meta h5 {
+  display: inline; /* Ensure the headings display inline */
+}
+
 .post-subtitle {
   color: var(--code-text);
   font-size: 1.5rem;
