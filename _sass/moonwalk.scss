@@ -333,12 +333,11 @@ p code, li code {
 
 .prev-button,
 .next-button {
-  font-size: 1rem;
 }
 
 .post-title-previous,
 .post-title-next {
-  color: var(--text-secondary);
+  color: var(--code-text);
   font-family: "roc-grotesk-wide", sans-serif;
   font-size: 2rem;
   font-weight: 600;
