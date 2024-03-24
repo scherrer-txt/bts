@@ -20,9 +20,9 @@ layout: default
 
 <div class="post-navigation">
   {% if page.previous %}
-    <a href="{{ site.url }}{{ page.previous.url }}" class="prev-button">Starší článek</a>
+    <a href="{{ site.url }}{{ page.previous.url }}" class="prev-button">Starší článek: {{ page.previous.title }}</a>
   {% endif %}
   {% if page.next %}
-    <a href="{{ site.url }}{{ page.next.url }}" class="next-button">Novější článek</a>
+    <a href="{{ site.url }}{{ page.next.url }}" class="next-button">Novější článek: {{ page.next.title }}</a>
   {% endif %}
 </div>
