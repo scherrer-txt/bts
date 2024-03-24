@@ -193,13 +193,15 @@ p, strong, b, em, small, li, hr, table, figcaption {
 blockquote {
   border: 0px var(--border) solid;
 }
+
 a {
   color: var(--links);
 }
   a:hover {
     color: var(--links-hover);
-    text-decoration-line: underline;
+    text-decoration: underline;
 }
+    
 *:target { background-color: var(--bg-secondary); }
 
 /* Target specific elements for italicized text */
