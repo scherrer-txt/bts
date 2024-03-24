@@ -47,17 +47,3 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-soopr-seo-tag
-  - jekyll-paginate
-  
-collections:
-  posts:
-    output: true
-    permalink: /:title
-    order: reverse
-
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
