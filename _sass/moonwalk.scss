@@ -410,7 +410,7 @@ p code, li code {
 @media only screen and (max-width: 600px) {
   /* Styles for small devices */
   body {
-    font-size: 1rem; /* Adjust font size for smaller screens */
+    font-size: 1rem;
     line-height: 1.6rem;
   }
 
@@ -472,6 +472,16 @@ p code, li code {
 .post-title-next {
   font-size: 1.15rem;
   line-height: 1.3rem;
+}
+
+.post-list-title {
+  font-size: 1.3rem;
+  line-height: 1.45rem;
+}
+
+.post-list-date {
+    font-size: 1rem;
+    line-height: 1.6rem;
 }
   
   /* Add more styles as needed for small devices */
