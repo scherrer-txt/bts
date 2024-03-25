@@ -515,4 +515,22 @@ blockquote {
   }
 
   /* Add more styles as needed for large devices */
+
+}
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('assets/noisia.jpg');
+    background-size: cover;
+    mix-blend-mode: multiply;
+    pointer-events: none; /* Unselectable */
+    z-index: 9999; /* Ensure the overlay is on top of other content */
+}
+
+.content {
+    position: relative;
+    z-index: 0;
 }
