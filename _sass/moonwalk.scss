@@ -277,6 +277,7 @@ mark {
   justify-content: space-between;
   align-items: center;
   width: 100%;
+  margin-bottom: 1.5rem;
 }
 
 .post-list-title {
@@ -291,8 +292,7 @@ mark {
 
 .post-list-date {
   color: var(--code-text);
-  margin-top: 1rem;
-  font-size: 0.75em;
+  font-size: 1.25rem;
   text-transform: uppercase;
   font-family: "Roboto Mono", "Courier New", monospace;
   font-weight: 400;
