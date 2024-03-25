@@ -3,11 +3,11 @@
     {% for post in site.posts %}
       <li class="post-list-item">
         <div class="post-content">
-          <h6 class="post-title">
+          <h6 class="post-list-title">
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
           </h6>
           <div class="post-list-line"></div>
-          <span class="post-date">
+          <span class="post-list-date">
             {{ post.date | date: site.theme_config.date_format }}
           </span>
         </div>
