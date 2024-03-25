@@ -272,26 +272,32 @@ mark {
 }
 
 // list styling
-.post-content {
+.post-list-content {
   display: flex;
   justify-content: space-between;
-  align-items: baseline;
+  align-items: center;
   width: 100%;
 }
 
-.post-title {
-  margin-top: 1rem;
-  margin-right: 10px; /* Adjust spacing between title and date */
+.post-list-title {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 1rem;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
-  max-width: calc(500px - 30px);
+  max-width: calc(100% - 30%);
+}
+
+.post-list-date {
+  color: var(--code-text);
 }
 
 /* Centered line */
 .post-list-line  {
   flex: 2;
-  border-bottom: 2px solid var(--code-text);
+  border-top: 2px solid var(--code-text);
+  margin-right: 1rem;
 }
 // list styling
 
