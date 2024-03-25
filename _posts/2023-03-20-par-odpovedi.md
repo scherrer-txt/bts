@@ -42,8 +42,8 @@ Můj osobní cíl je pracovat co nejkvalitněji a nejchytřeji. Jsem líný. A a
 
 Když to, co někdo dělá celý den, já dokážu udělat za pár hodin ve srovnatelný kvalitě, znamená to dvě věci:
 
-    Nejspíš mám dost znalostí/zkušeností, abych to dokázal udělat rychle a kvalitně, což samo o sobě udává moji hodnotu.
-    Šetřím čas sobě a tím i klientovi. A protože čas jsou peníze, moji cenu to zase jenom zvedá.
+1. Nejspíš mám dost znalostí/zkušeností, abych to dokázal udělat rychle a kvalitně, což samo o sobě udává moji hodnotu.
+2. Šetřím čas sobě a tím i klientovi. A protože čas jsou peníze, moji cenu to zase jenom zvedá.
 
 Na „_draze, pomalu a kvalitně_“ skoro nikdo nemá čas a peníze. Z „_kvalitně, pomalu a levně_“ zase žádný kreativec nezabezpečí sebe ani rodinu a „_levně, rychle a kvalitně_“ je holá sebevražedná blbost pro obě strany. Nedá se nic, když je něco potřeba „_rychle_“ a „_kvalitně_“, musí to být logicky drahý. Škoda, že často není. Aktuální stav cen výstupů designových procesů je tragický, vzhledem k tomu, jak obrovskou hodnotu dokáže přinést do businessu i do života.
 
@@ -70,6 +70,7 @@ Je mi jedno, na čem mi ty Adobečka padají. Aktuálně mi teda padají na Wind
 
 ## Kafe nebo čaj?
 — Yerba Maté. Extrémně nedoceněný pití. Mnohem lepší než čaj a kafe.
+
 — Voda. Na ní jsem doslova životně závislý.
 
 ## Nejlepší rada, co jsi dostal?
