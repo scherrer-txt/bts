@@ -39,7 +39,7 @@ layout: default
 
 {% include date_and_social_share.html %}
 
-{% include toc.html html=text h_min=2 h_max=2 %}
+{{ content | toc_only }}
   
 {{ content }}
 
