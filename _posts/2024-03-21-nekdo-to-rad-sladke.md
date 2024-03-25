@@ -14,8 +14,7 @@ Podporuju normalizaci užívání návykový látky — kvůli mindfulness. Dal�
 
 #### Obsah
 
-* TOC
-{:toc}
+{% toc %}
 
 ---
 
