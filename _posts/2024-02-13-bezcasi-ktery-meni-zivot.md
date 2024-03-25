@@ -81,6 +81,7 @@ Ať myšlenka na konci není jen flex, tak kdybych to měl shrnout, chci říct 
 
 [^3]: Označení „_transdisciplinární_“ může být pro někoho nové, zkusím vysvětlit.
 
+
 Běžná představa o typických „_odbornících_“ — tedy lidech, kteří se specializují výhradně na jeden obor — se označuje jako „_monodisciplinarita_“, v překladu „_jedna disciplína_“.
 
 Pro aktivní využívání znalostí z více oborů jsme s Leou vymysleli umbrella term „_polydisciplinarita_“, v překladu „_mnoho disciplín_“. To dál rozdělím takto:
