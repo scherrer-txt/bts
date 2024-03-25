@@ -28,16 +28,7 @@ layout: default
 
 {% if site.theme_config.show_blog == true %}
   <h2>{{ site.theme_config.home.title_blog }}</h2>
-  {% assign limited_posts = site.posts | limit: 5 %}
-  <ul>
-    {% for post in limited_posts %}
-      <li>
-        <!-- Render your post content here -->
-        <h3>{{ post.title }}</h3>
-        <p>{{ post.content }}</p>
-      </li>
-    {% endfor %}
-  </ul>
+  {% include post_list.html %}
 {% endif %}
 
 {% if site.theme_config.show_old_projects == true %}
