@@ -67,7 +67,7 @@ Po nějaké době jsem měl možnost zase vstoupit do knižního průmyslu — z
 
 ---
 
-### Poznámky pod čarou
+## Poznámky pod čarou
 
 {: data-content="footnotes"}
 [^1]: Až na to, že vůbec, ale o tom jindy.
