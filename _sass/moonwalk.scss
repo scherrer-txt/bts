@@ -122,10 +122,11 @@ table, th, td {
 } */
 
 blockquote {
+  color: var(--code-text);
   font-family: "roc-grotesk-wide", sans-serif;
-  font-size: 4rem;
-  font-weight: 600;
-  line-height: 4rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 3rem;
   /* p { margin: 0; } */
 }
 
