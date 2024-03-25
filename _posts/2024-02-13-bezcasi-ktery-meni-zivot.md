@@ -10,14 +10,23 @@ order: 15
 
 Bez času, bez tlaku, s kávou v hrnku. V tomhle Behind the Screens se ponoříme do věcí, který mění život.
 
-> Liminální prostory jsou často nepříjemný, ale jsou skvělou příležitosti k sebepoznání.
+### Obsah
+- [Krátký úvod](#krátký-úvod)
+- [Proč je to dobrý?](#proč-je-to-dobrý)
+- [A co děláš ty?](#a-co-děláš-ty)
+- [Moje hobby je mnohem lepší, než tvoje hobby!](#moje-hobby-je-mnohem-lepší-než-tvoje-hobby)
+- [A co dělám já?](#a-co-dělám-já)
+- [Dobře, ale co teda jako dělám?](#dobře-ale-co-teda-jako-dělám)
+- [Poznámky pod čarou](#poznámky-pod-čarou)
+
+> „Liminální prostory jsou často nepříjemný, ale jsou skvělou příležitosti k sebepoznání.“
 
 ## Krátký úvod
 Možná ses setkal*a při nekonečným procházení reelsů na Instagramu s pojmem „_liminal spaces_“. Možná ne. Vysvětlím.
 
 **Liminální**[^1] prostory jsou místa i okamžiky, který existují na hranici dvou různých stavů nebo zkušeností, kdy věci nejsou úplně ani tady, ani tam, ale někde uprostřed. Jsou to reálný místa, který slouží pro přesun odněkud někam — chodba, čekárna, nádraží nebo letiště. Taky to jsou i okamžiky v čase, jako je svítání nebo soumrak, kdy není úplně den ani noc. V širším smyslu jsou to i situace nebo zkušenosti, kdy člověk existuje někde uprostřed ničeho a všeho, a zažívá určitou míru nejistoty. Patří sem okamžiky probíhající životní změny — dokončování školy, stěhování se nebo začínání v nový práci. Liminální prostory dokážou být nepříjemný, můžou ale být skvělou příležitosti k sebepoznání. Ve zbytku článku je budu nazývat „_bezčasí_“.
 
-> V takovém liminálním prostoru můžeme být beze studu sami se sebou a dělat si, co chceme.
+> „V takovém liminálním prostoru můžeme být beze studu sami se sebou a dělat si, co chceme.“
 
 ## Proč je to dobrý?
 Rok 2023 pro mě byl rokem obrovských změn. Hned na začátku roku jsem odešel z práce, kde jsem byl rok a půl. Ve [Vokál studiu](https://open.spotify.com/show/2Ycp2Npwev6VRv9Y6EW9yD?si=75e0b96ab93a4c57) jsem nahrál a vydal podcast. Na chvíli jsem šel k lopatě, abych si odpočinul od kreativní práce a zároveň vydělal na nájem. Se skvělým týmem lidí jsem vytvořil svoji první hru. Potvrdil si, že skutečně mám ADHD a ještě ke všemu jsem nejspíš i na autistickým spektru. Pak jsem nastoupil do agentury, naučil se pracovat s novým programem, vytvořil si nový pracovní návyky a přestěhoval se. Vrátil se zpátky k tvorbě hudby, s kolegy ze [Stereosfera](https://open.spotify.com/artist/4kJ4q7uFYVPQZxiwtgnYe5?si=mCzpnzlcS1i9rJ5vNnbjQA) jsem měl svůj první koncert v životě, nahráli jsme na chatě EP, to jsme pak i s klipem vydali. Procestoval jsem Jižní Moravu, cíleně ochutnával nový rumy a kávy, pak jsem si založil živnost a ze zmíněný agentury odešel. Koncem roku jsem si našel novou práci. A pak je teď a dál nevím, co se stalo.
@@ -26,7 +35,7 @@ Kdybych byl člověk, co potřebuje v životě jistoty, asi bych se z toho všeh
 
 Tohle bezčasí je v podstatě virtuální čekárna — ideální prostor, kde můžu v klidu přemýšlet, reflektovat a odpočinout si — bez cizího dohledu, cizích nároků, požadavků, očekávání a bez tlaku okolí. Takový prostředí pomáhá třeba měnit vzorce chování, přehodnocovat životní priority nebo se naučit nový věcí. V bezčasí můžeme být beze studu sami (se) sebou a dělat, co chceme; nosit, co chceme; vstávat, kdy chceme. Všechno ostatní je docela jedno. Velká událost je za námi. Sedíme u ohniště, reflektujeme, odpočíváme a sbíráme síly na to, co přijde dál. Někteří objeví nový záliby a koníčky, někteří odbourají nějaký zlozvyky, začnou si sami sebe víc vážit, dělat pro sebe víc — začnou třeba víc číst, chodit na procházky, do fitka, naučí se vařit. To všechno i díky tomu, že neexistuje tlak, který by nás vracel zpátky do původní formy — vnitřní i vnější fízl s jeho všetečným „_Tohle ty přece neděláš, na co si hraješ? Jak dlouho si myslíš, že ti to vydrží? A proč to vlastně děláš?_“ přestává existovat. Máme možnost se radikálně objevovat a poznávat. A to je zlatý.
 
-> Co nás definuje, když to není práce nebo škola?
+> „Co nás definuje, když to není práce nebo škola?“
 
 ## A co děláš ty?
 Otázka, kterou často slyším, když někoho poznám a představí se mi. Dobře míněná otázka, která ale často svádí buď k práci nebo ke škole. Je to sice užitečná zkratka, ale mám pocit, že my lidi jsme trochu víc, než jen tohle.
@@ -35,12 +44,12 @@ Co nás teda definuje, když to není práce nebo škola — když to není něc
 
 Často to jsou právě ty aktivity, kterým se věnujeme v bezčasí, který nás nejvíc lidsky posunou a obohatí. Ať už je to cokoliv — válení se v posteli, lezení po stěně, procházení se lesem, pokec s přáteli, bingování seriálů nebo nonstop hraní videoher. Seriály a videohry mají lidi tendence označovat za neproduktivní ztráta času — takových lidí je mi líto. Přichází o skvělou formu nejen zábavy, ale i zážitků, zprostředkovaných zkušeností, emocí a hlubokých pocitů, a samozřejmě i trochu toho eskapistickýho oddechu, který je s tím spojený.
 
-> Čím víc jsem neproduktivní, tím víc jsem produktivní. Čím víc odpočívám, když můžu, tím víc mám sílu tvořit, když chci.
+> „Čím víc jsem neproduktivní, tím víc jsem produktivní. Čím víc odpočívám, když můžu, tím víc mám sílu tvořit, když chci.“
 
 ## Moje hobby je mnohem lepší, než tvoje hobby!
 Proč vlastně máme tu podivnou potřebu stavět jedno zážitek-poskytující médium nad druhý? Proč to jsou vždycky shodou okolností ty média, který máme osobně radši, který jsou lepší než ty ostatní? Proč je obecně líp přijímaný obsesivní čtení knih než obsesivní hraní; a obsesivní čtení komiksů líp přijímaný než bingování filmů/seriálů? Proč jsou reakce na „_Přečetl jsem 30 knih za tenhle měsíc_“ a „_240 hodin jsem hrál třetí díl Zaklínače_“ někdy tak rozdílný? Vždyť je to úplně jedno. Proč vůbec poslouchat někoho, kdo má potřebu nám říkat, že to, co nám samotným dělá dobře, je vlastně z hlediska produktivity úplně špatně? Produktivity pro co? Pro koho? Pro jaký účel? Proč musíme být furt se vším produktivní? Já jsem třeba hrozně rád radikálně neproduktivní, když můžu — a přiznám se, radši bych byl neproduktivní ještě víc. Pozoruju totiž zvláštní jev: čím víc jsem neproduktivní, tím víc jsem produktivní. Čím víc odpočívám když můžu, tím víc mám sílu tvořit když chci.
 
-> Já jsem prostě jen Kevin a dělám věci, který chci dělat, vím věci, který mě zajímají, a miluju tenhle způsob žití.
+> „Já jsem prostě jen Kevin a dělám věci, který chci dělat, vím věci, který mě zajímají, a miluju tenhle způsob žití.“
 
 ## A co dělám já?
 Já jsem aktuálně v jednom docela příjemným bezčasí. Sedím doma, baštím vitamíny, občas si hrozně dobře uvařím, často se procházím, občas zajdu s kámošstvem na jedno. Vstávám klidně i v pět ráno, a občas chodím v pět ráno spát — protože jsem našel něco zajímavýho na Redditu nebo na Wikipedii. Někdy pracuju na zakázce, někdy na svým vlastním projektu. Koukám na anime (s
@@ -59,9 +68,12 @@ Tohle všechno mě zajímá. Nechci se uměle dělat nudným, když nejsem. Cel�
 
 Ať myšlenka na konci není jen flex, tak kdybych to měl shrnout, chci říct tohle:
 
-> Zkusme se naučit občas jen tak bezcílně existovat. Zkoušet věci, a zajímat se o věci, je super. Zastavit se často znamená zrychlit. Každý si o sobě může říkat, co chce. Naše práce anebo naše škola nás nedělá náma, tak by na nich neměla stát naše identita.
+> „Zkusme se naučit občas jen tak bezcílně existovat. Zkoušet věci, a zajímat se o věci, je super. Zastavit se často znamená zrychlit. Každý si o sobě může říkat, co chce. Naše práce anebo naše škola nás nedělá náma, tak by na nich neměla stát naše identita.“
 
 ---
+
+### Poznámky pod čarou
+
 {: data-content="footnotes"}
 [^1]: Slovo „_liminální_“ pochází z latinského slova „_limen_“, „_práh_“.
 
