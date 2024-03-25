@@ -14,6 +14,7 @@ Bez času, bez tlaku, s kávou v hrnku. V tomhle Behind the Screens se ponořím
 {:toc}
 
 ### Obsah
+{: .no_toc}
 - [Krátký úvod](#krátký-úvod)
 - [Proč je to dobrý?](#proč-je-to-dobrý)
 - [A co děláš ty?](#a-co-děláš-ty)
