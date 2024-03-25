@@ -10,13 +10,15 @@ order: 10
 
 Tohle je další Behind the Screens. Tentokrát o inspiraci, umění a etice výtvorů umělé inteligence.
 
+---
+
 ### Obsah
-- [Rychlý úvod](#rychlý-úvod)
-- [Aktuální situace](#aktuální-situace)
-- [Co na to umělci](#co-na-to-umělci)
-- [Co na to já](#co-na-to-já)
-- [Kde vidím skutečný problém](#kde-vidím-skutečný-problém)
-- [Poznámky pod čarou](#poznámky-pod-čarou)
+{:.no_toc}
+
+* TOC
+{:toc}
+
+---
 
 ## Rychlý úvod
 > „Strašně zajímavé sledovat jak se zvedá vlna obav a pochyb o etice kolem AI artů.“
