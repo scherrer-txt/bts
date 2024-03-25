@@ -3,6 +3,19 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var elements = document.querySelectorAll("*");
+    elements.forEach(function(element) {
+        var text = element.innerHTML;
+        var newText = text.replace(/(\b|>)"(\b|<)/g, "$1„$2").replace(/(\b|>)'(\b|<)/g, "$1‚$2");
+        if (newText !== text) {
+            element.innerHTML = newText;
+        }
+    });
+});
+</script>
+  
   <title>
     {% if page.title %}
       {{ page.title }}
