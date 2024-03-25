@@ -270,6 +270,39 @@ mark {
 }
 .post-list-item a {
 }
+
+// list styling
+.post-list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.post-content {
+  display: flex;
+  align-items: center;
+}
+
+.post-title {
+  margin-right: 10px; /* Adjust spacing between title and date */
+  overflow-wrap: break-word;
+}
+
+.post-date {
+  margin-left: 10px; /* Adjust spacing between title and date */
+}
+
+/* Centered line */
+.post-list-item::after {
+  content: "";
+  flex-grow: 1;
+  height: 2px;
+  background-color: var(--code-text); /* Adjust color as needed */
+  margin: 0 10px; /* Adjust spacing as needed */
+}
+// list styling
+
 .text-bold {
   font-weight: 700;
 }
