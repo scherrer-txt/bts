@@ -6,7 +6,6 @@ author: scherrer.txt
 thumbnail: /assets/bts-15-thumb.png
 img: /assets/bts-15-thumb.png
 order: 16
-toc: true
 ---
 
 Podporuju normalizaci užívání návykový látky — kvůli mindfulness. Další článek zpoza obrazovek.
