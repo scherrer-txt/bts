@@ -517,8 +517,11 @@ blockquote {
   /* Add more styles as needed for large devices */
 
 }
+
 .overlay {
-    position: relative;
+    position: fixed;
+    top: 0;
+    left: 0;
     width: 100%;
     height: 100%;
     background-image: url('https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/noisilicious.jpg');
