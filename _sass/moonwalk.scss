@@ -397,12 +397,12 @@ p code, li code {
 }
 
 blockquote {
-  color: var(--code-text) !important;
   font-family: "roc-grotesk-wide", sans-serif;
   font-size: 3rem;
   font-weight: 400;
+  color: var(--code-text);
   line-height: 3rem;
-  /* p { margin: 0; } */
+    p { margin: 0; }
 }
 
 /* Media query for small devices (e.g., phones) */
