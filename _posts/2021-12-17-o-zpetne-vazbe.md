@@ -10,12 +10,15 @@ order: 08
 
 Před 10 lety jsem napsal svoji první povídku, která vyhrála v soutěži a vyšla ve sborníku. Proč jsem si dal od psaní 5 let pauzu a jak s tím souvisí zpětná vazba?
 
+---
+
 ### Obsah
-- [Rychlý úvod](#rychlý-úvod)
-- [Na co jsem přišel](#na-co-jsem-přišel)
-- [Co se stalo](#co-se-stalo)
-- [Poučení](#poučení)
-- [Poznámky pod čarou](#poznámky-pod-čarou)
+{:.no_toc}
+
+* TOC
+{:toc}
+
+---
 
 ## Rychlý úvod
 Kdysi jsem měl na poli literatury a prózy celkem vysoké ambice. Abych se co nejdřív posunul, zpětnou vazbu jsem vyhledával a vyžadoval. Od blízkého okolí a známých, od ostatních pisálků, i od spisovatelů a nakladatelů.
