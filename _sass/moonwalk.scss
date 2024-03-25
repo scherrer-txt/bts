@@ -180,17 +180,8 @@ h1, h2, h3, h4, h5, h6 {
 p, strong, b, em, small, li, hr, table, figcaption {
     color: var(--text);
 }
-.highlight, pre code, blockquote {
+.highlight, pre code {
   border-radius: 25px;
-}
-
-blockquote {
-  color: var(--code-text);
-  font-family: "roc-grotesk-wide", sans-serif;
-  font-size: 3rem;
-  font-weight: 400;
-  line-height: 3rem;
-  /* p { margin: 0; } */
 }
 
 a {
@@ -405,6 +396,15 @@ p code, li code {
   /* text-overflow: ellipsis; /* Display ellipsis for overflow */
 }
 
+blockquote {
+  color: var(--code-text);
+  font-family: "roc-grotesk-wide", sans-serif;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 3rem;
+  /* p { margin: 0; } */
+}
+
 /* Media query for small devices (e.g., phones) */
 @media only screen and (max-width: 600px) {
   /* Styles for small devices */
@@ -452,11 +452,7 @@ p code, li code {
   blockquote {
   font-family: "roc-grotesk-wide", sans-serif;
   font-size: 1.45rem;
-  width: 100%;
-  padding: 1rem;
   line-height: 1.6rem;
-  margin-left: -10%; /* Negative margin to center the blockquote */
-  margin-right: -10%; /* Negative margin to center the blockquote */
 }
 
   .home-link {
