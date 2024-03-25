@@ -3,7 +3,8 @@ layout: post
 author: scherrer.txt
 tags: [overview, moonwalk]
 ---
-## Contents
+
+# Contents
 {:.no_toc}
 
 * TOC
@@ -13,31 +14,39 @@ tags: [overview, moonwalk]
 
 Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
 
+# Sample Headings
+
 # Sample heading 1
+{:.no_toc}
 
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
 
 ## Sample heading 2
+{:.no_toc}
 
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
 
 ### Sample heading 3
+{:.no_toc}
 
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
 
 #### Sample heading 4
+{:.no_toc}
 
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
 
 ##### Sample heading 5
+{:.no_toc}
 
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
 
 ###### Sample heading 6
+{:.no_toc}
 
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
 
-## Lists
+# Lists
 
 Unordered:
 
@@ -52,17 +61,17 @@ Ordered:
 3. Nulla convallis id sapien ornare viverra.
 4. Nam a est eget ligula pellentesque posuere.
 
-## Blockquote
+# Blockquote
 
 The following is a blockquote:
 
 > Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus.
 
-## Thematic breaks (<hr>)
+# Thematic breaks (<hr>)
 
 Mauris viverra dictum ultricies[^3]. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **You can put some text inside the horizontal rule like so.**
 
-## Code
+# Code
 
 Now some code:
 
@@ -73,7 +82,7 @@ console.log(ultimateTruth);
 
 And here is some `inline code`!
 
-## Tables
+# Tables
 
 Now a table:
 
@@ -83,16 +92,17 @@ Now a table:
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-## Images
+# Images
 
 ![theme logo](http://www.abhinavsaxena.com/images/abhinav.jpeg)
 
 This is an image[^4]
 
-## Language test
+# Language test
 Note: Text is from [moving](https://github.com/huangyz0918/moving), which is another good Jekyll theme.
 
 ### 1. 日本語テスト
+{:.no_toc}
 
 This is a Japanese test post to show you how japanese is displayed.
 
@@ -110,6 +120,7 @@ From [すぐ使えるダミーテキスト - 日本語 Lorem ipsum.](http://lips
 
 
 ### 2. 繁体中文测试
+{:.no_toc}
 
 This is a chinese test post to show you how chinese is displayed.
 
@@ -125,9 +136,8 @@ This is a chinese test post to show you how chinese is displayed.
 
 From [亂數假文產生器 - Chinese Lorem Ipsum.](http://www.richyli.com/tool/loremipsum/) 
 
-
-
 ### 3. 简体中文测试
+{:.no_toc}
 
 效育声去本义然空，各值太法心想，场强实地。 题铁习点儿表管少间千，只何政亲织文意部，千影画派证男须。 手反取长风治增非等直难群，连取及天他己事头级，影数弦适把气快目人。 专议以省通引而千个，格则口段度样水热马，地教少务改磨。 包思外心半院应她算斯，市外会快记路又火学，劳如肃它准众丧边。
    
@@ -138,6 +148,9 @@ From [亂數假文產生器 - Chinese Lorem Ipsum.](http://www.richyli.com/tool/
 From [假文生成器， lorem ipsum Chinese](http://www.cancms.com/content/dummytext)
 
 ---
+
+# Footnotes
+
 {: data-content="footnotes"}
 
 [^1]: this is a footnote. You should reach here if you click on the corresponding superscript number.
