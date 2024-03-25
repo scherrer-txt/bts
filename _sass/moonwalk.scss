@@ -286,7 +286,10 @@ mark {
 
 .post-title {
   margin-right: 10px; /* Adjust spacing between title and date */
-  overflow-wrap: break-word;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  max-width: calc(50% - 30px);
 }
 
 .post-date {
@@ -296,10 +299,13 @@ mark {
 /* Centered line */
 .post-list-item::after {
   content: "";
-  flex-grow: 1;
+  position: absolute;
+  top: 50%;
+  left: calc(50% + 10px);
+  transform: translateY(-50%);
   height: 2px;
+  width: calc(50% - 10px);
   background-color: var(--code-text); /* Adjust color as needed */
-  margin: 0 10px; /* Adjust spacing as needed */
 }
 // list styling
 
