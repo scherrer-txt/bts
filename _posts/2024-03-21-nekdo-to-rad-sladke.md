@@ -108,6 +108,7 @@ Měl jsem rum, co chutnal jako tekutý dřevo, lékořicový pendrek nebo rajča
 - Hladká, olejovitá textura;
 
 #### Deadhead Dark Chocolate Monkey
+{:.no_toc}
 - Ve vůni silná, bohatá čokoláda a karamel; velmi sladké; vrací mě do dětství;
 - Chuť karamel a čokoláda, velmi jemné a příjemné;
 - Jemná, sametová textura;
