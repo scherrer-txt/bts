@@ -10,6 +10,9 @@ order: 16
 
 Podporuju normalizaci užívání návykový látky — kvůli mindfulness. Další článek zpoza obrazovek.
 
+* Do not remove this line (it will not be displayed)
+{:toc}
+
 ## Obsah
 - [Obsah](#obsah)
 - [Krátký úvod](#krátký-úvod)
