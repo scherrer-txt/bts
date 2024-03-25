@@ -396,7 +396,8 @@ p code, li code {
   /* text-overflow: ellipsis; /* Display ellipsis for overflow */
 }
 
-blockquote {
+blockquote,
+p {
   color: var(--code-text);
   font-family: "roc-grotesk-wide", sans-serif;
   font-size: 3rem;
