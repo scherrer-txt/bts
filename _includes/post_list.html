@@ -2,10 +2,14 @@
   <ul>
     {% for post in site.posts %}
       <li class="post-list-item">
-        <span class="home-date">
-          {{ post.date | date: site.theme_config.date_format }}»
-        </span>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <div class="post-content">
+          <h6 class="post-title">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h6>
+          <span class="post-date">
+            {{ post.date | date: site.theme_config.date_format }}
+          </span>
+        </div>
       </li>
     {% endfor %}
   </ul>
