@@ -11,7 +11,6 @@ order: 15
 Bez času, bez tlaku, s kávou v hrnku. V tomhle Behind the Screens se ponoříme do věcí, který mění život.
 
 ### Obsah
-{: .no_toc}
 {:toc}
 
 ---
@@ -69,7 +68,7 @@ Ať myšlenka na konci není jen flex, tak kdybych to měl shrnout, chci říct 
 
 ---
 
-### Poznámky pod čarou
+## Poznámky pod čarou
 
 {: data-content="footnotes"}
 [^1]: Slovo „_liminální_“ pochází z latinského slova „_limen_“, „_práh_“.
