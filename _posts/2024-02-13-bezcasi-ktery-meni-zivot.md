@@ -40,7 +40,7 @@ Tohle bezčasí je v podstatě virtuální čekárna — ideální prostor, kde 
 ## A co děláš ty?
 Otázka, kterou často slyším, když někoho poznám a představí se mi. Dobře míněná otázka, která ale často svádí buď k práci nebo ke škole. Je to sice užitečná zkratka, ale mám pocit, že my lidi jsme trochu víc, než jen tohle.
 
-Co nás teda definuje, když to není práce nebo škola — když to není něco, z čeho druhá strana ihned pozná/odtuší náš společenský status nebo míru užitečnosti pro vlastní obohacení[2]? Na tuhle otázku se mi hrozně blbě odpovídá. Žádná moje odpověď totiž pro mě není správná a pokud by měla být, tak na tu poslední odpovídám doteď. Takže na tuhle otázku v poslední době hrozně rád odpovídám: „_Jsem Kevin a dělám věci._“ Protože věci fakt dělám. A je jich kotel. O tom později.
+Co nás teda definuje, když to není práce nebo škola — když to není něco, z čeho druhá strana ihned pozná/odtuší náš společenský status nebo míru užitečnosti pro vlastní obohacení[^2]? Na tuhle otázku se mi hrozně blbě odpovídá. Žádná moje odpověď totiž pro mě není správná a pokud by měla být, tak na tu poslední odpovídám doteď. Takže na tuhle otázku v poslední době hrozně rád odpovídám: „_Jsem Kevin a dělám věci._“ Protože věci fakt dělám. A je jich kotel. O tom později.
 
 Často to jsou právě ty aktivity, kterým se věnujeme v bezčasí, který nás nejvíc lidsky posunou a obohatí. Ať už je to cokoliv — válení se v posteli, lezení po stěně, procházení se lesem, pokec s přáteli, bingování seriálů nebo nonstop hraní videoher. Seriály a videohry mají lidi tendence označovat za neproduktivní ztráta času — takových lidí je mi líto. Přichází o skvělou formu nejen zábavy, ale i zážitků, zprostředkovaných zkušeností, emocí a hlubokých pocitů, a samozřejmě i trochu toho eskapistickýho oddechu, který je s tím spojený.
 
@@ -77,7 +77,7 @@ Ať myšlenka na konci není jen flex, tak kdybych to měl shrnout, chci říct 
 {: data-content="footnotes"}
 [^1]: Slovo „_liminální_“ pochází z latinského slova „_limen_“, „_práh_“.
 
-[2]: Což není nutně špatně — jen je škoda, že unikátnost každýho jednoho z nás je zredukovaná jen na tyhle dvě proměnné. Status a/nebo užitečnost. Měřítka, který ačkoliv jsme naučení vnímat, jako nápomocný, vlastně jen napomáhají prohlubování rozdílů mezi námi; brání nám vnímat/zažívat věci nebo se spojovat s lidmi, kteří by nás mohli obohatit o různorodost. Svůj ke svým a všichni jsou stejní.
+[^2]: Což není nutně špatně — jen je škoda, že unikátnost každýho jednoho z nás je zredukovaná jen na tyhle dvě proměnné. Status a/nebo užitečnost. Měřítka, který ačkoliv jsme naučení vnímat, jako nápomocný, vlastně jen napomáhají prohlubování rozdílů mezi námi; brání nám vnímat/zažívat věci nebo se spojovat s lidmi, kteří by nás mohli obohatit o různorodost. Svůj ke svým a všichni jsou stejní.
 
 [^3]: Označení „_transdisciplinární_“ může být pro někoho nové, zkusím vysvětlit.
 
