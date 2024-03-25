@@ -10,12 +10,15 @@ order: 13
 
 Jak do sebe zapadá kreativita a originalita? A co rap? Další Behind the Screens! Držte si klobouky, we are going metaphysical!
 
+---
+
 ### Obsah
-- [Rychlý úvod](#rychlý-úvod)
-- [Metal, Calin a strážci bran](#metal-calin-a-strážci-bran)
-- [Zlatá éra rapu](#zlatá-éra-rapu)
-- [Kreativita jako transcendentní koncept](#kreativita-jako-transcendentní-koncept)
-- [Poznámky pod čarou](#poznámky-pod-čarou)
+{:.no_toc}
+
+* TOC
+{:toc}
+
+---
 
 ## Rychlý úvod
 V tomhle článku zabrousím do filozofie a metafyziky. Zkusím propojit dohromady několik pojmů a konceptů, který mi pomáhají o kreativitě přemýšlet. Není to úplně lehký čtivo a to i přes to, že jsem se snažil to co nejvíc zkondenzovat a „_zjednodušit_“. Není to ani něco, v co bych „_věřil_“ v náboženským slova smyslu — zmiňuju třeba „_sílu_“, ideje, materiální svět a jiný dimenze, a to už může znít jako nějaký New Age ezo bullshit.
