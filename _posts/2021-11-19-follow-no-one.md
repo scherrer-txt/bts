@@ -11,11 +11,10 @@ order: 07
 Tenhle článek je o sociálních sítích, o jejich dopadu na lidi, o svobodné vůli, sebevědomí a vlastní identitě.
 
 ### Obsah
-- [Proč jsem dal všem unfollow?](#proč-jsem-dal-všem-unfollow)
-- [Okamžité uspokojení, algoritmy a černá zrcadla](#okamžité-uspokojení-algoritmy-a-černá-zrcadla)
-- [Zlatá éra rapu](#zlatá-éra-rapu)
-- [Kreativita jako transcendentní koncept](#kreativita-jako-transcendentní-koncept)
-- [Poznámky pod čarou](#poznámky-pod-čarou)
+{:.no_toc}
+
+* TOC
+{:toc}
 
 ## Rychlý úvod
 Jsem typ člověka[^1], co musí pořád vstřebávat nějaký informace. Nahodně se mi v hlavě vynořují otázky, na který musím znát odpovědi. Díky tomu existuje málo témat, o kterých bych se s někým nedokázal bavit. Na to jsem byl vždycky docela hrdý.
@@ -79,7 +78,7 @@ Sami jste se ještě nehledali — a tu jste nalezli mne. Tak se vede všem vě�
 
 ---
 
-### Poznámky pod čarou
+## Poznámky pod čarou
 
 {: data-content="footnotes"}
 [^1]: O dva roky později jsem byl diagnostikovaný na ADHD a ASD. Podezření jsem měl i přes nevůli okolí dost dlouho, nakonec se ukázalo, že odůvodněně. Poučení? Jestli jsi z Brna a máš podezření na ADHD a/nebo autismus, tady je [kontakt](https://hogenbuchova.cz/), zavolej nebo napiš e-mail, domluv si termín a uvidíš. Nemáš absolutně co ztratit. Naopak, můžeš získat validaci a způsob, jak se s tímhle nákladem naučít žít.
