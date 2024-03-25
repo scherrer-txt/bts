@@ -274,15 +274,15 @@ mark {
 // list styling
 .post-list-item {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  /* justify-content: space-between;
+  align-items: center; */
   width: 100%;
 }
 
-.post-content {
+/* .post-content {
   display: flex;
   align-items: center;
-}
+} */
 
 .post-title {
   margin-right: 10px; /* Adjust spacing between title and date */
@@ -293,19 +293,14 @@ mark {
 }
 
 .post-date {
-  margin-left: 10px; /* Adjust spacing between title and date */
+  flex: 1;
+  text-align: center;
 }
 
 /* Centered line */
-.post-list-item::after {
-  content: "";
-  position: absolute;
-  top: 50%;
-  left: calc(50% + 10px);
-  transform: translateY(-50%);
-  height: 2px;
-  width: calc(50% - 10px);
-  background-color: var(--code-text); /* Adjust color as needed */
+.post-list-line  {
+  flex: 2;
+  border-bottom: 2px solid var(--code-text);
 }
 // list styling
 
