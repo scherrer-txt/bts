@@ -12,15 +12,15 @@ Od mého rozhovoru pro [KOLABO MAG](https://medium.com/@kolabocrew) v prosinci 2
 
 KOLABO MAG můžete odebírat [tady](https://kolabo.cz/kolabo-mag). Díky [Ondřej Pospíšil](https://ondrejpospisil.medium.com/) za prostor a za otázky!
 
+---
+
 ### Obsah
-- [Čím se zabýváš a proč?](#čím-se-zabýváš-a-proč)
-- [Kolik hodin denně pracuješ a kdy?](#kolik-hodin-denně-pracuješ-a-kdy)
-- [Kde bereš inspiraci?](#kde-bereš-inspiraci)
-- [Jaké musí mít designér znalosti?](#jaké-musí-mít-designér-znalosti)
-- [PC nebo Mac?](#pc-nebo-mac)
-- [Kafe nebo čaj?](#kafe-nebo-čaj)
-- [Nejlepší rada, co jsi dostal?](#nejlepší-rada-co-jsi-dostal)
-- [Nejlepší rada, co bys dal?](#nejlepší-rada-co-bys-dal)
+{:.no_toc}
+
+* TOC
+{:toc}
+
+---
 
 ## Čím se zabýváš a proč?
 Vizuálním zhmotňováním nápadů. Nejvíc mě baví loga a identity. Motal jsem se v gastru a hudbě, takže branding, menu a plakáty pro podniky střídaly vizuály na YouTube, obaly cédéček, covery na Spotify a merchandise pro interprety. Přestalo mě ale bavit to, jak nejisté peníze jsou v těchhle oborech, tak jsem to pustil k vodě.
