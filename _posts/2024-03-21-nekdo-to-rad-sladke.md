@@ -84,21 +84,25 @@ Měl jsem rum, co chutnal jako tekutý dřevo, lékořicový pendrek nebo rajča
 ## Moje oblíbený rumy
 
 #### A. H. Riise Non Plus Ultra
+{:.no_toc}
 - Ve vůni vanilka a dřevo, lehce sušené švestky;
 - Chuť jemná, sladká, dřevitá; velmi jemně karamelová; dlouho příjemně hřeje v krku;
 - Sametová textura
 
 #### Belmont Coconut Spirit
+{:.no_toc}
 - Krásná, sladká vůně; lehce dřevitá, vanilková a čokoládová; tóny kokosu;
 - Chuť spíš sladká a jemná; silně kope, ale i tak/právě pro to velmi příjemný na pití;
 - Sametová, lehce sirupová textura;
 
 #### Millonario Kuytchi
+{:.no_toc}
 - Ve vůni karamel a čokoláda;
 - V chuti karamel, čokoláda, skořice a vanilka; připomíná perníček/vánoční cukroví;
 - Sametová textura;
 
 #### Naga Shani
+{:.no_toc}
 - Vůně velmi bohatá; dřevo, sušené švestky
 - Tekutý dubový dřevo; tóny sušených švestek, vanilky, kokos;
 - Hladká, olejovitá textura;
