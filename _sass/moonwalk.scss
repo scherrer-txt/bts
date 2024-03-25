@@ -397,7 +397,7 @@ p code, li code {
 }
 
 blockquote {
-  color: var(--code-text);
+  color: var(--code-text) !important;
   font-family: "roc-grotesk-wide", sans-serif;
   font-size: 3rem;
   font-weight: 400;
