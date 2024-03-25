@@ -121,15 +121,6 @@ table, th, td {
   padding: 1em;
 } */
 
-blockquote {
-  color: var(--code-text);
-  font-family: "roc-grotesk-wide", sans-serif;
-  font-size: 3rem;
-  font-weight: 400;
-  line-height: 3rem;
-  /* p { margin: 0; } */
-}
-
 img {
   max-width: 100%;
   display: block;
@@ -192,8 +183,14 @@ p, strong, b, em, small, li, hr, table, figcaption {
 .highlight, pre code, blockquote {
   border-radius: 25px;
 }
+
 blockquote {
-  border: 0px var(--border) solid;
+  color: var(--code-text);
+  font-family: "roc-grotesk-wide", sans-serif;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 3rem;
+  /* p { margin: 0; } */
 }
 
 a {
