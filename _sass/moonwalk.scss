@@ -208,7 +208,13 @@ a {
 /* Target specific elements for italicized text */
 em, i {
   font-style: italic;
-  color: var(--share-text); /* Change the color as desired */
+  color: var(--text-secondary);
+}
+
+strong,
+b {
+  font-style: bold;
+  color: var(--text-secondary);
 }
 
 html.transition,
