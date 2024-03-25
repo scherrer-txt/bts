@@ -63,7 +63,7 @@ Všechno co bylo, je a bude, je už dávno vytvořeno od vzniku reality až po j
 
 ---
 
-### Poznámky pod čarou
+## Poznámky pod čarou
 
 {: data-content="footnotes"}
 [^1]: Latinské „_origo_“ vychází ze slovesa „_oriri_“ — povstat; proto „_orient_“, tedy _místo, kde vychází Slunce_.
