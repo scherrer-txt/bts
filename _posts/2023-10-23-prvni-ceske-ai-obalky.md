@@ -13,8 +13,8 @@ Jak jsem udělal jedny z prvních knižních AI obálek v Česku — tohle je da
 ### Obsah
 - [Rychlý úvod](#rychlý-úvod)
 - [Když máš vizi, je to jednoduchý.](#když-máš-vizi-je-to-jednoduchý)
-- [Zlatá éra rapu](#zlatá-éra-rapu)
-- [Kreativita jako transcendentní koncept](#kreativita-jako-transcendentní-koncept)
+- [Když to za mě udělala AI, co jsem teda dělal já?](#Když-to-za-mě-udělala-AI-co-jsem-teda-dělal-já)
+- [Reflexe projektu](#reflexe-projektu)
 - [Poznámky pod čarou](#poznámky-pod-čarou)
 
 ## Rychlý úvod
