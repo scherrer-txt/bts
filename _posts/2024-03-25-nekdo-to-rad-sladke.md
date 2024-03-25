@@ -94,38 +94,44 @@ Měl jsem rum, co chutnal jako tekutý dřevo, lékořicový pendrek nebo rajča
 
 ## Moje oblíbené rumy
 ### A. H. Riise Non Plus Ultra
+{:.no_toc}
 - Ve vůni vanilka a dřevo, lehce sušené švestky;
 - Chuť jemná, sladká, dřevitá; velmi jemně karamelová; dlouho příjemně hřeje v krku;
 - Sametová textura;
 
 ### Belmont Coconut Spirit
+{:.no_toc}
 - Krásná, sladká vůně; lehce dřevitá, vanilková a čokoládová; tóny kokosu;
 - Chuť spíš sladká a jemná; silně kope, ale i tak/právě pro to velmi příjemný na pití;
 - Sametová, lehce sirupová textura;
 
 ### Millonario Kuytchi
+{:.no_toc}
 - Ve vůni karamel a čokoláda;
 - V chuti karamel, čokoláda, skořice a vanilka; připomíná perníček/vánoční cukroví;
 - Sametová textura;
 
 ### Naga Shani
+{:.no_toc}
 - Vůně velmi bohatá; dřevo, sušené švestky
 - Tekutý dubový dřevo; tóny sušených švestek, vanilky, kokos;
 - Jemná, olejovitá textura;
 
 ### Deadhead Dark Chocolate Monkey
+{:.no_toc}
 - Ve vůni silná, bohatá čokoláda a karamel; velmi sladké; vrací mě do dětství;
 - Chuť karamel a čokoláda, velmi jemné a příjemné;
 - Jemná, sametová textura;
 
 ---
+## Poznámky pod čarou
+
 {: data-content=“footnotes“}
 
 [^1]: Tomuhle se říká [Drink-Based Characterization trop](https://tvtropes.org/pmwiki/pmwiki.php/Main/DrinkBasedCharacterization). Trop je motiv/myšlenková zkratka, která pomáhá vyprávět příběhy a chápat postavy na základě často dost stereotypních představ. Každý klišé je trop, ale ne každý trop je klišé. Víc [o tropech tady](https://en.wikipedia.org/wiki/Trope_(literature)).
 [^2]: tzv. [Lactose over Liquor trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/LactoseOverLiquor)
 [^3]: tzv. [Tea is Classy](https://tvtropes.org/pmwiki/pmwiki.php/Main/TeaIsClassy)
 [^4]: tzv. [Wine is Classy](https://tvtropes.org/pmwiki/pmwiki.php/Main/WineIsClassy)
-[^5]: tzv. 
 [^6]: [Why Stereotypes Are Harmful](https://momentousinstitute.org/resources/why-stereotypes-are-harmful)
 [^7]: Tehdy řídili pánové z [Hedonism Spirit](https://www.hedonismspirit.cz/)
 [^8]: Ano, to se děje — dokážu si podle vůně představit chuť. Ne, není to divný, [dává to smysl](https://www.brainfacts.org/Thinking-Sensing-and-Behaving/Taste/2012/Taste-and-Smell).
