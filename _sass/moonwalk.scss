@@ -90,6 +90,10 @@ p { margin: 1em 0; }
 
 li { margin: 0.4em 0; }
 
+.list-without-markers {
+  list-style-type: none;
+}
+
 em,
 i {
   font-style: italic;
