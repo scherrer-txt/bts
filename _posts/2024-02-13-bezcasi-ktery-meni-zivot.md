@@ -10,18 +10,11 @@ order: 15
 
 Bez času, bez tlaku, s kávou v hrnku. V tomhle Behind the Screens se ponoříme do věcí, který mění život.
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
 ### Obsah
 {: .no_toc}
-- [Krátký úvod](#krátký-úvod)
-- [Proč je to dobrý?](#proč-je-to-dobrý)
-- [A co děláš ty?](#a-co-děláš-ty)
-- [Moje hobby je mnohem lepší, než tvoje hobby!](#moje-hobby-je-mnohem-lepší-než-tvoje-hobby)
-- [A co dělám já?](#a-co-dělám-já)
-- [Dobře, ale co teda jako dělám?](#dobře-ale-co-teda-jako-dělám)
-- [Poznámky pod čarou](#poznámky-pod-čarou)
+{:toc}
+
+---
 
 > „Liminální prostory jsou často nepříjemný, ale jsou skvělou příležitosti k sebepoznání.“
 
