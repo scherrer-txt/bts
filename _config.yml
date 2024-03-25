@@ -40,6 +40,8 @@ soopr:
 
 highlighter: rouge
 
+markdown: kramdown
+
 sass:
   style: :compressed
 
