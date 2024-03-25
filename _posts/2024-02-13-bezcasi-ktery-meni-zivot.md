@@ -10,9 +10,11 @@ order: 15
 
 Bez času, bez tlaku, s kávou v hrnku. V tomhle Behind the Screens se ponoříme do věcí, který mění život.
 
+---
+
 #### Obsah
 
-* Do not remove this line (it will not be displayed)
+* TOC
 {:toc}
 
 ---
