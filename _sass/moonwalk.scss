@@ -411,6 +411,37 @@ blockquote {
     p { margin: 0; }
 }
 
+// POST META
+.post-meta-container {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+}
+
+.post-meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 48px;
+  flex-wrap: wrap;
+}
+
+.theme-container,
+.number-container,
+.appetizer-container,
+.release-container {
+  width: calc(50% - 24px); /* Adjust width as needed */
+  flex-grow: 1; /* Fill remaining space */
+}
+
+.theme-container h3,
+.number-container h3,
+.appetizer-container h3,
+.release-container h3 {
+  margin-top: 24px;
+}
+
+//-POST META
+
 /* Media query for small devices (e.g., phones) */
 @media only screen and (max-width: 600px) {
   /* Styles for small devices */
