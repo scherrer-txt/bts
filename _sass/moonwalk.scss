@@ -425,10 +425,13 @@ blockquote {
   flex-wrap: wrap;
 }
 
-.theme-container,
 .number-container,
-.appetizer-container,
 .release-container {
+  width: 140px;
+}
+
+.theme-container,
+.appetizer-container {
   width: calc(50% - 24px); /* Adjust width as needed */
   flex-grow: 1; /* Fill remaining space */
 }
