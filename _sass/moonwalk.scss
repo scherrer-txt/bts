@@ -429,7 +429,8 @@ blockquote {
   font-family: "roc-grotesk", sans-serif;
   font-size: 0.8rem;
   font-weight: 600;
-  color: var(--text);
+  text-transform: uppercase;
+  color: var(--text-secondary);
   line-height: 0.8rem;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -446,7 +447,9 @@ blockquote {
 }
 
 .post-meta-content {
-  border-top: 2px white var(--code-text);
+  border-top-width: 2px;
+  border-top-style: solid;
+  border-top-color: var(--code-text);
   padding-top: 24px;
   margin-top: 16px;
 }
