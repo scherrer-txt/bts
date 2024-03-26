@@ -420,9 +420,35 @@ blockquote {
 
 .post-meta {
   display: flex;
-  justify-content: space-between;
+  align-items: baseline;
   gap: 48px;
   flex-wrap: wrap;
+}
+
+.post-meta-label {
+  font-family: "roc-grotesk", sans-serif;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 0.8rem;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.post-meta-info {
+  font-family: "roc-grotesk", sans-serif;
+  font-size: 3rem;
+  font-weight: 400;
+  color: var(--text);
+  line-height: 3rem;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.post-meta-content {
+  border-top: 2px white var(--code-text);
+  padding-top: 24px;
+  margin-top: 16px;
 }
 
 .number-container,
