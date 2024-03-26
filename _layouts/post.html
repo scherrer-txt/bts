@@ -21,7 +21,39 @@ layout: default
 
 <h1 class="post-title">{{ page.title }}</h1>
 
-{% if page.subtitle or page.order %}
+<div class="post-meta-container">
+  <div class="post-meta">
+    <div class="theme-container">
+      <div class="label">Theme</div>
+      <div class="content">
+        <h3>{{ post.theme }}</h3>
+      </div>
+    </div>
+    <div class="number-container">
+      <div class="label">Number</div>
+      <div class="content">
+        <h3>{{ post.number }}</h3>
+      </div>
+    </div>
+  </div>
+  <div class="post-meta">
+    <div class="appetizer-container">
+      <div class="label">Appetizer</div>
+      <div class="content">
+        <h3>{{ post.appetizer }}</h3>
+      </div>
+    </div>
+    <div class="release-container">
+      <div class="label">Release Date</div>
+      <div class="content">
+        <h3>{{ post.release_date }}</h3>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+<!-- {% if page.subtitle or page.order %}
   <div class="post-meta">
     {% if page.subtitle %}
       <h5 class="post-subtitle">{{ page.subtitle }}</h5>
@@ -35,7 +67,7 @@ layout: default
       <h5 class="post-subtitle">{{ page.order }}</h5>
     {% endif %}
   </div>
-{% endif %}
+{% endif %} -->
 
 {% include date_and_social_share.html %}
   
