@@ -6,10 +6,8 @@ author: scherrer.txt
 thumbnail: /assets/bts-15-thumb.png
 img: /assets/bts-15-thumb.png
 order: 16
----
-
-Podporuju užívání ~~návykový látky~~ těžký drogy — kvůli mindfulness. Další článek zpoza obrazovek.
-
+perex: Podporuju užívání těžký drogy — kvůli mindfulness. Další článek zpoza obrazovek, tentokrát o alkoholu.
+release: 24/03
 ---
 
 ### Obsah
