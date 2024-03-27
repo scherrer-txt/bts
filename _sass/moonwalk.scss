@@ -607,6 +607,16 @@ blockquote {
 .dashed {
   border-top: 1px;
 } 
+
+.menu-list li {
+  /* Styles for individual menu items */
+  margin-right: 2rem;
+}
+
+.menu-list li:last-child {
+  margin-right: 0;
+}
+  
   /* Add more styles as needed for small devices */
 }
 
