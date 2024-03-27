@@ -7,24 +7,6 @@ layout: default
 <meta property="og:image:height" content="1080">
 {% endif %}
 
-<!-- <div class="thumbnail-container">
-  {% if page.thumbnail %}
-    <img src="{{ site.baseurl }}{{ page.thumbnail }}" alt="Thumbnail Image">
-  {% endif %}
-</div> -->
-
-<!-- <h1 class="post-title">{{ page.title }}</h1> -->
-
-      <section class="page__content e-content" itemprop="text">
-        {% if page.toc %}
-          <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
-            <nav class="toc">
-              <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
-              {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
-            </nav>
-          </aside>
-        {% endif %}
-
 <div class="post-meta-container">
   <div class="post-meta">
     <div class="theme-container">
@@ -58,8 +40,6 @@ layout: default
 
 <div class="dashed"></div>
 
-<!-- {% include date_and_social_share.html %} -->
-  
 {{ content }}
 
 <div class="post-navigation">
