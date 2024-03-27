@@ -436,7 +436,7 @@ p code, li code {
   }
 
 .menu {
-  max-width: 1170px;
+  max-width: 65%;
   margin: 0 auto;
 }
 
@@ -444,7 +444,7 @@ p code, li code {
   display: flex;
   list-style-type: none;
   flex-direction: row;
-  max-width: 65%;
+  width: 65%;
   margin: 0 auto;
   padding-bottom: 1rem;
   border-bottom: 2px solid var(--code-text);
