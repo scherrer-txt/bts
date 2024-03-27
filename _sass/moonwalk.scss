@@ -524,6 +524,36 @@ blockquote {
 }
 // POST META END
 
+// POST INDEX
+.post-index-info {
+  font-family: "roc-grotesk", sans-serif;
+  font-size: 2rem;
+  font-weight: 400;
+  color: var(--text);
+  line-height: 2rem;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.post-index-title {
+  font-family: "roc-grotesk", sans-serif;
+  font-size: 4rem;
+  font-weight: 400;
+  color: var(--text);
+  line-height: 4rem;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.number-index-container {
+ width: 50px;
+}
+
+.release-index-container {
+  width: 90px;
+}
+// POST INDEX END
+
 /* Media query for small devices (e.g., phones) */
 @media only screen and (max-width: 600px) {
   /* Styles for small devices */
