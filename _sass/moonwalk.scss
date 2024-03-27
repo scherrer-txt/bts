@@ -177,12 +177,12 @@ html, body {
 }
 h1, h2, h3, h4, h5, h6 {
     color: var(--headings);
-    max-width: 75%;
-    margin: 0 auto;
+    max-width: 65%;
+    margin: 4rem auto 0;
 }
 p, strong, b, em, small, li, hr, table, figcaption {
     color: var(--text);
-    max-width: 75%;
+    max-width: 65%;
     margin: 2rem auto 0;
 }
 .highlight, pre code {
@@ -481,6 +481,7 @@ blockquote {
   line-height: 3rem;
   margin-top: 0px;
   margin-bottom: 0px;
+  margin-left: 0;
 }
 
 .post-meta-info-title {
@@ -491,6 +492,7 @@ blockquote {
   margin-top: 0px;
   margin-bottom: 0px;
   letter-spacing: -0.1rem;
+  margin-left: 0;
 }
 
 .post-meta-info-small {
@@ -501,6 +503,7 @@ blockquote {
   margin-top: 0px;
   margin-bottom: 0px;
   letter-spacing: 0.02rem;
+  margin-left: 0;
 }
 
 .post-meta-content {
