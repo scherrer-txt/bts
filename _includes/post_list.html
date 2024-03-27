@@ -1,17 +1,28 @@
 {% if site.posts.size > 0 %}
-  <ul class="list-without-markers">
-    {% for post in site.posts %}
-      <li class="post-list-item">
-        <div class="post-list-content">
-          <h6 class="post-list-title">
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          </h6>
-          <div class="post-list-line"></div>
-          <span class="post-list-date">
-            {{ post.date | date: site.theme_config.date_format }}
-          </span>
-        </div>
-      </li>
-    {% endfor %}
-  </ul>
+<ul class="list-without-markers">
+<div class="post-meta-container">
+  
+  <div class="post-index">
+    <div class="theme-container">
+      <div class="post-meta-label">Název</div>
+      <div class="post-meta-content">
+        <h2 class="post-index-title">{{ page.title }}</h2>
+      </div>
+    </div>
+    <div class="number-container">
+      <div class="post-meta-label">Číslo</div>
+      <div class="post-meta-content">
+        <h3 class="post-index-info">{{ page.order }}</h3>
+      </div>
+    </div>
+    <div class="release-container">
+      <div class="post-meta-label">Vyšlo</div>
+      <div class="post-meta-content">
+        <h4 class="post-index-info">{{ page.release }}</h4>
+      </div>
+    </div>
+  </div>
+  
+</div>
+</ul>
 {% endif %}
