@@ -525,6 +525,14 @@ blockquote {
 // POST META END
 
 // POST INDEX
+.post-index {
+  display: flex;
+  gap: 48px;
+  align-items: baseline;
+  flex-wrap: wrap;
+  margin-bottom: 4rem;
+}
+
 .post-index-info {
   font-family: "roc-grotesk", sans-serif;
   font-size: 2rem;
