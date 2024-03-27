@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
 @import url("https://use.typekit.net/ubc7mok.css");
-@import url("https://use.typekit.net/yui7mjg.css"); /* 700-600-500-400 */
+@import url("https://use.typekit.net/yui7mjg.css"); /* 700-600 | 500 (semibold) | 400 (regular) */
 
 html { height: 100%;
   font-size: 16px;
@@ -26,7 +26,6 @@ pre, code {
   h1 {
   font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 4rem;
-  font-weight: 700;
   line-height: 3.7rem;
   margin-top: 6rem;
   margin-bottom: 1rem;
@@ -35,7 +34,6 @@ pre, code {
   h2 {
   font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 3.5rem;
-  font-weight: 700;
   line-height: 3.5rem;
   margin-top: 5rem;
   margin-bottom: 1rem;
@@ -44,7 +42,6 @@ pre, code {
   h3 {
   font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 3rem;
-  font-weight: 600;
   line-height: 3rem;
   margin-top: 5rem;
   margin-bottom: 1rem;
@@ -53,7 +50,6 @@ pre, code {
   h4 {
   font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 2.5rem;
-  font-weight: 600;
   line-height: 2.5rem;
   margin-top: 5rem;
   margin-bottom: 1rem;
@@ -62,7 +58,6 @@ pre, code {
   h5 {
   font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 2rem;
-  font-weight: 600;
   line-height: 2rem;
   margin-top: 5rem;
   margin-bottom: 1rem;
@@ -71,7 +66,6 @@ pre, code {
   h6 {
   font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 2rem;
-  font-weight: 400;
   line-height: 2rem;
   margin-top: 5rem;
   margin-bottom: 1rem;
@@ -247,7 +241,8 @@ mark {
   font-size: 0.6em;
   letter-spacing: 1px;
 }
-//Post date
+  
+/* POST DATE
 .post-date {
   color: var(--text-secondary);
   margin-top: 1rem;
@@ -260,11 +255,12 @@ mark {
 }
 .home-date {
   font-family: "Roboto Mono", "Courier New", monospace;
-}
+} */
+  
 .post-list-item a {
 }
 
-// list styling
+// POST LIST
 .post-list-content {
   display: flex;
   justify-content: space-between;
@@ -420,9 +416,8 @@ p code, li code {
 .post-title-previous,
 .post-title-next {
   color: var(--code-text);
-  font-family: "roc-grotesk-wide", sans-serif;
+  font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 2rem;
-  font-weight: 600;
   line-height: 2rem;
   margin-top: 0.2rem;
   margin-bottom: 1rem;
@@ -433,9 +428,9 @@ p code, li code {
 //PAGINATION END
 
 blockquote {
-  font-family: "roc-grotesk-wide", sans-serif;
+  font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 3rem;
-  font-weight: 400;
+  font-weight: 600;
   color: var(--code-text);
   line-height: 3rem;
     p { margin: 0; }
@@ -457,7 +452,7 @@ blockquote {
 }
 
 .post-meta-label {
-  font-family: "roc-grotesk", sans-serif;
+  font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 0.8rem;
   font-weight: 600;
   text-transform: uppercase;
@@ -468,9 +463,8 @@ blockquote {
 }
 
 .post-meta-info {
-  font-family: "roc-grotesk", sans-serif;
+  font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 3rem;
-  font-weight: 400;
   color: var(--text);
   line-height: 3rem;
   margin-top: 0px;
@@ -478,9 +472,8 @@ blockquote {
 }
 
 .post-meta-info-title {
-  font-family: "roc-grotesk", sans-serif;
+  font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 6rem;
-  font-weight: 800;
   color: var(--text);
   line-height: 5.7rem;
   margin-top: 0px;
@@ -489,9 +482,8 @@ blockquote {
 }
 
 .post-meta-info-small {
-  font-family: "roc-grotesk", sans-serif;
+  font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 1.5rem;
-  font-weight: 400;
   color: var(--text);
   line-height: 1.5rem;
   margin-top: 0px;
@@ -536,9 +528,8 @@ blockquote {
 }
 
 .post-index-info {
-  font-family: "roc-grotesk", sans-serif;
+  font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 2rem;
-  font-weight: 400;
   color: var(--text);
   line-height: 2rem;
   margin-top: 0px;
@@ -546,9 +537,8 @@ blockquote {
 }
 
 .post-index-title {
-  font-family: "roc-grotesk", sans-serif;
+  font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 4rem;
-  font-weight: 400;
   color: var(--text);
   line-height: 4rem;
   margin-top: 0px;
@@ -586,37 +576,31 @@ blockquote {
   }
 
   h1 {
-  font-family: "roc-grotesk-wide", sans-serif;
   font-size: 1.9rem;
   line-height: 2.15rem;
 }
 
   h2 {
-  font-family: "roc-grotesk-wide", sans-serif;
   font-size: 1.75rem;
   line-height: 1.9rem;
 }
 
   h3 {
-  font-family: "roc-grotesk-wide", sans-serif;
   font-size: 1.6rem;
   line-height: 1.75rem;
 }
 
   h4 {
-  font-family: "roc-grotesk-wide", sans-serif;
   font-size: 1.45rem;
   line-height: 1.6rem;
 }
 
   h5 {
-  font-family: "roc-grotesk-wide", sans-serif;
   font-size: 1.3rem;
   line-height: 1.45rem;
 }
 
   h6 {
-  font-family: "roc-grotesk-wide", sans-serif;
   font-size: 1.15rem;
   line-height: 1.3rem;
 }
