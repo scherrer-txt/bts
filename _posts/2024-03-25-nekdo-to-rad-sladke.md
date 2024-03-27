@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Někdo to rád sladké
-subtitle: Behind the Screens
-author: scherrer.txt
-thumbnail: /assets/bts-15-thumb.png
-img: /assets/bts-15-thumb.png
-order: 16
 perex: Podporuju užívání těžký drogy — kvůli mindfulness. Další článek zpoza obrazovek, tentokrát o alkoholu.
-release: 24/03
+order: 16
+release: 27/03
+author: scherrer.txt
+thumbnail: /assets/bts-16-thumb.png
 ---
 
 ### Obsah
