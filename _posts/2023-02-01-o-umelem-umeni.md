@@ -1,15 +1,11 @@
 ---
 layout: post
 title: O umělém umění
-subtitle: Behind the Screens
+perex: Tohle je další Behind the Screens. Tentokrát o inspiraci, umění a etice výtvorů umělé inteligence.
+order: 10
+release: 23/03
 author: scherrer.txt
 thumbnail: /assets/bts-10-thumb.png
-img: /assets/bts-10-thumb.png
-order: 10
----
-
-Tohle je další Behind the Screens. Tentokrát o inspiraci, umění a etice výtvorů umělé inteligence.
-
 ---
 
 ### Obsah
