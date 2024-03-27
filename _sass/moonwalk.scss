@@ -379,12 +379,28 @@ p code, li code {
   display: flex;
   list-style-type: none;
   flex-direction: row;
-  justify-content: center;
+  /* justify-content: center; */
   max-width: 760px;
   margin: 0 auto;
   padding-bottom: 1rem;
   border-bottom: 2px solid var(--code-text);
 }
+
+.menu-list {
+  /* Styles for the menu list */
+  list-style-type: none; /* Remove default list styles */
+  padding: 0;
+}
+
+.menu-list li {
+  /* Styles for individual menu items */
+  margin-right: 2rem; /* Add space between menu items */
+}
+
+.menu-list li:last-child {
+  margin-right: 0; /* Remove margin from the last menu item */
+}
+
 // MENU END
 
 //PAGINATION
