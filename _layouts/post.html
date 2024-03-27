@@ -55,20 +55,20 @@ layout: default
 <div class="post-navigation">
   {% if page.previous %}
     <div class="appetizer-container">
-      <div class="post-meta-label">← Starší článek</div>
+      <div class="post-meta-label">Starší článek</div>
       <div class="post-meta-content">
         <h2 class="post-meta-info">
-          <a href="{{ site.url }}{{ page.previous.url }}" class="prev-button">{{ page.previous.title }}</a>
+          <a href="{{ site.url }}{{ page.previous.url }}" class="prev-button">← {{ page.previous.title }}</a>
         </h2>
       </div>
     </div>
   {% endif %}
   {% if page.next %}
     <div class="appetizer-container">
-      <div class="post-meta-label">Novější článek →</div>
+      <div class="post-meta-label">Novější článek</div>
       <div class="post-meta-content">
         <h2 class="post-meta-info">
-          <a href="{{ site.url }}{{ page.next.url }}" class="next-button">{{ page.next.title }}</a>
+          <a href="{{ site.url }}{{ page.next.url }}" class="next-button">{{ page.next.title }} →</a>
         </h2>
       </div>
     </div>
