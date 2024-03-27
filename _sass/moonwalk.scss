@@ -730,6 +730,15 @@ blockquote p {
   line-height: 1.6rem;
 }
 
+.w {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding: 7em 2em;
+  max-width: 90%;
+  align-items: center;
+}
+  
   .home-link {
   margin-bottom: 5rem; /* Adjust the margin as needed */
 }
@@ -764,7 +773,7 @@ blockquote p {
 .dashed {
   border-top: 2px var(--code-text) solid;
   margin: 1em 0;
-  width: 65%;
+  width: 90%;
   height: 2px;
 } 
     
@@ -804,6 +813,56 @@ blockquote p {
 
 .title-index-container {
   width: 100%;
+}
+
+  .post-meta-container {
+  max-width: 90%;
+}
+
+  .pagination {
+  width: 280px;
+  margin-top: 2em;
+}
+
+  .post-navigation {
+  gap: 24px;
+  max-width: 90%;
+  margin: 2rem auto 0;
+}
+
+  .menu-list {
+  width: 90%;
+}
+  
+  .menu {
+  max-width: 90%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--headings);
+    width: 90%;
+    margin: 2rem auto 0;
+}
+
+p, strong, b, em, small, hr, table, figcaption {
+    color: var(--text);
+    width: 90%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+  .list-without-markers {
+  width: 90%;
+}
+
+hr {
+  width: 90%;
+  color: var(--code-text);
+  margin: 1.5em 0;
+}
+
+header {
+  width: 90%;
 }
   
   /* Add more styles as needed for small devices */
