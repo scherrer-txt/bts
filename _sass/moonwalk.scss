@@ -200,8 +200,7 @@ p, strong, b, em, small, hr, table, figcaption {
 ul {
   display: flex;
   flex-direction: column;
-  padding-right: 40px;
-  width: 65%;
+  width: 55%;
 }
 
 ul li {
@@ -209,7 +208,7 @@ ul li {
 }
 
 .footnotes {
-  width: 65%;
+  width: 55%;
 }
 
 .footnotes ol {
@@ -413,9 +412,15 @@ p code, li code {
 }
 
 // MARKDOWN TOC STYLE
-  #markdown-toc {
-    width: 65%;
+#markdown-toc {
+    display: flex;
+    flex-direction: column;
+    width: 55%;
   }
+
+#markdown-toc li {
+  width: fit-content;
+}
   
 // MENU
   }
