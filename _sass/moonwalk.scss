@@ -15,6 +15,23 @@ body {
   margin-top: 2.14em;
 }
 
+header {
+  display: flex;
+  flex-direction: column;
+}
+
+header h1 {
+  font-size: 6rem;
+  line-height: 5.7rem;
+  letter-spacing: -0.1rem;
+  width: fit-content;
+  margin: 0;
+}
+
+header p {
+  width: fit-content;
+}
+
 pre, code {
   font-family: "Roboto Mono", monospace;
   font-size: 1rem;
