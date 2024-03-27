@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Kreativita, originalita a rap
-subtitle: Behind the Screens
+perex: Podporuju užívání těžký drogy — kvůli mindfulness. Další článek zpoza obrazovek, tentokrát o alkoholu.
+order: 13
+release: 23/11
 author: scherrer.txt
 thumbnail: /assets/bts-14-thumb.png
-img: /assets/bts-14-thumb.png
-order: 13
 ---
 
 Jak do sebe zapadá kreativita a originalita? A co rap? Další Behind the Screens! Držte si klobouky, we are going metaphysical!
