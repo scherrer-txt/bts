@@ -180,12 +180,12 @@ html, body {
 }
 h1, h2, h3, h4, h5, h6 {
     color: var(--headings);
-    max-width: 65%;
+    width: 65%;
     margin: 4rem auto 0;
 }
 p, strong, b, em, small, li, hr, table, figcaption {
     color: var(--text);
-    max-width: 65%;
+    width: 65%;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
@@ -678,8 +678,9 @@ blockquote {
   border-top: 2px var(--code-text) solid;
   margin: 1em 0;
   width: 65%;
+  height: 2px;
 } 
-
+    
 .menu {
   padding-bottom: 1rem;
   margin-left: 2em;
