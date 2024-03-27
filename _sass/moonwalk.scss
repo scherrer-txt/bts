@@ -554,6 +554,11 @@ blockquote {
   margin-bottom: 0px;
 }
 
+.title-index-container {
+  width: calc(50% - 24px); /* Adjust width as needed */
+  flex-grow: 1; /* Fill remaining space */
+}
+
 .num-rel-container {
   display: flex;
   gap: 48px;
@@ -687,6 +692,10 @@ blockquote {
 
 .post-index {
   flex-direction: column;
+}
+
+.title-index-container {
+  width: 100%;
 }
   
   /* Add more styles as needed for small devices */
