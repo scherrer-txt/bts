@@ -410,17 +410,6 @@ p code, li code {
 .thumbnail-container {
   margin-bottom: 1rem; /* Adjust the margin as needed */
 }
-
-// MARKDOWN TOC STYLE
-#markdown-toc {
-    display: flex;
-    flex-direction: column;
-    width: 55%;
-  }
-
-#markdown-toc li[id^="markdown-toc-"] {
-  width: fit-content;
-}
   
 // MENU
   }
