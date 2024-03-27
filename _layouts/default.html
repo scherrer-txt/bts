@@ -3,6 +3,8 @@
         {%- include head.html -%}
   <body>
 <div class="overlay"></div>
+          {% include horizontal_list.html collection=site.data.home.navbar_entries %} -->
+  <div class="dashed"></div>
     <main class="page-content" aria-label="Content">
       <div class="w">
         {{ content }}
