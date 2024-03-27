@@ -526,18 +526,7 @@ blockquote p {
   display: flex;
   flex-direction: column;
   /* margin: 0 auto;  */
-  /* max-width: 65%; */
-}
-
-.post-meta-container.list { /* RENAME TO post-list-container ASAP */
-  display: flex;
-  flex-direction: column;
-  /* margin: 0 auto;  */
   max-width: 65%;
-}
-
-.post-meta-container.list:first-child { /* RENAME TO post-list-container ASAP */
-  margin-top: 3rem;
 }
 
 .post-meta {
@@ -625,6 +614,19 @@ blockquote p {
 // POST META END
 
 // POST INDEX
+.post-list-container {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  max-width: 65%;
+}
+
+.post-list-container:first-child {
+  margin-top: 3rem;
+}
+
 .post-index {
   display: flex;
   gap: 48px;
