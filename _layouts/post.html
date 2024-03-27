@@ -54,16 +54,23 @@ layout: default
 
 <div class="post-navigation">
   {% if page.previous %}
-    <div class="pagination">
-      <a href="{{ site.url }}{{ page.previous.url }}" class="prev-button">Starší článek</a>
-      <p class="post-title-previous">{{ page.previous.title }}</p>
+    <div class="number-container">
+      <div class="post-meta-label">← Starší článek</div>
+      <div class="post-meta-content">
+        <h2 class="post-meta-info">
+          <a href="{{ site.url }}{{ page.previous.url }}" class="prev-button">{{ page.previous.order }}</a>
+        </h2>
+      </div>
     </div>
   {% endif %}
   {% if page.next %}
-    <div class="pagination">
-      <div class="pagination-divider"></div>
-      <a href="{{ site.url }}{{ page.next.url }}" class="next-button">Novější článek</a>
-      <p class="post-title-next">{{ page.next.title }}</p>
+    <div class="number-container">
+      <div class="post-meta-label">Novější článek →</div>
+      <div class="post-meta-content">
+        <h2 class="post-meta-info">
+          <a href="{{ site.url }}{{ page.next.url }}" class="next-button">{{ page.next.order }}</a>
+        </h2>
+      </div>
     </div>
   {% endif %}
 </div>
