@@ -96,6 +96,9 @@ p { margin: 1em 0; }
 li { margin: 0.4em 0; }
 
 .list-without-markers {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
   list-style-type: none;
   padding-left: 0px;
 }
