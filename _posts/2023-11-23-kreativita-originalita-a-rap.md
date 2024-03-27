@@ -1,15 +1,11 @@
 ---
 layout: post
 title: Kreativita, originalita a rap
-perex: Podporuju užívání těžký drogy — kvůli mindfulness. Další článek zpoza obrazovek, tentokrát o alkoholu.
+perex: Jak do sebe zapadá kreativita a originalita? A co rap? Další Behind the Screens! Držte si klobouky, we are going metaphysical!
 order: 13
 release: 23/11
 author: scherrer.txt
-thumbnail: /assets/bts-14-thumb.png
----
-
-Jak do sebe zapadá kreativita a originalita? A co rap? Další Behind the Screens! Držte si klobouky, we are going metaphysical!
-
+thumbnail: /assets/bts-13-thumb.png
 ---
 
 ### Obsah
