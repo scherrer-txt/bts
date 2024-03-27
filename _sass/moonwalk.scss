@@ -459,7 +459,8 @@ blockquote {
 .post-meta-container {
   display: flex;
   flex-direction: column;
-  /* gap: 48px; */
+  margin: 0 auto;
+  max-width: 65%;
 }
 
 .post-meta {
@@ -470,7 +471,6 @@ blockquote {
   margin-bottom: 6rem;
   margin-left: 0;
   margin-right: 0;
-  max-width: 65%;
 }
 
 .post-meta-label {
