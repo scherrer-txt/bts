@@ -77,7 +77,11 @@ pre, code {
   margin-bottom: 1rem;
 }
 
-hr { margin: 3em 0; }
+hr {
+  width: 65%;
+  color: var(--code-text);
+  margin: 3em 0;
+}
 
 hr.page-break {
   text-align: center;
@@ -193,11 +197,19 @@ p, strong, b, em, small, li, hr, table, figcaption {
   border-radius: 25px;
 }
 
-ol, ul {
+ol, ul, li {
   max-width: 65%;
 }
 
-li {
+li p {
+  width: fit-content;
+}
+
+ul p {
+  width: fit-content;
+}
+
+ol p {
   width: fit-content;
 }
 
