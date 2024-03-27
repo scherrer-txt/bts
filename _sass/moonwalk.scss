@@ -452,7 +452,10 @@ blockquote {
   font-weight: 400;
   color: var(--code-text);
   line-height: 3rem;
-/*    p { margin: 0; } */
+}
+
+blockquote p {
+  max-width: 100%
 }
 
 // POST META
@@ -493,6 +496,7 @@ blockquote {
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 0;
+  width: fit-content;
 }
 
 .post-meta-info-title {
@@ -504,7 +508,7 @@ blockquote {
   margin-bottom: 0px;
   letter-spacing: -0.1rem;
   margin-left: 0;
-  max-width: fit-content;
+  width: fit-content;
 }
 
 .post-meta-info-small {
@@ -516,7 +520,7 @@ blockquote {
   margin-bottom: 0px;
   letter-spacing: 0.02rem;
   margin-left: 0;
-  max-width: fit-content;
+  width: fit-content;
 }
 
 .post-meta-content {
@@ -564,7 +568,7 @@ blockquote {
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 0;
-  max-width: fit-content;
+  width: fit-content;
 }
 
 .post-index-title {
@@ -575,7 +579,7 @@ blockquote {
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 0;
-  max-width: fit-content;
+  width: fit-content;
 }
 
 .title-index-container {
