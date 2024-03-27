@@ -610,9 +610,8 @@ blockquote {
 
 .menu {
   padding-bottom: 1rem;
-  border-bottom: 1px solid var(--code-text);
-  padding-left: 2em;
-  padding-right: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
 }
   
 .menu-list li {
