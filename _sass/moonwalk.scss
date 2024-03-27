@@ -187,7 +187,7 @@ h1, h2, h3, h4, h5, h6 {
     width: 65%;
     margin: 4rem auto 0;
 }
-p, strong, b, em, small, li, hr, table, figcaption {
+p, strong, b, em, small, hr, table, figcaption {
     color: var(--text);
     width: 65%;
     margin-top: 1rem;
@@ -197,7 +197,31 @@ p, strong, b, em, small, li, hr, table, figcaption {
   border-radius: 25px;
 }
 
+ul {
+  display: flex;
+  flex-direction: column;
+  padding-right: 40px;
+  width: 65%;
+}
+
 ul li {
+  width: fit-content;
+}
+
+.footnotes {
+  width: 65%;
+}
+
+.footnotes ol {
+  display: flex;
+  flex-direction: column;
+}
+
+.footnotes li {
+  width: fit-content;
+}
+
+.footnotes li p {
   width: fit-content;
 }
 
