@@ -1,20 +1,20 @@
 ---
 layout: post
 title: Follow no one
-subtitle: Behind the Screens
+perex: Tenhle článek je o sociálních sítích, o jejich dopadu na lidi, o svobodné vůli, sebevědomí a vlastní identitě.
+order: 07
+release: 21/11
 author: scherrer.txt
 thumbnail: /assets/bts-07-thumb.png
-img: /assets/bts-07-thumb.png
-order: 07
 ---
-
-Tenhle článek je o sociálních sítích, o jejich dopadu na lidi, o svobodné vůli, sebevědomí a vlastní identitě.
 
 ### Obsah
 {:.no_toc}
 
 * TOC
 {:toc}
+
+---
 
 ## Rychlý úvod
 Jsem typ člověka[^1], co musí pořád vstřebávat nějaký informace. Nahodně se mi v hlavě vynořují otázky, na který musím znát odpovědi. Díky tomu existuje málo témat, o kterých bych se s někým nedokázal bavit. Na to jsem byl vždycky docela hrdý.
