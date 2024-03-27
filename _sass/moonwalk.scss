@@ -104,9 +104,12 @@ i {
 
 /* Page Width */
 .w {
-  width: 1170px;
+  display: flex;
+  flex-direction: column;
   margin: 0 auto;
   padding: 7em 2em;
+  max-width: 65%;
+  align-items: center;
 }
 
 table, th, td {
