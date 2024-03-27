@@ -7,12 +7,6 @@ layout: default
 <meta property="og:image:height" content="1080">
 {% endif %}
 
-<header>
-{% if site.theme_config.show_navbar == true %}
-  {% include horizontal_list.html collection=site.data.home.navbar_entries %}
-  <div class="dashed"></div>
-{% endif %}
-
 <!-- <div class="thumbnail-container">
   {% if page.thumbnail %}
     <img src="{{ site.baseurl }}{{ page.thumbnail }}" alt="Thumbnail Image">
@@ -51,23 +45,6 @@ layout: default
     </div>
   </div>
 </div>
-
-  
-<!-- {% if page.subtitle or page.order %}
-  <div class="post-meta">
-    {% if page.subtitle %}
-      <h5 class="post-subtitle">{{ page.subtitle }}</h5>
-    {% endif %}
-    
-    {% if page.subtitle and page.order %}
-      <h5 class="post-subtitle"> | </h5>
-    {% endif %}
-        
-    {% if page.order %}
-      <h5 class="post-subtitle">{{ page.order }}</h5>
-    {% endif %}
-  </div>
-{% endif %} -->
 
 {% include date_and_social_share.html %}
   
