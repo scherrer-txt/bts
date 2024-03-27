@@ -375,7 +375,10 @@ p code, li code {
   margin: 1em 0;
 }
 
-.menu, .menu-list {
+.menu {
+}
+
+.menu-list {
   display: flex;
   list-style-type: none;
   flex-direction: row;
