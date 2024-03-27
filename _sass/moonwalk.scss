@@ -831,11 +831,11 @@ blockquote p {
 }
 
   .menu-list {
-  width: 90%;
+  width: 95%;
 }
   
   .menu {
-  max-width: 90%;
+  max-width: 95%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -851,6 +851,14 @@ p, strong, b, em, small, hr, table, figcaption {
     margin-bottom: 1rem;
 }
 
+  .footnotes {
+    width: 90%;
+  }
+  
+ol {
+  width: 90%;
+}
+  
   .list-without-markers {
   width: 90%;
 }
@@ -863,6 +871,11 @@ hr {
 
 header {
   width: 90%;
+}
+
+.theme-toggle {
+  margin-top: 2em;
+  margin-right: 3em;
 }
   
   /* Add more styles as needed for small devices */
