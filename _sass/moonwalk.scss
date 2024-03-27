@@ -104,9 +104,9 @@ i {
 
 /* Page Width */
 .w {
-  max-width: 760px;
+  width: 1170px;
   margin: 0 auto;
-  padding: 4em 2em;
+  padding: 7em 2em;
 }
 
 table, th, td {
@@ -177,9 +177,13 @@ html, body {
 }
 h1, h2, h3, h4, h5, h6 {
     color: var(--headings);
+    max-width: 75%;
+    margin: 0 auto;
 }
 p, strong, b, em, small, li, hr, table, figcaption {
     color: var(--text);
+    max-width: 75%;
+    margin: 2rem auto 0;
 }
 .highlight, pre code {
   border-radius: 25px;
@@ -437,10 +441,10 @@ p code, li code {
 blockquote {
   font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 3rem;
-  font-weight: 600;
+  font-weight: 400;
   color: var(--code-text);
   line-height: 3rem;
-    p { margin: 0; }
+/*    p { margin: 0; } */
 }
 
 // POST META
@@ -493,7 +497,7 @@ blockquote {
   font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 1.5rem;
   color: var(--text);
-  line-height: 1.5rem;
+  line-height: 1.3;
   margin-top: 0px;
   margin-bottom: 0px;
   letter-spacing: 0.02rem;
