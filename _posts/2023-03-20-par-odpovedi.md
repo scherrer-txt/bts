@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Pár odpovědí na otázky
-subtitle: Behind the Screens
+perex: V roce 2021 jsem odpověděl na pár otázek. V roce 2023 jsem se k nim vrátil a položil si je znova.
+order: 11
+release: 23/03
 author: scherrer.txt
 thumbnail: /assets/bts-11-thumb.png
-img: /assets/bts-11-thumb.png
-order: 11
 ---
 
 Od mého rozhovoru pro [KOLABO MAG](https://medium.com/@kolabocrew) v prosinci 2021 uplynul rok. Rozhodl jsem sdílet rozhovor i tady a svoje odpovědi trochu zaktualizovat.
