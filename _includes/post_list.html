@@ -1,7 +1,6 @@
 {% if site.posts.size > 0 %}
-  <div class="list-without-markers">
-    {% for post in site.posts %}
-      <li class="post-meta-container-list">
+{% for post in site.posts %}
+      <div class="post-meta-container-list">
         <div class="post-index">
           <div class="title-index-container">
             <div class="post-meta-label">Název</div>
@@ -25,7 +24,6 @@
             </div>
           </div>
         </div>
-      </li>
     {% endfor %}
   </div>
 {% endif %}
