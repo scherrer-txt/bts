@@ -1,15 +1,11 @@
 ---
 layout: post
 title: Udělal jsem první český AI obálky
-subtitle: Behind the Screens
+perex: Jak jsem udělal jedny z prvních knižních AI obálek v Česku — tohle je další Behind the Screens!
+order: 12
+release: 23/10
 author: scherrer.txt
 thumbnail: /assets/bts-12-thumb.png
-img: /assets/bts-12-thumb.png
-order: 12
----
-
-Jak jsem udělal jedny z prvních knižních AI obálek v Česku — tohle je další Behind the Screens!
-
 ---
 
 ### Obsah
