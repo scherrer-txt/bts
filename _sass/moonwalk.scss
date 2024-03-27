@@ -384,13 +384,15 @@ p code, li code {
 }
 
 .menu {
+  max-width: 1170px;
+  margin: 0 auto;
 }
 
 .menu-list {
   display: flex;
   list-style-type: none;
   flex-direction: row;
-  max-width: 760px;
+  max-width: 65%;
   margin: 0 auto;
   padding-bottom: 1rem;
   border-bottom: 2px solid var(--code-text);
@@ -402,6 +404,10 @@ p code, li code {
   margin-right: 4rem;
 }
 
+.menu-list li:first-child {
+  margin-left: 0;
+}
+
 .menu-list li:last-child {
   margin-right: 0;
 }
@@ -411,12 +417,14 @@ p code, li code {
 //PAGINATION
 .post-navigation {
   display: flex;
-  justify-content: space-between;
+  gap: 48px;
+  flex-flow: wrap;
+  max-width: 75%;
+  margin: 0 auto;
 }
 
 .pagination {
-  flex: 0 0 auto; /* Prevent the items from growing or shrinking */
-  max-width: calc(50% - 10px); /* Adjust the width as needed */
+  width: 561px;
   margin-top: 5em;
 }
 
@@ -460,6 +468,9 @@ blockquote {
   gap: 48px;
   flex-wrap: wrap;
   margin-bottom: 6rem;
+  margin-left: 0;
+  margin-right: 0;
+  max-width: 65%;
 }
 
 .post-meta-label {
@@ -493,6 +504,7 @@ blockquote {
   margin-bottom: 0px;
   letter-spacing: -0.1rem;
   margin-left: 0;
+  max-width: fit-content;
 }
 
 .post-meta-info-small {
@@ -504,6 +516,7 @@ blockquote {
   margin-bottom: 0px;
   letter-spacing: 0.02rem;
   margin-left: 0;
+  max-width: fit-content;
 }
 
 .post-meta-content {
@@ -550,6 +563,8 @@ blockquote {
   line-height: 2rem;
   margin-top: 0px;
   margin-bottom: 0px;
+  margin-left: 0;
+  max-width: fit-content;
 }
 
 .post-index-title {
@@ -559,6 +574,8 @@ blockquote {
   line-height: 4rem;
   margin-top: 0px;
   margin-bottom: 0px;
+  margin-left: 0;
+  max-width: fit-content;
 }
 
 .title-index-container {
