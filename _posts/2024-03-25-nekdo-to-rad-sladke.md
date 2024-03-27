@@ -8,6 +8,7 @@ img: /assets/bts-15-thumb.png
 order: 16
 perex: Podporuju užívání těžký drogy — kvůli mindfulness. Další článek zpoza obrazovek, tentokrát o alkoholu.
 release: 24/03
+toc_sticky: true
 ---
 
 ### Obsah
