@@ -116,9 +116,9 @@ li { margin: 0.4em 0; }
 .list-without-markers {
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 65%;
   list-style-type: none;
-  padding-left: 0px;
+  /* padding-left: 0px; */
 }
 
 em,
@@ -519,8 +519,8 @@ blockquote p {
 .post-meta-container {
   display: flex;
   flex-direction: column;
-  margin: 0 auto;
-  max-width: 65%;
+  /* margin: 0 auto;
+  max-width: 65%; */
 }
 
 .post-meta {
