@@ -193,6 +193,14 @@ p, strong, b, em, small, li, hr, table, figcaption {
   border-radius: 25px;
 }
 
+ol, ul {
+  max-width: 65%;
+}
+
+li {
+  width: fit-content;
+}
+
 sup {
   vertical-align: text-top;
   line-height: 0.3em;
@@ -380,6 +388,11 @@ p code, li code {
   margin-bottom: 1rem; /* Adjust the margin as needed */
 }
 
+// MARKDOWN TOC STYLE
+  #markdown-toc {
+    width: 65%;
+  }
+  
 // MENU
   }
 
