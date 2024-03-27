@@ -1,6 +1,7 @@
 {% if site.posts.size > 0 %}
+<ul class="ul.no-bullets">
 {% for post in site.posts %}
-      <div class="post-meta-container-list">
+      <li class="post-list-container">
         <div class="post-index">
           <div class="title-index-container">
             <div class="post-meta-label">Název</div>
@@ -25,5 +26,6 @@
           </div>
         </div>
     {% endfor %}
-  </div>
+  </li>
+</ul>
 {% endif %}
