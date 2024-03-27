@@ -1,4 +1,5 @@
 {% if site.posts.size > 0 %}
+  <div class="list-without-markers">
   {% for post in site.posts | limit: 5 %}
       <li class="post-meta-container.list">
         <div class="post-index">
@@ -24,5 +25,6 @@
         </div>
       </li>
     {% endfor %}
+  </div>
 {% endif %}
 <p><a href="vypis">Všechny články</a></p>
