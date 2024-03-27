@@ -1,15 +1,11 @@
 ---
 layout: post
 title: O zpětné vazbě
-subtitle: Behind the Screens
+perex: Před 10 lety jsem napsal svoji první povídku, která vyhrála v soutěži a vyšla ve sborníku. Proč jsem si dal od psaní 5 let pauzu a jak s tím souvisí zpětná vazba?
+order: 08
+release: 21/12
 author: scherrer.txt
 thumbnail: /assets/bts-08-thumb.png
-img: /assets/bts-08-thumb.png
-order: 08
----
-
-Před 10 lety jsem napsal svoji první povídku, která vyhrála v soutěži a vyšla ve sborníku. Proč jsem si dal od psaní 5 let pauzu a jak s tím souvisí zpětná vazba?
-
 ---
 
 ### Obsah
