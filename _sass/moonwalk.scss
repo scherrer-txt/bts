@@ -328,6 +328,12 @@ mark {
 .home-date {
   font-family: "Roboto Mono", "Courier New", monospace;
 } */
+
+ul.no-bullets {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
   
 .post-list-item a {
 }
