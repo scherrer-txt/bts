@@ -1,12 +1,12 @@
 {% if site.posts.size > 0 %}
 <ul class="list-without-markers">
 <div class="post-meta-container">
-  
   <div class="post-index">
     <div class="theme-container">
       <div class="post-meta-label">Název</div>
       <div class="post-meta-content">
         <h2 class="post-index-title">{{ post.title }}</h2>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </div>
     </div>
     <div class="number-index-container">
@@ -22,7 +22,6 @@
       </div>
     </div>
   </div>
-  
 </div>
 </ul>
 {% endif %}
