@@ -131,7 +131,7 @@ img {
   html, body {
       --bg: #E3D1CC;
       --bg-secondary: #E3D1CC;
-      --headings: #121212;
+      --headings: #595959; /* #121212 */
       --text: #313131;
       --text-secondary: #612EA3;
       --text-italic: #823B17;
@@ -145,7 +145,7 @@ img {
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   html, body  {
-      --headings: #E3D1CC;
+      --headings: #595959; /* #E3D1CC */
       --links: #2AFF00;
       --links-hover: #00FFFF;
       --highlight: #b20000;
@@ -461,12 +461,13 @@ blockquote {
 .post-meta-label {
   font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 0.8rem;
-  font-weight: 600;
+  font-weight: 500;
   text-transform: uppercase;
   color: var(--text-secondary);
   line-height: 0.8rem;
   margin-top: 0px;
   margin-bottom: 0px;
+  letter-spacing: 0.03rem;
 }
 
 .post-meta-info {
@@ -485,7 +486,7 @@ blockquote {
   line-height: 5.7rem;
   margin-top: 0px;
   margin-bottom: 0px;
-  letter-spacing: -0.2rem;
+  letter-spacing: -0.1rem;
 }
 
 .post-meta-info-small {
@@ -495,6 +496,7 @@ blockquote {
   line-height: 1.5rem;
   margin-top: 0px;
   margin-bottom: 0px;
+  letter-spacing: 0.02rem;
 }
 
 .post-meta-content {
