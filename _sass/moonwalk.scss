@@ -526,6 +526,13 @@ blockquote p {
   display: flex;
   flex-direction: column;
   /* margin: 0 auto;  */
+  /* max-width: 65%; */
+}
+
+.post-meta-container.list { /* RENAME TO post-list-container ASAP *//
+  display: flex;
+  flex-direction: column;
+  /* margin: 0 auto;  */
   max-width: 65%;
 }
 
