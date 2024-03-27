@@ -444,7 +444,7 @@ blockquote {
 .post-meta-container {
   display: flex;
   flex-direction: column;
-  gap: 48px;
+  /* gap: 48px; */
 }
 
 .post-meta {
@@ -452,6 +452,7 @@ blockquote {
   align-items: baseline;
   gap: 48px;
   flex-wrap: wrap;
+  margin-bottom: 6rem;
 }
 
 .post-meta-label {
@@ -473,6 +474,17 @@ blockquote {
   line-height: 3rem;
   margin-top: 0px;
   margin-bottom: 0px;
+}
+
+.post-meta-info h1 {
+  font-family: "roc-grotesk", sans-serif;
+  font-size: 6rem;
+  font-weight: 800;
+  color: var(--text);
+  line-height: 5.7rem;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  letter-spacing: -0.2rem;
 }
 
 .post-meta-info-small {
