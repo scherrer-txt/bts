@@ -536,6 +536,10 @@ blockquote p {
   max-width: 65%;
 }
 
+.post-meta-container.list:first-child { /* RENAME TO post-list-container ASAP */
+  margin-top: 3rem;
+}
+
 .post-meta {
   display: flex;
   align-items: baseline;
