@@ -375,7 +375,7 @@ p code, li code {
   margin: 1em 0;
 }
 
-.menu {
+.menu, .menu-list {
   display: flex;
   list-style-type: none;
   flex-direction: row;
@@ -384,12 +384,6 @@ p code, li code {
   margin: 0 auto;
   padding-bottom: 1rem;
   border-bottom: 2px solid var(--code-text);
-}
-
-.menu-list {
-  /* Styles for the menu list */
-  list-style-type: none; /* Remove default list styles */
-  padding: 0;
 }
 
 .menu-list li {
