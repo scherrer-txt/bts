@@ -418,7 +418,7 @@ p code, li code {
     width: 55%;
   }
 
-#markdown-toc li {
+#markdown-toc li[id^="markdown-toc-"] {
   width: fit-content;
 }
   
