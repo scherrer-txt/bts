@@ -218,7 +218,7 @@ p, strong, b, em, small, hr, table, figcaption {
   border-radius: 25px;
 }
 
-ul {
+ul, ol {
   display: flex;
   flex-direction: column;
   width: 55%;
