@@ -1,7 +1,7 @@
 ---
 layout: post
-title: O umělém umění
-perex: Tohle je další Behind the Screens. Tentokrát o inspiraci, umění a etice výtvorů umělé inteligence.
+title: O umělým umění
+perex: Další článek zpoza obrazovek. O inspiraci, umění a etice výtvorů umělý inteligence.
 order: 10
 release: 23/03
 author: scherrer.txt
