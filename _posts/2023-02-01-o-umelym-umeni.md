@@ -3,7 +3,7 @@ layout: post
 title: O umělým umění
 perex: Další článek zpoza obrazovek. O inspiraci, umění a etice výtvorů umělý inteligence.
 order: 10
-release: 23/03
+release: 23-03
 author: scherrer.txt
 thumbnail: /assets/bts-10-thumb.png
 ---
