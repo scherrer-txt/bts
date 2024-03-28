@@ -3,7 +3,7 @@ layout: post
 title: Follow no one
 perex: Tenhle článek je o sociálních sítích, o jejich dopadu na lidi, o svobodné vůli, sebevědomí a vlastní identitě.
 order: 07
-release: 21/11
+release: 21-11
 author: scherrer.txt
 thumbnail: /assets/bts-07-thumb.png
 ---
