@@ -3,7 +3,7 @@ layout: post
 title: Boostnutý umělou inteligencí
 perex: Od experimentů s AI k demokratizaci umění. Tohle je další Behind the Screens!
 order: 09
-release: 23-01
+release: 2023/01
 author: scherrer.txt
 thumbnail: /assets/bts-09-thumb.png
 ---

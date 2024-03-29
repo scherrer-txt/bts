@@ -3,7 +3,7 @@ layout: post
 title: Udělal jsem první český AI obálky
 perex: Jak jsem udělal jedny z prvních knižních AI obálek v Česku — tohle je další Behind the Screens!
 order: 12
-release: 23-10
+release: 2023/10
 author: scherrer.txt
 thumbnail: /assets/bts-12-thumb.png
 ---

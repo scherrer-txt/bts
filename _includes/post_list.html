@@ -1,25 +1,26 @@
 {% if site.posts.size > 0 %}
   <div class="list-without-markers">
-  {% for post in site.posts %}
-      <li class="post-meta-container.list">
+    {% for post in site.posts %}
+      <li class="post-meta-container list">
         <div class="post-index">
-          <div class="title-index-container">
-            <div class="post-meta-label">Název</div>
-            <div class="post-meta-content">
-              <h2 class="post-index-title">
-              <a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-            </div>
-          </div>
           <div class="number-index-container">
             <div class="post-meta-label">Číslo</div>
             <div class="post-meta-content">
               <h3 class="post-index-info">{{ post.order }}</h3>
             </div>
           </div>
+          <div class="title-index-container">
+            <div class="post-meta-label">Název</div>
+            <div class="post-meta-content">
+              <h2 class="post-index-title-small">
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+              </h2>
+            </div>
+          </div>
           <div class="release-index-container">
             <div class="post-meta-label">Vyšlo</div>
             <div class="post-meta-content">
-              <h4 class="post-index-info">{{ post.release }}</h4>
+              <h4 class="post-index-info-release">{{ post.release }}</h4>
             </div>
           </div>
         </div>

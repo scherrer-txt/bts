@@ -3,7 +3,7 @@ layout: post
 title: Bezčasí, který mění život
 perex: Bez času, bez tlaku, s kávou v hrnku. V tomhle Behind the Screens se ponoříme do věcí, který mění život.
 order: 15
-release: 24-02
+release: 2024/02
 author: scherrer.txt
 thumbnail: /assets/bts-15-thumb.png
 ---
