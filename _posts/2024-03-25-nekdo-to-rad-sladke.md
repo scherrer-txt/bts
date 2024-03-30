@@ -18,7 +18,7 @@ thumbnail: /assets/bts-16-thumb.png
 
 ## Krátký úvod
 
-Myslel jsem si, že mám rád whiskey. Nebo že bych ji *měl* mít rád. Popíjení whiskey mi pořád přijde jako společensky přijatelná, taková docela běžná „*chlapská*“ věc. Kdybych řekl, že to dělám rád a pravidelně, nejspíš to nezpůsobí moc velký údiv. Všechny ty reklamy, filmy, seriály a ostatní média, který konzumujeme, se na našem způsobu nahlížení na svět prostě podepisují.
+**Myslel** jsem si, že mám rád whiskey. Nebo že bych ji *měl* mít rád. Popíjení whiskey mi pořád přijde jako společensky přijatelná, taková docela běžná „*chlapská*“ věc. Kdybych řekl, že to dělám rád a pravidelně, nejspíš to nezpůsobí moc velký údiv. Všechny ty reklamy, filmy, seriály a ostatní média, který konzumujeme, se na našem způsobu nahlížení na svět prostě podepisují.
 
 ## Whiskey je pití sebevědomých
 
