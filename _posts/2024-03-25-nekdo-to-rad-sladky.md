@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Někdo to rád sladké | Behind the Screens | by Scherrer.txt"
-name: Někdo to rád sladké
+title: "Někdo to rád sladký | Behind the Screens | by Scherrer.txt"
+name: Někdo to rád sladký
 perex: Podporuju užívání těžký drogy — kvůli mindfulness. Další článek zpoza obrazovek, tentokrát o alkoholu.
 order: "16"
 release: 2024/03
@@ -19,7 +19,7 @@ thumbnail: /assets/bts-16-thumb.png
 
 ## Krátký úvod
 
-**Myslel** jsem si, že mám rád whiskey. Nebo že bych ji *měl* mít rád. Popíjení whiskey mi pořád přijde jako společensky přijatelná, taková docela běžná „*chlapská*“ věc. Kdybych řekl, že to dělám rád a pravidelně, nejspíš to nezpůsobí moc velký údiv. Všechny ty reklamy, filmy, seriály a ostatní média, který konzumujeme, se na našem způsobu nahlížení na svět prostě podepisují.
+Myslel jsem si, že mám rád whiskey. Nebo že bych ji *měl* mít rád. Popíjení whiskey mi pořád přijde jako společensky přijatelná, taková docela běžná „*chlapská*“ věc. Kdybych řekl, že to dělám rád a pravidelně, nejspíš to nezpůsobí moc velký údiv. Všechny ty reklamy, filmy, seriály a ostatní média, který konzumujeme, se na našem způsobu nahlížení na svět prostě podepisují.
 
 ## Whiskey je pití sebevědomých
 
@@ -65,40 +65,40 @@ Na nějakou dobu jsem se rumům přestal věnovat. Pak ale můj kamarád Stalin 
 
 Domů jsem si vzal celý jejich menu, ze kterýho jsem odstříhal všechno, co mě nezajímalo. Zůstal mi jen fragment s rumy. Další návštěvy vypadaly tak, že jsem se podíval do svýho rozstříhanýho menu a po dvojících si objednával panáky. Ty jsem ochutnával, porovnával a prožíval. Pocity a poznatky jsem si zapisoval do messenger chatu se sebou, abych to měl jednoduše po ruce. Hodnotil jsem vůni, chuť a pak i texturu. Z menu jsem postupně odškrtával. Stala se z toho výzva — ochutnat všechny rumy v BKN.
 
-V době psaní článku mám v rumovým deníku 126 zápisů. Zmíněný rum od A.H. Riise, Non Plus Ultra — v překladu „*Nic víc není*“ — zatím dostál svýmu jménu. Objevil jsem ale spoustu rumů, který jsou skvělý, zajímavý, naprosto překvapivý a nebo který mi vrací vzpomínky na dávno zapomenutý časy.
+Z výzvy „*ochutnat všechny rumy v BKN*“ se pak stala „*ochutnat co nejvíc rumů*“. Chci jich poznat co nejvíc. Pokud někde mají rum, který jsem ještě neměl, tak si ho dám. Za ty zhruba dva roky, co tohle dělám, nevím o rumech zdaleka všechno. Nevím vlastně skoro vůbec nic. Ale to proto, že to pro mě není extra důležitý. *I’m in it for the experience*. Není to závod nebo vědomostní soutěž. Znát příběh lahve nebo palírny může být zajímavý flex, ale chuť rumu to neovlivní — jen vytváří očekávaní. A to je blbý. Těžko se to potlačuje a mám vypozorovaný, že pak hodnotím víc nepřesně. Lepší je nic nevědět, vychutnat, zůstat s tím rumem chvilku, zhodnotit a pak teprv — když už je zážitek prožitý — se o tom od barmana něco dozvědět. Nebo když už to přijde předtím, tak se naučit od tý upoutávky odprostit a nevytvářet si dopředu očekávání.
 
-Z výzvy „*ochutnat všechny rumy v BKN*“ se stala „*ochutnat co nejvíc rumů*“. Chci jich poznat co nejvíc. Pokud někde mají rum, který jsem ještě neměl, tak si ho dám. Za ty zhruba dva roky, co tohle dělám, nevím o rumech zdaleka všechno. Začínám ale poznávat konkrétní lahve. Není to pro mě ale důležitý. To, že znám příběhu lahve nebo palírny, chuť rumu neovlivní. Často ale vytváří očekávání a zabarvuje ryzost zážitku tím, že „*přece taková dobrá palírna neudělá něco, co mi nechutná*“ a to je blbý. Těžko se tenhle předsudek potlačuje a mám vypozorovaný, že pak hodnotím víc nepřesně. Lepší je nic nevědět, vychutnat, zůstat s tím rumem chvilku, zapsat a pak teprv — když už je zážitek prožitý — se o tom od barmana něco dozvědět. Nebo když už přijde, tak se naučit od tý upoutávky odprostit a nevytvářet si dopředu očekávání.
+V době psaní článku mám přesně 126 rumových zápisů. Zmíněný Non Plus Ultra — v překladu „*Nic víc není*“ — zatím pořád vede. Objevil jsem ale spoustu rumů, který jsou skvělý, zajímavý, naprosto překvapivý a nebo který mi vrací vzpomínky na dávno zapomenutý časy. Nejčastěji teď chodím do Air Café. Legendární brněnský podnik, který se kromě ginů zaměřuje i na rumy. Mají tam často dost zajímavý a vzácný kousky. A hlavně tam maká můj kamarád a oblíbený barman.
 
 ## Co jsem o sobě zjistil
 
-Nemám rád, když mi někdo říká, co mám mít rád. Mám rád sladký rumy. Moje cesta vedla od těch nejsušších, nejuzenějších, nejnakouřenějších whiskey k sladkým rumům a rumovým elixirům.
+Nemám rád, když mi někdo říká, co mám mít rád. Mám rád sladký rumy. Moje cesta vedla od těch nejsušších, nejuzenějších, nejnakouřenějších whiskey k sladkým rumům a rumovým elixirům. Myslím, že jsem se s tím docela sžil. Někdo to prostě má rád sladký.
 
 Experimentování a zkoušení nových věcí je tím jednodušší, čím častěji to člověk dělá. Stačí se tomu otevřít v jedný oblasti života, propíše se to všude. Klasický snowball effect.
 
-K tomu, abych se rumům věnoval, nepotřebuju komunitu. Nepotřebuju to s někým řešit, radit se, sdílet zážitky. Nepotřebuju točit stories, hrát si na experta, psát si to do bia na instagramu, pořádat nebo chodit na zážitkový kurzy. Je to věc, kterou si dělám sám pro sebe. Nestojí na tom moje identita. Jo, občas někomu doporučím něco, co si myslím, že by mu třeba mohlo chutnat, ale to je čistě situační. Hromada mých známých pravděpodobně doteď nevěděla o tom, že takhle piju rumy.
+K tomu, abych se rumům věnoval, nepotřebuju komunitu. Nepotřebuju to s někým řešit, radit se, sdílet zážitky. Nepotřebuju to točit stories, hrát si na experta, psát si to do bia na instagramu, chodit na zážitkový kurzy. Je to věc, kterou si dělám sám pro sebe. Nestojí na tom moje identita. Jo, občas někomu doporučím něco, co si myslím, že by mu třeba mohlo chutnat, ale to je čistě situační. Hromada mých známých pravděpodobně doteď nevěděla o tom, že takhle piju rumy.
 
 To, že jsem se soustředil na sebe a na svoje vlastní prožívání věcí, mi pomohlo se odprostit od nánosů cizích názorů. Zvědomil jsem si, co mám rád a co ne, sžil jsem se s tím a nenechal jsem si to vymluvit. Rád si občas zaexperimentuju a dám si nějakou whiskey, ale to jen výjimečně a protože chci, ne protože mi to někdo nacpe s tím, že to je to „*pravý, chlapský pití*. Naposledy jsem si takhle dal Suntory Toki a bylo to velmi příjemný. Ale za to mohla i společnost, kterou jsem tehdy měl.
 
-Občas se teda přistihnu, jak se mi na puse rýsuje povýšenecký úšklebek — to když vidím si někoho dávat do kvalitního panáku led. Efektivně tím totiž zabíjí veškerý nuance, chuť a vůni. Navíc se tím ten panák zbytečně ředí. Stačí tři stupně rozdíl a je to jiný panák. Propastný rozdíl. Jenže kdo jsem já, abych komukoliv říkal, jak si má vychutnávat věci. Let’s just enjoy things, brány není potřeba hlídat. Nic se nezkazí, když budou lidi volně objevovat a interagovat s tím, co mají rádi; tak, jak jim to vyhovuje. Navíc, třeba je pro to nějaký zajímavý důvod, takže fajn příležitost pro pokec a výměnu zkušeností. Krátký self check a naštěstí se ten úšklebek zase rychle odrýsuje.
+Občas se teda přistihnu, jak se mi na puse rýsuje povýšenecký úšklebek — to když vidím si někoho dávat do kvalitního panáku led. Efektivně tím totiž zabíjí veškerý nuance, chuť a vůni. Navíc se tím ten panák zbytečně ředí. Stačí tři stupně celsia rozdíl a je to úplně jiný panák. Propastný rozdíl. Jenže kdo jsem já, abych komukoliv říkal, jak si má vychutnávat věci. Let’s just enjoy things, brány není potřeba hlídat. Nic se nezkazí, když budou lidi volně objevovat a interagovat s tím, co mají rádi; tak, jak jim to vyhovuje. Takovýhle krátký self check naštěstí ten úšklebek zase rychle odrýsuje.
 
 ## Jak hodnotím
 
 Rumy hodnotím na škále 1-7; tři pozitivní (dobrý, lepší, nejlepší), tři negativní (špatný, horší, nejhorší) a jeden neutrální stupeň. 5 rumů mám na nejvyšší příčce. Dohromady 46 rumů mi chutnalo, 25 mi přišlo neutrálních, 51 mi nechutnalo.
 
-Rumy ochutnávám od 22. září 2022 znova — i proto číslo rumů, který mi nechutnaly, není příliš vysoký. Chybí klasický Havany, Millonaria, Zacapy, Morgany, Bacardi, Heffrony a Republicy. Tenhle typ rumů mi nechutná, protože jsou schválně dělaný buď 1) tak, aby ani neurazily, ani nenadchly. nebo 2) aby se pily buď s colou, na ledu nebo v drinku.
+Rumy ochutnávám od 22. září 2022 znova — i proto číslo rumů, který mi nechutnaly, není zas tak vysoký. Chybí klasický Havany, Millonaria, Zacapy, Morgany, Bacardi, Heffrony a Republicy. Tenhle typ rumů mi spíš nechutná, protože jsou schválně dělaný buď 1) tak, aby ani neurazily, ani nenadchly, nebo 2) aby se pily buď s colou, na ledu nebo v drinku. A já svoje rumy rád piju neat[^8]
 
-Měl jsem rum, co chutnal jako tekutý dřevo, lékořicový pendrek nebo rajčatová polívka. Měl jsem rum, jehož aftertaste jsem cítil ještě tři hodiny v krku, i rum, co měl sametovou, až sirupovou texturu. Rum, co chutnal jako moje oblíbený čokoládovo-karamelový belgický pralinky; rum, který chutnal tak, jak voněla stodola ve Švýcarsku[^8]; rum, co voněl po dešti a chutnal jako říční kameny. Rum, ve kterým šlo cítit moře a písečná pláž.
+Měl jsem rum, co chutnal jako tekutý dřevo, lékořicový pendrek nebo rajčatová polívka. Měl jsem rum, jehož aftertaste jsem cítil ještě tři hodiny v krku, i rum, co měl sametovou, až sirupovou texturu. Rum, co chutnal jako moje oblíbený čokoládovo-karamelový belgický pralinky; rum, který chutnal tak, jak voněla stodola ve Švýcarsku[^9]; rum, co voněl po dešti a chutnal jako říční kameny. Rum, ve kterým šlo cítit moře a písečná pláž.
 
-## Moje oblíbené rumy
+## Moje oblíbený rumy
 ### A. H. Riise Non Plus Ultra
 {:.no_toc}
-- Ve vůni vanilka a dřevo, lehce sušené švestky;
-- Chuť jemná, sladká, dřevitá; velmi jemně karamelová; dlouho příjemně hřeje v krku;
+- Ve vůni vanilka a dřevo, sušené švestky;
+- Chuť jemná, sladká, vytrvalá, dřevitá; velmi jemně karamelová; dlouho příjemně hřeje v krku;
 - Sametová textura;
 
 ### Belmont Coconut Spirit
 {:.no_toc}
-- Krásná, sladká vůně; lehce dřevitá, vanilková a čokoládová; tóny kokosu;
+- Lehce dřevitá, vanilková a čokoládová; tóny kokosu v závěru;
 - Chuť spíš sladká a jemná; silně kope, ale i tak/právě pro to velmi příjemný na pití;
 - Sametová, lehce sirupová textura;
 
@@ -110,8 +110,8 @@ Měl jsem rum, co chutnal jako tekutý dřevo, lékořicový pendrek nebo rajča
 
 ### Naga Shani
 {:.no_toc}
-- Vůně velmi bohatá; dřevo, sušené švestky
-- Tekutý dubový dřevo; tóny sušených švestek, vanilky, kokos;
+- Vůně velmi bohatá, kořeněná; dřevo, sušené švestky;
+- Tekutý dubový dřevo; tóny sušených švestek, vanilky, kokosu;
 - Jemná, olejovitá textura;
 
 ### Deadhead Dark Chocolate Monkey
@@ -126,10 +126,11 @@ Měl jsem rum, co chutnal jako tekutý dřevo, lékořicový pendrek nebo rajča
 
 {: data-content=“footnotes“}
 
-[^1]: Tomuhle se říká [Drink-Based Characterization trop](https://tvtropes.org/pmwiki/pmwiki.php/Main/DrinkBasedCharacterization). Trop je motiv/myšlenková zkratka, která pomáhá vyprávět příběhy a chápat postavy na základě často dost stereotypních představ. Každý klišé je trop, ale ne každý trop je klišé. Víc [o tropech tady](https://en.wikipedia.org/wiki/Trope_(literature)).
+[^1]: Tomuhle se říká [Drink-Based Characterization trop](https://tvtropes.org/pmwiki/pmwiki.php/Main/DrinkBasedCharacterization). Trop je motiv/myšlenková zkratka, která pomáhá vyprávět příběhy a chápat postavy na základě často dost stereotypních představ. Každý klišé je trop, ale ne každý trop je klišé. Víc [o tropech tady](https://en.wikipedia.org/wiki/Trope_(literature))
 [^2]: tzv. [Lactose over Liquor trope](https://tvtropes.org/pmwiki/pmwiki.php/Main/LactoseOverLiquor)
 [^3]: tzv. [Tea is Classy](https://tvtropes.org/pmwiki/pmwiki.php/Main/TeaIsClassy)
 [^4]: tzv. [Wine is Classy](https://tvtropes.org/pmwiki/pmwiki.php/Main/WineIsClassy)
 [^6]: [Why Stereotypes Are Harmful](https://momentousinstitute.org/resources/why-stereotypes-are-harmful)
 [^7]: Tehdy řídili pánové z [Hedonism Spirit](https://www.hedonismspirit.cz/)
-[^8]: Ano, to se děje — dokážu si podle vůně představit chuť. Ne, není to divný, [dává to smysl](https://www.brainfacts.org/Thinking-Sensing-and-Behaving/Taste/2012/Taste-and-Smell).
+[^8]: „*Neat*“ znamená, že je alkohol pokojový teploty nalitý do sklenice přímo z lahve, žádný led, prostě jen tak
+[^9]: Ano, to se děje — dokážu si podle vůně představit chuť. Ne, není to divný, [dává to smysl](https://www.brainfacts.org/Thinking-Sensing-and-Behaving/Taste/2012/Taste-and-Smell)
