@@ -2,7 +2,7 @@
 layout: post
 title: Někdo to rád sladké
 perex: Podporuju užívání těžký drogy — kvůli mindfulness. Další článek zpoza obrazovek, tentokrát o alkoholu.
-order: 16
+order: "16"
 release: 2024/03
 author: scherrer.txt
 thumbnail: /assets/bts-16-thumb.png

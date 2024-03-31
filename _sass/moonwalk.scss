@@ -6,33 +6,35 @@
 // -------------- COLORS -------------- //
 @mixin light-appearance {
   html, body {
-      --bg: #E3D1CC;
+      --bg: #EDDDD5;
       --bg-secondary: #E3D1CC;
-      --headings: #595959; /* #121212 */
-      --text: #313131;
-      --text-secondary: #612EA3;
-      --text-italic: #823B17;
-      --links: #006A97;
-      --links-hover: #0000ff;
-      --highlight: #FFECB2; // light yellow
+      --headings: #262626;
+      --text: #1C2E33;
+      --text-secondary: #FF5500;
+      --text-italic: #946e5b;
+      --links: #7700ff;
+      --links-hover: #A6A6A6;
+      --highlight: #FFECB2;
       --code-text: #595959;
       --share-text: #666666;
+      --transpa: rgba(237, 221, 213, 0.65)
   }
 }
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   html, body  {
-      --headings: #595959; /* #E3D1CC */
+      --headings: #595959;
       --links: #2AFF00;
-      --links-hover: #00FFFF;
+      --links-hover: #595959;
       --highlight: #b20000;
       --bg: #121212;
       --bg-secondary: #0A0A0A;
       --text: #E3D1CC;
       --text-secondary: #FF5500;
-      --text-italic: #B88F7A;
+      --text-italic: #b88f7a;
       --code-text: #595959;
       --share-text: #666666;
+      --transpa: rgba(18, 18, 18, 0.3)
   };
 }
 
@@ -56,7 +58,10 @@ body {
   font-size: 1.4rem;
   line-height: 2.6rem;
   min-height: 100%;
-  margin-top: 2.14em;
+  /* margin-top: 2.14em; */
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 header {
@@ -171,11 +176,11 @@ em, i {
 
 a {
   color: var(--links);
-  text-decoration: none;
+  text-decoration: underline;
 }
   a:hover {
     color: var(--links-hover);
-    text-decoration: underline;
+    text-decoration: line-through;
 }
 
 strong {
@@ -380,20 +385,15 @@ html.transition *:after {
 }
 
 .theme-toggle {
-  color: var(--text);
+  color: var(--links);
   background-color: transparent;
-  padding: 4px;
   cursor: pointer;
-  margin: 1em;
-  position: fixed;
-  right: 0;
-  top: 0;
   border: 2px transparent solid;
   outline: none;
 }
 
 .theme-toggle:hover {
-  color: var(--links);
+  color: var(--links-hover);
   outline: none;
 }
 
@@ -408,17 +408,24 @@ mark {
   letter-spacing: 1px;
 }
 
-// -------------- //LEGACY MOONWALK CODE// -------------- //
+// -------------- END LEGACY MOONWALK CODE END -------------- //
 
 
 // -------------- MENU -------------- //
+#menu-toggle {
+  display: none;
+}
+
 .menu {
   max-width: 100%;
   margin: 0 auto;
   position: sticky;
   top: 0;
   z-index: 1000;
-  background-color: var(--bg);
+  /* background-color: var(--bg); */
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease-in-out;
+  background-color: var(--transpa);
 }
 
 .menu-list {
@@ -428,13 +435,11 @@ mark {
   width: 65%;
   margin: 0 auto;
   padding-bottom: 1rem;
-  border-bottom: 2px solid var(--code-text);
   padding-left: 0px;
 }
 
 .menu-list li {
-  /* Styles for individual menu items */
-  margin-right: 4rem;
+  margin-right: 3.5rem;
 }
 
 .menu-list li:first-child {
@@ -443,6 +448,37 @@ mark {
 
 .menu-list li:last-child {
   margin-right: 0;
+  margin-left: auto;
+}
+
+.hamburger {
+  display: none;
+  z-index: 5;
+  cursor: pointer;
+}
+
+.hamburger div {
+  position: relative;
+  width: 35px;
+  height: 4px;
+  background-color: var(--links);
+  margin-top: 8px;
+  transition: all 0.15s ease-in-out;
+}
+
+#menu-toggle:checked + .hamburger .top-bun {
+  transform: rotate(-45deg);
+  margin-top: 25px;
+}
+
+#menu-toggle:checked + .hamburger .bottom-bun {
+  opacity: 0;
+  transform: rotate(45deg);
+}
+
+#menu-toggle:checked + .hamburger .meat {
+  transform: rotate(45deg);
+  margin-top: -5px;
 }
 
 // MENU END
@@ -714,7 +750,7 @@ mark {
   align-items: center;
 }
   
-  .home-link {
+.home-link {
   margin-bottom: 5rem;
 }
 
@@ -751,16 +787,6 @@ mark {
   width: 90%;
   height: 2px;
 } 
-    
-.menu {
-  padding-bottom: 1rem;
-  margin-left: 2em;
-  margin-right: 2em;
-}
-  
-.menu-list li {
-  margin-right: 1rem;
-}
 
 .post-meta {
   margin-bottom: 3rem;
@@ -805,28 +831,21 @@ mark {
   order: 1;
 }
 
-  .post-meta-container {
+.post-meta-container {
   max-width: 90%;
 }
 
-  .pagination {
+.pagination {
   width: 280px;
   margin-top: 2em;
 }
 
-  .post-navigation {
+.post-navigation {
   gap: 24px;
   max-width: 90%;
   margin: 2rem auto 0;
 }
 
-  .menu-list {
-  width: 95%;
-}
-  
-  .menu {
-  max-width: 100%;
-}
 
 h1, h2, h3, h4, h5, h6 {
     color: var(--headings);
@@ -841,7 +860,7 @@ p, strong, b, em, small, table, figcaption {
     margin-bottom: 1rem;
 }
 
-  .footnotes {
+.footnotes {
     width: 90%;
   }
   
@@ -849,7 +868,7 @@ ol {
   width: 90%;
 }
   
-  .list-without-markers {
+.list-without-markers {
   width: 90%;
 }
 
@@ -862,12 +881,86 @@ header {
   scale: 80%;
 }
 
-  blockquote p {
+blockquote p {
   font-size: 2rem;
   line-height: 1.7rem;
   width: 100%;
 }
-  
+
+
+// -------------- MENU MOBILE -------------- //
+#menu-toggle {
+  display: none;
+}
+
+.hamburger {
+  display: block;
+  position: fixed;
+  bottom: 0;
+  right: 5%;
+  margin-bottom: 5%;
+  z-index: 99999;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  background-color: var(--transpa);
+  backdrop-filter: blur(10px);
+  border-radius: 500px;
+}
+
+.menu {
+  transition: all 0.3s ease-in-out;
+}
+
+#menu-toggle:not(:checked) ~ .menu {
+  display: none;
+  transition: all 0.3s ease-in-out;
+}
+
+#menu-toggle:checked ~ .menu {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color: var(--transpa);
+  top: 0; left: 0; right: 0; bottom: 0;
+  transition: all 0.3s ease-in-out;
+  transform: scale(1);
+  backdrop-filter: blur(10px);
+  padding-top: 10%;
+}
+
+.menu-list {
+  flex-direction: column;
+  border: none;
+  height: inherit;
+  transition: all 0.3s ease-in-out;
+}
+
+.menu-list a {
+  font-family: "neue-haas-grotesk-display", sans-serif;
+  font-size: 3rem;
+  margin-bottom: 0px;
+  letter-spacing: 0.02rem;
+  margin-left: 0;
+  width: fit-content;
+}
+
+.menu-list li {
+  margin-right: 0;
+  margin-left: 0;
+  margin-bottom: auto;
+}
+
+.menu-list li:last-child {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.theme-toggle {
+  scale: 130%;
+}
+
   /* Add more styles as needed for small devices */
 
 }

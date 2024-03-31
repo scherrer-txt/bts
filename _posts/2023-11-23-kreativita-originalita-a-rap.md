@@ -2,7 +2,7 @@
 layout: post
 title: Kreativita, originalita a rap
 perex: Jak do sebe zapadá kreativita a originalita? A co rap? Další Behind the Screens! Držte si klobouky, we are going metaphysical!
-order: 13
+order: "13"
 release: 2023/11
 author: scherrer.txt
 thumbnail: /assets/bts-13-thumb.png
