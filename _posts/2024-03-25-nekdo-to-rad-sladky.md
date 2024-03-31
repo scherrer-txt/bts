@@ -6,7 +6,7 @@ perex: Podporuju užívání těžký drogy — kvůli mindfulness. Další čl�
 order: "16"
 release: 2024/03
 author: scherrer.txt
-thumbnail: /assets/bts-16-thumb.png
+thumbnail: /assets/bts-{{ page.order }}-thumb.png
 ---
 
 ### Obsah
