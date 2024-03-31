@@ -7,6 +7,7 @@ order: "16"
 release: 2024/03
 author: scherrer.txt
 thumbnail: /assets/bts-{{ page.order }}-thumb.png
+canonical:url: "https://scherrer-txt.github.io/bts/nekdo-to-rad-sladky"
 ---
 
 ### Obsah
