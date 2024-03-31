@@ -6,7 +6,7 @@ perex: Před 10 lety jsem napsal svoji první povídku, která vyhrála v soutě
 order: "08"
 release: 2021/12
 author: scherrer.txt
-thumbnail: /assets/bts-08-thumb.png
+thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-08-thumb.png"
 ---
 
 ### Obsah
@@ -47,7 +47,9 @@ Z povídek vznikaly docela zvláštní paskvily. Mé původní nápady se mícha
 ## Poučení
 Někdy je prostě zpětné vazby až moc. Někdy je lepší nikoho neposlouchat, sednout a dál dělat, jak nejlíp umíš. Neočekávej od sebe žádný zázraky. Smiř se s tím, že se sebou _nikdy_ nebudeš úplně spokojený. Tvořit můžeš donekonečna. Vždycky je co ladit. Nauč se dát si včas stopku. Zpomal. I když ve svý tvorbě vidíš rezervy, nauč se říct si: „_Takhle to pro teď stačí._“ Pokud víš, že si na ty chyby dáš v budoucnu pozor, odlož nástroje, podívej se na dílo z nadhledu, vyhodnoť situaci a jdi klidně dělat na něčem novém. Jinak se pravděpodobně sekneš na místě.
 
-![image](https://miro.medium.com/v2/resize:fit:720/format:webp/1*D5kbTlf3kx_6h3egNahKeg.jpeg)
+<div class="gallery-container">
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*D5kbTlf3kx_6h3egNahKeg.jpeg');"></div>
+</div>
 *fig. 1 — Michelangelovy záměrně nedokončené sochy — výsledek jeho tréninku. Když sochal Davida a přemýšlel, jak by vypadal ten či onen sval, dost pravděpodobně ho nejdřív nanečisto vysochal tady. Nevypadají ty sochy skvěle i nedokončené? Není to důkaz toho, že hodnota díla není v jeho “dokončenosti”?*
 
 Je hloupost očekávat uznání od okolí. Okolí ti většinou neřekne, jestli _už seš dobrej, vole_ nebo _ještě nejseš, bráško_. Nikdo nemá patent na rozum a takové ocenění je stejně jen osobní názor, ne univerzální pravda. Nikde na tebe nečeká nějaká komise s diplomem, která tě bude zkoušet a vyhodnocovat, jestli si už _můžeš_ oficiálně říkat profesionál, umělec, spisovatel, designer, fotograf, markeťák, …

@@ -6,7 +6,7 @@ perex: Jak jsem udělal jedny z prvních knižních AI obálek v Česku — tohl
 order: "12"
 release: 2023/10
 author: scherrer.txt
-thumbnail: /assets/bts-12-thumb.png
+thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-12-thumb.png"
 ---
 
 ### Obsah
@@ -20,9 +20,9 @@ thumbnail: /assets/bts-12-thumb.png
 ## Rychlý úvod
 Vyhrál jsem povídkovou soutěž. Nejlepší povídky vyšly knižně ve sborníku. O tom když tak jindy. Začátkem února 2023 jsem s Vladimírou Staňkovou, editorkou sborníku, řešil nějaký technikálie — zaslání aktuální fotky, finální verze obálky (o jejíž tvorbě jsem **psal tady**) a autorskýho medailonku. V průběhu konverzace padla otázka, která tohle celý odpálila.
 
-    V: „_Ale ještě mě napadá jedna věc — (mimochodem ta ilustrace se mi moooc líbí) — dáváme na ty obálky e-povídek vždycky i autora — nemohl byste poprosit ilustrátora, jestli by tam Vaše jméno […] nepřidal?_“
+V: „_Ale ještě mě napadá jedna věc — (mimochodem ta ilustrace se mi moooc líbí) — dáváme na ty obálky e-povídek vždycky i autora — nemohl byste poprosit ilustrátora, jestli by tam Vaše jméno […] nepřidal?_“
 
-    K: „_Tu obálku jsem si dělal sám, pomocí AI. :) Jsem designer, občas si takhle hraju. Díky! Jméno si tam přidám, není problém._“
+K: „_Tu obálku jsem si dělal sám, pomocí AI. :) Jsem designer, občas si takhle hraju. Díky! Jméno si tam přidám, není problém._“
 
 Další den jsem měl v inboxu zprávu, jestli se na projektu povídkový sbírky nechci podílet ještě víc. Věc se má tak, že povídky sice vyjdou dohromady ve sborníku, který nějakou obálku mít bude; jednotlivá literární díla ale zároveň vyjdou i samostatně v podobě e-booků. A v tenhle moment vstupuju do hry já. Vladimíru napadlo zapojit mě do projektu jako AI umělce. Dostal jsem od autorstva popsané představy ohledně vizuálu a ke každé povídce jsem dostal i anotaci. Začal jsem tvořit.
 
@@ -55,7 +55,9 @@ Další soft pravidlo bylo výstupy z AI příliš neupravovat, maximálně jen 
 Na jedné obálce jsem strávil v průměru 3 hodiny. Někdy to byla 1 hodina, někdy 5. Od 8. února až do 28. března jsem s AI vytvořil 12 obálek.
 Tady jsou.
 
-![image](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*OqKFGU1L3ylmsHhYcMx5dw.png)
+<div class="gallery-container">
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*OqKFGU1L3ylmsHhYcMx5dw.png');"></div>
+</div>
 
 ## Reflexe projektu
 S AI si hraju už od konce září 2022 a nepřestává mě fascinovat, kolik možností přináší každá další nová verze a aplikace. Nicméně, vždycky je to jenom o kvalitě promptu a myslím, že už docela dobře chápu, jak s nimi pracovat. Text-to-image nástroje jsou hodně zajímavý a baví mě s nimi tvořit, vnímám je ale především jako nástroje pro specifický použití. Udělat v nich pár obálek, zkusit si navrhnout design pokoje, bubble tea baru nebo laserový pušky, co vypadá jako mikroskop — proč ne. Pokud je výstupem něco, co bych sám nezvládl a nebo něco, kde je užití AI main selling point, tak to dává smysl. Pro ty ostatní věci tady mám ale nonstop zapnutou Figmu a Photoshop, Illustrator, AfterEffects, Lightroom a svůj vlastní mozek, který halucinování různých věcí zvládá taky poměrně dobře.

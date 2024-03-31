@@ -6,7 +6,7 @@ perex: Další článek zpoza obrazovek. O inspiraci, umění a etice výtvorů 
 order: "10"
 release: 2023/03
 author: scherrer.txt
-thumbnail: /assets/bts-10-thumb.png
+thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-10-thumb.png"
 ---
 
 ### Obsah
@@ -28,7 +28,9 @@ Když jsem začal vnímat ten překotný nástup AI, měl jsem trochu obavy a po
 
 ## Aktuální situace
 
-![image](https://miro.medium.com/v2/resize:fit:720/format:webp/0*dd3d5uRzIjd-b9gk.png)
+<div class="gallery-container">
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/0*dd3d5uRzIjd-b9gk.png');"></div>
+</div>
 
 Z obrázku nahoře je patrný, že teď jsme za Cash pointem, v teritoriu Early Majority. Čím víc se to bude dostávat k pravé části křivky, ke Conservatives/Late Majority, tím víc se bude poukazovat na otázku etiky. Což je dobře. Ale vzhledem k současnému klimatu se to všechno může rychle složit — stát se stejně pomíjivou blbostí, jako byly NFTs.
 
@@ -75,4 +77,6 @@ Ale právě tohle hloupé myšlení prehistorických sběračů zabíjí radost 
 
 A proto miluju Banán na zdi a vždycky budu prosazovat demokratizaci umění.
 
-![image](https://miro.medium.com/v2/resize:fit:720/format:webp/0*PuoQD1Zr4UwlrKZU.jpg)
+<div class="gallery-container">
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/0*PuoQD1Zr4UwlrKZU.jpg');"></div>
+</div>

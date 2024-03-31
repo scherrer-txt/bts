@@ -6,7 +6,7 @@ perex: V roce 2021 jsem odpověděl na pár otázek. V roce 2023 jsem se k nim v
 order: "11"
 release: 2023/03
 author: scherrer.txt
-thumbnail: /assets/bts-11-thumb.png
+thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-11-thumb.png"
 ---
 
 Od mého rozhovoru pro [KOLABO MAG](https://medium.com/@kolabocrew) v prosinci 2021 uplynul rok. Rozhodl jsem sdílet rozhovor i tady a svoje odpovědi trochu zaktualizovat.

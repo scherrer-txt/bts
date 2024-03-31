@@ -6,7 +6,7 @@ perex: Perex text, který shrnuje všechno
 order: "16"
 release: 2024/03
 author: scherrer.txt
-thumbnail: /assets/bts-16-thumb.png
+thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-16-thumb.png"
 ---
 
 ### Obsah

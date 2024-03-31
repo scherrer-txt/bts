@@ -6,7 +6,7 @@ perex: Protože protože chci. Tohle Behind the Screens je o jídle, suplementec
 order: "14"
 release: 2024/01
 author: scherrer.txt
-thumbnail: /assets/bts-14-thumb.png
+thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-14-thumb.png"
 ---
 
 ### Obsah

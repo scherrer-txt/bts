@@ -6,7 +6,7 @@ perex: Jak do sebe zapadá kreativita a originalita? A co rap? Další Behind th
 order: "13"
 release: 2023/11
 author: scherrer.txt
-thumbnail: /assets/bts-13-thumb.png
+thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-13-thumb.png"
 ---
 
 ### Obsah

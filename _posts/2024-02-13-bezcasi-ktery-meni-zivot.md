@@ -6,7 +6,7 @@ perex: Bez času, bez tlaku, s kávou v hrnku. V tomhle Behind the Screens se po
 order: "15"
 release: 2024/02
 author: scherrer.txt
-thumbnail: /assets/bts-15-thumb.png
+thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-15-thumb.png"
 ---
 
 ### Obsah
@@ -49,15 +49,15 @@ Proč vlastně máme tu podivnou potřebu stavět jedno zážitek-poskytující 
 > „Já jsem prostě jen Kevin a dělám věci, který chci dělat, vím věci, který mě zajímají, a miluju tenhle způsob žití.“
 
 ## A co dělám já?
-Já jsem aktuálně v jednom docela příjemným bezčasí. Sedím doma, baštím vitamíny, občas si hrozně dobře uvařím, často se procházím, občas zajdu s kámošstvem na jedno. Vstávám klidně i v pět ráno, a občas chodím v pět ráno spát — protože jsem našel něco zajímavýho na Redditu nebo na Wikipedii. Někdy pracuju na zakázce, někdy na svým vlastním projektu. Koukám na anime (s
-[Lea Belejová](https://linktr.ee/lea_be_linky) máme rozkoukaný One Piece, jsme u dílu 245), píšu si články, pracuju na svým portfoliu, nastoupuju do nový práce. Přehodnocuju svoje nároky na život, na tvorbu, na zaměstnání. Zpomaluju. Vymýšlím si pro sebe ideální scénáře života a práce, a hledám způsoby, jak jim jít přirozeně naproti — bez křečí, nátlaku a cpaní se do škatulek. Což sice jde dělat i mimo bezčasí, vyžaduje to ale hromadu energie. V bezčasí je potřebná aktivační energie znatelně nižší.
+Já jsem aktuálně v jednom docela příjemným bezčasí. Sedím doma, [baštím vitamíny](beru-5-prasku-kazdy-rano), občas si hrozně dobře uvařím, často se procházím, občas zajdu s kámošstvem na jedno. Vstávám klidně i v pět ráno, a občas chodím v pět ráno spát — protože jsem našel něco zajímavýho na Redditu nebo na Wikipedii. Někdy pracuju na zakázce, někdy na svým vlastním projektu. Koukám na anime (s
+[Lea Belejová](https://linktr.ee/lea_be_linky) máme rozkoukaný One Piece, jsme u dílu 245), píšu si články, pracuju na svým portfoliu, hledám zajímavý projekty. Přehodnocuju svoje nároky na život, na tvorbu, na zaměstnání. Zpomaluju. Vymýšlím si pro sebe ideální scénáře života a práce, a hledám způsoby, jak jim jít přirozeně naproti — bez křečí, nátlaku a cpaní se do škatulek. Což sice jde dělat i mimo bezčasí, vyžaduje to ale hromadu energie. V bezčasí je potřebná aktivační energie znatelně nižší.
 
 Podle mě je tohle ten důvod, proč do každého vztahu vcházíme jako trochu jiní lidé. Není to kvůli těm předchozím vztahům, ale hlavně kvůli těm bezčasým obdobím mezi nimi, kdy jsme měli čas přehodnocovat, reflektovat a budovat se znova od základu.
 
 ## Dobře, ale co teda jako dělám?
 Kdybych na tu otázku měl odpovědět tak, jak je myšlená, a pokud by to někdo potřeboval vědět, tak jsem transdisciplinární[^3] designer a umělec, neurohacker, spisovatel, bloger a kritik, rapper, fotograf, motion designer, videomaker, tvůrce nezávislých her, řečník, psychonaut, hospodský pábitel, spoluzakladatel pár uměleckých kolektivů a hudebního skoro-labelu, svobodný duch s AuDHD, co se narodil ve Švýcarsku, žije v Česku a miluje pivo.
 
-Samo(m)učím se japonsky, miluju klasickou latinu, věnuju se historii obecně i historii umění a designu, slovanskýmu folklóru, severský, řecký a egyptský mytologii. Mám přehled v rumech, čajích, čokoládě, kávě, anime, videohrách a filmech, baví mě současný umění, kultura a móda, urbanismus, epistemologie, antropologie, archeologie, geologie, politologie, filozofie, etika, metafyzika, psychologie, filologie, astronomie, fyzika, sociologie, literatura, vzdělávání, typografie, kaligrafie, estetika, design produktů, interiéru, nábytku a oděvu. Zajímám se o Rallye, Formule 1, tenis, šerm (_historický, italská škola, i japonský kendó_), bojový umění, balet, operu a činoherní divadlo.
+Samo(m)učím se japonsky, miluju klasickou latinu, věnuju se historii obecně i historii umění a designu, slovanskýmu folklóru, severský, řecký a egyptský mytologii. Mám přehled [v rumech](/nekdo-to-rad-sladky), čajích, čokoládě, kávě, anime, videohrách a filmech, baví mě současný umění, kultura a móda, urbanismus, epistemologie, antropologie, archeologie, geologie, politologie, filozofie, etika, metafyzika, psychologie, filologie, astronomie, fyzika, sociologie, literatura, vzdělávání, typografie, kaligrafie, estetika, design produktů, interiéru, nábytku a oděvu. Zajímám se o Rallye, Formule 1, tenis, šerm (_historický, italská škola, i japonský kendó_), bojový umění, balet, operu a činoherní divadlo.
 
 Tohle všechno mě zajímá. Nechci se uměle dělat nudným, když nejsem. Celý tenhle výčet je kumulativní — nevěnuju se všemu naráz a pořád, svoje zájmy rád střídám. Velmi málo z těch všech věcí jsem začal vnímat cíleně — skoro vždycky jsem se jim začal věnovat díky nějakýmu bezčasí, protože jsem měl prostor je objevit/objevovat. Nevím rozhodně ani zdaleka tolik, kolik bych chtěl, ani dost na to, abych se pokládal za odborníka na jakoukoliv jednu věc, ale jsem odborníkem na široký přehled. S překvapivým množstvím lidí dovedu mít zajímavý diskuze i na dost okrajový témata; dovedu se bavit skoro s kýmkoliv skoro o čemkoliv.
 

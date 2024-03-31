@@ -6,7 +6,7 @@ perex: Tenhle článek je o sociálních sítích, o jejich dopadu na lidi, o sv
 order: "07"
 release: 2021/11
 author: scherrer.txt
-thumbnail: /assets/bts-07-thumb.png
+thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-07-thumb.png"
 ---
 
 ### Obsah
@@ -64,7 +64,9 @@ Musí mít všechno nějaký konkrétní smysl a účel? Funkci a záměr? Něja
 
 Tohle jsou věci, které mám v hlavě a které motivovaly FOLLOW NO ONE performance. Potřebuju je dostat z hlavy, podělit se o ně s někým. Vzal jsem inkoust a chrtsnul ho na papír — co v těch flecích vidíš, to už je na tobě.
 
-![image](https://miro.medium.com/v2/resize:fit:720/format:webp/0*1wp-7HCuWow6lg9g.jpg)
+<div class="gallery-container">
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/0*1wp-7HCuWow6lg9g.jpg');"></div>
+</div>
 
 Každý správný, byť jen okrajově filozofující článek by se asi neobešel bez citátu od Nietzscheho. Takže proč bych nepřeložil zrovna ten, co mě motivoval nad tím vším začít přemýšlet:
 

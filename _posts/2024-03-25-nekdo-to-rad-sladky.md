@@ -1,11 +1,11 @@
 ---
 layout: post
+author: scherrer.txt
 title: "Někdo to rád sladký | Behind the Screens | by Scherrer.txt"
 name: Někdo to rád sladký
+release: 2024/03
 perex: Podporuju užívání těžký drogy — kvůli mindfulness. Další článek zpoza obrazovek, tentokrát o alkoholu.
 order: "16"
-release: 2024/03
-author: scherrer.txt
 thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-16-thumb.png"
 ---
 
