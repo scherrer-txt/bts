@@ -79,6 +79,7 @@ Sami jste se ještě nehledali — a tu jste nalezli mne. Tak se vede všem vě�
 ---
 
 ## Poznámky pod čarou
+{:.no_toc}
 
 {: data-content="footnotes"}
 [^1]: O dva roky později jsem byl diagnostikovaný na ADHD a ASD. Podezření jsem měl i přes nevůli okolí dost dlouho, nakonec se ukázalo, že odůvodněně. Poučení? Jestli jsi z Brna a máš podezření na ADHD a/nebo autismus, tady je [kontakt](https://hogenbuchova.cz/), zavolej nebo napiš e-mail, domluv si termín a uvidíš. Nemáš absolutně co ztratit. Naopak, můžeš získat validaci a způsob, jak se s tímhle nákladem naučít žít.

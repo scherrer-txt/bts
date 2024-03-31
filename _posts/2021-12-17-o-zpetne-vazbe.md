@@ -26,14 +26,15 @@ Od betačtenářů — nešťastníků, kteří rozepsaná díla _dobrovolně_ �
 > Zpomal. I když ve svý tvorbě vidíš rezervy, nauč se říct si: „_Takhle to pro teď stačí._“
 
 ## Na co jsem přišel
-### 1. Neustále jsem hledal chyby
-- Cíleným vyhledáváním kritiky jsem si způsobil, že jsem donekonečna pedantsky hledal nedostatky. Zbytečně jsem sám sobě šlapal na krk, abych byl co nejrychleji nejlepší. A myslel jsem si, že čím víc kritiky, tím rychlejší tempo růstu. Čímž jsem se nevědomky jen zbytečně dusil.
+##### 1. Neustále jsem hledal chyby
 
-### 2. Byl jsem pořád nespokojený
-- Sám sobě jsem zakázal být aspoň do určité míry spokojený se svojí tvorbou. Euforii po dopsání podívky vždy rychle nahradilo urputné hledání chyb. Místo toho, abych se ze začátečnických chyb vypsal tím, že budu pokračovat v psaní. Pořád jsem jen upravoval to, co jsem napsal, jako kdybych se snažil zahladit stopy své jalovosti a nezkušenosti. Motal jsem se v kruhu.
+Cíleným vyhledáváním kritiky jsem si způsobil, že jsem donekonečna pedantsky hledal nedostatky. Zbytečně jsem sám sobě šlapal na krk, abych byl co nejrychleji nejlepší. A myslel jsem si, že čím víc kritiky, tím rychlejší tempo růstu. Čímž jsem se nevědomky jen zbytečně dusil.
 
-### 3. Uniklo mi to nejdůležitější
-- Při jakékoliv _umělecké_ práci je důležitá jen jedna věc. Umělci tvoří, protože je to podstata jejich bytí. Být znamená tvořit. Tahle niterná touha je pohonem motorů kreativity. Ta nejdůležitější a jediná věc, na které záleží, je _autor_ a _jeho_ vlastní pocity. Cokoliv ostatního je nepodstatné. Začal jsem ignorovat, co a jak jsem chtěl psát já. Místo toho jsem psal spíš podle toho, jak mi říkali ostatní, že je podle nich nejlepší.
+##### 2. Byl jsem pořád nespokojený
+Sám sobě jsem zakázal být aspoň do určité míry spokojený se svojí tvorbou. Euforii po dopsání podívky vždy rychle nahradilo urputné hledání chyb. Místo toho, abych se ze začátečnických chyb vypsal tím, že budu pokračovat v psaní. Pořád jsem jen upravoval to, co jsem napsal, jako kdybych se snažil zahladit stopy své jalovosti a nezkušenosti. Motal jsem se v kruhu.
+
+##### 3. Uniklo mi to nejdůležitější
+Při jakékoliv _umělecké_ práci je důležitá jen jedna věc. Umělci tvoří, protože je to podstata jejich bytí. Být znamená tvořit. Tahle niterná touha je pohonem motorů kreativity. Ta nejdůležitější a jediná věc, na které záleží, je _autor_ a _jeho_ vlastní pocity. Cokoliv ostatního je nepodstatné. Začal jsem ignorovat, co a jak jsem chtěl psát já. Místo toho jsem psal spíš podle toho, jak mi říkali ostatní, že je podle nich nejlepší.
 
 > To, jestli seš dobrej, musíš cítit hlavně ty sám. Neboj se to o sobě říct, když to cítíš.
 
@@ -46,7 +47,7 @@ Z povídek vznikaly docela zvláštní paskvily. Mé původní nápady se mícha
 Někdy je prostě zpětné vazby až moc. Někdy je lepší nikoho neposlouchat, sednout a dál dělat, jak nejlíp umíš. Neočekávej od sebe žádný zázraky. Smiř se s tím, že se sebou _nikdy_ nebudeš úplně spokojený. Tvořit můžeš donekonečna. Vždycky je co ladit. Nauč se dát si včas stopku. Zpomal. I když ve svý tvorbě vidíš rezervy, nauč se říct si: „_Takhle to pro teď stačí._“ Pokud víš, že si na ty chyby dáš v budoucnu pozor, odlož nástroje, podívej se na dílo z nadhledu, vyhodnoť situaci a jdi klidně dělat na něčem novém. Jinak se pravděpodobně sekneš na místě.
 
 ![image](https://miro.medium.com/v2/resize:fit:720/format:webp/1*D5kbTlf3kx_6h3egNahKeg.jpeg)
-fig. 1 — Michelangelovy záměrně nedokončené sochy — výsledek jeho tréninku. Když sochal Davida a přemýšlel, jak by vypadal ten či onen sval, dost pravděpodobně ho nejdřív nanečisto vysochal tady. Nevypadají ty sochy skvěle i nedokončené? Není to důkaz toho, že hodnota díla není v jeho “dokončenosti”?
+*fig. 1 — Michelangelovy záměrně nedokončené sochy — výsledek jeho tréninku. Když sochal Davida a přemýšlel, jak by vypadal ten či onen sval, dost pravděpodobně ho nejdřív nanečisto vysochal tady. Nevypadají ty sochy skvěle i nedokončené? Není to důkaz toho, že hodnota díla není v jeho “dokončenosti”?*
 
 Je hloupost očekávat uznání od okolí. Okolí ti většinou neřekne, jestli _už seš dobrej, vole_ nebo _ještě nejseš, bráško_. Nikdo nemá patent na rozum a takové ocenění je stejně jen osobní názor, ne univerzální pravda. Nikde na tebe nečeká nějaká komise s diplomem, která tě bude zkoušet a vyhodnocovat, jestli si už _můžeš_ oficiálně říkat profesionál, umělec, spisovatel, designer, fotograf, markeťák, …
 

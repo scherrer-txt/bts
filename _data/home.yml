@@ -1,16 +1,3 @@
-navbar_entries:
-  - title: domů
-    url: /bts/
-
-  - title: články
-    url: vypis
-  
-  - title: o blogu
-    url: o-blogu
-
-  - title: o mně
-    url: https://scherrer.carrd.co
-
 project_entries:
   - title: Project 1
     url: overview-post

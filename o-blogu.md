@@ -3,6 +3,7 @@ layout: static
 title: O blogu
 ---
 
+# O blogu
 Já jsem Kevin a tohle je můj blog Behind the Screens. Píšu o všem, s čím se jako kreativní člověk setkávám *za obrazovkama* svých dvou monitorů.
 
 

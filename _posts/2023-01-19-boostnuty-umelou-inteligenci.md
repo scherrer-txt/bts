@@ -109,6 +109,7 @@ Your imagination is the limit.
 ---
 
 ## Poznámky pod čarou
+{:.no_toc}
 
 {: data-content="footnotes"}
 [^1]: Tomu se v praxi říká „cognitive offload“, uvolnění přemýšlecích kapacit tím, že necháme někoho/něco jinýho nad něčím přemýšlet za nás.

@@ -121,6 +121,7 @@ Měl jsem rum, co chutnal jako tekutý dřevo, lékořicový pendrek nebo rajča
 
 ---
 ## Poznámky pod čarou
+{:.no_toc}
 
 {: data-content=“footnotes“}
 

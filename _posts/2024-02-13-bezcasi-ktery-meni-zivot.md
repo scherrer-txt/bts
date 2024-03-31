@@ -75,14 +75,4 @@ Ať myšlenka na konci není jen flex, tak kdybych to měl shrnout, chci říct 
 
 [^2]: Což není nutně špatně — jen je škoda, že unikátnost každýho jednoho z nás je zredukovaná jen na tyhle dvě proměnné. Status a/nebo užitečnost. Měřítka, který ačkoliv jsme naučení vnímat, jako nápomocný, vlastně jen napomáhají prohlubování rozdílů mezi námi; brání nám vnímat/zažívat věci nebo se spojovat s lidmi, kteří by nás mohli obohatit o různorodost. Svůj ke svým a všichni jsou stejní.
 
-[^3]: Označení „_transdisciplinární_“ může být pro někoho nové, zkusím vysvětlit.
-
-
-Běžná představa o typických „_odbornících_“ — tedy lidech, kteří se specializují výhradně na jeden obor — se označuje jako „_monodisciplinarita_“, v překladu „_jedna disciplína_“.
-
-Pro aktivní využívání znalostí z více oborů jsme s Leou vymysleli umbrella term „_polydisciplinarita_“, v překladu „_mnoho disciplín_“. To dál rozdělím takto:
-- Multidisciplinarita je vícero vedlejších oborů jednostranně podporující jeden hlavní obor.
-- Pluridisciplinarita je forma multidisciplinarity, je to vícero vedlejších oborů, který oboustranně podporují jeden hlavní obor.
-- Interdisciplinarita je jeden hlavní a vícero podpůrných oborů, který se navzájem oboustranně obohacují.
-- Crossdisciplinarita je forma interdisciplinarity, spojuje a kombinuje napříč obory, ale poznatky neslučuje.
-- Transdisciplinarita slučování poznatků napříč obory, dělení na hlavní a vedlejší obory je smazané.
+[^3]: Označení „_transdisciplinární_“ může být pro někoho nové, zkusil jsem [vysvětlit tady](notes/2024-03-29-transdisciplinarita.html).
