@@ -187,7 +187,7 @@ a {
 
 strong {
   font-style: bold;
-  color: var(--text-italic);
+  color: var(--text-secondary);
 }
 
 blockquote p {
@@ -855,11 +855,14 @@ h1, h2, h3, h4, h5, h6 {
     margin: 2rem auto 0;
 }
 
-p, strong, b, em, small, table, figcaption {
-    color: var(--text);
+p, b, em, small, table, figcaption {
     width: 90%;
     margin-top: 1rem;
     margin-bottom: 1rem;
+}
+
+strong {
+  color: var(--text-secondary)
 }
 
 .footnotes {
