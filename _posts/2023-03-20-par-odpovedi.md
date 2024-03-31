@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Pár odpovědí na otázky
+title: "Pár odpovědí na otázky | Behind the Screens | by Scherrer.txt"
+name: Pár odpovědí na otázky
 perex: V roce 2021 jsem odpověděl na pár otázek. V roce 2023 jsem se k nim vrátil a položil si je znova.
 order: "11"
 release: 2023/03

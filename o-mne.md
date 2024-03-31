@@ -1,6 +1,6 @@
 ---
 layout: static
-title: O mně
+title: "O mně | Behind the Screens | by Scherrer.txt"
 ---
 
 ## Práce

@@ -1,6 +1,6 @@
 ---
 layout: static
-title: O blogu
+title: "O blogu | Behind the Screens | by Scherrer.txt"
 ---
 
 # O blogu

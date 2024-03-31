@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Follow no one
+title: "Follow no one | Behind the Screens | by Scherrer.txt"
+name: Follow no one
 perex: Tenhle článek je o sociálních sítích, o jejich dopadu na lidi, o svobodné vůli, sebevědomí a vlastní identitě.
 order: "07"
 release: 2021/11

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Bezčasí, který mění život
+title: "Bezčasí, který mění život | Behind the Screens | by Scherrer.txt"
+name: Bezčasí, který mění život
 perex: Bez času, bez tlaku, s kávou v hrnku. V tomhle Behind the Screens se ponoříme do věcí, který mění život.
 order: "15"
 release: 2024/02

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Udělal jsem první český AI obálky
+title: "Udělal jsem první český AI obálky | Behind the Screens | by Scherrer.txt"
+name: Udělal jsem první český AI obálky
 perex: Jak jsem udělal jedny z prvních knižních AI obálek v Česku — tohle je další Behind the Screens!
 order: "12"
 release: 2023/10

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Kreativita, originalita a rap
+title: "Kreativita, originalita a rap | Behind the Screens | by Scherrer.txt"
+name: Kreativita, originalita a rap
 perex: Jak do sebe zapadá kreativita a originalita? A co rap? Další Behind the Screens! Držte si klobouky, we are going metaphysical!
 order: "13"
 release: 2023/11

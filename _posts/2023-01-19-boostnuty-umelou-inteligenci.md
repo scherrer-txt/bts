@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Boostnutý umělou inteligencí
+title: "Boostnutý umělou inteligencí | Behind the Screens | by Scherrer.txt"
+name: Boostnutý umělou inteligencí
 perex: Od experimentů s AI k demokratizaci umění. Tohle je další Behind the Screens!
 order: "09"
 release: 2023/01

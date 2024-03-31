@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Beru 5 prášků každý ráno
+title: "Beru 5 prášků každý ráno | Behind the Screens | by Scherrer.txt"
+name: Beru 5 prášků každý ráno
 perex: Protože protože chci. Tohle Behind the Screens je o jídle, suplementech a biohackingu.
 order: "14"
 release: 2024/01
