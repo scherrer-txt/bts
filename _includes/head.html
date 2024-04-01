@@ -2,10 +2,33 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="{{ page.perex }}">
-  <meta name="og:description" content="{{ page.perex }}">
   <meta property="og:title" content="{{ page.title }}">
   <meta name="author" content="Scherrer.txt">
+  <meta property="og:type" content="website">
+
+<!-- NAME -->
+  <meta itemprop="name" content="{{ page.title }}">
+
+<!-- CANONICAL URL -->
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+
+<!-- DESCRIPTION -->
+  {% if page.perex %}
+  <meta name="description" content="{{ page.perex }}">
+  <meta name="og:description" content="{{ page.perex }}">
+  <meta property="og:description" content="{{ page.perex }}">
+  <meta itemprop="description" content="{{ page.perex }}">
+  <meta name="twitter:description" content="{{ page.perex }}">
+  {% else %}
+  <meta name="description" content="{{ site.description }}">
+  <meta name="og:description" content="{{ site.description }}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta itemprop="description" content="{{ site.description }}">
+  <meta name="twitter:description" content="{{ site.description }}">
+  {% endif %}
+
+<!-- THUMBNAIL -->
   {% if page.thumbnail %}
   <meta name="image" property="og:image" content="{{ page.thumbnail }}">
   <meta property="og:image" content="{{ page.thumbnail }}">
@@ -20,6 +43,8 @@
   <meta name="twitter:image" content="https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/bts-main-thumb.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
+
+<!-- TITLE -->
   {% endif %}
   <title>
     {% if page.title %}
@@ -32,23 +57,7 @@
   {% seo title=false %}
   {% feed_meta %}
 
-<!-- Google / Search Engine Tags -->
-<meta itemprop="name" content="{{ page.title }}">
-<meta itemprop="description" content="{{ page.perex }}">
-
-
-<!-- Facebook Meta Tags -->
-<meta property="og:url" content="{{ site.url }}{{ page.url }}">
-<meta property="og:type" content="website">
-<meta property="og:title" content="{{ page.title }}">
-<meta property="og:description" content="{{ page.perex }}">
-
-<!-- Twitter Meta Tags -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ page.title }}">
-<meta name="twitter:description" content="{{ page.perex }}">
-
-  <!-- Favicon -->
+<!-- Favicon -->
   <link rel="apple-touch-icon" sizes="180x180" href="./assets/images/favicon/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/favicon/favicon-16x16.png">
@@ -58,8 +67,8 @@
   <meta name="msapplication-TileColor" content="#00aba9">
   <meta name="msapplication-config" content="./assets/images/favicon/browserconfig.xml">
   <meta name="theme-color" content="#ffffff">
-  <!-- Favicon -->
-
+  
+<!-- THEME TOGGLE -->
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
   {% if site.theme_config.appearance_toggle %}
     {% include toggle_theme_js.html %}

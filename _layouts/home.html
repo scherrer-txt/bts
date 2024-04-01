@@ -2,12 +2,9 @@
 layout: default
 ---
 
-<!-- <header>
+<header>
   <h1>{{ site.title }}</h1>
-  {% if site.theme_config.show_description == true %}
-    <p>{{ site.description }}</p>
-  {% endif %}
-</header> -->
+</header>
 
 {{ content }}
 
@@ -22,7 +19,6 @@ layout: default
 {% endif %}
 
 {% if site.theme_config.show_blog == true %}
-  <h2>5 nejnovějších článků</h2>
   {% include post_list_5.html %}
 {% endif %}
 

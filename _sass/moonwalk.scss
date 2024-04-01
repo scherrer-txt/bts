@@ -67,16 +67,13 @@ body {
 }
 
 header {
-  display: flex;
-  flex-direction: column;
-  width: 65%;
+  width: 100%;
 }
 
 header h1 {
-  font-size: 9rem;
-  line-height: 7.4rem;
-  letter-spacing: -0.1rem;
-  width: fit-content;
+  width: 100%;
+  font-size: 6rem;
+  line-height: 5.8rem;
   margin-bottom: 2rem;
 }
 
@@ -160,7 +157,7 @@ html, body {
   color: var(--text);
 }
 h1, h2, h3, h4, h5, h6 {
-  color: var(--headings);
+  color: var(--text-secondary);
   width: 65%;
   margin: 4rem auto 0;
 }
@@ -209,7 +206,7 @@ li {
   flex-direction: column;
   width: 100%;
   list-style-type: none;
-  /* padding-left: 0px; */
+  padding-left: 0px;
 }
 
 ul {
@@ -507,6 +504,17 @@ mark {
 }
 
 // -------------- POST META -------------- //
+
+.post-meta-title {
+  width: 100%;
+}
+
+.post-meta-title h4 {
+  color: var(--code-text);
+  width: 100%;
+  margin: 0;
+}
+
 .post-meta-container {
   display: flex;
   flex-direction: column;
@@ -766,12 +774,12 @@ mark {
   line-height: 1.3rem;
 }
 
-.post-list-title {
+/* .post-list-title {
   font-size: 0.75rem;
   font-weight: 500;
   margin-right: 0.5rem;
   line-height: 0.75rem;
-}
+} */
 
 .post-list-date {
   font-size: 0.5rem;
@@ -789,6 +797,14 @@ mark {
   width: 90%;
   height: 2px;
 } 
+
+.post-meta-title {
+  width: 90%;
+}
+
+.post-meta-title h4 {
+  margin: 0;
+}
 
 .post-meta {
   margin-bottom: 3rem;
@@ -879,6 +895,13 @@ ol {
 
 header {
   width: 90%;
+}
+
+header h1 {
+  color: var(--text-secondary);
+  width: 100%;
+  font-size: 3rem;
+  line-height: 3.2rem;
 }
 
 .theme-toggle {

@@ -1,5 +1,8 @@
 {% if site.posts.size > 0 %}
-  <div class="list-without-markers">
+<div class="post-meta-title">  
+  <h4>Všechny články</h4>
+</div>
+  <ul class="list-without-markers">
     {% for post in site.posts %}
       <li class="post-meta-container list">
         <div class="post-index">
@@ -26,5 +29,5 @@
         </div>
       </li>
     {% endfor %}
-  </div>
+    </ul>
 {% endif %}

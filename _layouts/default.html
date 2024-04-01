@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: "en" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
+<html lang="{{ page.lang | default: "cz" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
         {%- include head.html -%}
   <body>
           {% include menu.html collection=site.data.home.navbar_entries %}
@@ -9,17 +9,9 @@
       </div>
     </main>
 
-    {%- if page.layout == "post" -%}
+  {%- if page.layout == "post" -%}
     {% include foot.html %}
   {%- endif -%}
   
-
-    {%- if site.soopr -%}
-      {%- if site.soopr.publish_token and jekyll.environment == "production" -%}
-        <script async defer data-soopr-token="{{site.soopr.publish_token}}" src="https://sdk.soopr.co/soopr.js"></script>
-      {%- else -%}
-        <script async defer src="https://sdk.soopr.co/soopr.js"></script>
-      {%- endif -%}
-    {%- endif -%}
   </body>
 </html>
