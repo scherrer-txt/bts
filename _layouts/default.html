@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: "cz" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
+<html lang="{{ page.lang | default: "cs" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
         {%- include head.html -%}
   <body>
           {% include menu.html collection=site.data.home.navbar_entries %}
@@ -12,6 +12,6 @@
   {%- if page.layout == "post" -%}
     {% include foot.html %}
   {%- endif -%}
-  
+
   </body>
 </html>
