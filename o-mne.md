@@ -18,17 +18,31 @@ title: "O mně | Behind the Screens | by Scherrer.txt"
 - [seznam anime, který jsem viděl](https://anilist.co/user/scherrer/animelist)
 
 ## Jsem
-O tom jsem [psal tady](bezcasi-ktery-meni-zivot), ale ve zkratce:
+Něco o sobě jsem [napsal tady](bezcasi-ktery-meni-zivot), ale ve zkratce:
 
 Jsem transdisciplinární[^1] tvůrce/designer/umělec, neurohacker[^2], spisovatel[^3] a blogger[^4], rapper[^5],
 fotograf[^6], motion designer[^7], nezávislý herní vývojář[^8], event producer[^9] a public speaker[^10]. Mám ADHD[^11] a ASD[^12]. Jsem člen Mensy[^13] a mám jen základku[^14].
+
+## Flex zóna
+- František Černý, frontman Čechomoru, mi řekl, že bych byl hezká holka
+- Klipy a vizuály, co jsem dělal, mají dohromady něco přes 15 milionů views
+- Některý legendy brněnský rapový scény mě znají jménem
+- Ve 14 letech jsem napsal svoji první povídku, která rovnou vyhrála v soutěži a vyšla ve [sborníku](https://www.goodreads.com/book/show/16174961-urban-legends-o-ima-d-t)
+- Z nějakýho důvodu jsem v credits k [Sameyovo videoklipu](https://www.youtube.com/watch?v=bUX3DgM9_t0), bez toho, aniž bych se na finálním klipu jakkoliv podílel (*jen jsem udělal návrhu coveru, který ale skončil v koši*)
+- Pro Knihy Dobrovský jsem udělal jedny z prvních AI obálek v Česku
+- Hugo Toxxx mě sleduje na IG a zcenil [můj článek](kreativita-originalita-a-rap)
+- s Tvision jsem se podílel na tvorbě reklamy, která se vysílala v televizi, a dělal jsem s něma i na klipu pro Rytmuse
+- DJ Wich mi řekl, že ještě nikdy neviděl nikoho tak rychle mazat fotky (*měl jsem plnou paměťovku, tak jsem o pauze v backstagi musel nějaký promazat*)
+- Ve školce jsem hrál na flétnu a zpíval jsem ve sboru s Calinem
+- Ochutnal jsem přes [200 rumů](nekdo-to-rad-sladky)
+- Byl jsem týden v Japonsku (*Tokio—Kjóto—Ósaka—Hirošima*), při čekání na vlak jsem se zkamarádil s šéfkuchařem hotelu u Fudži a jeho dvěma kamarádama (*co byli nejspíš mafiáni*)
 
 ---
 ## Poznámky pod čarou
 
 {: data-content=“footnotes“}
 
-[^1]: tohle je docela nový slovo, tady je můj take na definice;
+[^1]: tohle je docela nový slovo, moje [definice tady](notes/2024-03-29-transdisciplinarita.html);
 [^2]: o tom jsem se nedávno trochu rozepsal [tady](beru-5-prasku-kazdy-rano);
 [^3]: donedávna jsem ještě s tímhle označením váhal, ale Nobelovky za literaturu dostávají i [lidé, kteří píšou *jen* povídky](https://en.wikipedia.org/wiki/Alice_Munro), takže to trochu rozhodlo;
 [^4]: bloguju už od roku 2012 (*rip Wulfrion blog*); tehdy jsem psal recenze na fantastiku; o tom jsem [psal tady](jak-se-prichazi-o-sny);
