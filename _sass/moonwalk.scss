@@ -200,7 +200,7 @@ blockquote p {
 
 // -------------- LISTS -------------- //
 li {
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 
 ul#markdown-toc li {
@@ -222,6 +222,8 @@ ul {
 }
 
 li ul {
+  display: flex;
+  flex-direction: column;
   width: 100%;
 } 
 
@@ -265,8 +267,8 @@ sup {
   display: flex;
   flex-direction: column;
   margin: 0 auto;
-  padding: 7em 2em;
-  max-width: 65%;
+  padding: 7em 17% 2em;
+  width: fit-content;
   align-items: center;
 }
 
@@ -767,7 +769,7 @@ mark {
   flex-direction: column;
   margin: 0 auto;
   padding: 7em 2em;
-  width: 100%;
+  width: fit-content;
   align-items: center;
 }
   
@@ -805,7 +807,7 @@ mark {
 .dashed {
   border-top: 2px var(--code-text) solid;
   margin: 1em 0;
-  width: 90%;
+  width: 100%;
   height: 2px;
 } 
 
@@ -895,13 +897,27 @@ strong {
 */
 
 .footnotes {
-    width: 95%;
+    width: fit-content;
   }
   
-ol {
+ol, ul {
+  display: flex;
+  flex-direction: column;
   width: 95%;
+  margin: 0 0;
 }
   
+li {
+  width: fit-content;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+ul#markdown-toc li {
+  margin-top: 0.8rem;
+  width: 90%;
+}
+
 .list-without-markers {
   width: 90%;
 }
@@ -912,7 +928,7 @@ header {
 
 header h1 {
   color: var(--text-secondary);
-  width: 100%;
+  width: fit-content;
   font-size: 3rem;
   line-height: 3.2rem;
 }
@@ -931,10 +947,6 @@ blockquote p {
   line-height: 2rem;
   width: 100%;
   padding: 1rem 0 1rem;
-}
-
-ul {
-  width: 95%;
 }
 
 .post-index-title-big {

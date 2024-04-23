@@ -17,7 +17,7 @@ thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thu
 
 ---
 
-> Člověk na vozíku fakt těžko vyjde schody do pátýho patra. Můj vozík není vidět. Ale to neznamená, že neexistuje a že je pro mě jednoduchý ty schody vyjít.
+> Člověk na vozíku fakt těžko vyjde schody do pátýho patra. Můj vozík není vidět. Ale to neznamená, že neexistuje, že je pro mě jednoduchý ty schody vyjít.
 
 ## Krátký úvod
 Někdy zhruba v roce 2019/2020 jsem se začal víc zajímat o duševní zdraví. Necítil jsem se, že jsem úplně normální. Kdo četl moje předchozí články, ví, že jsem měl odmalička dost divný zájmy; byl jsem celkem zvláštní dítě. Potřeboval jsem to pojmenovat. Spadl jsem do králičí nory různých diagnóz a symptomů.
@@ -62,7 +62,7 @@ Osobně rozhodně nemám problém, že se „*patnáctiletý holky na tiktoku oh
 
 Jo a jen taková poznámka bokem — sebediagnóza i diagnóza jsou obě subjektivní záležitosti. Akorát při sebediagnóze se diagnostikuje sám subjekt, při diagnóze hodnotí subjektivně pozorovatelstvo. Deset psychiatrů by jednoho člověka posoudilo deseti různýma způsobama. Neexistuje objektivní měřítko toho, kdo ještě je a kdo už není ADHD nebo ASD; i přes veškerý DSM manuály pořád záleží na konkrétním člověku, na jeho úsudku a na tom, jestli je podle nich pacientstvo dostatečně hyperaktivní nebo autistický. To říkám pro jistotu předem, než mi někdo bude chtít tvrdit, že nějaký odbornictvo má patent na pravdu. Jako jo a ne. Je složitější.
 
-> Nikdy nebylo tak jednoduchý se nechat diagnostikovat a léčit bez toho, aby nemocným lidem někdo strkal cepín přes oční důlek do mozku
+> Nikdy nebylo tak jednoduchý se nechat diagnostikovat a léčit bez toho, aby nemocným lidem někdo strkal cepín přes oční důlek do mozku
 
 ## Epidemie duševních chorob
 I tak by se dalo shrnout to, co se teď děje na celým světě. [Každý desátý dítě](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10551769/) v Americe má ADHD, celosvětově [každý dvacátý](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7508636/). U dospělých [je to podobný](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7916320/). A to ani nemluvím o depresích, autismu, úzkostech, hraničářích nebo bipolárech a ostatních. Skoro to působí, že nikdy předtím v historii nebylo tolik duševně nemocných lidí. Jenže nikdy předtím v historii lidstva nebyly tak dostupný informace, nebylo tak jednoduchý se o duševní zdraví zajímat, nebylo tak jednoduchý se nechat diagnostikovat a naučit se s tím pracovat (od nedávna dokonce i bez toho, aby nemocným lidem někdo strkal cepín přes oční důlek do mozku[^3]) — a to i přes to, že jsem pár řádku dozadu říkal, že to není easy. Není. Ale je to furt objektivně nejvíc easy ever.
@@ -87,24 +87,26 @@ Všechno má nějakou příčinu. Když vytvořím nějaký problém/situaci, ne
 
 Naštěstí moc zkušeností s tím, že by mi někdo do očí řekl, že se „*vymlouvám*“, nemám. Doufám, že je to díky tomu, jak tyhle věci komunikuju. S čím mám ale až moc zkušeností je bohužel to, že přesně odkomunikuju svoje potřeby, ale druhá strana je ignoruje. Důvod nesdělí, jen se pak později diví, že XY nefunguje, když jsem přesně říkal, co potřebuju, aby XY mohlo fungovat. To je pak trochu blbý, [ale nenaděláš nic](https://youtu.be/SiUz_akTmcY?t=435).
 
-Člověk na vozíku fakt těžko vyjde schody do pátýho patra. Můj vozík není vidět. Ale to neznamená, že neexistuje a že je pro mě jednoduchý ty schody vyjít.
+Člověk na vozíku fakt těžko vyjde schody do pátýho patra. Můj vozík není vidět. Ale to neznamená, že neexistuje, že je pro mě jednoduchý ty schody vyjít.
 
 ## Ne, ADHD fakt nemají všichni
 Kdo si tohle fakt doopravdy, neironicky myslí, by si měl umýt ruce, má na nich krev. Krev lidí, kteří tohle poslouchají celej svůj život, nevyhledaj pomoc, a rozhodnou se to ukončit. A je jich hodně. [Existují](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5371172/) totiž [studie](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7779592/), který jednoznačně spojují ADHD se zvýšeným rizikem (*a počtem*) sebevražd, sebevražedných pokusů nebo sebevražedných myšlenek. Osobně se se sebevražednýma myšlenkama potýkám sem tam taky. Let me remind you, zdravý počet suicidal thoughts je 0 (*slovy: nula*).
 
-Říct, že „*ADHD jsou občas všichni*“ je podobně debilní, jako říct „*Každej má občas cukrovku*“ nebo „*Každej je občas chudokrevnej*“ nebo „*Každej má občas epilepťák*“ nebo „*Každej jsme na něco alergickej*“. Což je blbost, že jo? *Jo, je.*
+Říct, že „*ADHD jsou občas všichni*“ je asi tak stejně inteligentní, jako říct „*Každej má občas cukrovku*“ nebo „*Každej je sem tam chudokrevnej*“ nebo „*Každej má někdy epilepťák*“ nebo „*Každej jsme na něco občas alergickej*“ nebo „*Každej má občas rakovinu*“. Což je blbost, že jo? *Jo, je.*
 
-### Proč ADHD nemají všichni, i když to tak vypadá?
+### Proč to může vypadat, že teď mají ADHD všichni?
 1. Sociální sítě a zrychlená doba. Rychlý přístup k levnýmu dopaminu dělá to, že samozřejmě všichni sedíme na záchodě s mobilem a konzumujeme obrovský kvanta obsahu. Na tuhle hladinu informací a dopaminu si pak naše mozky zvyknou a vyžadujou ji konstantně, jinak jsou podstimulovaný, lidově řečeno se „*nudí*“. Může to připomínat ADHD, ale není to doopravdový ADHD, protože ↓
 2. Pokud člověk dokáže ráno vstát bez sebemenších problémů, dokáže si rychle osvojovat a udržovat zvyky, dovede dávat reálný časový odhady, takže dělá práci vždycky včas, v termínu a nechodí skoro nikdy pozdě, nedělá mu problém něco začít dělat a následně dokončit, nemá problém s krátkodobou pamětí, nemá problém s nedostatkem motivace nebo naopak s extrémním množstvím energie, nemá problém se soustředit/pracovat v rušným prostředí, nemá problém s udržováním sociálních vztahů, nemá problém s exekutivníma funkcema celkově — souslovím „*nemá problém*“ myslím to, že to má nezanedbatelný dopad na kvalitu života — tak se ani při nejlepší vůli nemůžeme v tomhle případě o ADHD bavit.
 3. ADHD-like projevy chování může u neurotypických (čti: *normálních*) lidí vyvolat spousta věcí. Stres nebo náhlý životní změny, násilí nebo zneužívání, zanedbávání, finanční problémy, taky problémy se spánkem, a taky úzkost, která může vyvolávat neklid, impulzivitu, nemožnost koncentrace a tím i hyperaktivitu. Bipolární porucha se taky může projevovat dost podobně, jako ADHD, stejně tak OCD. A konečně, zneužívání psychoaktivních substancí může taky přivodit symptomy ne nepodobný ADHD.
+4. No a hlavně, o duševních poruchách se konečně začíná mluvit veřejně a otevřeně. Je to velký a důležitý téma. Konečně přicházíme na to, co celý naše životy nosilo tu botu, která nám dupala na krk. Že to, co se nám děje, není vada charakteru, ale něco, co má svůj důvod a svoje jméno. Citlivějším lidem může připadat, že se to na ně valí ze všech stran a že nikdo nic jinýho neřeší. Což je samozřejmě blbost.
 
 ### Proč je špatně říkat, že ADHD mají všichni?
-1. Zlehčuje to dopad ADHD. ADHD je chronická nepozornost, hyperaktivita a impulsivita, významně ovlivňuje fungování v různých oblastech života, jako je škola, práce a vztahy. Nejsou to občasný potíže s koncentrací, občasný zapomínání nebo roztěkanost — je to dlouhotrvající stav, který může mít hluboký dopady na každodenní život.
-3. Zpochybňuje život lidí s ADHD. Lidi s ADHD čelí stigmatizaci, diskriminaci a mylným představám o svý nemoci. Tvrdit, že „*každý má trochu ADHD*,“ zpochybňuje zkušenosti lidí s ADHD a zjednodušuje problémy, kterým čelí ve světě, který není ohleduplný k jejich potřebám.    
-4. Podporuje šíření dezinformací. ADHD je klinicky uznávaná porucha uvedená v Diagnostickém a statistickém manuálu duševních poruch (DSM-5). Tvrdit, že „*každý má trochu ADHD*,“ podporuje šíření dezinformací o povaze ADHD a přispívá k nedorozumění o duševních poruchách obecně. Navíc je to lež, ADHD má podle současných studií zhruba každý dvacátý člověk. Zatím. Víc jich odhalených není.
-5. Odrazuje od vyhledání pomoci a podpory. Pokud jsou příznaky ADHD odmítány jako *normální odchylky* v chování, je míň pravděpodobný, že jedinci, kteří by mohli mít prospěch z vyšetření a léčby, vyhledají pomoc. To může oddálit diagnózu a ve výsledku zhoršit dopad ADHD na jejich život.
+1. Zlehčuje to dopad ADHD. ADHD je chronická (*doživotní a trvalá*) nepozornost, hyperaktivita a impulzivita, která zásadně ovlivňuje fungování ve všech oblastech života (*vztahy, koníčky, vztahy, škola, práce*). Nejsou to jen občasný potíže s koncentrací, občasný zapomínání nebo občasná roztěkanost — je to dlouhotrvající stav, který má znatelný dopad na každodenní život.
+3. Zpochybňuje život lidí s ADHD. Žít s ADHD znamená čelit stigmatizaci, diskriminaci a pověrám o svý nemoci. „*Každý má trochu ADHD*“ to celý zpochybňuje. Zjednodušuje problémy, kterým lidi s ADHD čelí ve světě, který na jejich potřeby většinou dost kašle.
+4. Je to dezinformace a lež. ADHD je klinicky uznávaná porucha uvedená v Diagnostickém a statistickém manuálu duševních poruch (DSM-5). Tvrdit, že „*každý má trochu ADHD*,“ podporuje šíření dezinformací o povaze ADHD a přispívá k nedorozumění o duševních poruchách obecně. Navíc je to lež, ADHD má podle současných studií zhruba každý dvacátý člověk. Zatím. Víc jich odhalených není.
+5. Odrazuje od vyhledání pomoci a podpory. Když příznaky ADHD odmávneme s tím, že „*to má přece každej*“, je míň pravděpodobný, že jedinci, kteří by mohli mít prospěch z vyšetření a léčby, vyhledají pomoc. To může oddálit diagnózu a ve výsledku zásadně zhoršit kvalitu jejich života.
 
+Navrhuju uzavřít na tohle téma společenskou dohodu mezi mnou a tebou. Je to jednoduchý pravidlo. Tři slova. „Prosím, nebuď čúrák.“ Tak jednoduchý to je.
 
 ---
 ## Poznámky pod čarou
