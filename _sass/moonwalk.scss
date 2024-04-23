@@ -14,7 +14,7 @@
       --bg-secondary: #E3D1CC;
       --text: #1C2E33;
       --text-secondary: #FF5500;
-      --text-italic: #304E57;
+      --text-italic: #1C2E33; /* #304E57 */
       --code-text: #595959;
       --share-text: #666666;
       --transpa: rgba(237, 221, 213, 0.65)
@@ -32,7 +32,7 @@
       --bg-secondary: #0A0A0A;
       --text: #E3D1CC;
       --text-secondary: #FF5500;
-      --text-italic: #C4B5B0;
+      --text-italic: #E3D1CC; /* #C4B5B0 */
       --code-text: #595959;
       --share-text: #666666;
       --transpa: rgba(18, 18, 18, 0.3)
@@ -192,14 +192,19 @@ blockquote p {
   font-size: 5rem;
   text-align: center;
   font-weight: 400;
-  color: var(--code-text);
+  color: var(--text-italic);
   line-height: 4.7rem;
   width: fit-content;
+  padding: 5rem 0 5rem;
 }
 
 // -------------- LISTS -------------- //
 li {
-  margin-top: 0.6em;
+  margin-top: 2rem;
+}
+
+ul#markdown-toc li {
+  margin-top: 0.8rem;
 }
 
 .list-without-markers {
@@ -213,14 +218,19 @@ li {
 ul {
   display: flex;
   flex-direction: column;
-  width: 55%;
+  width: 65%;
 }
+
+li ul {
+  width: 100%;
+} 
+
 
 ol {
   display: flex;
   flex-direction: column;
-  width: 55%;
-  color:var(--text-italic);
+  width: 65%;
+  /* color:var(--text-italic); */
   margin: 0 auto;
 }
 
@@ -707,9 +717,9 @@ mark {
   border-top: 4px var(--bg) solid;
 }
 
-// -------------- MOBILE -------------- //
-// -------------- MOBILE -------------- //
-// -------------- MOBILE -------------- //
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 @media only screen and (max-width: 800px) {
   /* Styles for small devices */
   body {
@@ -757,7 +767,7 @@ mark {
   flex-direction: column;
   margin: 0 auto;
   padding: 7em 2em;
-  max-width: 90%;
+  width: 100%;
   align-items: center;
 }
   
@@ -867,27 +877,29 @@ mark {
 
 
 h1, h2, h3, h4, h5, h6 {
-    color: var(--headings);
-    width: 90%;
+    color: var(--text-secondary);
+    width: 100%;
     margin: 2rem auto 0;
 }
 
 p, b, em, small, table, figcaption {
-    width: 90%;
+    width: 100%;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
 
+/*
 strong {
   color: var(--text-secondary)
 }
+*/
 
 .footnotes {
-    width: 90%;
+    width: 95%;
   }
   
 ol {
-  width: 90%;
+  width: 95%;
 }
   
 .list-without-markers {
@@ -895,7 +907,7 @@ ol {
 }
 
 header {
-  width: 90%;
+  width: 100%;
 }
 
 header h1 {
@@ -910,14 +922,19 @@ header h1 {
   scale: 80%;
 }
 
-blockquote p {
-  font-size: 2rem;
-  line-height: 1.7rem;
+blockquote {
   width: 100%;
 }
 
+blockquote p {
+  font-size: 2rem;
+  line-height: 2rem;
+  width: 100%;
+  padding: 1rem 0 1rem;
+}
+
 ul {
-  width: 70%;
+  width: 95%;
 }
 
 .post-index-title-big {
