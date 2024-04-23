@@ -4,7 +4,7 @@ title: Galerie
 name: Galerie
 perex: Jak mají vypadat obrázky, když vypadají
 order: "99"
-release: 2024/04
+release: 2099/12
 author: scherrer.txt
 ---
 
