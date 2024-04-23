@@ -76,4 +76,4 @@ Ať myšlenka na konci není jen flex, tak kdybych to měl shrnout, chci říct 
 
 [^2]: Což není nutně špatně — jen je škoda, že unikátnost každýho jednoho z nás je zredukovaná jen na tyhle dvě proměnné. Status a/nebo užitečnost. Měřítka, který ačkoliv jsme naučení vnímat, jako nápomocný, vlastně jen napomáhají prohlubování rozdílů mezi námi; brání nám vnímat/zažívat věci nebo se spojovat s lidmi, kteří by nás mohli obohatit o různorodost. Svůj ke svým a všichni jsou stejní.
 
-[^3]: Označení „_transdisciplinární_“ může být pro někoho nové, zkusil jsem [vysvětlit tady](notes/2024-03-29-transdisciplinarita.html).
+[^3]: Označení „_transdisciplinární_“ může být pro někoho nové, zkusil jsem [vysvětlit tady](notes/2024-03-29-disciplinarita.html).

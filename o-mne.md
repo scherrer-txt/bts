@@ -42,7 +42,7 @@ fotograf[^6], motion designer[^7], nezávislý herní vývojář[^8], event prod
 
 {: data-content=“footnotes“}
 
-[^1]: tohle je docela nový slovo, moje [definice tady](notes/2024-03-29-disciplinarita.html);
+[^1]: tohle je docela nový slovo, moje [definice tady](/notes/2024-03-29-disciplinarita.html);
 [^2]: o tom jsem se nedávno trochu rozepsal [tady](beru-5-prasku-kazdy-rano);
 [^3]: donedávna jsem ještě s tímhle označením váhal, ale Nobelovky za literaturu dostávají i [lidé, kteří píšou *jen* povídky](https://en.wikipedia.org/wiki/Alice_Munro), takže to trochu rozhodlo;
 [^4]: bloguju už od roku 2012 (*rip Wulfrion blog*); tehdy jsem psal recenze na fantastiku; o tom jsem [psal tady](jak-se-prichazi-o-sny);

@@ -6,15 +6,15 @@
 // -------------- COLORS -------------- //
 @mixin light-appearance {
   html, body {
-      --bg: #EDDDD5;
-      --bg-secondary: #E3D1CC;
       --headings: #262626;
-      --text: #1C2E33;
-      --text-secondary: #FF5500;
-      --text-italic: #946e5b;
       --links: #7700ff;
       --links-hover: #A6A6A6;
       --highlight: #FFECB2;
+      --bg: #EDDDD5;
+      --bg-secondary: #E3D1CC;
+      --text: #1C2E33;
+      --text-secondary: #FF5500;
+      --text-italic: #946e5b;
       --code-text: #595959;
       --share-text: #666666;
       --transpa: rgba(237, 221, 213, 0.65)
