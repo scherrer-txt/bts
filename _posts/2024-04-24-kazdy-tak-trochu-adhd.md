@@ -16,6 +16,7 @@ thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thu
 {:toc}
 
 ---
+
 > Člověk na vozíku fakt těžko vyjde schody do pátýho patra. Můj vozík není vidět. Ale to neznamená, že neexistuje a že je pro mě jednoduchý ty schody vyjít.
 ## Krátký úvod
 Někdy zhruba v roce 2019/2020 jsem se začal víc zajímat o duševní zdraví. Necítil jsem se, že jsem úplně normální. Kdo četl moje předchozí články, ví, že jsem měl odmalička dost divný zájmy; byl jsem celkem zvláštní dítě. Potřeboval jsem to pojmenovat. Spadl jsem do králičí nory různých diagnóz a symptomů.
