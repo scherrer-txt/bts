@@ -14,7 +14,7 @@
       --bg-secondary: #E3D1CC;
       --text: #1C2E33;
       --text-secondary: #FF5500;
-      --text-italic: #946e5b;
+      --text-italic: #304E57;
       --code-text: #595959;
       --share-text: #666666;
       --transpa: rgba(237, 221, 213, 0.65)
@@ -32,7 +32,7 @@
       --bg-secondary: #0A0A0A;
       --text: #E3D1CC;
       --text-secondary: #FF5500;
-      --text-italic: #b88f7a;
+      --text-italic: #C4B5B0;
       --code-text: #595959;
       --share-text: #666666;
       --transpa: rgba(18, 18, 18, 0.3)
@@ -184,12 +184,13 @@ a {
 
 strong {
   font-style: bold;
-  color: var(--text-secondary);
+  color: var(--text-italic);
 }
 
 blockquote p {
   font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 5rem;
+  text-align: center;
   font-weight: 400;
   color: var(--code-text);
   line-height: 4.7rem;
