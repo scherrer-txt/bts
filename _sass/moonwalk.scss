@@ -262,6 +262,17 @@ sup {
   line-height: 0.3em;
 }
 
+.reversefootnote {
+  visibility: hidden;
+}
+
+.reversefootnote::after {
+  content: "↑ zpátky";
+  visibility: visible;
+  font-size: 0.7rem;
+  margin-left: -0.5rem;
+}
+
 // -------------- PAGE WIDTH -------------- //
 .w {
   display: flex;
