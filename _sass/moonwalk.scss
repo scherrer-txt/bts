@@ -156,11 +156,14 @@ html, body {
   background-color: var(--bg);
   color: var(--text);
 }
+
 h1, h2, h3, h4, h5, h6 {
   color: var(--text-secondary);
   width: 65%;
   margin: 4rem auto 0;
+  scroll-margin-top: 5rem;
 }
+
 p, strong, b, em, small, table, figcaption {
   color: var(--text);
   width: 65%;
@@ -248,8 +251,11 @@ ul.no-bullets {
 }
 
 // -------------- FOOTNOTES -------------- //
+
 .footnotes {
+  color: var(--text);
   width: 100%;
+  scroll-margin-top: 5rem;
 }
 
 .footnotes li p {
@@ -257,21 +263,34 @@ ul.no-bullets {
   margin: -0.3rem 0;
 }
 
+.footnotes ol li {
+  scroll-margin-top: 10rem;
+}
+
 sup {
   vertical-align: text-top;
   line-height: 0.3em;
+  scroll-margin-top: 10rem;
 }
 
 .reversefootnote {
   visibility: hidden;
+  display: inline-flex;
 }
 
 .reversefootnote::after {
   content: "↑ zpátky";
   visibility: visible;
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   margin-left: -0.8rem;
+  text-align: center;
 }
+
+*:target {
+  color: var(--text-secondary);
+  transition: color 0.5s;
+}
+
 
 // -------------- PAGE WIDTH -------------- //
 .w {
@@ -396,8 +415,6 @@ p code, li code {
 .highlight, pre code {
   border-radius: 25px;
 }
-    
-*:target { background-color: var(--bg-secondary); }
 
 html.transition,
 html.transition *,
