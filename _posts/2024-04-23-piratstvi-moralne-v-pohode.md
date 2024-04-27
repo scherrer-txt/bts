@@ -1,12 +1,12 @@
 ---
 layout: post
+author: scherrer.txt
 title: "Pirátství je morálně v pohodě | Behind the Screens | by Scherrer.txt"
 name: Pirátství je morálně v pohodě
-perex: Pirátství jako forma protestu a způsob získání svých práv nazpátek. Další Behind the Screens.
-order: "18"
 release: 2024/05
-author: scherrer.txt
-thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-18-thumb.png"
+perex: Pirátství jako forma protestu a způsob získání svých práv nazpátek. Další Behind the Screens.
+order: "00"
+thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-17-thumb.png"
 ---
 
 ### Obsah
@@ -107,6 +107,7 @@ Jo a pro jistotu — neříkám, že je pirátství neškodný, nemyslím si, ž
 
 
 ---
+
 ## Poznámky pod čarou
 {:.no_toc}
 

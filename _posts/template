@@ -1,12 +1,12 @@
 ---
 layout: post
+author: scherrer.txt
 title: "Název | Behind the Screens | by Scherrer.txt"
 name: Název
-perex: Perex text, který shrnuje všechno
-order: "16"
-release: 2024/03
-author: scherrer.txt
-thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-16-thumb.png"
+release: 2024/0X
+perex: Perex
+order: "XX"
+thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-XX-thumb.png"
 ---
 
 ### Obsah
