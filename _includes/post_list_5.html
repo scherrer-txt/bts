@@ -3,6 +3,7 @@
   <h2>5 nejnovějších článků</h2>
 </div>
   <ul class="list-without-markers">
+  {% assign sorted_posts = site.posts | sort_natural: 'order' | reverse %}
   {% for post in site.posts | limit: 5 %}
       <li class="post-meta-container.list">
         <div class="post-index">
