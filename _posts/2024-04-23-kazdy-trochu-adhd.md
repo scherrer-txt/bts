@@ -24,7 +24,7 @@ Někdy zhruba v roce 2019/2020 jsem se začal víc zajímat o duševní zdraví.
 
 Měl jsem potřebu to pojmenovat. Jedinej způsob, jak si pro sebe potvrdit nebo vyvrátit jakoukoliv možnou diagnózu, bylo na chvíli přijmout jako pravděpodobnou, a hledat věci, který ji potvrdí nebo vyvrátí. Vědecká metoda v praxi. Až na jednu se mnou žádná z diagnóz dlouho nezůstala. I když do nějaký míry seděly, po přečtení výpovědí/žitých zkušeností lidí, co se s těma nemocema potýkají, jsem tam žádný větší pojítko neviděl.
 
-Ta jediná, která seděla, bylo ADHD. Když jsem se svěřil svým tehdejším kamarádům, dostalo se mi odpovědí, že „*to má přece tak trochu každej*“ a že „*to určitě není validní výmluva pro to, že seš nespolehlivej flákač*“, a že bych se sebou „*měl rozhodně něco začít konečně dělat, protože chodit furt pozdě není normální*“, a že „*zapomínat nebo neposlouchat to, co ti někdo říká, je taky fakt blbý*“.
+Ta jediná, která seděla, bylo [ADHD](https://www.cdc.gov/ncbddd/adhd/facts.html). Když jsem se svěřil svým tehdejším kamarádům, dostalo se mi odpovědí, že „*to má přece tak trochu každej*“ a že „*to určitě není validní výmluva pro to, že seš nespolehlivej flákač*“, a že bych se sebou „*měl rozhodně něco začít konečně dělat, protože chodit furt pozdě není normální*“, a že „*zapomínat nebo neposlouchat to, co ti někdo říká, je taky fakt blbý*“.
 
 Well, guess what, není to normální — na tom se shodneme. Což ale trochu popírá to, že „*ADHD má přece každej*“, protože kdyby to měl opravdu každej, tak je všechno z předchozího odstavce přece „*normální*“, nebo?
 ## Ne, ADHD fakt nemají všichni
