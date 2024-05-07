@@ -17,7 +17,7 @@ thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thu
 
 ---
 
-## Rychlý úvod
+## [Rychlý úvod](#obsah)
 Kdysi jsem měl na poli literatury a prózy celkem vysoké ambice. Abych se co nejdřív posunul, zpětnou vazbu jsem vyhledával a vyžadoval. Od blízkého okolí a známých, od ostatních pisálků, i od spisovatelů a nakladatelů.
 
 Můj tehdejší proces psaní vypadal tak, že jsem napsal první verzi povídky, ke které jsem dostal zpětnou vazbu. Tu jsem zpracoval, čímž vznikla druhá verze, kterou jsem poslal na další feedback. Z toho vznikla třetí verze. Pak čtvrtá. Pátá. Verze 1.01b, verze 1.8+. Alfa verze, beta verze. _Párkrát_ se na konci tohoto procesu objevila verze finální.
@@ -26,25 +26,30 @@ Od betačtenářů — nešťastníků, kteří rozepsaná díla _dobrovolně_ �
 
 > Zpomal. I když ve svý tvorbě vidíš rezervy, nauč se říct si: „_Takhle to pro teď stačí._“
 
-## Na co jsem přišel
+## [Na co jsem přišel](#obsah)
 ##### 1. Neustále jsem hledal chyby
+{:.no_toc}
 
 Cíleným vyhledáváním kritiky jsem si způsobil, že jsem donekonečna pedantsky hledal nedostatky. Zbytečně jsem sám sobě šlapal na krk, abych byl co nejrychleji nejlepší. A myslel jsem si, že čím víc kritiky, tím rychlejší tempo růstu. Čímž jsem se nevědomky jen zbytečně dusil.
 
 ##### 2. Byl jsem pořád nespokojený
+{:.no_toc}
+
 Sám sobě jsem zakázal být aspoň do určité míry spokojený se svojí tvorbou. Euforii po dopsání podívky vždy rychle nahradilo urputné hledání chyb. Místo toho, abych se ze začátečnických chyb vypsal tím, že budu pokračovat v psaní. Pořád jsem jen upravoval to, co jsem napsal, jako kdybych se snažil zahladit stopy své jalovosti a nezkušenosti. Motal jsem se v kruhu.
 
 ##### 3. Uniklo mi to nejdůležitější
+{:.no_toc}
+
 Při jakékoliv _umělecké_ práci je důležitá jen jedna věc. Umělci tvoří, protože je to podstata jejich bytí. Být znamená tvořit. Tahle niterná touha je pohonem motorů kreativity. Ta nejdůležitější a jediná věc, na které záleží, je _autor_ a _jeho_ vlastní pocity. Cokoliv ostatního je nepodstatné. Začal jsem ignorovat, co a jak jsem chtěl psát já. Místo toho jsem psal spíš podle toho, jak mi říkali ostatní, že je podle nich nejlepší.
 
 > To, jestli seš dobrej, musíš cítit hlavně ty sám. Neboj se to o sobě říct, když to cítíš.
 
-## Co se stalo
+## [Co se stalo](#obsah)
 Z povídek vznikaly docela zvláštní paskvily. Mé původní nápady se míchaly s těmi od betačtenářů. Nešlo jen o skladbu vět a lingvistickou ekvilibristiku. Šlo o příběh, postavy i o celý fiktivní svět — v rozsahu od mikroekonomiky po mytologii. Nakonec jsem se v tom začal ztrácet. Proces psaní jsem si sám naprosto znechutil. Představa několikatýdenního potácení se ve zpětnovazebném bezvědomí mi začala vyvolávat úzkosti. Poslední verzi poslední povídky jsem napsal před čtyřmi lety. Od té doby nic. Pokud nepočítám občasné grafomanské výstřelky a Behind the Screens.
 
 > Zpětnou vazbu nepřeceňuj. Rozhoduj se sám za sebe. Klidně i jinak, než jak ti radí okolí.
 
-## Poučení
+## [Poučení](#obsah)
 Někdy je prostě zpětné vazby až moc. Někdy je lepší nikoho neposlouchat, sednout a dál dělat, jak nejlíp umíš. Neočekávej od sebe žádný zázraky. Smiř se s tím, že se sebou _nikdy_ nebudeš úplně spokojený. Tvořit můžeš donekonečna. Vždycky je co ladit. Nauč se dát si včas stopku. Zpomal. I když ve svý tvorbě vidíš rezervy, nauč se říct si: „_Takhle to pro teď stačí._“ Pokud víš, že si na ty chyby dáš v budoucnu pozor, odlož nástroje, podívej se na dílo z nadhledu, vyhodnoť situaci a jdi klidně dělat na něčem novém. Jinak se pravděpodobně sekneš na místě.
 
 <div class="gallery-container">

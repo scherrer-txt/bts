@@ -17,7 +17,7 @@ thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thu
 
 ---
 
-## Rychlý úvod
+## [Rychlý úvod](#obsah)
 Nikdy jsem neuměl kreslit. Vždycky jsem se z toho ale vylhal. Používal jsem tvary, barvy, písma, slova, fotky — všechno co jsem měl po ruce.
 
 Už pár měsíců se učím pracovat s AI. Zjišťuju její limity a jak ji efektivně využívat v každodenním životě. Chci si uvolnit kapacity[^1].
@@ -26,7 +26,7 @@ Outsourcuju nudný nebo zbytečně zatěžující myšlenkový procesy, abych mo
 
 Nedávno moje nová povídka vyhrála v soutěži. A já měl díky možnost k ní udělat ilustraci.
 
-## Midjourney ve zkratce
+## [Midjourney ve zkratce](#obsah)
 Midjourney je název firmy a umělé inteligence, která generuje obrázky z textového zadání. Jsou i jiné, třeba DALL-E nebo Stable Diffusion, ale Midjourney mi přijde mnohem lepší. Pro mě obrovskou výhodou je to, že komunikovat s AI můžu přes chat na Discordu. Vystavuje mě to mnohem menšímu počtu distrakcí.
 
 Přístupná veřejnosti je od půlky července 2022 a dá se používat zadarmo.
@@ -36,7 +36,7 @@ Přístupná veřejnosti je od půlky července 2022 a dá se používat zadarmo
 </div>
 _Můj první prompt ever: „Galactic commander“_
 
-## Co si o Midjourney myslím
+## [Co si o Midjourney myslím](#obsah)
 
 S Midjourney jsem si začal hrát někdy na začátku září.
 
@@ -56,7 +56,7 @@ Dost se mnou otřáslo i zjištění, že je to přesně naopak, než jsme si v�
 
 Jenže i přes to se nebojím se toho, že mě jednou nahradí umělá inteligence. Já mám totiž v plánu AI začlenit do svých procesů a do svýho života. Nechat se jí boostnout.
 
-## Midjourney mi dalo boost
+## [Midjourney mi dalo boost](#obsah)
 O pár dnů později na stole ležela nabídka, že bych si ke své vítězné povídce mohl udělat obálku, protože vyjde knižně ve sborníku a bude k dostání i na eshopu.
 
 Nejdřív jsem se z toho chtěl vylhat a jít na to tak, jako vždycky. Tvary, barvy, písma, textury. Jenže jsem to nechtěl odbýt. Chtěl jsem zkusit něco nového. Zaplatil jsem si Midjourney na měsíc a dal jsem se do práce.
@@ -85,7 +85,7 @@ Mohl jsem se ale na art kreativně dohlížet a korigovat celý tvůrčí proces
 </div>
 _Finální art povídky_
 
-## Midjourney za mě neudělalo celou práci
+## [Midjourney za mě neudělalo celou práci](#obsah)
 
 Nemám problém s tím říct, že Midjourney udělalo dost práce, ale rozhodně nebudu zlehčovat svoji roli a říkat: „To samo“. To je blbost. Foťák je nástroj, fotograf ale fotí fotky. Adobe je několik nástrojů, ale kreativec dělá kreativu. Tužka a štětec jsou nástroje, ale drží ji ilustrátor. Midjourney je nástroj, ale bez umělecké vize by nevzniklo nic. Výtvory jsou všechny moje, necítím to jinak. Patří mi i po právní stránce — Midjourney si totiž platím.
 
@@ -104,7 +104,7 @@ Když jsem byl spoko, rozhodl jsem se z toho udělat cover i ve čtvercovým for
   <div class="gallery-single" style="background-image: url('/images/bts-09-06.png');"></div>
 </div>
 
-## Něco na závěr
+## [Něco na závěr](#obsah)
 
 Umělá inteligence je budoucnost. Pojďme se jí nebát, zkoušejme její limity a přínosy. Nechme se jí boostnout. Pojďme se s ní učit všechno, na co si nevěříme nebo na co nemáme čas prozkoumávat sami.
 
@@ -119,7 +119,7 @@ _Všechno, co jsem s Midjourney doteď vytvořil_
 
 ---
 
-## Poznámky pod čarou
+## [Poznámky pod čarou](#obsah)
 {:.no_toc}
 
 {: data-content="footnotes"}

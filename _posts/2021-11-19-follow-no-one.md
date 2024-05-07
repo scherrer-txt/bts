@@ -17,7 +17,7 @@ thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thu
 
 ---
 
-## Rychlý úvod
+## [Rychlý úvod](#obsah)
 Jsem typ člověka[^1], co musí pořád vstřebávat nějaký informace. Nahodně se mi v hlavě vynořují otázky, na který musím znát odpovědi. Díky tomu existuje málo témat, o kterých bych se s někým nedokázal bavit. Na to jsem byl vždycky docela hrdý.
 
 Problém nastal, když jsem v bezduchém, otravně nutkavém scrollování, swipování a googlení začal ztrácet většinu volného času. Postupně jsem přestal mít čas na vlastní tvorbu i na práci. Byl jsem často přehlcený, vyčerpaný a ačkoliv jsem se pořád vystavoval novým podnětům, byl jsem extrémně znuděný. Mobil jsem vytahoval v podstatě ze zvyku, bezmyšlenkovitě, a abych něčím vyplnil čas mezi činností X a Y.
@@ -26,7 +26,7 @@ Poslední dobou se snažím se svými zlozvyky něco dělat. Přestat si kousat 
 
 Od doby, co to dělám, jsem v sobě zase objevil radost z tvorby. Náhoda?
 
-## Okamžité uspokojení, algoritmy a černá zrcadla
+## [Okamžité uspokojení, algoritmy a černá zrcadla](#obsah)
 _Instantní gratifikace = Okamžitá odměna (zpravidla za něco, co nestojí tolik sil). Takový ten super pocit, když vidíš něco hrozně hezkýho a dáš tomu like — nebo když like dostaneš. Nudíš se při čekání na šalinu? Pár swipů, několik hezkých fotek, nějaký zajímavý novinky ze světového dění, chvilkový nával uspokojení a takhle pořád dokola._
 
 Je mi 24 a fakt nechci znít jako nějaký fotr, ale to, jakým způsobem používáme sociální sítě, je problém. To už si asi všichni uvědomujeme. Je to společenský[^2], psychologický[^3] i bezpečnostní[^4] riziko. Některý klíčový části socek jsou záměrně co nejvíc návykový[^5]. Tím útočí na naše nejprimitivnější pudy[^6] a proti tomu je dost těžké se bránit. A i když si odinstalujeme TikTok, IG i Facebook, zdaleka[^7] nemáme[^8] vyhráno[^9].
@@ -37,7 +37,7 @@ Před pár lety jsme si všichni říkali, jak je Black Mirror hrozně zajímav�
 
 Nějakou chvíli ještě bude stačit zmínka o nějaké věci, abychom na ni pak všude viděli reklamy. Ale jestli máš TikTok, tak sis všiml, jak se ti poslední dobou až moc dobře trefuje do vkus[^10]u. To je přesně ono. Ultimate goal těchhle algoritmů není se ti jen „_trefovat do vkusu_“, ale tvůj vkus předvídat. Ukazovat ti to, co jsi ani nevěděl, že budeš chtít. Brzo se do téhle fáze dostaneme. Proč je to špatně? To je jako ptát se, proč je špatně nemít svobodnou vůli[^11].
 
-## Cena za propojení, svobodná vůle a rozhodnutí
+## [Cena za propojení, svobodná vůle a rozhodnutí](#obsah)
 Sociální sítě nás všechny propojují. Ale za jakou cenu? A co za to dostáváme na oplátku? Opravdu potřebujeme vědět všechno o všech? Opravdu se potřebujeme vystavovat rozhodovací paralýze[^12], která nám znemožňuje si vytvořit vlastní názor[^13] bez toho, aniž bychom to nejdřív zkonzultovali s internetem? Opravdu potřebujeme[^14] vědět, co všechno se děje na druhé straně zeměkoule, jen proto, abychom pak upadli buď do depresí anebo apatie[^15], přestože/protože s tím nic nezmůžeme? A opravdu musíme svými osobními daty živit[^16] gigantický marketingový moloch, který nás postupně připravuje o svobodnou vůli a rozhodování[^17]?
 
 Já jsem se rozhodl.
@@ -52,14 +52,14 @@ Myslím si, že pokud je něco opravdu důležité a inspirativní, tak si to za
 
 Protože co jinýho ty složky jsou než „_sbírky_“, na který můžeme být snobsky „_hrdí_“, protože jsou „_osobitým_“ a „_originálním_“ ztělesněním našeho vlastního „_vytříbeného_“ vkusu?
 
-## Sebevědomí a identita
+## [Sebevědomí a identita](#obsah)
 Při mazání všech lidí, které jsem na grafickém profilu sledoval, jsem zjistil zajímavou věc. Svoji vlastní hodnotu a identitu jsem do určité míry odvozoval od osob, které jsem sledoval. Ať už to byli nějací slavní lidé nebo zatím-neobjevení umělci, cítil jsem se _snobsky povýšeně_, _protože_ jsem je sledoval. Úplně stejný entitled bullshit, jako když někdo poslouchá kapelu, co nikdo moc nezná a myslí si: „_Já přece neposlouchám nějaký sračky, mám vkus a taky se vyznám, neposlouchám mainstream, takže jsem hrozně zajímavej, protože jsem 1 ze 1000 lidí._“ Zní to komicky? Takhle přesně funguje hipsterismus[^20].
 
 Teď, když jsem se nad tím tak pozastavil a pořádně si to sám uvědomil, by mě zajímalo, jak hluboký problém to je. Kolik lidí má postavené sebevnímání a sebevědomí na věcech, kterými se obklopují — a které pravděpodobně ani nevytvořili. Vždycky mi přišlo úchylný si o sobě myslet _něco víc_ jen kvůli tomu, že jako „_jeden z mála_“ něco nebo někoho _znám_. Ale stejně jsem tomu sám podlehl.
 
 Tady bych jen chtěl říct — pokud to tak někdo má, že žije na hnidopišském, hipsterském obláčku sladké sebelízačské rozkoše, v opojném pocitu vlastní nenahraditelnosti a osobitosti plynoucí z tak povrchních věcí jako jsou _pouhé_ znalosti nějakých věcí nebo osob, pak si podle mě nezaslouží nic jinýho než lítost. Pokud svoje sebevědomí stavíš na věcech, který nejsou tvoje, pak ani tvoje sebevědomí není doopravdy _tvoje_.
 
-## Smysl tohohle článku
+## [Smysl tohohle článku](#obsah)
 Musí mít všechno nějaký konkrétní smysl a účel? Funkci a záměr? Nějakou jasnou konkluzi, jednotící myšlenku, aby se lidi nemuseli namáhat s přemýšlením a vyvozováním vlastních závěrů? _Musí to čtenář dostat naservírovaný na podnosu_?
 
 Tohle jsou věci, které mám v hlavě a které motivovaly FOLLOW NO ONE performance. Potřebuju je dostat z hlavy, podělit se o ně s někým. Vzal jsem inkoust a chrtsnul ho na papír — co v těch flecích vidíš, to už je na tobě.
@@ -81,7 +81,7 @@ Sami jste se ještě nehledali — a tu jste nalezli mne. Tak se vede všem vě�
 
 ---
 
-## Poznámky pod čarou
+## [Poznámky pod čarou](#obsah)
 {:.no_toc}
 
 {: data-content="footnotes"}

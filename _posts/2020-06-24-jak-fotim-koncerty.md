@@ -33,7 +33,7 @@ thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thu
 </div>
 _Fléda, 26. února 2016, křest ep AK-47 — první koncert, který jsem fotil_
 
-## Krátký úvod
+## [Krátký úvod](#obsah)
 
 2014 jsem dostal první zrcadlovku, na které jsem se naučil všechno důležité. S delšími přestávkami tedy fotím lehce přes 6 let — když nepočítám nějaké pokusy back in the days, když jsem byl ještě malý pívo.
 
@@ -42,7 +42,7 @@ Křest Maniakova EP AK-47 byl zároveň křtem mě jako event fotografa. Byl jse
 V září 2019 jsem měl možnosti si koupit nový foťák a rozhodl jsem se pro Sony α A7 II se setovým 24–77 mm objektivem. Od té doby fotím jen na něj.
 
 ## Fáze 1 — Příprava
-### FÁZE 1.A — Basics
+### [FÁZE 1.A — Basics](#obsah)
 
 Základ je mít dostatek nabitých baterek a čisté paměťovky.
 
@@ -56,7 +56,7 @@ Je to basic věc, ale opravdu je potřeba to zdůraznit. Zrovna když byli lidi 
 
 Mám 3 náhradní baterky s nabíječkou a náhradní paměťovku. Baterky vydrží 1400 fotek a na paměťovky narvu dohromady 1716 ±50Mb RAWů. Musím říct, že se mi fotí úplně jinak, když vím, že mám dost místa i šťávy.
 
-### FÁZE 1.B — Dohoda
+### [FÁZE 1.B — Dohoda](#obsah)
 
 Extrémně důležitá věc v rámci přípravy je jasná dohoda s někým, kdo má event na starosti. Je potřeba vyřešit odměnu, možnost pohybu, případně počet free vstupů a útratu na baru.
 
@@ -67,7 +67,7 @@ Tady je fajn zmínit, že přemýšlím o nějaké stručné smlouvě, kde by by
 </div>
 _#throwback na křest Indigova EP #4B0082 v Kabinetu Múz_
 
-### FÁZE 1.C — Backstage a pohyb po klubu
+### [FÁZE 1.C — Backstage a pohyb po klubu](#obsah)
 
 Když nemám backstage pass a volnost pohybu, tak se mi fakt nefotí dobře.
 
@@ -104,7 +104,7 @@ Jo, jeden tip. **Prostředek stage je posvátný území**, které patří inter
 
 Moje práce je sice fotit ty nejlepší fotky, ale lidi, kteří zaplatili za možnost tam být, nejsou na nějakého debílka zvědaví. Já bych na jejich místě taky nebyl. Backstage páska neznamená, že jsem něco víc. Takže fotím, ale nepřekážím a snažím se být neviditelný.
 
-## Fáze 2 — Mindset
+## [Fáze 2 — Mindset](#obsah)
 
 Na koncert se nejdu bavit, nejdu chlastat, nejdu si to „užít“. Součást mé práce je, že jsem v peak formě, při smyslech a fotím nejlepší fotky, jaké v danou chvíli a za daných podmínek můžu.
 
@@ -125,7 +125,7 @@ Občas mě poprosí někdo z crowdu o fotku. Vždycky je aspoň jednou cvaknu. Z
   <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*GPUpqoer9Gf-RvOEWZIMTQ.jpeg');"></div>
 </div>
 
-## Fáze 3 — Akce
+## [Fáze 3 — Akce](#obsah)
 
 Fotím na full manual, protože mám rád věci pod kontrolou. Nechci se spoléhat na stroj, aby mi nastavoval foťák, jak uzná za vhodné. Někdo to vnímá jako pomoc, já spíš jako přítěž. Jediné, co mám na auto, je white balance.
 
@@ -161,7 +161,7 @@ Lock-on AF je funkce, kterou používám, když si na ni vzpomenu. Focus foťák
 </div>
 
 ## Fáze 4 — Edit
-### FÁZE 4.A — Pořádek ve složkách je základ
+### [FÁZE 4.A — Pořádek ve složkách je základ](#obsah)
 
 Doma přesunu RAWy do složky na počítači. Abych měl pořádek ve složkách, držím se tohoto pojmenovávání:
 **2020–05–20 NÁZEV AKCE**
@@ -174,7 +174,7 @@ Složky neupravených fotek od hotových odlišuju tím, že na začátek napí�
 
 Protože mám fotky v PC, import do Lightroomu je záležitost dvou minut. Import z paměťovky trvá mnohem dýl. V LR si pak vytvořím novou kolekci, kterou pojmenuju stejně jako složku s fotkami.
 
-### FÁZE 4.B — Selekce
+### [FÁZE 4.B — Selekce](#obsah)
 
 Tři fotky na obrazovku a jedu. Dobré fotky označím žlutě (klávesa “7"), špatné červeně (“6”), upravené zeleně nebo modře, podle nálady (“8” a “9”).
 Zapněte si CapsLock, po obarvení fotky automaticky naskočí následující fotka; nemusíte používat šipky
@@ -193,7 +193,7 @@ _Seznamte se, tlačítko **Sync…** je odteď váš největší kámoš_
 
 Poté fotky jednotlivě projdu a naposledy upravím nastavení, srovnám, oříznu a podle potřeby udělám lehkou retuš.
 
-### FÁZE 4.C — Export
+### [FÁZE 4.C — Export](#obsah)
 
 Exportuji buď do plné velikosti v 72PPI, nebo do 4000 px v delší straně a 150DPI. Záleží na domluvě.
 
@@ -203,7 +203,7 @@ Exportuji buď do plné velikosti v 72PPI, nebo do 4000 px v delší straně a 1
 </div>
 _4K 150PPI × Fullsize 72PPI_
 
-### FÁZE 4.D — Poslání dat
+### [FÁZE 4.D — Poslání dat](#obsah)
 
 Nejlepší řešení je podle mě **Dropbox**. Desktopová aplikace je propojená se složkami v PC. Stačí udělat složku, hodit do ní fotky, kliknout pravým tlačítkem a můžu buď poslat přímo link, který se dá otevřít i v prohlížeči, nebo sdílet rovnou na email.
 Když udělám nějaké změny, nemusím posílat další odkaz.
@@ -223,7 +223,7 @@ MEGA nabízí v základu 15GB zadarmo, ale přes různé achievementy se dá úl
 </div>
 _Povinná „interpret v moři smartphone světel“ fotka_
 
-## Fáze 5 – Selfpromo
+## [Fáze 5 – Selfpromo](#obsah)
 
 > Máš jen takový promo, jaký si sám uděláš.
 

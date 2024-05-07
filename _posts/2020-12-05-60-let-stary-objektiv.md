@@ -17,7 +17,7 @@ thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thu
 
 ---
 
-## Krátký úvod
+## [Krátký úvod](#obsah)
 Skrz různé internetové králičí nory jsem se dostal k videu s názvem „Shooting a Video with a World War 1 Lens (100 years old)“. Už podle názvu jsem věděl, že bude super.
 Snímek z videa natočené na 100 let starý objektiv
 
@@ -36,7 +36,7 @@ Hned jsem chtěl vědět o těchhle objektivech co nejvíc. Jedno jméno se v t�
 </div>
 _Vidíš, jak je ten bokeh jakoby ve spirále? Tak tomu se říká „swirly bokeh“_
 
-## Co díky tomu vzniklo?
+## [Co díky tomu vzniklo?](#obsah)
 ##### Projekt Quickshots
 {:toc}
 _Vyfotit, upravit, nahrát. Během 10 minut._
@@ -52,7 +52,7 @@ Vyzkoušel jsem si fotit každý den a zároveň jsem otestoval mobilní workflo
 </div>
 _Na tyhle fotky se můžeš v plné kráse podívat u mě na IG — [@scherrer.jpg](https://www.instagr.am/scherrer.jpg)_
 
-## Co jsem díky Quickshots zjistil?
+## [Co jsem díky Quickshots zjistil?](#obsah)
 
 Zjistil jsem, že když upravuju fotky na počítači, víc koukám na čísla. Na mobilu jedu čistě podle pocitů.
 
@@ -67,7 +67,7 @@ Zároveň jsem zjistil, jak je fajn mít dva různé objektivy. Starý analogov�
 
 _Vlevo fotka z moderního objektivu. Postavy pod stagí mají jasnou kresbu, jsou celkem rozeznatelné. Fotka vpravo je z Heliosu. Je na ní ihned vidět určitá zamlženost; z lidí v kotli zbyly jen siluety._
 
-## Co jsem díky Quickshots získal?
+## [Co jsem díky Quickshots získal?](#obsah)
 
 Zjistil jsem, že nepotřebuju fotit technicky precizní fotky. Potřebuju fotit fotky, který se líbí mně. Přestal jsem se hnát za dokonalostí. Dokonalost je v nedokonalosti[^1] a té jsem teď otevřený.
 
@@ -80,7 +80,7 @@ Focení s analogovým objektivem mě donutilo ne jenom zpomalit, ale úplně zas
 </div>
 
 ## Jak to může začít u tebe
-### Fáze 1. — Příprava
+### [Fáze 1. — Příprava](#obsah)
 
 Měl bys mít o technice povědomí. Usnadní ti to rozhodování, budeš vědět, co máš čekat a zároveň tě nikdo nenapálí mylnými informacemi.
 
@@ -107,7 +107,7 @@ Nezapomeň, že analogový objektivy v sobě nemají žádnou elektroniku. Bez [
   <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:640/format:webp/1*UjG4jPBNnIMLuq5twnik0g.jpeg');"></div>
 </div>
 
-### Fáze 2. — Nákup
+### [Fáze 2. — Nákup](#obsah)
 
 Možností je spousta. Vzácnější objektivy koupíš na eBayi, běžné na Aukru, mně se osvědčily fotobazary. Nejlepší jsou kamenný fotobazary, kde si můžeš objektiv prohlédnout a rovnou vyzkoušet.
 
@@ -119,7 +119,7 @@ Dej si při nákupu pozor na detaily — třeba na to, jak jsou promazaný lamel
   <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:640/format:webp/1*Gq8hq3t5rYX3Ko5arn2lpQ.jpeg');"></div>
 </div>
 
-### Fáze 3. — Just shoot!
+### [Fáze 3. — Just shoot!](#obsah)
 
 Tady přichází sranda. S objektivem se musíš sžít. Musíš si zvyknout na manuální ostření a ovládání tak nějak všeho, co za tebe jinak dělala elektronika.
 
@@ -132,7 +132,7 @@ Objektiv má vliv na podání barev i na celkový dojem fotky. Pokud chceš tenh
 </div>
 
 ---
-## Poznámky pod čarou
+## [Poznámky pod čarou](#obsah)
 {:.no_toc}
 
 {: data-content=“footnotes“}

@@ -185,6 +185,15 @@ a {
     text-decoration: line-through;
 }
 
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a {
+  color: var(--text-secondary);
+  text-decoration: underline;
+}
+
 strong {
   font-style: bold;
   color: var(--text-italic);

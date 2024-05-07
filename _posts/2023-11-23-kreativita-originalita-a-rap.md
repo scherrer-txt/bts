@@ -17,7 +17,7 @@ thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thu
 
 ---
 
-## Rychlý úvod
+## [Rychlý úvod](#obsah)
 V tomhle článku zabrousím do filozofie a metafyziky. Zkusím propojit dohromady několik pojmů a konceptů, který mi pomáhají o kreativitě přemýšlet. Není to úplně lehký čtivo a to i přes to, že jsem se snažil to co nejvíc zkondenzovat a „_zjednodušit_“. Není to ani něco, v co bych „_věřil_“ v náboženským slova smyslu — zmiňuju třeba „_sílu_“, ideje, materiální svět a jiný dimenze, a to už může znít jako nějaký New Age ezo bullshit.
 
 Nezbláznil jsem se. Jen prostě nemám lepší pojmenování pro jednotlivý dílky frameworku, který mi pomáhá o kreativitě přemýšlet — ne nutně na denní bázi, ale spíš o vztahu mě ke kreativitě a kreativity k lidstvu jako takovému.
@@ -26,7 +26,7 @@ Nezbláznil jsem se. Jen prostě nemám lepší pojmenování pro jednotlivý d�
 
 > Kreativita je: schopnost vidět kolem sebe často dost překvapivý možnosti vytvoření něčeho novýho, užitečnýho a/nebo neobvyklýho.
 
-## Metal, Calin a strážci bran
+## [Metal, Calin a strážci bran](#obsah)
 Situace: jednou za čas si poslechneš metal, ale oproti skupince lidí, co v šalině stojí kousek od tebe, kteří mají různý vesty s nášivkama, kožený náramky, těžký glády a řetězů na dvě železářství, víš úplný prd. Tahle skupinka je natolik dedicated, že zasvětila kus života, aby do hloubky společně prozkoumali svůj oblíbený žánr. To netrumfneš za večer poslouchání Black Sabbath na Spotify. Ne, oni mají nejspíš sbírku snad všech desek, co kdy vyšly, znají folk lore, a ty divný loga, co vypadají jako hromady větví, umí i přečíst.
 
 A teď si představ, že se do charts dostane nějaký metalový song, co se ti líbí, ale většina metalového posluchačstva na něj nadává. Absolutně nechápou, co tam ta sračka dělá. Pravděpodobně to není o tom, že mají potřebu trashovat něco, jen protože je to nové (_možná jo_) a má to mainstreamový úspěch — narozdíl od jejich oblíbených, míň známých interpretů. Často je to kvůli tomu, že jako odborníci na žánr dokázali přesně poznat, proč je to v kontextu danýho žánru slabý nebo co tvůrci toho novýho fláku vykradli. Poznali, že to, co se tobě jeví jako originál, je jen kopie kopií — a ještě ke všemu třeba ne moc dobrá.
@@ -37,12 +37,12 @@ Parádní příklad je Calinova hardstyle verze songu Hannah Montana, která bě
 
 > „To, před čím by měl být rap chráněn, je přesně tenhle konzervatismus.“
 
-## Zlatá éra rapu
+## [Zlatá éra rapu](#obsah)
 Rap byl donedávna záležitost rovných kšiltů, ulice, chlapáckého nalhávání si věcí a kolektivního přesvědčování se o vlastní tvrdosti. Ještě předtím to byla černošská hudba, se silnými kořeny v discu, funku a soulu. Byla to okrajová záležitost určité menšiny, která čerpala z bohaté hudební historie těch, co přišli před nimi. V současnosti je to mainstream. Každý může být rapper — nehledě na background — a témat, která rap otevírá, je nekonečno. Výpověď doby, kritika společnosti a politiky, upozorňování na důležitost mentálního zdraví, ale samozřejmě pořád i nějaká ta vyčpělá pózovitost, rádoby-tvrdost, ale zároveň i původní hravost a radost z tvorby a ze sdílení myšlenek se svým kmenem. Uškodilo rapu nějak to, že se stal mainstreamem? Vyměkl? Změnil se k nepoznání? Nebo se úplně zkazil? Je mi to fuk, jedno je ale jasný — teď je zlatá éra rapu.
 
 Díky tomu, jak je tvorba této hudby v podstatě hrozně jednoduchá — stačí jen klidně i zpirátěný software, doslova jakýkoliv sluchátka/repráky a naprosto jakýkoliv mikrofon — se šílený množství lidí může dostat k vlastní tvorbě. Vstupní investice je doslova jen čas. Člověk nemusí znát noty, ovládat hudební teorii, mít perfektní sluch, umět psát básně, mít striktní rytmus v krvi. Aktuálně vzniká víc subžánrů a fúzí rapu než kdy dřív. A pro žánr jako takový je to dobře. Pláčou znalci žánru, moudří, uznalí rovnokšiltoví stařešíni, že teď může rapovat každej a že za jejich časů hakysu v parku bylo líp? Skoro furt. Tenhle sentiment ale často pramení z ochranitelského pudu zachovat stejnou a neměnnou aspoň jednu jedinou věc, na které jim záleží, s kterou jsou srostlí a která je základním stavebním kamenem jejich identity — zachovat, ať se děje co se děje. Aby to pro ně byl pořád návrat do dětství s walkmany, cds a vinyly. Nostalgická peřinka, která skýtá teplo dávno pominutého domova. Přitom to, před čím by měl být rap chráněn, je přesně tenhle konzervatismus.
 
-## Kreativita jako transcendentní koncept
+## [Kreativita jako transcendentní koncept](#obsah)
 Nad kreativitou mě baví přemýšlet způsobem, který pojí platónský idealismus a determinismus.
 Idealismus v podání Platóna znamená, že všechno v materiálním světě je jen stínem vyšší, věčné reality. Že existuje transcendentní, nehmotný prostor/realita/dimenze, kde sídlí ideje, které do naší hmotné reality vrhají stíny, které vnímáme jako koncepty. Pro účely tohohle myšlenkového experimentu sám sebe beru jako médium, skrz který se koncept kreativity manifestuje a vnímá tak sám sebe a je zároveň vnímám i médiem — jako kdybych si nasadil VR brýle napojené na kameru přede mnou a v brýlích viděl sám sebe, jak stojím v brýlích, ale zároveň cítil, že mám nasazené brýle a pozoroval sebe, jak pozoruju sebe.
 
@@ -60,7 +60,7 @@ Všechno co bylo, je a bude, je už dávno vytvořeno od vzniku reality až po j
 
 ---
 
-## Poznámky pod čarou
+## [Poznámky pod čarou](#obsah)
 {:.no_toc}
 
 {: data-content="footnotes"}

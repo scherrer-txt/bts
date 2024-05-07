@@ -17,11 +17,11 @@ thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thu
 
 ---
 
-## Krátký úvod
+## [Krátký úvod](#obsah)
 
 Myslel jsem si, že mám rád whiskey. Nebo že bych ji *měl* mít rád. Popíjení whiskey mi pořád přijde jako společensky přijatelná, taková docela běžná „*chlapská*“ věc. Kdybych řekl, že to dělám rád a pravidelně, nejspíš to nezpůsobí moc velký údiv. Všechny ty reklamy, filmy, seriály a ostatní média, který konzumujeme, se na našem způsobu nahlížení na svět prostě podepisují.
 
-## Whiskey je pití sebevědomých
+## [Whiskey je pití sebevědomých](#obsah)
 
 Mad Men, Breaking Bad, Peaky Blinders, Suits, HIMYM, Archer, Dexter, Sherlock, House of Cards, Better Call Saul, Two and a half man. Casablanca, Godfather, Inglorious Basterds, American Psycho, Iron Man, Blade Runner, Pulp Fiction, The Big Lebowski, Goodfellas.
 
@@ -29,7 +29,7 @@ Namátkou filmy a seriály, kde mužská postava pije whiskey. Postava, kterou n
 
 Problém je, když tyhle zkratky/symboliku — co fungujou vlastně jen v kontextu spotřební zábavy —, aplikujeme na něco tak nuancovanýho, jako je reálný život. Stereotypy jsou omezenecký a ignorantský, ve skutečnosti ale i dost nebezpečný[^6].
 
-## Výlety do Skotska a Irska
+## [Výlety do Skotska a Irska](#obsah)
 
 Když mi bylo čerstvě 18, začal jsem chodit do Whiskey Shopu. Každý pátek tam probíhaly ochutnávky. Komorní akce pro zhruba 10-15 lidí. Majitel shopu byl nadšenec, ve skotských a irských palírnách ho znali jménem. Ke každý degustaci měl hodně zajímavý výklad. Často nachystal i nějaký chuťovky k podpoření celýho zážitku — chlebík, nakládaný okurky, rajčata, šunky, salámy, sýry, ovoce. Pároval to tak, aby to sedělo k tomu, co jsme degustovali. Nevím, jestli jsem si jeho doporučení „*usrknout whiskey → dipnout okurku do hořčice → zajíst to s ní*“ vyhalucinoval, ale nejspíš se to fakt stalo.
 
@@ -40,18 +40,18 @@ Vždycky jsem byl požitkář. A právě tyhle krátký, hřejivý návštěvy d
 
 Dát si „*sklenku nebo panáka večer na relax*“ je hrozně zprofanovaná představa — která ve svý podstatě ale dává smysl. Jasně, často je to alkoholismus. Taky je to ale způsob, jak zastavit čas a přimět se vychutnat si pomíjející okamžik. A to pak nemusí v rovnici figurovat panák, může to být pivo, čaj, kafe, čokoláda, jídlo — často to jsou věci, požitky, který zaměstnávají naplno ty smysly, kterým jinak nedávám moc prostoru. Řekl bych, že u mě je to cokoliv, kde nehraje příliš velkou roli zrak nebo sluch — občas sedět a poslouchat hudbu po albech, od první do poslední skladby, je sice sama o sobě zkušenost k mání, ale není to úplně *vončo*.
 
-## Výlety do Karibiku
+## [Výlety do Karibiku](#obsah)
 
 Na výlet do Karibiku jsem se poprvý pořádně vydal na Konferenci Glorious. Kromě práce z hotelového pokoje jsem měl možnost zajít na řízenou skupinovou ochutnávku rumů[^7]. Ochutnávaly se docela běžný i vlastně dost vzácný lahve. Bohatý, nadšený výklad, zasvěcení do rituálů, který mají podpořit zážitek.
 
 Do tý doby jsem si myslel, že jsem na whiskey. Po druhým panáku rumu jsem tehdy zjistil, že jsem se celou dobu pletl. Ne, že by mi whiskey vůbec nechutnaly, ale stálo hodně času a energie najít nějakou, která by mi sedla. S rumem to tak těžký nebylo. Tahle ochutnávka pro mě byla jedním z formativních momentů. Core memory.
 
-### Jak si vychutnat rum
+### [Jak si vychutnat rum](#obsah)
 1. Nahřát sklenku v dlaních, aby se líp projevila vůně; stopku chytnout mezi prostředníček a prsteníček, obejmout dlaní, druhou ruku přiložit na hrdlo; tohle není sklenka na víno, na tuhle se může chmatat;
 2. Kroužit s tekutinou po stěnách panáku, aby se otevřela chuť a zároveň aby šlo poznat, jak je alkohol viskózní;
 3. Při kroužení se člověk může zároveň docela dobře zaměřit na vůni a barvu.
 
-## Bariéry
+## [Bariéry](#obsah)
 
 Když to srovnám, oba prostory byly super. Lidi se o alkoholu rádi bavili, nadšeně ho sbírali a navzájem si doporučovali zajímavý lahve. První bariérou, kterou ale nový člověk musel překonávat, je slovník. Snažil jsem se sám rozklíčovat, co znamená „*rašelinitý*“ nebo „*nakouřený*“. Mohl jsem se zeptat. Místo toho jsem ale zkoušel extrémy a hledal, což mě přivedlo na zajímavější cestu.
 
@@ -59,7 +59,7 @@ Druhou bariérou bylo ego. V obou případech se nešlo vyhnout lehkýmu závanu
 
 Mám vrozený odpor vůči vynuceným autoritám a přirozenou neschopnost vycítit nepsaný společenský pravidla. Kdybych na tuhle hru přistoupil, rumy bych si tím zkazil, protože bych pil jen to, co ostatní považují za kvalitní. Bál bych se objevovat to svoje; bál bych se, že se shodím tím, že tomu nerozumím.
 
-## Rumový znalec
+## [Rumový znalec](#obsah)
 
 Na nějakou dobu jsem se rumům přestal věnovat. Pak ale můj kamarád Stalin začal pracovat v brněnským Baru, který neexistuje. Při jedný návštěvě jsem si vzpomněl, že můj oblíbený rum byl vždycky Non plus ultra od A.H. Riise — už ani nevím, kdy a jak jsem se k *týhle* diagnóze dostal. Každopádně jsem měl chuť. Nebylo těžký si všimnout, že bar zdobí několik desítek rumových lahví. Rumy se v ten večer staly mojí králičí norou. Ráno bylo, klasicky, trochu těžší.
 
@@ -69,7 +69,7 @@ Z výzvy „*ochutnat všechny rumy v BKN*“ se pak stala „*ochutnat co nejv�
 
 V době psaní článku mám přesně 126 rumových zápisů. Zmíněný Non Plus Ultra — v překladu „*Nic víc není*“ — zatím pořád vede. Objevil jsem ale spoustu rumů, který jsou skvělý, zajímavý, naprosto překvapivý a nebo který mi vrací vzpomínky na dávno zapomenutý časy. Nejčastěji teď chodím do Air Café. Legendární brněnský podnik, který se kromě ginů zaměřuje i na rumy. Mají tam často dost zajímavý a vzácný kousky. A hlavně tam maká můj kamarád a oblíbený barman.
 
-## Co jsem o sobě zjistil
+## [Co jsem o sobě zjistil](#obsah)
 
 Nemám rád, když mi někdo říká, co mám mít rád. Mám rád sladký rumy. Moje cesta vedla od těch nejsušších, nejuzenějších, nejnakouřenějších whiskey k sladkým rumům a rumovým elixirům. Myslím, že jsem se s tím docela sžil. Někdo to prostě má rád sladký.
 
@@ -81,7 +81,7 @@ To, že jsem se soustředil na sebe a na svoje vlastní prožívání věcí, mi
 
 Občas se teda přistihnu, jak se mi na puse rýsuje povýšenecký úšklebek — to když vidím si někoho dávat do kvalitního panáku led. Efektivně tím totiž zabíjí veškerý nuance, chuť a vůni. Navíc se tím ten panák zbytečně ředí. Stačí tři stupně celsia rozdíl a je to úplně jiný panák. Propastný rozdíl. Jenže kdo jsem já, abych komukoliv říkal, jak si má vychutnávat věci. Let’s just enjoy things, brány není potřeba hlídat. Nic se nezkazí, když budou lidi volně objevovat a interagovat s tím, co mají rádi; tak, jak jim to vyhovuje. Takovýhle krátký self check naštěstí ten úšklebek zase rychle odrýsuje.
 
-## Jak hodnotím
+## [Jak hodnotím](#obsah)
 
 Rumy hodnotím na škále 1-7; tři pozitivní (dobrý, lepší, nejlepší), tři negativní (špatný, horší, nejhorší) a jeden neutrální stupeň. 5 rumů mám na nejvyšší příčce. Dohromady 46 rumů mi chutnalo, 25 mi přišlo neutrálních, 51 mi nechutnalo.
 
@@ -89,7 +89,7 @@ Rumy ochutnávám od 22. září 2022 znova — i proto číslo rumů, který mi
 
 Měl jsem rum, co chutnal jako tekutý dřevo, lékořicový pendrek nebo rajčatová polívka. Měl jsem rum, jehož aftertaste jsem cítil ještě tři hodiny v krku, i rum, co měl sametovou, až sirupovou texturu. Rum, co chutnal jako moje oblíbený čokoládovo-karamelový belgický pralinky; rum, který chutnal tak, jak voněla stodola ve Švýcarsku[^9]; rum, co voněl po dešti a chutnal jako říční kameny. Rum, ve kterým šlo cítit moře a písečná pláž.
 
-## Moje oblíbený rumy
+## [Moje oblíbený rumy](#obsah)
 ### A. H. Riise Non Plus Ultra
 {:.no_toc}
 - Ve vůni vanilka a dřevo, sušené švestky;
@@ -121,7 +121,7 @@ Měl jsem rum, co chutnal jako tekutý dřevo, lékořicový pendrek nebo rajča
 - Jemná, sametová textura;
 
 ---
-## Poznámky pod čarou
+## [Poznámky pod čarou](#obsah)
 {:.no_toc}
 
 {: data-content=“footnotes“}
