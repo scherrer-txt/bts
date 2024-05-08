@@ -7,7 +7,7 @@ release: 2024/04
 perex: Z toho titulku se mi chce zvracet. A doufám, že i vám. Mělo by. Další článek zpoza obrazovek.
 order: "17"
 thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-17-thumb.png"
-background: "https://cdn.discordapp.com/attachments/962982236272091196/1237737985663827988/06.jpg?ex=663cbcd3&is=663b6b53&hm=6e3f8ab220b11b2d9634e7699e36b052180c8ab5bafa330ba29292c0ecfc6bf4&"
+background: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/bg/06.jpg"
 ---
 
 ### Obsah
