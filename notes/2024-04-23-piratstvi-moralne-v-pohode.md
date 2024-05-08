@@ -17,12 +17,12 @@ thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thu
 
 ---
 
-## Rychlý úvod
+## [Rychlý úvod](#obsah)
 Shodneme se, že krást věci je blbý. Ukrást auto, peníze, identitu — to se prostě nedělá. Taky se nedělá to, aby zaměstnavatel zaměstnával na švarce, neplatil daně, neproplácel přesčasy. Nesluší se manipulovat s ostatními lidmi a cíleně šířit nepravdy, o to hůř za účelem vlastního zisku. Špehovat, prodávat citlivá data. Lhát a podvádět. Nelegální a/nebo nemorální věci se prostě nedělají.
 
 Což mě vrací k prastarý otázce: má právo zloděj volat po „*spravedlnosti*“?
 
-## Být chudý je jako být postižený‽
+## [Být chudý je jako být postižený‽](#obsah)
 Tohle bude docela hot take. A pojďme si pro začátek vyjasnit jednu věc — slovo „*postižení*“ má tolik negativních konotací, že je mi z toho trochu zle (*schválně komu se při tom slovu vybaví někdo s Downovým syndromem?*). Takže ať se chápem a ať se necítím jako úplnej píčus, pro účely tohohle článku „*znevýhodnění*“ = „*postižení*“. I tahle rétorika má ale svoje úskalí — vůči slovu „znevýhodnění“ stojí v opozici „zvýhodnění“. To může působit dojmem, že „zdravý“ člověk má nějaký výhody — což může zdravé lidi paradoxně docela pobouřit (podobně, jako když se [diskutuje](https://medium.com/@mmartinezrodrigues/why-is-it-so-hard-to-talk-about-privilege-and-why-we-should-do-it-anyway-ef08b255e756) na téma [privilegií](https://www.psychologytoday.com/us/blog/feeling-our-way/201702/the-privilege-not-understanding-privilege) nebo když mají [sobě nějaká privilegia přiznat](https://www.youtube.com/watch?v=3E4s0RqCBzU)), protože z jejich úhlu pohledu zdraví přece není výhoda. No, minimálně pro účely tohohle článku (a z pohledu znevýhodněných lidí) bohužel je. Deal with it.
 
 Projev chudoby je v současný době podle mě podobný fyzickýmu/mentálnímu znevýhodnění. Chudoba totiž není jen o ztrátě/nedostatku příjmu, ale i o ztrátě/nedostatku schopností/možností a ztrátě/nedostatku optimismu.[^1] Chudí i znevýhodnění jsou [vyloučení](https://www.betterhelp.com/advice/inclusive-mental-health/social-exclusion-impact-on-mental-health/) z „*běžných*“ aktivit, [střetávají](https://www.theguardian.com/us-news/2017/jul/05/us-inequality-poor-people-bad-choices-wealthy-bias) se s [předsudky](https://msutoday.msu.edu/news/2019/the-unpopular-truth-about-biases-toward-people-with-disabilities), obě skupiny jsou buď záměrně [ignorovaný](https://www.psychologytoday.com/us/blog/stop-the-cycle/201307/the-surprising-cost-ignoring-poverty) („*žádní takoví lidé nejsou, o ničem nevíme*“) nebo [patronizovaný](https://themighty.com/topic/multiple-sclerosis/patronizing-attitudes-towards-disabled-people/) („*je škoda, že nemůžou žít jako my, normální ostatní*“) nebo rovnou infaltilizovaný („*chudáčci, nemůžou za sebe ani pořádně rozhodovat*“). Obě skupiny mají výrazně horší vyhlídky na kvalitní život. Jsou častěji náchylnější na civilizační choroby a jsou velmi citlivý na vývoj sociální politiky. Každý zdražení, každý snižování dávek, každý „*tohle se normálních lidí netýká, takže to není potřeba*“ na ně dopadá velmi, velmi tvrdě. Jako syn umělkyně/samoživitelky docela dobře vím, o čem mluvím — ale pokud mi někdo bude chtít vysvětlit, jak se věci *skutečně mají*, jsem tomu otevřený.
@@ -43,7 +43,7 @@ Velký firmy jako Adobe, Amazon, Google, Spotify, Netflix a Activision Blizzard,
 
 Jejich úspěch už nezávisí na tom, že přináší nějakou skutečnou hodnotu nebo kvalitu do životů svých zákazníků. Jejich úspěch závisí na zavalení trhu množstvím obsahu, který dohromady i při průměrný úspěšnosti, vydělá mnohem víc, než jeden geniální produkt (*jehož tvorba je často dost riziková*). Jejich úspěch závisí na tom, že užívání těchto služeb není úplně „*pohodlné*“, ale „ *ne tak otravné, aby to někoho donutilo odejít*“. Což je zajímavá poloha. Hodně mi to připomíná příručku CIA pro sabotéry z 2. světový, která v podstatě říkala, že nejlepší formou sabotáže je nenápadný, dlouhodobý tvoření mikroproblémů. Jejich úspěch závisí na tom, že nám u hlavy drží zbraň, nabitou náboji „*zrušíš předplatné a o všechno přijdeš, nebudeš moct dělat svoji práci, život se ti značně zkomplikuje*“.[^2] A jejich zisky, z předplatných a reklam, jdou především do kapes akcionářům, k běžným zaměstnancům se dostane jen mizivý procento (*[Adobe](https://www.theregister.com/2023/03/20/adobe_pay/), [UPS, Disney](https://www.marketplace.org/2023/08/01/for-their-ceos-ups-delivers-and-disneys-the-happiest-place-on-earth/) a [jiní](https://www.business.org/finance/accounting/hourly-wages-ceo-vs-employees/)*).
 
-## Korporací, který nehrajou fér
+## [Korporací, který nehrajou fér](#obsah)
 Rád bych u videoherního průmyslu ještě chvíli zůstal. Je to totiž průmysl, který se vyvíjí neuvěřitelným tempem, proto je v určitým slova smyslu pionýrem věcí, s kterýma se pak s prodlevou setkávají i ostatní odvětví. Podobně pokrokový je za mě ještě content streaming.
 
 V gaming industry existuje pojem DRM (Digital Rights Management). Je to soubor metod, který má chránit digitální díla před nelegálním kopírováním.[^3] Někteří si pamatují, že při instalaci hry museli zadávat nějaký registrační klíč — to je DRM. Někteří ví, že jsou hry, co i když jsou pro jednoho hráče, tak jdou hrát jen online — taky forma DRM. Ze všech různých způsobů ochrany je ale jeden, který se do historie zapsal nesmazatelně — [Denuvo](https://en.wikipedia.org/wiki/Denuvo). Jde o program, který je integrovaný do herního kódu a který pro autorizaci potřebuje připojení k internetu. Pro mě je to ztělesněním toho, co je s „*válkou proti pirátství*“ špatně. Hry, který byly chráněný Denuvem, totiž měly tři nepříjemný vlastnosti:
@@ -52,14 +52,14 @@ V gaming industry existuje pojem DRM (Digital Rights Management). Je to soubor m
 3. Denuvo znatelně zatěžovalo procesor a díky nadbytečnýmu zapisování informací zásadně snižovalo životnost SSD disků.
 Takže nejen, že platící byli ve výsledku šikanovaní za to, že si hru koupili — byli šikanovaný naprosto zbytečně a ještě jim to ničilo počítače. Podobný je to i se Spotify, Netflixem, Adobe a hromadou dalších.
 
-## Jde to i jinak
+## [Jde to i jinak](#obsah)
 V době, kdy fungují projekty jako Linux, Affinity, Semplice, Obsidian, DaVinci, které jsou buď prakticky zadarmo nebo za jednorázový poplatek; v době boomu indie her a open source programů, mi přijde pláč velkých firem, že přichází o zisky, jako neopodstatněný a směšný. Jsou tu totiž jasný cesty, jak mít adekvátně naceněný produkt, který funguje a přináší hodnotu. O to ale korporátům jako Netflix nebo Activision Blizzard aktuálně moc nejde. Teda jejich zaměstnancům třeba jo, protože je [v jejich klecích](https://www.polygon.com/22622396/activision-blizzard-toxic-culture-qa-customer-service-report) drží zbytky zápalu a nadšení; zdá se ale, že vyšším manažerům a akcionářům je to úplně u prdele. Tragikomickým příkladem budiž to, co se v [Activision Blizzard děje posledních 10 let](https://www.denofgeek.com/games/activision-blizzard-lawsuit-major-events-history-everything-explained/). A podobných případů je mnohem víc.
 
 Softwarovým firmám podle mě úplně uniká pointa. Jejich problémem není to, že jim nějaký jeden člověk z Horní dolní krade software — jejich problém by měl být především ten, že leckteré jiné velké firmy a podniky jejich software kradou, ačkoliv by nemusely a neměly. Počet profesionálů a firem, s kterými jsem jako spolupracoval, kteří měli třeba kradené Adobe, Cinema 4D a/nebo AutoCAD nebo hrubě porušovali licence jiných třetích stran, byl doslova omračující. Podobně profesionálové a firmy, který platí schválně levnější licenci pro osobní užití, ačkoliv by měli platit licenci pro profesionály/firmy. To je skutečný problém. Jedna firemní licence zpravidla stojí tolik, co deset běžných licencí — to znamená, že užívání nesprávných licencí přináší výrobcům jednu desetinu výdělku, který jim náleží.
 
 Nesnažím se o whataboutism, snažím se jen ilustrovat, že podle mě běžný spotřebitel doplácí na zbytečně nafouknutý problém.
 
-## Současný stav není správný
+## [Současný stav není správný](#obsah)
 Úspěšně jsme znormalizovali platit si až dvě desítky různých digitálních služeb. Novoroční trend příspěvků na Threads, kdy lidé psali seznamy všech svých předplatných, to jasně ukazuje.
  
 Problematický je, že k tvůrcům se z těchto subscriptions nic nedostane. Spotify i YouTube mají tak vyhraněný podmínky, že na svůj podíl z těchto předplatných dosáhne jen málokterý tvůrce — a když dosáhne, je to [doslova pár dolarů](https://www.nytimes.com/2021/05/07/arts/music/streaming-music-payments.html). Většina tvůrců je odsouzena ke spolupracím/sponzorství třetích stran nebo k prodeji merche nebo třeba ziskům z živýho hraní. Pokud je hlavní motivace předplácení si YouTube Premium podpora tvůrců, tak jsou tu mnohem lepší kanály, přes které lze tvůrce podpořit přímo (*Patreon, HeroHero, OnlyFans, nebo třeba ty peníze poslat rovnou na účet a neživit služby, co si berou z darů až 20 %[^4]*).
@@ -70,7 +70,7 @@ Placení za tyhle často medvědí služby jen dál podporuje nekalý praktiky, 
 
 SaaS firmy nám odkývou cokoliv, jen aby z nás vytahaly peníze. Klidně nám slíbí, že zaplacení poplatku rovná se zábava/práce bez pocitu provinění, i když to tak není. Ve skutečnosti to rozhodně není bez obětí; protože často trpí buď jedna nebo obě strany — zaměstnanci i zákazníci. Subscription-based model neznamená „*vlastnictví*“ — znamená to, že si obsah pronajímáme.
 
-## Kdy je pirátství etický
+## [Kdy je pirátství etický](#obsah)
 Hlavní příklad etickýho pirátství je, když něco „*zpirátím*“ za účelem vyzkoušet si nějakou hru. Buď to chci udělat v bezpečným prostředí nebo aktuálně nemám peníze — pokud se mi hra líbí a já pak peníze mám, je moje morální povinnost autory náležitě odměnit tím, že si hru legálně koupím. Morálka je ale něco, co vymáhat nejde; přichází po zhodnocení aktuální situace učinit svobodný rozhodnutí, který je v souladu se společenskou dohodou. Pokud tohle rozhodnutí cokoliv negativně ovlivňuje, jde podle mě mluvit o nátlaku nebo o nesvobodě.
  
 Pirátství je etický, když chci s médiem interagovat bez toho, aniž by platforma dělala všechno pro to, aby můj uživatelský zážitek komplikovala.
@@ -85,7 +85,7 @@ Pirátství je za mě etický i v momentě, kdy jsem si koupil nějaký obsah na
 
 Naprosto etický je pirátění knih, který jsou dlouhodobě nedostupný a jejich dotisk se neplánuje. Kde není žalobce, není soudce. Příkladem za všechny jsou díla [Jiřího Kulhánka](<https://cs.wikipedia.org/wiki/Jiří_Kulhánek_(spisovatel)>). Jeho starší knihy jsou beznadějně vyprodaný a k dotisku se pan Kulhánek staví **velmi** odmítavě. Jeho knihy se díky tomu prodávají na Aukru klidně za tisíce a desetitisíce korun. Pokud jde o výdělky, tyhle peníze podle mě patří autorovi i nakladateli. Pokud jde o čtenáře, já si fakt nemyslím, že všichni lidé, co četli třeba sérii Divocí a zlí, vůbec někdy drželi ty knihy v ruce — přesto je ale Jiří Kulhánek stále enigmatickým fenoménem český fantastiky. A je to právě pirátství, které na tomto statutu má obrovský podíl. Podobně to platí [u her](https://arstechnica.com/gaming/2017/09/eu-study-finds-piracy-doesnt-hurt-game-sales-may-actually-help/) i u [filmů](https://www.businessinsider.com/how-movie-piracy-is-impacting-releases-this-year-2022-5?op=1). U knih, který se nedají vypůjčit v knihovně. U černobílých a němých filmů, který se nedají skoro nikde legálně sehnat.
 
-## Závěr
+## [Závěr](#obsah)
 Argument, že piráti jsou líní si věci kupovat nebo že „*kradou*“ jen protože můžou, je dezinformace. Koupit si hru nikdy nebylo jednodušší. Zato *vlastnit* hru je čím dál těžší. S jakýmkoliv jiným médiem je situace dost podobná.
 
 Argument, že kvůli pirátství někdo přichází o peníze, je v lepším případě zavádějící, v horším případě bohapustá lež. Lidi, kteří mají potřebu pirátit, jsou často lidi, kteří by si danou věc stejně nekoupili. Takže logicky, nikdo nemůže přijít o peníze, který v první řadě nebyly v oběhu. Trochu mi to připomíná pláč „skutečných“ umělců, když veřejnost začala masově používat generativní AI — hromadně říkali, že jim AI bere práci. Ale to přece není pravda. Lidi, co používají AI art, by si stejně umění živých umělců nekoupili.
@@ -105,7 +105,7 @@ Jo a pro jistotu — neříkám, že je pirátství neškodný, nemyslím si, ž
 
 ---
 
-## Poznámky pod čarou
+## [Poznámky pod čarou](#obsah)
 {:.no_toc}
 
 {: data-content=“footnotes“}
