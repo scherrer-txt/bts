@@ -4,6 +4,7 @@
   <body>
           {% include menu.html collection=site.data.home.navbar_entries %}
     <main class="page-content" aria-label="Content">
+      <div class="post-meta-background" style="background-image: url('{{ page.background }}');"></div>
       <div class="w">
         {{ content }}
       </div>

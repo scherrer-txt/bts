@@ -1,9 +1,9 @@
----
-layout: default
----
-
-<div class="post-meta-background">{{ page.background }}</div>
-
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: "cs" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
+        {%- include head.html -%}
+  <body>
+          {% include menu.html collection=site.data.home.navbar_entries %}
+          <div class="post-meta-background" style="background-image: url('{{ page.background }}');"></div>
 <div class="post-meta-container">
   <div class="post-meta-row">
     <div class="post-name-container">
@@ -34,6 +34,7 @@ layout: default
     </div>
   </div>
 </div>
+<main class="page-content" aria-label="Content">
 
 {{ content }}
 
@@ -55,3 +56,9 @@ layout: default
     </div>
   {% endif %}
 </div>
+</main>
+
+{% include foot.html %}
+
+</body>
+</html>
