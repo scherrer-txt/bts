@@ -6,7 +6,8 @@ perex: Další článek zpoza obrazovek. O inspiraci, umění a etice výtvorů 
 order: "10"
 release: 2023/03
 author: scherrer.txt
-thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-10-thumb.png"
+thumbnail: "/images/thumbs/bts-10-thumb.png"
+background: "/images/bg/10.jpg"
 ---
 
 ### Obsah

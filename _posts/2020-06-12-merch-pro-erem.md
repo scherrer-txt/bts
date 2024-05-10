@@ -6,7 +6,8 @@ perex: Rozhodl jsem se začít sdílet storky z průběhu mý tvorby. První dí
 order: "01"
 release: 2020/06
 author: scherrer.txt
-thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-01-thumb.png"
+thumbnail: "/images/thumbs/bts-01-thumb.png"
+background: "/images/bg/01.jpg"
 ---
 
 ### Obsah

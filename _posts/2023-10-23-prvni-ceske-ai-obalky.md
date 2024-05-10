@@ -6,7 +6,8 @@ perex: Jak jsem udělal jedny z prvních knižních AI obálek v Česku — tohl
 order: "12"
 release: 2023/10
 author: scherrer.txt
-thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-12-thumb.png"
+thumbnail: "/images/thumbs/bts-12-thumb.png"
+background: "/images/bg/12.jpg"
 ---
 
 ### Obsah

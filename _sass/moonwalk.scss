@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
-@import url("https://use.typekit.net/ubc7mok.css");
-@import url("https://use.typekit.net/lnc7ppz.css"); /* 700-600 | 500 (semibold) | 400 (regular) */
+@import url("https://use.typekit.net/lnc7ppz.css"); /* NEUE HAAS DISPLAY = 700-600 | 500 (semibold) | 400 (regular) */
 
-// -------------- COLORS -------------- //
+// -------------------------------------------------------- COLORS -------------------------------------------------------- //
+// -------------------------------------------------------- COLORS -------------------------------------------------------- //
+
 @mixin light-appearance {
   html, body {
       --headings: #262626;
@@ -14,14 +15,15 @@
       --bg-secondary: #E3D1CC;
       --text: #1C2E33;
       --text-secondary: #FF5500;
+      --text-tertiary: #121212;
       --text-italic: #1C2E33; /* #304E57 */
       --code-text: #595959;
       --share-text: #666666;
-      --transpa: rgba(05, 05, 05, 0.9)
+      --transpa: rgba(18, 18, 18, 0.3)
       --transpa-mob: rgba(237, 221, 213, 0.8)
   }
 }
-// -------------- THEME SWITCHER -------------- //
+
 @mixin dark-appearance {
   html, body  {
       --headings: #595959;
@@ -32,6 +34,7 @@
       --bg-secondary: #0A0A0A;
       --text: #E3D1CC;
       --text-secondary: #FF5500;
+      --text-tertiary: #edddd5;
       --text-italic: #E3D1CC; /* #C4B5B0 */
       --code-text: #595959;
       --share-text: #666666;
@@ -50,7 +53,9 @@ html[data-theme="light"] { @include light-appearance; }
   body[data-theme="auto"] { @include light-appearance; }
 }
 
-// -------------- TEXT -------------- //
+// -------------------------------------------------------- TEXT -------------------------------------------------------- //
+// -------------------------------------------------------- TEXT -------------------------------------------------------- //
+
 html { height: 100%;
   font-size: 16px;
 }
@@ -210,7 +215,9 @@ blockquote p {
   padding: 5rem 0 5rem;
 }
 
-// -------------- LISTS -------------- //
+// -------------------------------------------------------- LISTS -------------------------------------------------------- //
+// -------------------------------------------------------- LISTS -------------------------------------------------------- //
+
 li {
   margin-top: 1rem;
 }
@@ -244,7 +251,6 @@ ol {
   display: flex;
   flex-direction: column;
   width: 65%;
-  /* color:var(--text-italic); */
   margin: 0 auto;
 }
 
@@ -259,7 +265,8 @@ ul.no-bullets {
   max-width: 65%;
 }
 
-// -------------- FOOTNOTES -------------- //
+// -------------------------------------------------------- FOOTNOTES -------------------------------------------------------- //
+// -------------------------------------------------------- FOOTNOTES -------------------------------------------------------- //
 
 .footnotes {
   color: var(--text);
@@ -301,7 +308,9 @@ sup {
 }
 
 
-// -------------- PAGE WIDTH -------------- //
+// -------------------------------------------------------- PAGE -------------------------------------------------------- //
+// -------------------------------------------------------- PAGE -------------------------------------------------------- //
+
 .w {
   display: flex;
   flex-direction: column;
@@ -317,7 +326,7 @@ sup {
   display: flex;
   flex-direction: column;
   margin: 0 auto;
-  padding: 1em 10% 2em;
+  padding: 1em 15% 2em;
   align-items: center;
   position: static;
   background-color: var(--bg);
@@ -325,7 +334,9 @@ sup {
   /* max-width: 1100px; */
 }
 
-// -------------- BREAK LINE -------------- //
+// -------------------------------------------------------- BREAK LINE -------------------------------------------------------- //
+// -------------------------------------------------------- BREAK LINE -------------------------------------------------------- //
+
 hr {
   width: 90%;
   color: var(--code-text);
@@ -340,13 +351,9 @@ hr.page-break {
   &:after { content: attr(data-content) '-----' }
 }
 
-/* div.highlighter-rouge pre code, pre code.highlighter-rouge {
-  display: block;
-  overflow-x: auto;
-  padding: 1em;
-} */
+// -------------------------------------------------------- GALLERY -------------------------------------------------------- //
+// -------------------------------------------------------- GALLERY -------------------------------------------------------- //
 
-// -------------- GALLERY -------------- //
 .list-without-markers-img {
   display: flex;
   flex-direction: row;
@@ -376,7 +383,9 @@ hr.page-break {
 }
 }
 
-// -------------- LEGACY MOONWALK CODE -------------- //
+// -------------------------------------------------------- LEGACY MOONWALK CODE -------------------------------------------------------- //
+// -------------------------------------------------------- LEGACY MOONWALK CODE -------------------------------------------------------- //
+
 .text-upcase {
   text-transform: uppercase;
   font-weight: 400;
@@ -471,10 +480,9 @@ mark {
   letter-spacing: 1px;
 }
 
-// -------------- END LEGACY MOONWALK CODE END -------------- //
+// -------------------------------------------------------- MENU -------------------------------------------------------- //
+// -------------------------------------------------------- MENU -------------------------------------------------------- //
 
-
-// -------------- MENU -------------- //
 #menu-toggle {
   display: none;
 }
@@ -544,15 +552,15 @@ mark {
   margin-top: -5px;
 }
 
-// MENU END
+// -------------------------------------------------------- PREVIOUS & NEXT -------------------------------------------------------- //
+// -------------------------------------------------------- PREVIOUS & NEXT -------------------------------------------------------- //
 
-// -------------- NEXT & PREVIOUS BUTTONS -------------- //
 .post-nav-container {
   display: flex;
   gap: 48px;
   flex-flow: wrap;
   width: 85%;
-  margin: 6rem auto 0;
+  margin: 6rem auto 3rem;
 }
 
 .post-nav-item {
@@ -579,7 +587,7 @@ mark {
 .post-nav-link {
   font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 3rem;
-  color: #E3D1CC;
+  color: var(--text-tertiary);
   line-height: 4rem;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -587,7 +595,8 @@ mark {
   width: fit-content;
 }
 
-// -------------- POST META -------------- //
+// -------------------------------------------------------- POST META -------------------------------------------------------- //
+// -------------------------------------------------------- POST META -------------------------------------------------------- //
 
 .post-meta-background {
   position: absolute;
@@ -598,23 +607,20 @@ mark {
   background-size: cover;
   background-position: center;
   z-index: -999;
+  image-rendering: optimizeSpeed;
 }
 
 .post-meta-container {
   display: flex;
   flex-direction: column;
   padding: 48px;
-  background-color: var(--transpa);
+  background-color: rgba(18, 18, 18, 0.5);
   border-radius: 24px;
   border: #999999 solid 2px;
   backdrop-filter: blur(10px);
   position: static;
   gap: 64px;
   margin: 10% 17% 10%;
-}
-
-.post-meta-container.list {
-  margin: 1rem 0;
 }
 
 .post-meta-row {
@@ -632,17 +638,17 @@ mark {
   font-size: 0.8rem;
   font-weight: 500;
   text-transform: uppercase;
-  color: #E3D1CC;
+  color: #EDDDD5;
   line-height: 0.8rem;
   margin-top: 0px;
   margin-bottom: 0px;
   letter-spacing: 0.03rem;
 }
 
-.post-meta-info-number {
+.post-meta-number {
   font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 5rem;
-  color: #E3D1CC;
+  color: #EDDDD5;
   line-height: 4rem;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -650,10 +656,10 @@ mark {
   width: fit-content;
 }
 
-.post-meta-info-title {
+.post-meta-title {
   font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 6rem;
-  color: #E3D1CC;
+  color: #EDDDD5;
   line-height: 5.7rem;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -662,10 +668,10 @@ mark {
   width: fit-content;
 }
 
-.post-meta-info {
+.post-meta-text {
   font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 1.5rem;
-  color: #E3D1CC;
+  color: #EDDDD5;
   line-height: 1.3;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -693,33 +699,73 @@ mark {
   align-items: flex-start;
 }
 
-// -------------- POST INDEX -------------- //
-.post-list-container {
-  list-style-type: 300px;
-  padding: 0;
-  margin: 0;
+// -------------------------------------------------------- POST INDEX -------------------------------------------------------- //
+// -------------------------------------------------------- POST INDEX -------------------------------------------------------- //
+
+.index-container {
   display: flex;
   flex-direction: column;
-  max-width: fit-content;
+  padding: 48px;
+  padding-bottom: 64px;
+  border-radius: 24px;
+  border: #999999 solid 2px;
+  gap: 64px;
+  margin: 1rem 0;
+  width: 100%;
+  align-self: center;
+  flex-flow: wrap;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
 }
 
-.post-list-container:first-child {
-  margin-top: 3rem;
+.index-post-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  visibility: hidden;
+  z-index: -999;
+  transition: all 0.05s ease-in-out;
+  transform: scale(1.3);
+  transform-origin: center center 0px;
+  image-rendering: optimizeSpeed;
 }
 
-.post-index {
-  display: flex;
-  gap: 48px;
-  align-items: baseline;
-  flex-wrap: wrap;
-  flex-direction: row;
-  margin-bottom: 1rem;
+.index-container:hover .index-post-background {
+  color: #edddd5;
+  transition: all 0.05s ease-in-out;
+  visibility: visible;
+  filter: blur(0px);
 }
 
-.post-index-info {
+.index-container:hover .index-order,
+.index-container:hover .index-release,
+.index-container:hover .index-title,
+.index-container:hover .index-label {
+  color: #edddd5;
+  transition: all 0ms;
+}
+
+.index-label {
+  font-family: "neue-haas-grotesk-display", sans-serif;
+  font-size: 0.8rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  color: var(--text-tertiary);
+  line-height: 0.8rem;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  letter-spacing: 0.03rem;
+}
+
+.index-order {
   font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 3rem;
-  color: var(--text);
+  color: var(--text-tertiary);
   line-height: 3rem;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -727,10 +773,10 @@ mark {
   width: fit-content;
 }
 
-.post-index-info-release {
+.index-release {
   font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 2rem;
-  color: var(--text);
+  color: var(--text-tertiary);
   line-height: 2rem;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -738,53 +784,42 @@ mark {
   width: fit-content;
 }
 
-.post-index-title-big {
-  font-family: "neue-haas-grotesk-display", sans-serif;
-  font-size: 8rem;
-  color: var(--text);
-  line-height: 7.8rem;
-  margin-top: -18px;
-  margin-bottom: 0px;
-  margin-left: 0;
-  width: fit-content;
-  text-align: justify;
-}
-
-.post-index-title-small {
+.index-title {
   font-family: "neue-haas-grotesk-display", sans-serif;
   font-size: 3rem;
-  color: var(--text);
   line-height: 3rem;
   margin-top: 0px;
   margin-left: 0;
   width: fit-content;
 }
 
-.title-index-container {
+.index-title-container {
   width: calc(50% - 24px);
   flex-grow: 1;
   order: 2
 }
 
-.num-rel-container {
-  display: flex;
-  gap: 48px;
-  align-items: baseline;
-  flex-direction: row;
-  margin-bottom: 4rem;
-}
-
-.number-index-container {
+.index-number-container {
  width: 55px;
  order: 1;
 }
 
-.release-index-container {
+.index-release-container {
   min-width: 122px;
   order: 3;
 }
 
-// -------------- PROGRESS BAR -------------- //
+.index-title-container,
+.index-number-container,
+.index-release-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+// -------------------------------------------------------- PROGRESS BAR -------------------------------------------------------- //
+// -------------------------------------------------------- PROGRESS BAR -------------------------------------------------------- //
+
 #progress-bar {
   --scrollAmount: 0%;
   background-color: var(--links);
@@ -798,6 +833,19 @@ mark {
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+
+// -------------------------------------------------------- TEXT -------------------------------------------------------- //
+// -------------------------------------------------------- TEXT -------------------------------------------------------- //
+
 @media only screen and (max-width: 800px) {
   /* Styles for small devices */
   body {
@@ -840,6 +888,82 @@ mark {
   line-height: 1.6rem;
 }
 
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-secondary);
+  width: 100%;
+  margin: 2rem auto 0;
+}
+
+p, b, em, small, table, figcaption {
+  width: 100%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.footnotes {
+  width: fit-content;
+}
+
+ol, ul {
+display: flex;
+flex-direction: column;
+margin: 0 0;
+}
+
+li {
+width: fit-content;
+margin-top: 1rem;
+margin-bottom: 1rem;
+}
+
+ul {
+width: 95%;
+}
+
+li ul {
+width: 95%;
+}
+
+ul#markdown-toc li {
+margin-top: 0.8rem;
+width: 90%;
+}
+
+.list-without-markers {
+width: 90%;
+}
+
+header {
+width: 100%;
+}
+
+header h1 {
+color: var(--text-secondary);
+width: fit-content;
+font-size: 3rem;
+line-height: 3.2rem;
+}
+
+blockquote {
+width: 100%;
+}
+
+blockquote p {
+font-size: 2rem;
+line-height: 2rem;
+width: 100%;
+padding: 1rem 0 1rem;
+}
+
+.theme-toggle {
+  left:0;
+  scale: 80%;
+  }
+
+// -------------------------------------------------------- PAGE -------------------------------------------------------- //
+// -------------------------------------------------------- PAGE -------------------------------------------------------- //
+
 .w {
   display: flex;
   flex-direction: column;
@@ -864,6 +988,9 @@ mark {
   margin-bottom: 3rem;
 }
 
+// -------------------------------------------------------- PREVIOUS & NEXT -------------------------------------------------------- //
+// -------------------------------------------------------- PREVIOUS & NEXT -------------------------------------------------------- //
+
 .post-nav-container {
   display: flex;
   gap: 48px;
@@ -878,13 +1005,6 @@ mark {
   flex-direction: column;
   align-items: flex-start;
 }
-
-/* .post-list-title {
-  font-size: 0.75rem;
-  font-weight: 500;
-  margin-right: 0.5rem;
-  line-height: 0.75rem;
-} */
 
 .post-list-date {
   font-size: 0.5rem;
@@ -903,55 +1023,26 @@ mark {
   height: 2px;
 } 
 
-.post-meta-title {
-  width: 90%;
-}
-
-.post-meta-title h2 {
-  margin: 0;
-}
+// -------------------------------------------------------- POST META -------------------------------------------------------- //
+// -------------------------------------------------------- POST META -------------------------------------------------------- //
 
 .post-meta {
   margin-bottom: 3rem;
   }
   
-.post-meta-info {
+.post-meta-text {
   font-size: 1.3rem;
   line-height: 1.3rem;
 }
 
-.post-meta-info-title {
+.post-meta-title {
   font-size: 3rem;
   line-height: 2.7rem;
   letter-spacing: 0rem;
 }
 
-.post-index {
-  display: flex;
-  flex-flow: wrap;
-  justify-content: space-between;
-}
-
-.post-index-title {
-  font-size: 4rem;
-  line-height: 3.7rem;
-}
-
-.post-index-info {
-  font-size: 2rem;
-}
-
-.release-index-container {
-  order: 3;
-}
-
-.number-index-container {
-  order: 2;
-}
-
-.title-index-container {
-  width: 100%;
-  order: 1;
+.post-name-container {
+  width: fit-content;
 }
 
 .post-meta-row {
@@ -969,7 +1060,7 @@ mark {
   max-width: 90%;
 }
 
-.post-meta-info-number {
+.post-meta-number {
   font-size: 2rem;
   line-height: 2rem;
 }
@@ -978,106 +1069,47 @@ mark {
   width: auto;
 }
 
-.pagination {
-  width: 280px;
-  margin-top: 2em;
-}
+// -------------------------------------------------------- POST INDEX -------------------------------------------------------- //
+// -------------------------------------------------------- POST INDEX -------------------------------------------------------- //
 
-.post-navigation {
-  gap: 24px;
-  max-width: 90%;
-  margin: 2rem auto 0;
-}
-
-
-h1, h2, h3, h4, h5, h6 {
-    color: var(--text-secondary);
-    width: 100%;
-    margin: 2rem auto 0;
-}
-
-p, b, em, small, table, figcaption {
-    width: 100%;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-}
-
-/*
-strong {
-  color: var(--text-secondary)
-}
-*/
-
-.footnotes {
-    width: fit-content;
-  }
-  
-ol, ul {
+.index-container {
   display: flex;
-  flex-direction: column;
-  margin: 0 0;
-}
-  
-li {
-  width: fit-content;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  flex-flow: wrap;
+  justify-content: space-between;
+  width: 85%;
+  padding: 48px 32px;
 }
 
-ul {
-  width: 95%;
-}
-
-li ul {
-  width: 95%;
-}
-
-ul#markdown-toc li {
-  margin-top: 0.8rem;
-  width: 90%;
-}
-
-.list-without-markers {
-  width: 90%;
-}
-
-header {
+.index-post-background {
+  top: 0;
+  left: 0;
   width: 100%;
+  height: 100%;
+  transform: scale(1.5)
 }
 
-header h1 {
-  color: var(--text-secondary);
-  width: fit-content;
+.index-title {
   font-size: 3rem;
-  line-height: 3.2rem;
+  line-height: 2.7rem;
 }
 
-.theme-toggle {
-  left:0;
-  scale: 80%;
+.index-release,
+.index-order {
+  font-size: 1.5rem;
+  line-height: 1.5rem;
 }
 
-blockquote {
+.index-release-container {
+  order: 3;
+}
+
+.index-number-container {
+  order: 2;
+}
+
+.index-title-container {
   width: 100%;
-}
-
-blockquote p {
-  font-size: 2rem;
-  line-height: 2rem;
-  width: 100%;
-  padding: 1rem 0 1rem;
-}
-
-.post-index-title-big {
-  font-family: "neue-haas-grotesk-display", sans-serif;
-  font-size: 4rem;
-  color: var(--text);
-  line-height: 3.8rem;
-  margin-top: -18px;
-  margin-bottom: 0px;
-  margin-left: 0;
-  width: fit-content;
-  text-align: justify;
+  order: 1;
 }
 
 // -------------- MENU MOBILE -------------- //

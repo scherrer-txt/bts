@@ -4,10 +4,10 @@ author: scherrer.txt
 title: "Každý jsme trochu ADHD | Behind the Screens | by Scherrer.txt"
 name: Každý jsme trochu ADHD
 release: 2024/04
-perex: Z toho titulku se mi chce zvracet. A doufám, že i vám. Mělo by. Další článek zpoza obrazovek.
+perex: Z toho titulku se mi chce zvracet. A doufám, že i vám. Mělo by. Další článek zpoza obrazovek.
 order: "17"
-thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-17-thumb.png"
-background: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/bg/06.jpg"
+thumbnail: "/images/thumbs/bts-17-thumb.png"
+background: "/images/bg/17.jpg"
 ---
 
 ### Obsah

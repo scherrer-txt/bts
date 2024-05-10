@@ -6,7 +6,8 @@ perex: Bez času, bez tlaku, s kávou v hrnku. V tomhle Behind the Screens se po
 order: "15"
 release: 2024/02
 author: scherrer.txt
-thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-15-thumb.png"
+thumbnail: "/images/thumbs/bts-15-thumb.png"
+background: "/images/bg/15.jpg"
 ---
 
 ### Obsah
