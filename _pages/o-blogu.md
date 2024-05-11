@@ -1,6 +1,7 @@
 ---
 layout: static
 title: "O blogu | Behind the Screens | by Scherrer.txt"
+permalink: /o-blogu
 ---
 
 # O blogu

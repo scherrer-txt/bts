@@ -1,24 +1,27 @@
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>{{ site.title }}</title>
-  <subtitle>{{ site.description }}</subtitle>
-  <link href="{{ site.url }}/feed.xml" rel="self" />
-  <link href="{{ site.url }}" />
-  <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <author>
-    <name>{{ site.author }}</name>
-  </author>
-  <icon>{{ site.icon }}</icon>
-  <category term="{{ site.categories }}" />
-  
-  {% for post in site.posts %}
-    <entry>
-      <title>{{ post.title }}</title>
-      <link href="{{ post.url | prepend: site.baseurl }}" />
-      <id>{{ post.url }}</id>
-      <updated>{{ post.date | date_to_xmlschema }}</updated>
-      <summary>{{ post.perex | xml_escape }}</summary>
-      <content type="html">{{ post.content | xml_escape }}</content>
-      <thumbnail>{{ post.thumbnail }}</thumbnail>
-    </entry>
-  {% endfor %}
-</feed>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title }}</title>
+    <link>{{ site.url }}</link>
+    <description>{{ site.description }}</description>
+    <language>{{ site.locale }}</language>
+    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>{{ site.icon }}</url>
+      <title>{{ site.title }}</title>
+      <link>{{ site.url }}</link>
+    </image>
+    <category>{{ site.categories }}</category>
+    <author>{{ site.author }}</author>
+    
+    {% for post in site.posts %}
+      <item>
+        <title>{{ post.title }}</title>
+        <link>{{ post.url | prepend: site.baseurl }}</link>
+        <description>{{ post.perex | xml_escape }}</description>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl }}</guid>
+        <thumbnail>{{ post.thumbnail }}</thumbnail>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>

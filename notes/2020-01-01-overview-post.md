@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: static
 author: scherrer.txt
-tags: [overview, moonwalk]
+title: "Overview post"
+name: Overview post
+published: true
 ---
 
 # Contents

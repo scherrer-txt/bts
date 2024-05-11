@@ -8,7 +8,7 @@ perex: Pirátství jako forma protestu a způsob získání svých práv nazpát
 order: "18"
 thumbnail: "/images/thumbs/bts-18-thumb.png"
 background: "/images/bg/18.jpg"
-published: false
+published: true
 ---
 
 ### Obsah

@@ -69,6 +69,7 @@ body {
   margin-top: 0;
   margin-left: 0;
   margin-right: 0;
+  margin-bottom: 0;
 }
 
 header {
@@ -830,6 +831,47 @@ mark {
   border-top: 4px var(--bg) solid;
 }
 
+// -------------------------------------------------------- 404 -------------------------------------------------------- //
+// -------------------------------------------------------- 404 -------------------------------------------------------- //
+
+.container404 {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  position: absolute;
+  top: 30%;
+  left: 20%;
+}
+
+.background404 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  z-index: -999;
+}
+
+.container404 h1 {
+  margin: 0 0;
+  font-size: 8rem;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+.container404 h2 {
+  margin: 1rem 0;
+  font-size: 3rem;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+.container404 p {
+  color: #EDDDD5;
+}
+
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
@@ -1187,6 +1229,43 @@ padding: 1rem 0 1rem;
 .index-title-container {
   width: 100%;
   order: 1;
+}
+
+// -------------------------------------------------------- 404 -------------------------------------------------------- //
+// -------------------------------------------------------- 404 -------------------------------------------------------- //
+
+.container404 {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  position: absolute;
+  top: 30%;
+  left: 20%;
+}
+
+.background404 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  z-index: -999;
+}
+
+.container404 h1 {
+  margin: 0 0;
+  font-size: 4rem;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+.container404 h2 {
+  margin: 1rem 0;
+  font-size: 2rem;
+  line-height: 1;
+  letter-spacing: -1px;
 }
 
   /* Add more styles as needed for small devices */

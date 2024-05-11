@@ -8,6 +8,7 @@ description: > # description of the site (multiple lines allowed)
 logo: "./assets/images/favicon-96x96.png"
 repository: https://github.com/scherrer-txt/bts
 timezone: Europe/Prague
+locale: cs-CZ
 
 feed:
   categories:
@@ -58,6 +59,8 @@ plugins:
   - jekyll-soopr-seo-tag
   - jekyll-toc
   - jekyll-sitemap
+
+include: ["_pages"]
 
 exclude:
 - readme.md

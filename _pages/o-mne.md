@@ -1,6 +1,7 @@
 ---
 layout: static
 title: "O mně | Behind the Screens | by Scherrer.txt"
+permalink: /o-mne
 ---
 
 ## Práce
