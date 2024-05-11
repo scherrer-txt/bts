@@ -5,6 +5,17 @@ description: > # description of the site (multiple lines allowed)
   Blog o všem, s čím se jako kreativní člověk setkávám za obrazovkama.<br>
   Since 2020.
 
+logo: "./assets/images/favicon-96x96.png"
+repository: https://github.com/scherrer-txt/bts
+timezone: Europe/Prague
+
+feed:
+  categories:
+  - design
+  - creativity
+  - art
+  - writing
+
 permalink: /:slug
 
 favicon: "./favicon.ico" # relative path to site's favicon
@@ -23,8 +34,8 @@ theme_config:
   show_blog: true # show blog posts added in _posts
   show_old_projects: false # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
-  show_reading_time: true # show number of words and reading time in the blog posts
-  show_tags: true # show tags in a blog posts
+  show_reading_time: false # show number of words and reading time in the blog posts
+  show_tags: false # show tags in a blog posts
   # options for "home" page
   home:
     title_projects: Portfolio
@@ -35,14 +46,18 @@ theme_config:
 soopr:
   publish-token: "pt_be2b591b4540b65cd5050fb3f7006806" 
 
-highlighter: rouge
-
 markdown: kramdown
 
 sass:
   style: :compressed
 
+future: true
+
 plugins:
   - jekyll-feed
   - jekyll-soopr-seo-tag
   - jekyll-toc
+  - jekyll-sitemap
+
+exclude:
+- readme.md
