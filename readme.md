@@ -10,6 +10,7 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 - [] Integrate lazy load (?) / Make the images (bg) smaller in size
 
 ## Backlog
+- [x] Change favicons to hi-res
 - [x] Make the 404 a bit nicer
 - [x] Add yaml published boolean
 - [x] Add & fix hover for backgrounds
