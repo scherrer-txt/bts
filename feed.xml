@@ -4,15 +4,16 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>{{ site.name | xml_escape }}</title>
-        <icon>{{ site.favicon }}</icon>
-        <logo>{{ site.logo }}</logo>
-        <author>{{ site.author | xml_escape }}</author>
-        <subtitle>{{ site.decription | xml_escape }}</subtitle>
+        <title>Behind the Screens</title>
         <description>{{ site.description | xml_escape }}</description>
         <link>{{ site.url }}{{ site.baseurl }}/</link>
         <atom:link href="https://scherrer-txt.github.io/bts/feed.xml" rel="self" type="application/rss+xml"/>
         <generator>Jekyll v{{ jekyll.version }}</generator>
+        <image>
+          <url>https://scherrer-txt.github.io/bts/assets/images/favicon-96x96.png</url>
+          <title>{{ site.name | xml_escape }}</title>
+          <link>https://scherrer-txt.github.io/bts</link>
+        </image>
         
         {% for post in site.posts %}
             <item>
@@ -21,7 +22,6 @@ layout: null
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
                 <link>{{ site.url }}{{ post.url }}</link>
                 <enclosure url="{{ site.url }}{{ post.thumbnail }}" type="image/png" length="90500" />
-                <thumbnail>{{ site.url }}{{ post.thumbnail }}</thumbnail>
                 <guid>{{ site.url }}{{ post.url }}</guid>
             </item>
         {% endfor %}
