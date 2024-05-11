@@ -1,13 +1,13 @@
 ---
 layout: post
+author: scherrer.txt
 title: "Jak se přichází o sny | Behind the Screens | by Scherrer.txt"
 name: Jak se přichází o sny
+release: 2020/10
 perex: O tom, jak je někdy neuvěřitelně těžký, chtít po sobě pořád víc a víc
 order: "03"
-release: 2020/10
-author: scherrer.txt
-thumbnail: "{{ site.url }}/images/thumbs/bts-03-thumb.png"
-background: "{{ site.url }}/images/bg/03.jpg"
+thumbnail: "/images/thumbs/bts-03-thumb.png"
+background: "/images/bg/03.jpg"
 published: true
 ---
 

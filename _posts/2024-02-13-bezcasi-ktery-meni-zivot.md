@@ -1,13 +1,13 @@
 ---
 layout: post
+author: scherrer.txt
 title: "Bezčasí, který mění život | Behind the Screens | by Scherrer.txt"
 name: Bezčasí, který mění život
+release: 2024/02
 perex: Bez času, bez tlaku, s kávou v hrnku. V tomhle Behind the Screens se ponoříme do věcí, který mění život.
 order: "15"
-release: 2024/02
-author: scherrer.txt
-thumbnail: "{{ site.url }}/images/thumbs/bts-15-thumb.png"
-background: "{{ site.url }}/images/bg/15.jpg"
+thumbnail: "/images/thumbs/bts-15-thumb.png"
+background: "/images/bg/15.jpg"
 published: true
 ---
 

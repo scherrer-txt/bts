@@ -1,13 +1,13 @@
 ---
 layout: post
+author: scherrer.txt
 title: "Jak fotím koncerty | Behind the Screens | by Scherrer.txt"
 name: Jak fotím koncerty
+release: 2020/06
 perex: Další díl série Behind the Screens. Tentokrát s praktickými tipy a návody!
 order: "02"
-release: 2020/06
-author: scherrer.txt
-thumbnail: "{{ site.url }}/images/thumbs/bts-02-thumb.png"
-background: "{{ site.url }}/images/bg/02.jpg"
+thumbnail: "/images/thumbs/bts-02-thumb.png"
+background: "/images/bg/02.jpg"
 published: true
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
+author: scherrer.txt
 title: "Pár odpovědí na otázky | Behind the Screens | by Scherrer.txt"
 name: Pár odpovědí na otázky
+release: 2023/03
 perex: V roce 2021 jsem odpověděl na pár otázek. V roce 2023 jsem se k nim vrátil a položil si je znova.
 order: "11"
-release: 2023/03
-author: scherrer.txt
-thumbnail: "{{ site.url }}/images/thumbs/bts-11-thumb.png"
-background: "{{ site.url }}/images/bg/11.jpg"
+thumbnail: "/images/thumbs/bts-11-thumb.png"
+background: "/images/bg/11.jpg"
 published: true
 ---
 

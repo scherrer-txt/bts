@@ -3,10 +3,12 @@ layout: post
 author: scherrer.txt
 title: "Název | Behind the Screens | by Scherrer.txt"
 name: Název
-release: 2024/0X
+release: 202X/XX
 perex: Perex
 order: "XX"
-thumbnail: "https://raw.githubusercontent.com/scherrer-txt/bts/master/assets/thumbs/bts-XX-thumb.png"
+thumbnail: "/images/thumbs/bts-XX-thumb.png"
+background: "/images/bg/XX.jpg"
+published: true
 ---
 
 ### Obsah

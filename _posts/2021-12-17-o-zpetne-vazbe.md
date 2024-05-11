@@ -1,13 +1,13 @@
 ---
 layout: post
+author: scherrer.txt
 title: "O zpětné vazbě | Behind the Screens | by Scherrer.txt"
 name: O zpětné vazbě
+release: 2021/12
 perex: Před 10 lety jsem napsal svoji první povídku, která vyhrála v soutěži a vyšla ve sborníku. Proč jsem si dal od psaní 5 let pauzu a jak s tím souvisí zpětná vazba?
 order: "08"
-release: 2021/12
-author: scherrer.txt
-thumbnail: "{{ site.url }}/images/thumbs/bts-08-thumb.png"
-background: "{{ site.url }}/images/bg/08.jpg"
+thumbnail: "/images/thumbs/bts-08-thumb.png"
+background: "/images/bg/08.jpg"
 published: true
 ---
 

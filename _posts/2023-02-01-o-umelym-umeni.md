@@ -1,13 +1,13 @@
 ---
 layout: post
+author: scherrer.txt
 title: "O umělým umění | Behind the Screens | by Scherrer.txt"
 name: O umělým umění
+release: 2023/03
 perex: Další článek zpoza obrazovek. O inspiraci, umění a etice výtvorů umělý inteligence.
 order: "10"
-release: 2023/03
-author: scherrer.txt
-thumbnail: "{{ site.url }}/images/thumbs/bts-10-thumb.png"
-background: "{{ site.url }}/images/bg/10.jpg"
+thumbnail: "/images/thumbs/bts-10-thumb.png"
+background: "/images/bg/10.jpg"
 published: true
 ---
 

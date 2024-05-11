@@ -1,13 +1,13 @@
 ---
 layout: post
+author: scherrer.txt
 title: "Fotím na 60 let starý objektiv | Behind the Screens | by Scherrer.txt"
 name: Fotím na 60 let starý objektiv
+release: 2020/12
 perex: O objevování krásy v nedokonalostech; o nahlížení na svět skrz zaprášený starý sklo
 order: "04"
-release: 2020/12
-author: scherrer.txt
-thumbnail: "{{ site.url }}/images/thumbs/bts-04-thumb.png"
-background: "{{ site.url }}/images/bg/04.jpg"
+thumbnail: "/images/thumbs/bts-04-thumb.png"
+background: "/images/bg/04.jpg"
 published: true
 ---
 

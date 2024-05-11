@@ -1,13 +1,13 @@
 ---
 layout: post
+author: scherrer.txt
 title: "Follow no one | Behind the Screens | by Scherrer.txt"
 name: Follow no one
+release: 2021/11
 perex: Tenhle článek je o sociálních sítích, o jejich dopadu na lidi, o svobodné vůli, sebevědomí a vlastní identitě.
 order: "07"
-release: 2021/11
-author: scherrer.txt
-thumbnail: "{{ site.url }}/images/thumbs/bts-07-thumb.png"
-background: "{{ site.url }}/images/bg/07.jpg"
+thumbnail: "/images/thumbs/bts-07-thumb.png"
+background: "/images/bg/07.jpg"
 published: true
 ---
 
