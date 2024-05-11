@@ -17,7 +17,7 @@
           <div class="index-label">Vyšlo</div>
           <h4 class="index-release">{{ post.release }}</h4>
         </div>
-        <div class="index-post-background" id="hover-background" style="background-image: url('{{ post.background }}');"></div>
+        <div class="index-post-background" id="hover-background" style="background-image: url('{{ site.url }}{{ post.background }}');"></div>
       </li>
     {% endif %}
   {% endfor %}
