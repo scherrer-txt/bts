@@ -15,11 +15,6 @@ layout: null
         <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
         <generator>Jekyll v{{ jekyll.version }}</generator>
-        <image>
-            <url>{{ site.url }}{{ site.logo }}</url>
-            <title>{{ site.name | xml_escape }}</title>
-            <link>{{ site.url }}{{ site.baseurl }}/</link>
-        </image>
         
         {% for post in site.posts %}
             <item>
@@ -27,7 +22,7 @@ layout: null
                 <description>{{ post.perex | xml_escape }}</description>
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
                 <link>{{ site.url }}{{ post.url }}</link>
-                <enclosure url="{{ site.url }}{{ post.thumbnail }}" type="image/png" length=90500 />
+                <enclosure url="{{ site.url }}{{ post.thumbnail }}" type="image/png" length="90500" />
                 <thumbnail>{{ site.url }}{{ post.thumbnail }}</thumbnail>
                 <guid>{{ site.url }}{{ post.url }}</guid>
             </item>
