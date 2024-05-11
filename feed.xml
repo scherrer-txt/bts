@@ -23,7 +23,7 @@ layout: null
                 <description>{{ post.perex | xml_escape }}</description>
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
                 <link>{{ site.url }}{{ post.url }}</link>
-                <link rel="image_src" href="{{ site.url }}{{ post.thumbnail }}">
+                <enclosure url="{{ site.url }}{{ post.thumbnail }}" type="image/png" />
                 <thumbnail>{{ site.url }}{{ post.thumbnail }}</thumbnail>
                 <guid>{{ site.url }}{{ post.url }}</guid>
             </item>
