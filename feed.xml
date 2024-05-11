@@ -6,7 +6,7 @@ layout: null
     <channel>
         <title>{{ site.name | xml_escape }}</title>
         <icon>{{ site.favicon }}</icon>
-        <logo>{{ site.logo }}</icon>
+        <logo>{{ site.logo }}</logo>
         <author>{{ site.author | xml_escape }}</author>
         <subtitle>{{ site.decription | xml_escape }}</subtitle>
         <description>{{ site.description | xml_escape }}</description>
