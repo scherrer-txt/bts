@@ -3,14 +3,17 @@
 BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Originaly created in June of 2020, migrated to Github Pages in March of 2024.
 
 ## To-do
-- [] Integrate a comment service (?) maybe Staticman
-- [] Make the RSS work better
 - [] Streamline the css (using variables)
 - [] Make the website more accessible
-- [] Integrate lazy load (?) / Make the images (bg) smaller in size
+- [] Integrate lazy load (?) / Make the bg images smaller in size
 
 ## Backlog
-- [x] Main favicon is now an svg; other favicons are hi-res
+- [] Integrate a comment service (?) maybe Staticman
+
+## Did
+- [x] Update thumbnails (*I hope for the last time*)
+- [x] Make the RSS work better (*for now*)
+- [x] Main favicon is now an svg ([thanks to an article by Antoine B.](https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df)); other favicons are hi-res; minimized the need for excesive amount of different icons
 - [x] Make the 404 a bit nicer
 - [x] Add yaml published boolean
 - [x] Add & fix hover for backgrounds

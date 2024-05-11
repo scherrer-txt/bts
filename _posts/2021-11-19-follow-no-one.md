@@ -6,7 +6,7 @@ name: Follow no one
 release: 2021/11
 perex: Tenhle článek je o sociálních sítích, o jejich dopadu na lidi, o svobodné vůli, sebevědomí a vlastní identitě.
 order: "07"
-thumbnail: "/images/thumbs/bts-07-thumb.png"
+thumbnail: "/images/thumbs/bts-thumb-07.png"
 background: "/images/bg/07.jpg"
 published: true
 ---

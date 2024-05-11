@@ -6,7 +6,7 @@ name: O umělým umění
 release: 2023/03
 perex: Další článek zpoza obrazovek. O inspiraci, umění a etice výtvorů umělý inteligence.
 order: "10"
-thumbnail: "/images/thumbs/bts-10-thumb.png"
+thumbnail: "/images/thumbs/bts-thumb-10.png"
 background: "/images/bg/10.jpg"
 published: true
 ---

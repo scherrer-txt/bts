@@ -6,7 +6,7 @@ name: Beru 5 prášků každý ráno
 release: 2024/01
 perex: Protože protože chci. Tohle Behind the Screens je o jídle, suplementech a biohackingu.
 order: "14"
-thumbnail: "/images/thumbs/bts-14-thumb.png"
+thumbnail: "/images/thumbs/bts-thumb-14.png"
 background: "/images/bg/14.jpg"
 published: true
 ---

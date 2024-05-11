@@ -6,7 +6,7 @@ name: Fotím na 60 let starý objektiv
 release: 2020/12
 perex: O objevování krásy v nedokonalostech; o nahlížení na svět skrz zaprášený starý sklo
 order: "04"
-thumbnail: "/images/thumbs/bts-04-thumb.png"
+thumbnail: "/images/thumbs/bts-thumb-04.png"
 background: "/images/bg/04.jpg"
 published: true
 ---

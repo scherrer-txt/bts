@@ -6,7 +6,7 @@ name: Boostnutý umělou inteligencí
 release: 2023/01
 perex: Od experimentů s AI k demokratizaci umění. Tohle je další Behind the Screens!
 order: "09"
-thumbnail: "/images/thumbs/bts-09-thumb.png"
+thumbnail: "/images/thumbs/bts-thumb-09.png"
 background: "/images/bg/09.jpg"
 published: true
 ---
