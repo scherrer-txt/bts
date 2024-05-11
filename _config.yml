@@ -13,9 +13,9 @@ permalink: /:slug
 description: > # description of the site (multiple lines allowed)
   Blog o všem, s čím se jako kreativní člověk setkávám za obrazovkama.
   Since 2020.
-logo: "https://scherrer-txt.github.io/bts/assets/images/favicon-96x96.png"
+logo: https://scherrer-txt.github.io/bts/assets/images/logo.svg
 teaser: /images/thumbs/bts-main-thumb.png
-favicon: "https://scherrer-txt.github.io/bts/favicon.ico"
+favicon: https://scherrer-txt.github.io/bts/favicon.ico
 repository: https://github.com/scherrer-txt/bts
 timezone: Europe/Prague
 locale: cs-CZ
