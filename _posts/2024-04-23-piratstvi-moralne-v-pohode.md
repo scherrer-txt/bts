@@ -7,6 +7,7 @@ release: 2024/05
 perex: Pirátství jako forma protestu a způsob získání svých práv nazpátek. Další Behind the Screens.
 order: "18"
 thumbnail: "/images/thumbs/bts-18-thumb.png"
+published: false
 ---
 
 ### Obsah

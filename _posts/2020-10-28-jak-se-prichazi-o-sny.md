@@ -6,8 +6,9 @@ perex: O tom, jak je někdy neuvěřitelně těžký, chtít po sobě pořád v�
 order: "03"
 release: 2020/10
 author: scherrer.txt
-thumbnail: "/images/thumbs/bts-03-thumb.png"
-background: "/images/bg/03.jpg"
+thumbnail: "{{ site.url }}/images/thumbs/bts-03-thumb.png"
+background: "{{ site.url }}/images/bg/03.jpg"
+published: true
 ---
 
 ### Obsah

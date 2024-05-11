@@ -6,8 +6,9 @@ perex: Před 10 lety jsem napsal svoji první povídku, která vyhrála v soutě
 order: "08"
 release: 2021/12
 author: scherrer.txt
-thumbnail: "/images/thumbs/bts-08-thumb.png"
-background: "/images/bg/08.jpg"
+thumbnail: "{{ site.url }}/images/thumbs/bts-08-thumb.png"
+background: "{{ site.url }}/images/bg/08.jpg"
+published: true
 ---
 
 ### Obsah

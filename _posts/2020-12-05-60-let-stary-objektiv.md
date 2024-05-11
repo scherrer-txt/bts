@@ -6,8 +6,9 @@ perex: O objevování krásy v nedokonalostech; o nahlížení na svět skrz zap
 order: "04"
 release: 2020/12
 author: scherrer.txt
-thumbnail: "/images/thumbs/bts-04-thumb.png"
-background: "/images/bg/04.jpg"
+thumbnail: "{{ site.url }}/images/thumbs/bts-04-thumb.png"
+background: "{{ site.url }}/images/bg/04.jpg"
+published: true
 ---
 
 ### Obsah

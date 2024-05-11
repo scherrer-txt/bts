@@ -6,8 +6,9 @@ perex: Tenhle článek je o sociálních sítích, o jejich dopadu na lidi, o sv
 order: "07"
 release: 2021/11
 author: scherrer.txt
-thumbnail: "/images/thumbs/bts-07-thumb.png"
-background: "/images/bg/07.jpg"
+thumbnail: "{{ site.url }}/images/thumbs/bts-07-thumb.png"
+background: "{{ site.url }}/images/bg/07.jpg"
+published: true
 ---
 
 ### Obsah

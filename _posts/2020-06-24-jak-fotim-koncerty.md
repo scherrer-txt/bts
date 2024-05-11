@@ -6,8 +6,9 @@ perex: Další díl série Behind the Screens. Tentokrát s praktickými tipy a 
 order: "02"
 release: 2020/06
 author: scherrer.txt
-thumbnail: "/images/thumbs/bts-02-thumb.png"
-background: "/images/bg/02.jpg"
+thumbnail: "{{ site.url }}/images/thumbs/bts-02-thumb.png"
+background: "{{ site.url }}/images/bg/02.jpg"
+published: true
 ---
 
 ### Obsah

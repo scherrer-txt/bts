@@ -6,8 +6,9 @@ perex: Od experimentů s AI k demokratizaci umění. Tohle je další Behind the
 order: "09"
 release: 2023/01
 author: scherrer.txt
-thumbnail: "/images/thumbs/bts-09-thumb.png"
-background: "/images/bg/09.jpg"
+thumbnail: "{{ site.url }}/images/thumbs/bts-09-thumb.png"
+background: "{{ site.url }}/images/bg/09.jpg"
+published: true
 ---
 
 ### Obsah
