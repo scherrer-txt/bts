@@ -1,29 +1,39 @@
-title: Behind the Screens
+# Author
 author: scherrer.txt
-url: https://scherrer-txt.github.io/bts # root address of the site
-description: > # description of the site (multiple lines allowed)
-  Blog o všem, s čím se jako kreativní člověk setkávám za obrazovkama.<br>
-  Since 2020.
+author-img: 
+about-author: Renesanční tvůrce. Da Vinci designu.
+social-linkedin: scherrer-jpg
+social-email: tenkws+bts@gmail.com
 
+# Web
+title: Behind the Screens
+name: Behind the Screens
+url: https://scherrer-txt.github.io/bts
+permalink: /:slug
+description: > # description of the site (multiple lines allowed)
+  Blog o všem, s čím se jako kreativní člověk setkávám za obrazovkama.
+  Since 2020.
 logo: "./assets/images/favicon-96x96.png"
+favicon: "./favicon.ico"
 repository: https://github.com/scherrer-txt/bts
 timezone: Europe/Prague
 locale: cs-CZ
+future: true
+copyright: Kevin W. Scherrer
 
+# RSS
 feed:
   categories:
   - design
   - creativity
   - art
   - writing
+feed_items: 20
+feed_update_period: monthly
+feed_update_frequency: 1
 
-permalink: /:slug
-
-favicon: "./favicon.ico" # relative path to site's favicon
-
-#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
+# Theme
 remote_theme: abhinavs/moonwalk
-
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
@@ -47,13 +57,14 @@ theme_config:
 soopr:
   publish-token: "pt_be2b591b4540b65cd5050fb3f7006806" 
 
+# Markdown
 markdown: kramdown
 
+# sass
 sass:
   style: :compressed
 
-future: true
-
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-soopr-seo-tag
@@ -63,4 +74,3 @@ plugins:
 include: ["_pages"]
 
 exclude:
-- readme.md

@@ -3,7 +3,7 @@
 BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Originaly created in June of 2020, migrated to Github Pages in March of 2024.
 
 ## To-do
-- [] Integrate a comment service (?)
+- [] Integrate a comment service (?) maybe Staticman
 - [] Make the RSS work better
 - [] Streamline the css (using variables)
 - [] Make the website more accessible
