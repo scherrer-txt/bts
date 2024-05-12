@@ -2,27 +2,47 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    >
+
     <channel>
         <title>Behind the Screens</title>
         <description>{{ site.description | xml_escape }}</description>
-        <link>{{ site.url }}{{ site.baseurl }}/</link>
+        <sy:updatePeriod>monthly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+        <link>https://scherrer-txt.github.io/bts</link>
         <atom:link href="https://scherrer-txt.github.io/bts/feed.xml" rel="self" type="application/rss+xml"/>
         <generator>Jekyll v{{ jekyll.version }}</generator>
+        <category>Design</category>
+        <category>Creativity</category>
+        <category>Art</category>
+        <category>Writing</category>
+        <language>cs-CZ</language>
+        <copyright>2024</copyright>
+
         <image>
           <url>https://scherrer-txt.github.io/bts/assets/images/favicon-96x96.png</url>
-          <title>{{ site.name | xml_escape }}</title>
+          <title>Behind the Screens</title>
           <link>https://scherrer-txt.github.io/bts</link>
+          <width>32</width>
+          <height>32</height>
         </image>
         
-        {% for post in site.posts %}
+        {% assign feed_items = site.feed_items | default: 10 %}
+        {% for post in site.posts limit:feed_items %}
             <item>
                 <title>{{ post.name | xml_escape }}</title>
+                <dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
+                <author>tenkws+bts@gmail.com (scherrer-txt)</author>
                 <description>{{ post.perex | xml_escape }}</description>
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
                 <link>{{ site.url }}{{ post.url }}</link>
+                <content>{{ post.content | xml_escape }}</content>
                 <enclosure url="{{ site.url }}{{ post.thumbnail }}" type="image/png" length="90500" />
-                <guid>{{ site.url }}{{ post.url }}</guid>
+                <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
             </item>
         {% endfor %}
     </channel>

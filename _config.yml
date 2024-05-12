@@ -1,7 +1,7 @@
 # Author
 author: scherrer.txt
 author-img: 
-about-author: Renesanční tvůrce. Da Vinci designu.
+about-author: Renesanční tvůrce. Da Vinci designu. Kreativní švýcarský nůž. Mistr světa omeleta.
 social-linkedin: scherrer-jpg
 social-email: tenkws+bts@gmail.com
 
@@ -21,17 +21,6 @@ timezone: Europe/Prague
 locale: cs-CZ
 future: true
 copyright: Kevin W. Scherrer
-
-# RSS
-feed:
-  categories:
-  - design
-  - creativity
-  - art
-  - writing
-feed_items: 20
-feed_update_period: monthly
-feed_update_frequency: 1
 
 # Theme
 remote_theme: abhinavs/moonwalk
@@ -73,5 +62,3 @@ plugins:
   - jekyll-sitemap
 
 include: ["_pages"]
-
-exclude:
