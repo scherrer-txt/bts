@@ -10,6 +10,7 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 
 ## Backlog
 - [] Integrate a comment service (?) maybe Staticman
+- [] Fix the links in RSS (*backlinks, footnotes and such*)
 
 ## Did
 - [x] Update thumbnails (*I hope for the last time*)
