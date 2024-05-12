@@ -36,7 +36,7 @@ layout: null
             <item>
                 <title>{{ post.name | xml_escape }}</title>
                 <author>tenkws+bts@gmail.com (scherrer-txt)</author>
-                <description><![CDATA[{{ post.content }}]]></description>
+                <description>{{ post.content | xml_escape }}</description>
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
                 <link>{{ site.url }}{{ post.url }}</link>
                 <enclosure url="{{ site.url }}{{ post.thumbnail }}" type="image/png" length="90500" />
