@@ -35,12 +35,10 @@ layout: null
         {% for post in site.posts limit:feed_items %}
             <item>
                 <title>{{ post.name | xml_escape }}</title>
-                <dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
                 <author>tenkws+bts@gmail.com (scherrer-txt)</author>
-                <description>{{ post.perex | xml_escape }}</description>
+                <description><![CDATA[{{ post.content }}]]></description>
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
                 <link>{{ site.url }}{{ post.url }}</link>
-                <content>{{ post.content | xml_escape }}</content>
                 <enclosure url="{{ site.url }}{{ post.thumbnail }}" type="image/png" length="90500" />
                 <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
             </item>
