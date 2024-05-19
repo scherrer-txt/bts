@@ -5,16 +5,15 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 ## To-do
 - [] Change design of the post index (*bg = background of the whole element; post info above; glass effect*)
 - [] Streamline the css (*using variables*)
-- [] Make the website more accessible
 - [] Integrate lazy load (?) / Make the bg images smaller in size
 
 ## Backlog
 - [] Integrate a comment service (?) maybe Staticman
-- [] Fix the links in RSS (*backlinks, footnotes and such*)
+- [] Make the website even more accessible
 
 ## Did
+- [x] Make the RSS work better (*used Feedburner*)
 - [x] Update thumbnails (*I hope for the last time*)
-- [x] Make the RSS work better (*for now*)
 - [x] Main favicon is now an svg ([thanks to an article by Antoine B.](https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df)); other favicons are hi-res; minimized the need for excesive amount of different icons
 - [x] Make the 404 a bit nicer
 - [x] Add yaml published boolean

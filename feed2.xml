@@ -35,7 +35,7 @@ layout: null
         {% for post in site.posts limit:feed_items %}
             <item>
                 <title>{{ post.name | xml_escape }}</title>
-                <author>{{ site.author }}</author>
+                <author>{{ site.author_email | xml_escape  }}</author>
                 <description>{{ post.content | xml_escape }}</description>
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
                 <link>{{ site.url }}{{ post.url }}</link>
