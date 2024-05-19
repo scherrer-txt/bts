@@ -11,6 +11,7 @@ name: Behind the Screens
 url: https://scherrer-txt.github.io/bts
 feed:
   path: https://scherrer-txt.github.io/bts/feed2.xml
+  items: 20
 permalink: /:slug
 description: > # description of the site (multiple lines allowed)
   Blog o všem, s čím se jako kreativní člověk setkávám za obrazovkama.

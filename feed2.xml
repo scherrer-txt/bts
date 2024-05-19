@@ -31,7 +31,7 @@ layout: null
           <height>96</height>
         </image>
         
-        {% assign feed_items = site.feed_items | default: 10 %}
+        {% assign feed_items = site.feed_items %}
         {% for post in site.posts limit:feed_items %}
             <item>
                 <title>{{ post.name | xml_escape }}</title>
