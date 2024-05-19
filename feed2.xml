@@ -9,37 +9,39 @@ layout: null
     >
 
     <channel>
-        <title>Behind the Screens</title>
+        <title>{{ site.title | xml_escape }}</title>
         <description>{{ site.description | xml_escape }}</description>
         <sy:updatePeriod>monthly</sy:updatePeriod>
-		<sy:updateFrequency>1</sy:updateFrequency>
-        <link>https://scherrer-txt.github.io/bts</link>
-        <atom:link href="https://scherrer-txt.github.io/bts/feed.xml" rel="self" type="application/rss+xml"/>
+        <sy:updateFrequency>1</sy:updateFrequency>
+        <link>{{ site.url }}</link>
+        <atom:link href="{{ site.url }}/feed2.xml" rel="self" type="application/rss+xml"/>
         <generator>Jekyll v{{ jekyll.version }}</generator>
         <category>Design</category>
         <category>Creativity</category>
         <category>Art</category>
         <category>Writing</category>
         <language>cs-CZ</language>
-        <copyright>2024</copyright>
+        <copyright>2024 {{ site.title | xml_escape }}</copyright>
 
         <image>
-          <url>https://scherrer-txt.github.io/bts/assets/images/favicon-96x96.png</url>
-          <title>Behind the Screens</title>
-          <link>https://scherrer-txt.github.io/bts</link>
-          <width>32</width>
-          <height>32</height>
+          <url>{{ site.url }}/assets/images/favicon-96x96.png</url>
+          <title>{{ site.title | xml_escape }}</title>
+          <link>{{ site.url }}</link>
+          <width>96</width>
+          <height>96</height>
         </image>
         
         {% assign feed_items = site.feed_items | default: 10 %}
         {% for post in site.posts limit:feed_items %}
             <item>
                 <title>{{ post.name | xml_escape }}</title>
-                <author>tenkws+bts@gmail.com (scherrer-txt)</author>
+                <author>{{ site.author }}</author>
                 <description>{{ post.content | xml_escape }}</description>
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
                 <link>{{ site.url }}{{ post.url }}</link>
+                {% if post.thumbnail %}
                 <enclosure url="{{ site.url }}{{ post.thumbnail }}" type="image/png" length="90500" />
+                {% endif %}
                 <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
             </item>
         {% endfor %}

@@ -1,6 +1,6 @@
 # Author
 author: scherrer.txt
-author-img: 
+author-img: https://scherrer-txt.github.io/bts/assets/images/bts-prof-pic.png
 about-author: Renesanční tvůrce. Da Vinci designu. Kreativní švýcarský nůž. Mistr světa omeleta.
 social-linkedin: scherrer-jpg
 social-email: tenkws+bts@gmail.com
@@ -9,6 +9,8 @@ social-email: tenkws+bts@gmail.com
 title: Behind the Screens
 name: Behind the Screens
 url: https://scherrer-txt.github.io/bts
+feed:
+  path: https://scherrer-txt.github.io/bts/feed2.xml
 permalink: /:slug
 description: > # description of the site (multiple lines allowed)
   Blog o všem, s čím se jako kreativní člověk setkávám za obrazovkama.
