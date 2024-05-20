@@ -18,7 +18,7 @@ permalink: /o-mne
 - [hra, kterou jsem spoluvytvořil](https://its-lea-b.itch.io/does-it-matter)
 - [seznam anime, který jsem viděl](https://anilist.co/user/scherrer/animelist)
 
-## Jsem
+## Kdo jsem
 Něco o sobě jsem [napsal tady](bezcasi-ktery-meni-zivot), ale ve zkratce:
 
 Jsem transdisciplinární[^1] tvůrce/designer/umělec, neurohacker[^2], spisovatel[^3] a blogger[^4], rapper[^5],

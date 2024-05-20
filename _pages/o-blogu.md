@@ -12,6 +12,7 @@ Píšu nepravidelně od roku 2020. Původně jsem chtěl sdílet svůj pracovní
 
 ---
 ## Jak tenhle blog citovat?
+<details>
 **NLM/Vancouver**
 - Scherrer K. Behind the Screens [Internet]. Brno (CZ): Kevin Scherrer. 2020 -   . Název příspěvku; RRRR MM DD [citováno RRRR MM DD]. https://scherrer-txt.github.io/bts/
 
@@ -23,7 +24,7 @@ Píšu nepravidelně od roku 2020. Původně jsem chtěl sdílet svůj pracovní
 
 **APA**
 - Scherrer, K. (RRRR, MM DD). Název příspěvku. Behind the Screens. https://scherrer-txt.github.io/bts/
-
+</details>
 ---
 
 Behind the Screens _nikdy nebude za paywallem_. Zároveň odmítám na sobě jako tvůrci nechávat parazitovat jakýkoliv korporát. Proto jsem v březnu 2024 emigroval z platformy Medium, s jejímiž praktiky nesouhlasím ani jako designer, ani jako tvůrce obsahu, ani jako člověk.
