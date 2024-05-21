@@ -3,7 +3,7 @@ layout: post
 author: scherrer.txt
 title: "Název | Behind the Screens | by Scherrer.txt"
 name: Název
-release: 202X/XX
+release: 202Y/XX
 perex: Perex
 order: "XX"
 thumbnail: "/images/thumbs/bts-XX-thumb.png"
@@ -24,10 +24,8 @@ asd
 
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('url');"></div>
-  <div class="gallery-single" style="background-image: url('url');"></div>
-  <div class="gallery-single" style="background-image: url('url');"></div>
-  <div class="gallery-single" style="background-image: url('url');"></div>
+  <div class="gallery-single" style="background-image: url('/images/bts-XX-NN.jpg');" data-full="/images/bts-XX-NN.jpg"></div>
+  <div class="gallery-description">Description</div>
 </div>
 
 
@@ -39,15 +37,3 @@ asd
 
 [^1]: a
 [^2]: a
-[^3]: a
-[^4]: a
-[^5]: a
-[^6]: a
-[^7]: a
-[^8]: a
-[^9]: a
-[^10]: a
-[^11]: a
-[^12]: a
-[^13]: a
-[^14]: a
