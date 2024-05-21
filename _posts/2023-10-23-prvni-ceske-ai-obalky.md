@@ -22,9 +22,9 @@ published: true
 ## [Rychlý úvod](#obsah)
 Vyhrál jsem povídkovou soutěž. Nejlepší povídky vyšly knižně ve sborníku. O tom když tak jindy. Začátkem února 2023 jsem s Vladimírou Staňkovou, editorkou sborníku, řešil nějaký technikálie — zaslání aktuální fotky, finální verze obálky (o jejíž tvorbě jsem **psal tady**) a autorskýho medailonku. V průběhu konverzace padla otázka, která tohle celý odpálila.
 
-V: „_Ale ještě mě napadá jedna věc — (mimochodem ta ilustrace se mi moooc líbí) — dáváme na ty obálky e-povídek vždycky i autora — nemohl byste poprosit ilustrátora, jestli by tam Vaše jméno […] nepřidal?_“
+`V:  „Ale ještě mě napadá jedna věc — (mimochodem ta ilustrace se mi moooc líbí) — dáváme na ty obálky e-povídek vždycky i autora — nemohl byste poprosit ilustrátora, jestli by tam Vaše jméno […] nepřidal?“`
 
-K: „_Tu obálku jsem si dělal sám, pomocí AI. :) Jsem designer, občas si takhle hraju. Díky! Jméno si tam přidám, není problém._“
+`K:  „Tu obálku jsem si dělal sám, pomocí AI. :) Jsem designer, občas si takhle hraju. Díky! Jméno si tam přidám, není problém.“`
 
 Další den jsem měl v inboxu zprávu, jestli se na projektu povídkový sbírky nechci podílet ještě víc. Věc se má tak, že povídky sice vyjdou dohromady ve sborníku, který nějakou obálku mít bude; jednotlivá literární díla ale zároveň vyjdou i samostatně v podobě e-booků. A v tenhle moment vstupuju do hry já. Vladimíru napadlo zapojit mě do projektu jako AI umělce. Dostal jsem od autorstva popsané představy ohledně vizuálu a ke každé povídce jsem dostal i anotaci. Začal jsem tvořit.
 

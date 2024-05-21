@@ -13,6 +13,7 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 - [] Change design of the post index (*bg = background of the whole element; post info above; glass effect*)
 
 ## Did
+- [x] Changed how a block of code/inline code looks
 - [x] Decide if the gallery description uses "⁂" or "∴" as markers (it’s the ⁂)
 - [x] Add description to the gallery items
 - [x] Add a lightbox to the gallery
