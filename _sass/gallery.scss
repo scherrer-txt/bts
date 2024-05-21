@@ -5,11 +5,25 @@
   flex-wrap: wrap;
 }
 
+.gallery-description {
+  min-width: 100%;
+  font-size: $font-size-heading-6-mobile;
+  line-height: $line-height-heading-6-mobile;
+  font-family: $font-family-body;
+  font-style: italic;
+  text-align: center;
+  padding: 0 0 1.5rem;
+
+  &:before { content: '⁂ ' }
+  &:after { content: ' ⁂' }
+}
+
 .gallery-single {
   flex: 1 1 auto;
   background-size: cover;
   background-position: center;
-  min-height: 600px;
+  min-height: 550px;
+  min-width: 300px;
   position: relative;
   overflow: hidden;
   transition: transform 0.2s ease-in-out, filter 0.2s ease-in-out;
@@ -23,45 +37,18 @@
   transform: scale(1.02);
 }
 
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 @media screen and (max-width: 800px) {
   .gallery-single {
-    flex-basis: calc(50% - 10px); /* Two items per row on small screens */
+    flex-basis: calc(50% - 10px); /* Two items/row @small screens */
     min-height: none;
   }
 }
 
 @media screen and (max-width: 400px) {
   .gallery-single {
-    flex-basis: 100%; /* Single item per row on extra small screens */
+    flex-basis: 100%; /* Single item/row @x-s screens */
     min-height: 200px;
   }
-}
-
-.lightbox {
-  position: relative;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  background-color: rgba(18, 18, 18, 0.5);
-  backdrop-filter: blur(10px);
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  visibility: hidden;
-  opacity: 0;
-  transition: visibility 0s, opacity 0.2s ease-in-out;
-  z-index: 100000;
-}
-
-.lightbox.active {
-  visibility: visible;
-  opacity: 1;
-}
-
-.lightbox-img {
-  max-width: 80vw;
-  max-height: 80vh;
-  transition: transform 0.2s ease-in-out;
 }

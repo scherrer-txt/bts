@@ -4,7 +4,7 @@ author: scherrer.txt
 title: "Pirátství je morálně v pohodě | Behind the Screens | by Scherrer.txt"
 name: Pirátství je morálně v pohodě
 release: 2024/05
-perex: Pirátství jako forma protestu a aktivismu; způsob, jak získat svoje práva nazpátek. Další Behind the Screens.
+perex: Digitální pirátství jako nástroj inkluze, protestu a aktivismu; způsob, jak získat zpátky digitální svobodu.
 order: "18"
 thumbnail: "/images/thumbs/bts-18-thumb.png"
 background: "/images/bg/18.jpg"

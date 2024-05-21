@@ -1,0 +1,39 @@
+.lightbox {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(18, 18, 18, 0.5);
+    backdrop-filter: blur(10px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.2s ease-in-out;
+    z-index: 100000;
+  }
+
+.lightbox.active {
+    position: fixed;
+    top: 0;
+    left: 0;
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .lightbox-img {
+    max-width: 80vw;
+    max-height: 80vh;
+    transition: transform 0.2s ease-in-out;
+    filter: drop-shadow(0 0 10rem black);
+    cursor: zoom-in;
+    will-change: transform;
+  }
+  
+  .lightbox-img.zoomed {
+    /*transform: scale(2);*/
+    cursor: zoom-out;
+  }

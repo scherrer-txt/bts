@@ -34,9 +34,9 @@ Midjourney je název firmy a umělé inteligence, která generuje obrázky z tex
 Přístupná veřejnosti je od půlky července 2022 a dá se používat zadarmo.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('/images/bts-09-01.png');"></div>
+  <div class="gallery-single" style="background-image: url('/images/bts-09-01.png');" data-full="/images/bts-09-01.png"></div>
+  <div class="gallery-description">Můj první prompt ever: „Galactic commander“</div>
 </div>
-_Můj první prompt ever: „Galactic commander“_
 
 ## [Co si o Midjourney myslím](#obsah)
 
@@ -47,10 +47,9 @@ Celý den jsem strávil tím, že jsem s otevřenou pusou čuměl na výtvory os
 Neumíš malovat? Neumíš/nemůžeš držet tužku v ruce? Jestli to umíš to popsat slovy, teď máš možnost dělat umění. Konečně můžeš svoje představy zhmotnit. Tvořit svoje dílo ne štětcem nebo tužkou, ale slovy. Budoucnost je tady.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('/images/bts-09-02.png');"></div>
+  <div class="gallery-single" style="background-image: url('/images/bts-09-02.png');" data-full="/images/bts-09-02.png"></div>
+  <div class="gallery-description">„sci-fi griffith from berserk on his horse, preparing for war“ /// „kim jong un, mecha, anime style, gundam, good, sky, nuclear“ /// „gothic medieval european gigantic city, white stone, green underglow, fog midnight, full moon, realistic, 4k“ /// „game of thrones, kings landing, gothic medieval european gigantic city, white stone, purple underglow, foggy midnight, photorealistic“ /// „medieval european castle, white stone, foggy, epic chiaroscuro oil painting“ /// „david rudnick typography poster cyberpunk“ /// „medieval european castle, white stone, foggy, epic chiaroscuro oil painting“ /// „slimy mutated man, hybrid of frog and fish, 16k, Lovecraft, Goya, chiaroscuro, acid green glow in background“</div>
 </div>
-_„sci-fi griffith from berserk on his horse, preparing for war“—„kim jong un, mecha, anime style, gundam, good, sky, nuclear“—„gothic medieval european gigantic city, white stone, green underglow, fog midnight, full moon, realistic, 4k“—„game of thrones, kings landing, gothic medieval european gigantic city, white stone, purple underglow, foggy midnight, photorealistic“—„medieval european castle, white stone, foggy, epic chiaroscuro oil painting“—„david rudnick typography poster cyberpunk“
-„medieval european castle, white stone, foggy, epic chiaroscuro oil painting“—„slimy mutated man, hybrid of frog and fish, 16k, Lovecraft, Goya, chiaroscuro, acid green glow in background“_
 
 Po prvních výtvorech jsem si dal přestávku a přemýšlel nad tím, jak jsem se u toho cítil. Jak vnímám svoje autorství, když těžkou dřinu za mě odvedla umělá inteligence, já jen poskytl slova. Co tohle všechno znamená z dlouhodobého hlediska.
 
@@ -70,9 +69,9 @@ V průběhu tvorby jsem studoval prompt engineering — nově vznikající obor,
 Bylo pro mě důležitý převzít moc nad tím, jak Midjourney generuje arty na základě mých představ. Potřeboval jsem docílit velmi specifickýho dojmu, který jsem si neuměl úplně představit, ale dokázal jsem ho popsat.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('/images/bts-09-03.png');"></div>
+  <div class="gallery-single" style="background-image: url('/images/bts-09-03.png');" data-full="/images/bts-09-03.png"></div>
+  <div class="gallery-description">První vygenerovaný art k povídce</div>
 </div>
-_První vygenerovaný art k povídce_
 
 **Poslední prompt:** _man in coat::1 in front of a log cabin::3 on a mountain slope, wide shot, stranger things style, high contrast, 70s horror movie poster, red, black, white, limited color palette, oil on canvas, detective book cover --ar 10:15_
 
@@ -83,9 +82,9 @@ Díky AI jsem nemusel investovat čas — který jsem neměl — do náčrtků a
 Mohl jsem se ale na art kreativně dohlížet a korigovat celý tvůrčí proces. To bylo hrozně osvobozující.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('/images/bts-09-04.png');"></div>
+  <div class="gallery-single" style="background-image: url('/images/bts-09-04.png');" data-full="/images/bts-09-04.png"></div>
+  <div class="gallery-description">Finální art povídky</div>
 </div>
-_Finální art povídky_
 
 ## [Midjourney za mě neudělalo celou práci](#obsah)
 
@@ -96,14 +95,15 @@ Midjourney měla ve verzi, kterou jsem používal v září 2022, pár drobných
 Otevřel jsem Photoshop a Illustrator a dal se do práce. Po chvilce retuší jsem se pustil do výběru písma. Nejdřív jsem zkusil udělat nějaké nápisy v Midjourney, ale… To úplně nedopadlo. S novou verzí, která vyšla v prosinci 2022, se toho ale dost změnilo. Nejspíš i tohle.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('/images/bts-09-05.png');"></div>
+  <div class="gallery-single" style="background-image: url('/images/bts-09-05.png');" data-full="/images/bts-09-05.png"></div>
+  <div class="gallery-description">Generování typografie s AI bylo v září ’22 dobrý spíš na inspiraci, než ready to use</div>
 </div>
-_Generování typografie s AI bylo v září dobrý spíš na inspiraci, než ready to use._
 
 Když jsem byl spoko, rozhodl jsem se z toho udělat cover i ve čtvercovým formátu na IG.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('/images/bts-09-06.png');"></div>
+  <div class="gallery-single" style="background-image: url('/images/bts-09-06.png');" data-full="/images/bts-09-06.png"></div>
+  <div class="gallery-description">Generování typografie s AI bylo v září ’22 dobrý spíš na inspiraci, než ready to use</div>
 </div>
 
 ## [Něco na závěr](#obsah)
@@ -115,9 +115,9 @@ Já se s ChatGPT-3 třeba učím programovat v Pythonu. Já. Celoživotní grafi
 Your imagination is the limit.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('/images/bts-09-07.png');"></div>
+  <div class="gallery-single" style="background-image: url('/images/bts-09-07.png');" data-full="/images/bts-09-07.png"></div>
+  <div class="gallery-description">Všechno, co jsem s Midjourney doteď vytvořil</div>
 </div>
-_Všechno, co jsem s Midjourney doteď vytvořil_
 
 ---
 
@@ -125,5 +125,5 @@ _Všechno, co jsem s Midjourney doteď vytvořil_
 {:.no_toc}
 
 {: data-content="footnotes"}
-[^1]: Tomu se v praxi říká „cognitive offload“, uvolnění přemýšlecích kapacit tím, že necháme někoho/něco jinýho nad něčím přemýšlet za nás.
+[^1]: Tomu se v praxi říká „*cognitive offload*“, uvolnění přemýšlecích kapacit tím, že necháme někoho/něco jinýho nad něčím přemýšlet za nás.
 [^2]: Ten stejný člověk ale pak o rok později naprogramoval tenhle web, hmmm.

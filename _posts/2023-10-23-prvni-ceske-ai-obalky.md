@@ -58,7 +58,7 @@ Na jedné obálce jsem strávil v průměru 3 hodiny. Někdy to byla 1 hodina, n
 Tady jsou.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*OqKFGU1L3ylmsHhYcMx5dw.png');"></div>
+  <div class="gallery-single" style="background-image: url('/images/bts-12-01.png');" data-full="/images/bts-12-01.png"></div>
 </div>
 
 ## [Reflexe projektu](#obsah)
