@@ -45,6 +45,10 @@ _↑ Pokud to vidíte podobně, velmi rád vám s přechodem na Github Pages pom
 - Nadpisový písmo je [Neue Haas Grotesk Display](https://fonts.adobe.com/fonts/neue-haas-grotesk), autor je [Christian Schwartz](https://commercialtype.com/about/christian_schwartz), licencovaný přes [Adobe Fonts](https://fonts.adobe.com/fonts/roc-grotesk#licensing-section)
 - Textový písmo je [Source Serif 4](https://fonts.google.com/specimen/Source+Serif+4) by [Frank Grießhammer](https://fonts.adobe.com/designers/frank-griesshammer) for [Google Fonts](https://fonts.google.com/specimen/Source+Serif+4), licencovaný přes [Open Font License](https://fonts.google.com/specimen/Source+Serif+4/about)
 
+##### Ostatní
+{:.no_toc}
+- Jestli se ti líbí moje theme toggle ikony, [tady]() si můžeš stáhnout zdrojový soubor
+
 ---
 
 ## Jak tenhle blog citovat?

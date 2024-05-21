@@ -8,6 +8,7 @@ perex: O tom, jak je někdy neuvěřitelně těžký, chtít po sobě pořád v�
 order: "03"
 thumbnail: "/images/thumbs/bts-thumb-03.png"
 background: "/images/bg/03.jpg"
+redirect_from: "/bts03.html"
 published: true
 ---
 

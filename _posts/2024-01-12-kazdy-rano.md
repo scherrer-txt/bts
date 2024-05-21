@@ -8,6 +8,7 @@ perex: Protože protože chci. Tohle Behind the Screens je o jídle, suplementec
 order: "14"
 thumbnail: "/images/thumbs/bts-thumb-14.png"
 background: "/images/bg/14.jpg"
+redirect_from: "/bts14.html"
 published: true
 ---
 

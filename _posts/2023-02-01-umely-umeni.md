@@ -8,6 +8,7 @@ perex: Další článek zpoza obrazovek. O inspiraci, umění a etice výtvorů 
 order: "10"
 thumbnail: "/images/thumbs/bts-thumb-10.png"
 background: "/images/bg/10.jpg"
+redirect_from: "/bts10.html"
 published: true
 ---
 

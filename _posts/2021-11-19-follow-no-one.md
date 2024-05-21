@@ -8,6 +8,7 @@ perex: Tenhle článek je o sociálních sítích, o jejich dopadu na lidi, o sv
 order: "07"
 thumbnail: "/images/thumbs/bts-thumb-07.png"
 background: "/images/bg/07.jpg"
+redirect_from: "/bts07.html"
 published: true
 ---
 

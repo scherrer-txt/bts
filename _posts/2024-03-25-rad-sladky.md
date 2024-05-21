@@ -8,6 +8,9 @@ perex: Podporuju užívání těžký drogy — kvůli mindfulness. Další čl�
 order: "16"
 thumbnail: "/images/thumbs/bts-thumb-16.png"
 background: "/images/bg/16.jpg"
+redirect_from:
+- "/bts16.html"
+- "/nekdo-to-rad-sladky.html"
 published: true
 ---
 

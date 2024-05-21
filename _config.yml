@@ -1,6 +1,6 @@
 # Author
 author: scherrer.txt
-author_img: https://scherrer-txt.github.io/bts/assets/images/bts-prof-pic.png
+author_img: https://scherrer-txt.github.io/bts/assets/bts-prof-pic.png
 author_about: Renesanční tvůrce. Da Vinci designu. Kreativní švýcarský nůž. Mistr světa omeleta.
 author_linkedin: scherrer-jpg
 author_email: tenkws+bts@gmail.com
@@ -16,9 +16,9 @@ permalink: /:slug
 description: > # description of the site (multiple lines allowed)
   Blog o všem, s čím se jako kreativní člověk setkávám za obrazovkama.
   Since 2020.
-logo: https://scherrer-txt.github.io/bts/assets/images/bts-logo.svg
+logo: https://scherrer-txt.github.io/bts/assets/bts-logo.svg
 teaser: https://scherrer-txt.github.io/bts/images/thumbs/bts-main-thumb.png
-favicon: https://scherrer-txt.github.io/bts/assets/images/favicon/favicon.svg
+favicon: https://scherrer-txt.github.io/bts/assets/favicon/favicon.svg
 repository: https://github.com/scherrer-txt/bts
 timezone: Europe/Prague
 locale: cs-CZ
@@ -30,7 +30,7 @@ incremental: true
 # Theme
 remote_theme: abhinavs/moonwalk
 theme_config:
-  appearance: "auto" # can be "light", "dark" or "auto"
+  appearance: "dark" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
   date_format: "%Y-%m" # customize how date is formatted
   show_description: true # show blog description

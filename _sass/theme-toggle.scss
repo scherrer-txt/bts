@@ -7,27 +7,70 @@ html.transition *:after {
 }
 
 .theme-toggle {
-  color: var(--links);
-  background-color: transparent;
+  height: 32px;
+  width: 32px;
+  border: none;
   cursor: pointer;
-  border: 2px transparent solid;
   outline: none;
+  margin: 0;
+  background: transparent;
 }
 
-.theme-toggle:hover {
-  color: var(--links-hover);
-  outline: none;
+.theme-toggle .icon {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: transparent;
 }
 
-.theme-toggle:focus {
-  outline: none;
+.theme-toggle.sun .icon {
+  background-color: var(--links); /* Apply color to background */
+  mask-image: url("/assets/moon.svg");
+  -webkit-mask-image: url("/assets/moon.svg");
+  mask-size: contain;
+  mask-repeat: no-repeat;
+  mask-position: center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
 }
+
+.theme-toggle.moon .icon {
+  background-color: var(--links); /* Apply color to background */
+  mask-image: url("/assets/sun.svg");
+  -webkit-mask-image: url("/assets/sun.svg");
+  mask-size: contain;
+  mask-repeat: no-repeat;
+  mask-position: center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+}
+
+.theme-toggle:hover .icon {
+  background-color: var(--links-hover); /* Change color on hover */
+}
+
+
+html.transition .theme-toggle {
+  transition: background-image 250ms ease-in-out;
+}
+
+html[data-theme="dark"] { @include dark-appearance; }
+  html[data-theme="light"] { @include light-appearance; }
+  
+  @media (prefers-color-scheme: dark) {
+    body[data-theme="auto"] { @include dark-appearance; }
+  }
+  @media (prefers-color-scheme: light) {
+    body[data-theme="auto"] { @include light-appearance; }
+  }
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 @media only screen and (max-width: 800px) {
 .theme-toggle {
     left: 0;
-    scale: 80%;
+    scale: 110%;
   }
 }

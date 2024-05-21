@@ -8,6 +8,9 @@ perex: Bez času, bez tlaku, s kávou v hrnku. V tomhle Behind the Screens se po
 order: "15"
 thumbnail: "/images/thumbs/bts-thumb-15.png"
 background: "/images/bg/15.jpg"
+redirect_from:
+- "/bts15.html"
+- "/bezcasi-ktery-meni-zivot.html"
 published: true
 ---
 

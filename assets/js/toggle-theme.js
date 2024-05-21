@@ -1,29 +1,32 @@
-window.addEventListener('load', themeChange);
-  const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
-  if (currentTheme)
-    document.documentElement.setAttribute('data-theme', currentTheme);
+window.addEventListener('DOMContentLoaded', () => {
+  const configTheme = document.documentElement.getAttribute('data-config-theme');
+  const storedTheme = localStorage.getItem('theme');
+  const initialTheme = storedTheme || configTheme;
+  const button = document.querySelector('.theme-toggle');
 
-  function themeChange() {
-    let button = document.querySelector('.theme-toggle');
-
-    button.addEventListener('click', function (e) {
-      let currentTheme = document.documentElement.getAttribute('data-theme');
-      if (currentTheme === 'dark') {
-        transition();
-        document.documentElement.setAttribute('data-theme', 'light');
-        localStorage.setItem('theme', 'light');
-      } else {
-        transition();
-        document.documentElement.setAttribute('data-theme', 'dark');
-        localStorage.setItem('theme', 'dark');
-      }
-    });
-
-    let transition = () => {
-      document.documentElement.classList.add('transition');
-      window.setTimeout(() => {
-        document.documentElement.classList.remove('transition');
-      }, 1000);
-    }
+  function setTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    button.classList.toggle('moon', theme === 'dark');
+    button.classList.toggle('sun', theme === 'light');
+    localStorage.setItem('theme', theme);
   }
 
+  // Apply initial theme
+  setTheme(initialTheme);
+
+  // Add event listener for theme toggle
+  button.addEventListener('click', () => {
+    const currentTheme = document.documentElement.getAttribute('data-theme');
+    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    transition();
+    setTheme(newTheme);
+  });
+
+  // Function to handle theme transition
+  function transition() {
+    document.documentElement.classList.add('transition');
+    window.setTimeout(() => {
+      document.documentElement.classList.remove('transition');
+    }, 1000);
+  }
+});

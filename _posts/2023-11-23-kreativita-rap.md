@@ -8,6 +8,7 @@ perex: Jak do sebe zapadá kreativita a originalita? A co rap? Další Behind th
 order: "13"
 thumbnail: "/images/thumbs/bts-thumb-13.png"
 background: "/images/bg/13.jpg"
+redirect_from: "/bts13.html"
 published: true
 ---
 

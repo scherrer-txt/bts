@@ -1,14 +1,14 @@
 ---
 layout: post
 author: scherrer.txt
-title: "Jak jsem dělal merch pro EREM | Behind the Screens | by Scherrer.txt"
-name: Jak jsem dělal merch pro EREM
+title: "Merch pro EREM | Behind the Screens | by Scherrer.txt"
+name: Merch pro EREM
 release: 2020/06
 perex: Rozhodl jsem se začít sdílet storky z průběhu mý tvorby. První díl možná někdy větší série
 order: "01"
 thumbnail: "/images/thumbs/bts-thumb-01.png"
 background: "/images/bg/01.jpg"
-redirect_from: "/posts/01.html"
+redirect_from: "/bts01.html"
 published: true
 ---
 

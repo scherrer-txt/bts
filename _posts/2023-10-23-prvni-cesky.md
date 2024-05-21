@@ -1,13 +1,14 @@
 ---
 layout: post
 author: scherrer.txt
-title: "Udělal jsem první český AI obálky | Behind the Screens | by Scherrer.txt"
-name: Udělal jsem první český AI obálky
+title: "První český AI obálky | Behind the Screens | by Scherrer.txt"
+name: První český AI obálky
 release: 2023/10
-perex: Jak jsem udělal jedny z prvních knižních AI obálek v Česku — tohle je další Behind the Screens!
+perex: Jak jsem udělal jedny z prvních knižních AI-generated obálek v Česku — tohle je další Behind the Screens!
 order: "12"
 thumbnail: "/images/thumbs/bts-thumb-12.png"
 background: "/images/bg/12.jpg"
+redirect_from: "/bts12.html"
 published: true
 ---
 

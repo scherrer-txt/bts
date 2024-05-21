@@ -8,6 +8,9 @@ perex: Z toho titulku se mi chce zvracet. A doufám, že i vám. Mělo by. Dal
 order: "17"
 thumbnail: "/images/thumbs/bts-thumb-17.png"
 background: "/images/bg/17.jpg"
+redirect_from:
+- "/bts17.html"
+- "/kazdy-trochu-adhd.html"
 published: true
 ---
 

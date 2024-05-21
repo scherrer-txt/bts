@@ -8,6 +8,7 @@ perex: Další díl série Behind the Screens. Tentokrát s praktickými tipy a 
 order: "02"
 thumbnail: "/images/thumbs/bts-thumb-02.png"
 background: "/images/bg/02.jpg"
+redirect_from: "/bts02.html"
 published: true
 ---
 

@@ -8,6 +8,7 @@ perex: V roce 2021 jsem odpověděl na pár otázek. V roce 2023 jsem se k nim v
 order: "11"
 thumbnail: "/images/thumbs/bts-thumb-11.png"
 background: "/images/bg/11.jpg"
+redirect_from: "/bts11.html"
 published: true
 ---
 
