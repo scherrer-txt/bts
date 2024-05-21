@@ -8,7 +8,7 @@ perex: Rozhodl jsem se začít sdílet storky z průběhu mý tvorby. První dí
 order: "01"
 thumbnail: "/images/thumbs/bts-thumb-01.png"
 background: "/images/bg/01.jpg"
-redirect_from: /posts/01.html
+redirect_from: "/posts/01.html"
 published: true
 ---
 
