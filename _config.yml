@@ -57,6 +57,7 @@ markdown: kramdown
 
 # sass
 sass:
+  sass_dir: _sass
   style: :compressed
 
 # Plugins
@@ -65,5 +66,6 @@ plugins:
   - jekyll-soopr-seo-tag
   - jekyll-toc
   - jekyll-sitemap
+  - jekyll-loading-lazy
 
 include: ["_pages"]

@@ -1,0 +1,9 @@
+#progress-bar {
+    --scrollAmount: 0%;
+    background-color: var(--links);
+    width: var(--scrollAmount);
+    height: 8px;
+    position: fixed;
+    bottom: 0;
+    border-top: 4px var(--bg) solid;
+  }

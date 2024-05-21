@@ -1,0 +1,46 @@
+.footnotes {
+    color: var(--text);
+    width: 100%;
+    scroll-margin-top: 5rem;
+  }
+  
+  .footnotes li p {
+    width: fit-content;
+    margin: -0.3rem 0;
+  }
+  
+  .footnotes ol li {
+    scroll-margin-top: 10rem;
+  }
+  
+  sup {
+    vertical-align: text-top;
+    line-height: 0.3em;
+    scroll-margin-top: 10rem;
+  }
+  
+  .reversefootnote {
+    visibility: hidden;
+    display: inline-flex;
+  }
+  
+  .reversefootnote::after {
+    content: "↑ zpátky";
+    visibility: visible;
+    font-size: 0.8rem;
+    margin-left: -0.8rem;
+    text-align: center;
+  }
+  
+  *:target {
+    color: var(--text-secondary);
+    transition: color 0.5s;
+  }
+
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+  @media only screen and (max-width: 800px) {
+  .footnotes {
+    width: fit-content;
+  }
+}

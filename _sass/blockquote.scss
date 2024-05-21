@@ -1,0 +1,29 @@
+  
+  blockquote p {
+    font-family: $font-family-heading;
+    font-size: 5rem;
+    text-align: center;
+    font-weight: 400;
+    color: var(--text-italic);
+    line-height: 4.7rem;
+    width: fit-content;
+    padding: 5rem 0 5rem;
+  }
+
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+@media only screen and (max-width: 800px) {
+
+  blockquote {
+    font-size: $font-size-blockquote-mobile;
+    line-height: $line-height-blockquote-mobile;
+    width: 100%;
+  }
+
+  blockquote p {
+    font-size: 2rem;
+    line-height: 2rem;
+    width: 100%;
+    padding: 1rem 0 1rem;
+  }
+}

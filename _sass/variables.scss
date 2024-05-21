@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
+@import url("https://use.typekit.net/lnc7ppz.css"); /* NEUE HAAS DISPLAY = 700-600 | 500 (semibold) | 400 (regular) */
+
+// Font families
+$font-family-body: "Source Serif 4", serif;
+$font-family-heading: "neue-haas-grotesk-display", sans-serif;
+$font-family-monospace: "Roboto Mono", monospace;
+
+// Desktop
+$font-size-base: 1.4rem;
+$line-height-base: 2.6rem;
+$font-size-heading-1: 6rem;
+$line-height-heading-1: 5.8rem;
+$font-size-heading-2: 3.5rem;
+$line-height-heading-2: 3.5rem;
+$font-size-heading-3: 3rem;
+$line-height-heading-3: 3rem;
+$font-size-heading-4: 2.5rem;
+$line-height-heading-4: 2.5rem;
+$font-size-heading-5: 2rem;
+$line-height-heading-5: 2rem;
+$font-size-heading-6: 2rem;
+$line-height-heading-6: 2rem;
+
+// Mobile
+$font-size-base-mobile: 1rem;
+$line-height-base-mobile: 1.6rem;
+$font-size-heading-1-mobile: 1.9rem;
+$line-height-heading-1-mobile: 2.15rem;
+$font-size-heading-2-mobile: 1.75rem;
+$line-height-heading-2-mobile: 1.9rem;
+$font-size-heading-3-mobile: 1.6rem;
+$line-height-heading-3-mobile: 1.75rem;
+$font-size-heading-4-mobile: 1.45rem;
+$line-height-heading-4-mobile: 1.6rem;
+$font-size-heading-5-mobile: 1.3rem;
+$line-height-heading-5-mobile: 1.45rem;
+$font-size-heading-6-mobile: 1.15rem;
+$line-height-heading-6-mobile: 1.3rem;
+$font-size-blockquote-mobile: 1.45rem;
+$line-height-blockquote-mobile: 1.6rem;
+
+// Details
+$meta-gap-48: 48px;
+$meta-gap-64: 64px;
+$border-radius: 24px;
+$transition-02-ease: all 0.2s ease-in-out;

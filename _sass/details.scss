@@ -1,0 +1,31 @@
+details {
+    /* border: 1px solid #aaa; */
+    border-radius: 4px;
+    padding: 0.5em 0.5em 0;
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+  }
+  
+  summary {
+    margin: -0.5em -0.5em 0;
+    padding: 0.5em;
+    font-family: "neue-haas-grotesk-display", sans-serif;
+  }
+  
+  details[open] {
+    padding: 0.5em;
+  }
+  
+  details[open] summary {
+    border-bottom: 2px solid var(--code-text);
+    margin-bottom: 0.5em;
+  }
+  
+  details,
+  summary {
+    transition: $transition-02-ease;
+  }
+
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //

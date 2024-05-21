@@ -1,0 +1,33 @@
+html.transition,
+html.transition *,
+html.transition *:before,
+html.transition *:after {
+    transition: all 250ms !important;
+    transition-delay: 0 !important;
+}
+
+.theme-toggle {
+  color: var(--links);
+  background-color: transparent;
+  cursor: pointer;
+  border: 2px transparent solid;
+  outline: none;
+}
+
+.theme-toggle:hover {
+  color: var(--links-hover);
+  outline: none;
+}
+
+.theme-toggle:focus {
+  outline: none;
+}
+
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+@media only screen and (max-width: 800px) {
+.theme-toggle {
+    left: 0;
+    scale: 80%;
+  }
+}

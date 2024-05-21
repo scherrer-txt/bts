@@ -7,3 +7,4 @@ gem 'jekyll-toc'
 gem 'jekyll-sitemap'
 gem 'tzinfo'
 gem "tzinfo-data"
+gem 'jekyll-loading-lazy'

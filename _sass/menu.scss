@@ -1,0 +1,147 @@
+#menu-toggle {
+    display: none;
+  }
+  
+  .menu {
+    max-width: 100%;
+    margin: 0 auto;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    /* background-color: var(--bg); */
+    backdrop-filter: blur(10px);
+    transition: $transition-02-ease;
+    background-color: var(--transpa);
+  }
+  
+  .menu-list {
+    display: flex;
+    list-style-type: none;
+    flex-direction: row;
+    width: 65%;
+    margin: 0 auto;
+    padding-bottom: 1rem;
+    padding-left: 0px;
+  }
+  
+  .menu-list li {
+    margin-right: 3.5rem;
+  }
+  
+  .menu-list li:first-child {
+    margin-left: 0;
+  }
+  
+  .menu-list li:last-child {
+    margin-right: 0;
+    margin-left: auto;
+  }
+  
+  .hamburger {
+    display: none;
+    z-index: 5;
+    cursor: pointer;
+  }
+  
+  .hamburger div {
+    position: relative;
+    width: 35px;
+    height: 4px;
+    background-color: var(--links);
+    margin-top: 8px;
+    transition: $transition-02-ease;
+  }
+  
+  #menu-toggle:checked + .hamburger .top-bun {
+    transform: rotate(-45deg);
+    margin-top: 25px;
+  }
+  
+  #menu-toggle:checked + .hamburger .bottom-bun {
+    opacity: 0;
+    transform: rotate(45deg);
+  }
+  
+  #menu-toggle:checked + .hamburger .meat {
+    transform: rotate(45deg);
+    margin-top: -5px;
+  }
+
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+@media only screen and (max-width: 800px) {
+
+#menu-toggle {
+    display: none;
+  }
+  
+  .hamburger {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    right: 5%;
+    margin-bottom: 5%;
+    z-index: 99999;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    background-color: var(--transpa);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 500px;
+  }
+  
+  .menu {
+    transition: $transition-02-ease;
+  }
+  
+  #menu-toggle:not(:checked) ~ .menu {
+    display: none;
+    transition: $transition-02-ease;
+  }
+  
+  #menu-toggle:checked ~ .menu {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: var(--transpa);
+    top: 0; left: 0; right: 0; bottom: 0;
+    transition: $transition-02-ease;
+    transform: scale(1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    padding-top: 10%;
+  }
+  
+  .menu-list {
+    flex-direction: column;
+    border: none;
+    height: inherit;
+  }
+  
+  .menu-list a {
+    font-family: "neue-haas-grotesk-display", sans-serif;
+    font-size: 3rem;
+    margin-bottom: 0px;
+    letter-spacing: 0.02rem;
+    margin-left: 0;
+    width: fit-content;
+  }
+  
+  .menu-list li {
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: auto;
+  }
+  
+  .menu-list li:last-child {
+    margin-right: 0;
+    margin-left: 0;
+  }
+  
+  .theme-toggle {
+    scale: 130%;
+  }
+  
+}
