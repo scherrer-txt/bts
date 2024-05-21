@@ -30,15 +30,16 @@ _↑ Pokud to vidíte podobně, velmi rád vám s přechodem na Github Pages pom
 - Behind the Screens blog běží na generátoru [Jekyll](https://jekyllrb.com/), který v Ruby napsal [Tom Preston-Werner](https://en.wikipedia.org/wiki/Tom_Preston-Werner)
 - Blog bydlí na [Github Pages](https://pages.github.com/)
 - Používám silně upravenou šablonu [Moonwalk](https://github.com/abhinavs/moonwalk), autorem je [Abhinavs](https://github.com/abhinavs/)
-- V HTML tvořím strukturu webu, v CSS upravuju vzhled, články píšu v Markdownu, Liquid používám pro generování dynamickýho obsahu, v YAML nastavuju parametry
-    - Učím se na [W3 Schools](https://www.w3schools.com/)
-    - K bugfixu a brainstormu používám [ChatGPT 3.5](https://chat.openai.com/)
+- V HTML tvořím strukturu webu, v CSS upravuju vzhled, články píšu v Markdownu, Liquid používám pro generování dynamickýho obsahu, v YAML nastavuju parametry, v Javascriptu ovlivňuju chování určitých prvků (*hover, lightbox, progress bar a přepínač dark/light modu*)
+    - Čerpám z návodů na [W3 Schools](https://www.w3schools.com/)
+    - K bugfixu a brainstormu používám [ChatGPT 3.5/4o](https://chat.openai.com/)
 
 ##### Programy
 {:.no_toc}
 - Github repo mám naklonovaný lokálně, úpravy dělám ve [Visual Code Studio](https://code.visualstudio.com/)
 - Články jako takový píšu v [Obsidianu](https://obsidian.md/)
-- Webdesign/UI i dílčí grafiku dělám ve [Figmě](https://www.figma.com/)
+- UI a dílčí grafiku dělám ve [Figmě](https://www.figma.com/)
+- Vektory tvořím v [Adobe Illustrator](https://www.adobe.com/ca/products/illustrator.html)
 
 ##### Písma
 {:.no_toc}
@@ -47,7 +48,7 @@ _↑ Pokud to vidíte podobně, velmi rád vám s přechodem na Github Pages pom
 
 ##### Ostatní
 {:.no_toc}
-- Jestli se ti líbí moje theme toggle ikony, [tady]() si můžeš stáhnout zdrojový soubor
+- Jestli se ti líbí moje theme toggle ikony, [tady](https://github.com/scherrer-txt/bts/blob/master/downloads/scherrer-theme-toggle.pdf) si můžeš stáhnout zdroják
 
 ---
 

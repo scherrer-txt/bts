@@ -3,7 +3,6 @@
 BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Originaly created in June of 2020, migrated to Github Pages in March of 2024.
 
 ## To-do
-- [] Declutter the whole repo (*mainly /_layouts and /_includes*)
 - [] Upload images for bts-01, bts-02 and bts-03
 
 ## Backlog
@@ -14,6 +13,7 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 - [] Change design of the post index (*bg = background of the whole element; post info above; glass effect*)
 
 ## Did
+- [x] Declutter the whole repo (*mainly /_layouts and /_includes*)
 - [x] Share my theme toggle icons
 - [x] Change the default theme toggle icon to a set of my own
 - [x] Let ESC key cancel the lightbox
