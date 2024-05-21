@@ -1,11 +1,17 @@
----
-layout: default
----
-
-<header>
-  <h1>{{ site.title }}</h1>
-</header>
-
-{{ content }}
-
-{% include post_list.html %}
+<!DOCTYPE html>
+<!-- FOR MAIN PAGE -->
+<!-- Hey you! I see you looking at my code! -->
+<html lang="{{ page.lang | default: "cs" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
+        {%- include head.html -%}
+  <body>
+          {% include menu.html collection=site.data.home.navbar_entries %}
+    <main class="page-content" aria-label="Content">
+      <div class="post-meta-background" style="background-image: url('{{ page.background }}');"></div>
+        <header>
+          <h1>{{ site.title }}</h1>
+        </header>
+        {{ content }}
+        {% include post-list.html %}
+    </main>
+  </body>
+</html>

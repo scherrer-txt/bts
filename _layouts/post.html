@@ -1,6 +1,8 @@
 <!DOCTYPE html>
+<!-- FOR POSTS & NOTES -->
+<!-- Hey, look away, my code is naked! -->
 <html lang="{{ page.lang | default: "cs" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
-        {%- include head.html -%}
+{%- include head.html -%}
   <body>
           {% include menu.html collection=site.data.home.navbar_entries %}
           <div class="post-meta-background" style="background-image: url('{{ site.url }}{{ page.background }}');"></div>
@@ -58,7 +60,7 @@
 </div>
 </main>
 
-{% include foot.html %}
+{% include progress-bar.html %}
 
 </body>
 </html>

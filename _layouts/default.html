@@ -5,12 +5,9 @@
           {% include menu.html collection=site.data.home.navbar_entries %}
     <main class="page-content" aria-label="Content">
       <div class="post-meta-background" style="background-image: url('{{ page.background }}');"></div>
-        {{ content }}
-    </main>
-
-  {%- if page.layout == "post" -%}
-    {% include foot.html %}
-  {%- endif -%}
-
+    
+      {{ content }}
+    
+      </main>
   </body>
 </html>

@@ -1,5 +1,4 @@
-<script type="text/javascript">
-  window.addEventListener('load', themeChange);
+window.addEventListener('load', themeChange);
   const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
   if (currentTheme)
     document.documentElement.setAttribute('data-theme', currentTheme);
@@ -27,5 +26,4 @@
       }, 1000);
     }
   }
-</script>
 

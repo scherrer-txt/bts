@@ -1,30 +1,4 @@
-<ul class="list-without-markers">
-  {% assign sorted_posts = site.posts | sort_natural: 'order' | reverse %}
-  {% for post in sorted_posts %}
-    {% if post.published == true %}
-      <li class="index-container">
-        <div class="index-number-container">
-          <div class="index-label">Číslo</div>
-          <h3 class="index-order">{{ post.order }}</h3>
-        </div>
-        <div class="index-title-container">
-          <div class="index-label">Název</div>
-          <h2 class="index-title">
-            <a href="{{ post.url | relative_url }}">{{ post.name }}</a>
-          </h2>
-        </div>
-        <div class="index-release-container">
-          <div class="index-label">Vyšlo</div>
-          <h4 class="index-release">{{ post.release }}</h4>
-        </div>
-        <div class="index-post-background" id="hover-background" style="background-image: url('{{ site.url }}{{ post.background }}');"></div>
-      </li>
-    {% endif %}
-  {% endfor %}
-</ul>
-  
-  <script>
-    const indexContainers = document.querySelectorAll(".index-container");
+const indexContainers = document.querySelectorAll(".index-container");
   
     indexContainers.forEach(function(indexContainer) {
       const hoverBackground = indexContainer.querySelector(".index-post-background");
@@ -50,4 +24,3 @@
         hoverBackground.style.transform = ""; /* Reset transformation */
       });
     });
-  </script>

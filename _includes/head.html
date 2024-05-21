@@ -71,17 +71,14 @@
 <link rel="manifest" href="manifest.json">
 
 <!-- THEME TOGGLE -->
+<script src="/assets/js/toggle-theme.js"></script>
 <link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}" />
-  {% if site.theme_config.appearance_toggle %}
-    {% include toggle_theme_js.html %}
-  {% endif %}
 
 <!-- RSS -->
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed2.xml">
 
 <!-- Lightbox JavaScript -->
 <script src="/assets/js/lightbox.js"></script>
-<link rel="stylesheet" href="/assets/css/lightbox.css">
 
 <div id="lightbox" class="lightbox">
   <img id="lightbox-img" class="lightbox-img" src="" alt="lightbox">

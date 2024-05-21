@@ -3,18 +3,22 @@
 BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Originaly created in June of 2020, migrated to Github Pages in March of 2024.
 
 ## To-do
+- [] Let esc key cancel the lightbox
+- [] Declutter the whole repo (*mainly /_layouts and /_includes*)
+- [] Change the theme switch icon
 - [] Upload images for bts-01, bts-02 and bts-03
 
 ## Backlog
 - [] Design a nicer TOC
 - [] Integrate a comment service (?) maybe Staticman
 - [] Make the website even more accessible
-- [] Make the images smaller (jekyll-assets/jekyll-compress-images/image-optim)
+- [] Make the images smaller (*jekyll-assets/jekyll-compress-images/image-optim*)
 - [] Change design of the post index (*bg = background of the whole element; post info above; glass effect*)
 
 ## Did
+- [x] Moved all javascripts into a separate folder (*/assets/js/*)
 - [x] Changed how a block of code/inline code looks
-- [x] Decide if the gallery description uses "⁂" or "∴" as markers (it’s the ⁂)
+- [x] Decide if the gallery description uses "⁂" or "∴" as markers (*it’s the ⁂*)
 - [x] Add description to the gallery items
 - [x] Add a lightbox to the gallery
 - [x] Create a working gallery css
