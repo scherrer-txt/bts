@@ -7,7 +7,7 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 
 ## Backlog
 - [] Integrate a comment service (?) maybe Staticman
-- [] Make the website even more accessible
+- [] Make the website even more accessible 
 - [] Make the images smaller (*jekyll-assets/jekyll-compress-images/image-optim*)
 
 ## Did
