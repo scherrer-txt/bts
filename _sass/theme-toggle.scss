@@ -25,8 +25,8 @@ html.transition *:after {
 
 .theme-toggle.sun .icon {
   background-color: var(--links);
-  mask-image: url("/assets/icons/moon.svg");
-  -webkit-mask-image: url("/assets/icons/moon.svg");
+  mask-image: url("https://scherrer-txt.github.io/bts/assets/icons/moon.svg");
+  -webkit-mask-image: url("https://scherrer-txt.github.io/bts/assets/icons/moon.svg");
   mask-size: contain;
   mask-repeat: no-repeat;
   mask-position: center;
@@ -37,8 +37,8 @@ html.transition *:after {
 
 .theme-toggle.moon .icon {
   background-color: var(--links);
-  mask-image: url("/assets/icons/sun.svg");
-  -webkit-mask-image: url("/assets/icons/sun.svg");
+  mask-image: url("https://scherrer-txt.github.io/bts/assets/icons/sun.svg");
+  -webkit-mask-image: url("https://scherrer-txt.github.io/bts/assets/icons/sun.svg");
   mask-size: contain;
   mask-repeat: no-repeat;
   mask-position: center;
