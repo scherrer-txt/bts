@@ -14,13 +14,8 @@ redirect_from:
 published: true
 ---
 
-### Obsah
-{:.no_toc}
-
 * TOC
 {:toc}
-
----
 
 > Člověk na vozíku fakt těžko vyjde schody do pátýho patra. Můj vozík není vidět. Ale to neznamená, že neexistuje, že je pro mě jednoduchý ty schody vyjít.
 

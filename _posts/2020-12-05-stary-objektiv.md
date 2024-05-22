@@ -12,13 +12,8 @@ redirect_from: "/bts04.html"
 published: true
 ---
 
-### Obsah
-{:.no_toc}
-
 * TOC
 {:toc}
-
----
 
 ## [Krátký úvod](#obsah)
 Skrz různé internetové králičí nory jsem se dostal k videu s názvem „[Shooting a Video with a World War 1 Lens (100 years old)](https://www.youtube.com/watch?v=NL2aGz8Jv48)“. Už podle názvu jsem věděl, že bude super.

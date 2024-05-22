@@ -6,13 +6,13 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 - [] Upload images for bts-01, bts-02 and bts-03
 
 ## Backlog
-- [] Design a nicer TOC
 - [] Integrate a comment service (?) maybe Staticman
 - [] Make the website even more accessible
 - [] Make the images smaller (*jekyll-assets/jekyll-compress-images/image-optim*)
-- [] Change design of the post index (*bg = background of the whole element; post info above; glass effect*)
 
 ## Did
+- [x] Design a nicer TOC
+- [x] Change design of the post index (*bg = background of the whole element; post info above; glass effect*)
 - [x] Declutter the whole repo (*mainly /_layouts and /_includes*)
 - [x] Share my theme toggle icons
 - [x] Change the default theme toggle icon to a set of my own

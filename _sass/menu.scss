@@ -4,10 +4,9 @@
 
   .menu {
     max-width: 100%;
-    margin: 0 auto;
     position: sticky;
     top: 0;
-    z-index: 1000;
+    z-index: 10000;
     /* background-color: var(--bg); */
     backdrop-filter: blur(10px);
     transition: $transition-02-ease;

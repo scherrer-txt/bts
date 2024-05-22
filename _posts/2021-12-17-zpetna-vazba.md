@@ -12,13 +12,8 @@ redirect_from: "/bts08.html"
 published: true
 ---
 
-### Obsah
-{:.no_toc}
-
 * TOC
 {:toc}
-
----
 
 ## [Rychlý úvod](#obsah)
 Kdysi jsem měl na poli literatury a prózy celkem vysoké ambice. Abych se co nejdřív posunul, zpětnou vazbu jsem vyhledával a vyžadoval. Od blízkého okolí a známých, od ostatních pisálků, i od spisovatelů a nakladatelů.

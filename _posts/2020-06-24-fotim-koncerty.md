@@ -12,13 +12,8 @@ redirect_from: "/bts02.html"
 published: true
 ---
 
-### Obsah
-{:.no_toc}
-
 * TOC
 {:toc}
-
----
 
 ## TL;DR
 - Mít vždy dost baterií a pamětovek;

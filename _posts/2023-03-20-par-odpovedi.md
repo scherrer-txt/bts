@@ -12,21 +12,14 @@ redirect_from: "/bts11.html"
 published: true
 ---
 
+* TOC
+{:toc}
+
 ## Krátký úvod
 
 Od mého rozhovoru pro [KOLABO MAG](https://medium.com/@kolabocrew) v prosinci 2021 uplynul rok. Rozhodl jsem sdílet rozhovor i tady a svoje odpovědi trochu zaktualizovat.
 
 KOLABO MAG můžete odebírat [tady](https://kolabo.cz/kolabo-mag). Díky [Ondřej Pospíšil](https://ondrejpospisil.medium.com/) za prostor a za otázky!
-
----
-
-### Obsah
-{:.no_toc}
-
-* TOC
-{:toc}
-
----
 
 ## [Čím se zabýváš a proč?](#obsah)
 Vizuálním zhmotňováním nápadů. Nejvíc mě baví loga a identity. Motal jsem se v gastru a hudbě, takže branding, menu a plakáty pro podniky střídaly vizuály na YouTube, obaly cédéček, covery na Spotify a merchandise pro interprety. Přestalo mě ale bavit to, jak nejisté peníze jsou v těchhle oborech, tak jsem to pustil k vodě.

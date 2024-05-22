@@ -14,12 +14,8 @@ redirect_from:
 published: true
 ---
 
-### Obsah
-
 * TOC
 {:toc}
-
----
 
 > „Liminální prostory jsou často nepříjemný, ale jsou skvělou příležitosti k sebepoznání.“
 

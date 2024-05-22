@@ -12,13 +12,8 @@ redirect_from: "/bts18.html"
 published: true
 ---
 
-### Obsah
-{:.no_toc}
-
 * TOC
 {:toc}
-
----
 
 ## Rychlý úvod
 Shodneme se, že krást věci je blbý. Ukrást auto, peníze, identitu — to se prostě nedělá. Taky se nedělá to, aby zaměstnavatel vykořisťoval zaměstnance, neplatil daně, neproplácel přesčasy. Nesluší se manipulovat s ostatními lidmi a cíleně šířit nepravdy, o to hůř za účelem vlastního zisku. Špehovat, prodávat citlivá data. Lhát a podvádět. Nelegální a/nebo nemorální věci se prostě nedělají.

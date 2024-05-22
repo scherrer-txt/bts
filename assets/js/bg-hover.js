@@ -1,4 +1,4 @@
-const indexContainers = document.querySelectorAll(".index-container");
+const indexContainers = document.querySelectorAll(".index-post");
   
     indexContainers.forEach(function(indexContainer) {
       const hoverBackground = indexContainer.querySelector(".index-post-background");
@@ -14,7 +14,7 @@ const indexContainers = document.querySelectorAll(".index-container");
         const strength = 0.1; /* Adjust this value to change the strength of the effect */
         const offsetX = (mouseX - rect.left - rect.width / 2) * strength;
         const offsetY = (mouseY - rect.top - rect.height / 2) * strength;
-        const transformValue = `translate(${offsetX}px, ${offsetY}px) scale(1.3)`;
+        const transformValue = `translate(${offsetX}px, ${offsetY}px) scale(1.2)`;
         hoverBackground.style.transformOrigin = "center";
         hoverBackground.style.transform = transformValue;
       });

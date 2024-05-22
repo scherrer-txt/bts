@@ -12,13 +12,8 @@ redirect_from: "/bts13.html"
 published: true
 ---
 
-### Obsah
-{:.no_toc}
-
 * TOC
 {:toc}
-
----
 
 ## [Rychlý úvod](#obsah)
 V tomhle článku zabrousím do filozofie a metafyziky. Zkusím propojit dohromady několik pojmů a konceptů, který mi pomáhají o kreativitě přemýšlet. Není to úplně lehký čtivo a to i přes to, že jsem se snažil to co nejvíc zkondenzovat a „_zjednodušit_“. Není to ani něco, v co bych „_věřil_“ v náboženským slova smyslu — zmiňuju třeba „_sílu_“, ideje, materiální svět a jiný dimenze, a to už může znít jako nějaký New Age ezo bullshit.

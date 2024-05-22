@@ -12,13 +12,8 @@ redirect_from: "/bts01.html"
 published: true
 ---
 
-### Obsah
-{:.no_toc}
-
 * TOC
 {:toc}
-
----
 
 ## [Krátký úvod](#obsah)
 Twitter jsem si založil kvůli tomu, abych tam sdílel svoji práci. Což se celkem záhy zvrtlo v naprosto neproduktivní scrollování feedem.

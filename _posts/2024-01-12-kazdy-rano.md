@@ -12,13 +12,8 @@ redirect_from: "/bts14.html"
 published: true
 ---
 
-### Obsah
-{:.no_toc}
-
 * TOC
 {:toc}
-
----
 
 ## [Rychlý úvod](#obsah)
 V roce 2018 jsem pracoval na Konferenci Glorious. Díky ní jsem objevil Víta Haratka a poprvé jsem se setkal s pojmem „biohacking“. Kdo zná podcast Brain We Are, ví, že tohle téma se zabývá zlepšením kvality lidského života skrz měření různých indikátorů (třeba obsah vitamínů, kyslíku a cukru v krvi, krevní tlak a tep, spánkový režim, kvalita spánku a REM fáze, zažívání a typ stolice [jo, doslova se řeší hovna], záznam fyzické aktivity, psychickýho a emočního stavu a třeba i váhy a objemu svalové hmoty). Tehdy se to na chvíli objevilo v mým hledáčku, ale rychle se to zase vzdálilo, protože jsem neměl prostor se tomu víc věnovat. Tušil jsem, že to má co dočinění s pravidleným spánkem a kvalitním jídlem, ale s obojím mám odjakživa docela zásadní problémy. A měnit způsob svýho běžnýho fungování bylo nad moje síly.

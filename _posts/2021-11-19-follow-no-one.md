@@ -12,13 +12,8 @@ redirect_from: "/bts07.html"
 published: true
 ---
 
-### Obsah
-{:.no_toc}
-
 * TOC
 {:toc}
-
----
 
 ## [Rychlý úvod](#obsah)
 Jsem typ člověka[^1], co musí pořád vstřebávat nějaký informace. Nahodně se mi v hlavě vynořují otázky, na který musím znát odpovědi. Díky tomu existuje málo témat, o kterých bych se s někým nedokázal bavit. Na to jsem byl vždycky docela hrdý.

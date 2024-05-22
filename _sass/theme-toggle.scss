@@ -24,9 +24,9 @@ html.transition *:after {
 }
 
 .theme-toggle.sun .icon {
-  background-color: var(--links); /* Apply color to background */
-  mask-image: url("/assets/moon.svg");
-  -webkit-mask-image: url("/assets/moon.svg");
+  background-color: var(--links);
+  mask-image: url("/assets/icons/moon.svg");
+  -webkit-mask-image: url("/assets/icons/moon.svg");
   mask-size: contain;
   mask-repeat: no-repeat;
   mask-position: center;
@@ -36,9 +36,9 @@ html.transition *:after {
 }
 
 .theme-toggle.moon .icon {
-  background-color: var(--links); /* Apply color to background */
-  mask-image: url("/assets/sun.svg");
-  -webkit-mask-image: url("/assets/sun.svg");
+  background-color: var(--links);
+  mask-image: url("/assets/icons/sun.svg");
+  -webkit-mask-image: url("/assets/icons/sun.svg");
   mask-size: contain;
   mask-repeat: no-repeat;
   mask-position: center;
@@ -48,7 +48,7 @@ html.transition *:after {
 }
 
 .theme-toggle:hover .icon {
-  background-color: var(--links-hover); /* Change color on hover */
+  background-color: var(--links-hover);
 }
 
 

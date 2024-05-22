@@ -12,13 +12,8 @@ redirect_from: "/bts03.html"
 published: true
 ---
 
-### Obsah
-{:.no_toc}
-
 * TOC
 {:toc}
-
----
 
 ## [Krátký úvod](#obsah)
 Od malička jsem miloval příběhy, reálné i smyšlené. Snažil jsem se hodně číst, ale přijímal jsem je v jakékoliv podobě. Hry, filmy, seriály, komiksy, divadlo, historie, dokumenty, rozhovory. Hltal jsem všechno a to mi naštěstí zůstalo doteď.

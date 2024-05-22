@@ -12,13 +12,8 @@ redirect_from: "/bts10.html"
 published: true
 ---
 
-### Obsah
-{:.no_toc}
-
 * TOC
 {:toc}
-
----
 
 ## [Rychlý úvod](#obsah)
 > „Strašně zajímavé sledovat jak se zvedá vlna obav a pochyb o etice kolem AI artů.“

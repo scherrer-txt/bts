@@ -14,13 +14,8 @@ redirect_from:
 published: true
 ---
 
-### Obsah
-{:.no_toc}
-
 * TOC
 {:toc}
-
----
 
 ## [Krátký úvod](#obsah)
 

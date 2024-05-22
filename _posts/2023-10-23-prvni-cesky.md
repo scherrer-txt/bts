@@ -12,13 +12,8 @@ redirect_from: "/bts12.html"
 published: true
 ---
 
-### Obsah
-{:.no_toc}
-
 * TOC
 {:toc}
-
----
 
 ## [Rychlý úvod](#obsah)
 Vyhrál jsem povídkovou soutěž. Nejlepší povídky vyšly knižně ve sborníku. O tom když tak jindy. Začátkem února 2023 jsem s Vladimírou Staňkovou, editorkou sborníku, řešil nějaký technikálie — zaslání aktuální fotky, finální verze obálky (o jejíž tvorbě jsem **psal tady**) a autorskýho medailonku. V průběhu konverzace padla otázka, která tohle celý odpálila.

@@ -69,4 +69,12 @@ plugins:
   - jekyll-loading-lazy
   - jekyll-redirect-from
 
+# TOC Settings // ready for jekyll-toc implementation
+toc:
+ min_level: 1
+ max_level: 2
+ list_class: toc
+ list_class: toc-list
+ sublist_class: toc-sublist
+
 include: ["_pages"]
