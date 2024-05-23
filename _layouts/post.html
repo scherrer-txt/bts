@@ -5,7 +5,6 @@
 {%- include head.html -%}
   <body>
           {% include menu.html collection=site.data.home.navbar_entries %}
-          <div class="post-meta-background" style="background-image: url('{{ site.url }}{{ page.background }}');"></div>
 <div class="post-meta-container">
   <div class="post-meta-row">
     <div class="post-name-container">
@@ -40,6 +39,8 @@
 
   {{ content }}
 
+<div class="post-meta-background" style="background-image: url('{{ site.url }}{{ page.background }}');"></div>
+</main>
 <div class="post-nav-container">
   {% if page.previous %}
     <div class="post-nav-item">
@@ -58,9 +59,9 @@
     </div>
   {% endif %}
 </div>
-</main>
 
 {% include progress-bar.html %}
+<script src="/assets/js/header-anchors.js"></script>
 
 </body>
 </html>

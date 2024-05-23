@@ -71,6 +71,7 @@ html[data-theme="dark"] { @include dark-appearance; }
 @media only screen and (max-width: 800px) {
 .theme-toggle {
     left: 0;
-    scale: 110%;
+    height: 60px;
+    width: 60px;
   }
 }

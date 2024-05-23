@@ -21,7 +21,7 @@ Od mého rozhovoru pro [KOLABO MAG](https://medium.com/@kolabocrew) v prosinci 2
 
 KOLABO MAG můžete odebírat [tady](https://kolabo.cz/kolabo-mag). Díky [Ondřej Pospíšil](https://ondrejpospisil.medium.com/) za prostor a za otázky!
 
-## [Čím se zabýváš a proč?](#obsah)
+## Čím se zabýváš a proč?
 Vizuálním zhmotňováním nápadů. Nejvíc mě baví loga a identity. Motal jsem se v gastru a hudbě, takže branding, menu a plakáty pro podniky střídaly vizuály na YouTube, obaly cédéček, covery na Spotify a merchandise pro interprety. Přestalo mě ale bavit to, jak nejisté peníze jsou v těchhle oborech, tak jsem to pustil k vodě.
 
 Taky jsem dost fotil lidi, eventy a štrýt a občas udělám nějaký motion design. Nejvíc mě teď ale baví si sám pro sebe dělat různý arty a hrát si s AI.
@@ -34,7 +34,7 @@ Cynika, který chce poznamenat, že jsem „_A jack of all trades, master of non
 
 Proč? Protože bez toho nedokážu žít. Protože je fajn mít z čeho financovat život. Protože mě život v kapitalismu naučil profitovat na koníčcích. S tím posledním se ale snažím něco aktivně dělat. :)
 
-## [Kolik hodin denně pracuješ a kdy?](#obsah)
+## Kolik hodin denně pracuješ a kdy?
 Občas vůbec, občas klidně až 12. Podle toho, jak chci. Mám obrovský štěstí, že nemusím někde sedět 10 hodin denně a potit jeden design za druhým. Tohle jsem si párkrát zkusil a není to udržitelný. Na kvalitní kreativu potřebuju prostor — časový i mentální. Stres je fajn, často si ho sám vytvářím, ale pod vysokým tlakem chci pracovat jen krátkodobě. Pak potřebuju nějaký čas na dobití. Podle mě se hrozně podceňuje koncept „nechat věc uležet“ a je to škoda.
 
 Můj osobní cíl je pracovat co nejkvalitněji a nejchytřeji. Jsem líný. A abych mohl být líný, musím být efektivnější, plánovat dopředu a pracovat chytřeji a líp, což paradoxně stojí mnohem víc energie. Aktuálně to mám hozený tak, že chci pracovat 4-6 hodin denně, 4 dny v týdnu.
@@ -48,14 +48,14 @@ Na „_draze, pomalu a kvalitně_“ skoro nikdo nemá čas a peníze. Z „_kva
 
 Někdo vidí ctnost v tvrdé, úmorné práci do sedření, já určitě ne. Podle mě je hustle culture rakovina, která odvádí pozornost od toho, na čem doopravdy záleží. Z dotázaných, co leží na smrtelné posteli, nikdo neřekl, že lituje, že nestrávil víc času v práci. Litují toho, že něco kvůli práci zmeškali. Já se vizuální tvorbě věnuju od 14 a hromadu věcí jsem si nechal utýct a dochází mi to až teď.
 
-## [Kde bereš inspiraci?](#obsah)
+## Kde bereš inspiraci?
 Z videoher, filmů a seriálů, komiksů a knih, hudby a divadla, fotek a videí, módy, historie, vědy, obrazů a umění celkově, ze vzpomínek a hlavně z mé dřívější tvorby. Vždycky mě bavilo se do hloubky nořit do fascinujících věcí. Kdo inspiroval staré mistry? A kdo inspiroval ty, kterými se ti mistři inspirovali? Nechci sedět v Platónově jeskyni a jen obkreslovat stíny ze zdi, chci z té jeskyně vylézt a vidět Slunce. Chci hledat původní podněty a interpretovat je po svém.
 
 Vyhýbám se Pinterestu, dribbblu i Instagramu, protože ačkoliv jsou tam ty věci hezký, s odstupem vypadají všechny hrozně podobně a já tenhle standardizovaný design rád nemám.
 
 Pokud dělám identitu nějaké firmě, inspiraci beru hlavně z ní. Identita je za mě buď reprezentativní (_reflektuje/posiluje aktuální stav_) nebo aspirační (_vyjadřuje vizi_). V obou případech současný stav funguje jako odrazná deska. Aktuální trendy jsou jen aktuální trendy. Mě zajímá nadčasovost.
 
-## [Jaké musí mít designér znalosti?](#obsah)
+## Jaké musí mít designér znalosti?
 Nemám rád slovo „_musí_“ a myslím si, že primárně o znalostech to není. Ty jsou berle, o které se dá opřít. Samotný design je proces, styl přemýšlení, přístup, mindset. Pokud je špatný mindset, není dobrý ani design.
 
 Jaký by měl mít designér mindset? Nebát se jít do střev daného problému, ušpinit si ruce a pokládat relevantní otázky. Měl by si být vědom vlastních biasů a aktivně s nimi pracovat. Měl by zjišťovat, jak lidi fungují. Měl by být hladový po znalostech a odpovědích. Umět spojit hard data, soft data a vlastní intuici.
@@ -64,15 +64,15 @@ Určité aspekty komunikace jsou podle mě tragicky podceněné, třeba empatie,
 
 To, jestli má v CV v kategorii Proficiency u položky Adobe Illustrator tři nebo čtyři puntíky, je úplně jedno.
 
-## [PC nebo Mac?](#obsah)
+## PC nebo Mac?
 Je mi jedno, na čem mi ty Adobečka padají. Aktuálně mi teda padají na Windowsech. Což nic neznamená ani nic nevypovídá. Důležitý je mozek, co ovládá ruku, která ten nástroj používá.
 
-## [Kafe nebo čaj?](#obsah)
+## Kafe nebo čaj?
 — Yerba Maté. Extrémně nedoceněný pití. Mnohem lepší než čaj a kafe.
 
 — Voda. Na ní jsem doslova životně závislý.
 
-## [Nejlepší rada, co jsi dostal?](#obsah)
+## Nejlepší rada, co jsi dostal?
 Zmíním tři.
 
 1. „_Better done than perfect,_“ protože jsem býval hrozný perfekcionista a paralyzoval mě strach ze selhání. A přitom je selhání nejen prostor k poučení, ale hlavně je součástí designového procesu — bez selhání není co zlepšovat, není iterace. A co není perfektní napoprvé se postupně vycizeluje.
@@ -81,7 +81,7 @@ Zmíním tři.
 
 3. „_Mysli a spěchej pomalu,_“ protože myslím hrozně rychle a často se zapomínám zpřítomnit. Přitom v přítomnosti se dějou ty nejdůležitější věci.
 
-## [Nejlepší rada, co bys dal?](#obsah)
+## Nejlepší rada, co bys dal?
 
 > Neboj se změny. Změna je kámoš. Změna je život. Odporovat změně znamená vítat smrt.
 

@@ -16,7 +16,6 @@
   position: relative;
   overflow: hidden;
   margin-top: 0;
-  transition: $transition-02-ease;
   align-content: center;
 }
 
@@ -39,12 +38,11 @@
     margin: 5em 15%;
     flex-flow: wrap;
     position: relative;
-    // overflow: hidden;
     z-index: 0;
     max-width: 100vw;
     background-color: transparent;
     backdrop-filter: blur(10px);
-    transition: $transition-02-ease;
+    box-shadow: $drop-shadow;
   }
 
   .index-post-background {
@@ -59,22 +57,25 @@
     transform-origin: center center 0px;
     image-rendering: optimizeSpeed;
     visibility: hidden;
+    opacity: 0;
     z-index: -9999;
   }
 
   .index-post:hover .index-container {
-    background-color: rgba(18, 18, 18, 0.5);
+    background-color: var(--transpa);
   }
 
   .index-post:hover .index-post-background {
     visibility: visible;
+    opacity: 1;
+    transition: opacity 2s ease-in-out;
   }
   
   .index-post:hover .index-release,
   .index-post:hover .index-order,
   .index-post:hover .index-title,
   .index-post:hover .index-label {
-    color: #edddd5;
+    color: var(--text-light);
   }
   
   .index-label {
@@ -82,7 +83,7 @@
     font-size: 0.8rem;
     font-weight: 500;
     text-transform: uppercase;
-    color: var(--text-tertiary);
+    color: var(--text);
     line-height: 0.8rem;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -92,7 +93,7 @@
   .index-order {
     font-family: $font-family-heading;
     font-size: 3rem;
-    color: var(--text-tertiary);
+    color: var(--text);
     line-height: 3rem;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -103,7 +104,7 @@
   .index-release {
     font-family: $font-family-heading;
     font-size: 2rem;
-    color: var(--text-tertiary);
+    color: var(--text);
     line-height: 2rem;
     margin-top: 0px;
     margin-bottom: 0px;

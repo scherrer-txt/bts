@@ -42,7 +42,7 @@
 @media screen and (max-width: 800px) {
   .gallery-single {
     flex-basis: calc(50% - 10px); /* Two items/row @small screens */
-    min-height: none;
+    min-height: 350;
   }
 }
 

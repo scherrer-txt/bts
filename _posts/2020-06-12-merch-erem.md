@@ -15,7 +15,7 @@ published: true
 * TOC
 {:toc}
 
-## [Krátký úvod](#obsah)
+## Krátký úvod
 Twitter jsem si založil kvůli tomu, abych tam sdílel svoji práci. Což se celkem záhy zvrtlo v naprosto neproduktivní scrollování feedem.
 
 Erem, respektive MC Kadilaka, mi kdysi dávno ukázal David Kopecký, když jsem s ním ve studiu řešil nové logo pro Mike Roft.
@@ -25,7 +25,7 @@ Tyhle dvě věci by spolu jinak nesouvisely, ale jednou se mi na zdi objevil ten
 ![img](https://miro.medium.com/v2/resize:fit:640/format:webp/1*_BAibJ3q8TP3a0djEiuUBg.png)
 
 
-## [Zápletka](#obsah)
+## Zápletka
 Myslel jsem, že během těch dvou dnů už někoho našli, tak jsem mu tam jen hodil smajlíka, aby jako věděl, že jsem kdyby něco tady.
 
 Další den mi napsal a začali jsme se domlouvat. Marty měl celkem dobrou představu, jak by to mohlo vypadat. Poslal mi pro inspiraci pár věcí.
@@ -78,7 +78,7 @@ Nakonec přišel Jakub se svojí skicou, kterou jsem opravil a doplnil o světla
   <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*aS_d2Ec0ttfXOlD1-Ei3CQ.png');"></div>
 </div>
 
-## [Katarze](#obsah)
+## Katarze
 
 O pár dnů později mi kluci poslali fotku vzorku. Upravil jsem poslední detaily a plácli jsme si, že hotovo. Níže je výsledek. Myslím si, že se nám to opravdu povedlo.
 

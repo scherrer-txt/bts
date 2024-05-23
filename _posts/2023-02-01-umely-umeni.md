@@ -15,7 +15,7 @@ published: true
 * TOC
 {:toc}
 
-## [Rychlý úvod](#obsah)
+## Rychlý úvod
 > „Strašně zajímavé sledovat jak se zvedá vlna obav a pochyb o etice kolem AI artů.“
 
 ↑ Nebýt téhle věty (s/o [Lea Belejová](https://linktr.ee/lea_be_linky)), nebyl by ani tenhle článek.
@@ -24,7 +24,7 @@ Když jsem začal vnímat ten překotný nástup AI, měl jsem trochu obavy a po
 
 > Předtím byl AI Art o Pythonu a programování, entry point byl složitý a daleko, learning curve hrozně strmá. Teď je to Discord. Teď je to sranda.
 
-## [Aktuální situace](#obsah)
+## Aktuální situace
 
 ![image](/images/bts-10-01.png)
 
@@ -38,7 +38,7 @@ AI Art je skvělý vstupní bod pro zkoušení možností umělý inteligence. P
 
 > Jediný etický problém, který zatím vidím, je to, že v tomhle někdo vůbec problém vidí. Natrénovat AI miliardou obrázků a „scrollovat Pinterestem, pro inspiraci” je — v samý podstatě — ta stejná věc.
 
-## [Co na to umělci](#obsah)
+## Co na to umělci
 Pro kontext:
 - Podle stránky [Lexica](https://lexica.art/), která sleduje více než 10 milionů obrázků a promptů vytvořených pomocí Stable Diffusion AI, bylo jméno umělce Grega Rutkowského použito v promptech přibližně 93 000krát. Nejslavnější světoví umělci (Michelangelo, Pablo Picasso a Leonardo da Vinci) měli každý cca 2 000 výskytů. Rutkowského jméno se také nesčetněkrát objevilo v promptech na Midjourney AI.
 - Rutkowski byl nejdřív překvapený, ale myslel, že to může být dobrý způsob, jak oslovit nový publikum. Pak si zkusil vygooglit svoje jméno, jestli najde nějaký díla, na kterém pracoval. Google sice našel díla spojený s jeho jménem, ale nebyly jeho.
@@ -53,7 +53,7 @@ Chápu, že umělci chtějí adekvátní odměnu a možnost nejdřív vyjádřit
 
 > Vykrádám desítky možná stovky lidí denně […] s cílem sobě i lidem kolem přinést přidanou hodnotu i profit. Co mám teď dělat? Komu mám poslat fakturu? Od koho mám čekat žalobu? Čí autorská práva jsem porušil?
 
-## [Co na to já](#obsah)
+## Co na to já
 Jediný etický problém, který zatím vidím, je to, že v tomhle někdo vůbec problém vidí. Natrénovat AI miliardou obrázků a „scrollovat Pinterestem, pro inspiraci“ je — v samý podstatě — ta stejná věc.
 
 Jak se to liší od toho, když se projdu městem, abych se inspiroval k nějakému tématu, a pak si sednu a syntetizuju to? Záměr, možná? Chci říct, já pravděpodobně nebyl stvořen/naprogramován k tomu, abych skenoval, co kdy a jak udělali ostatní, a kopíroval to… nebo jo? Nebo to bylo od mého narození vždycky nějak naznačeno a očekávalo se, že se podívám, co dělají ostatní, budu si dělat mentální poznámky, budu vnímat nápovědy a zmoudřím/vyrostu/naučím se díky tomu fungovat ve společnosti? Neříká se tomu učení se a výchova? Neděláme to náhodou všichni? Bez ohledu na to, jestli jsou ty naše kulturní/genetické stavební výkresy dobré nebo špatné? Není to v podstatě to, co dělá život životem?
@@ -64,7 +64,7 @@ Já se chci nechat boostnout umělou inteligencí, protože mám vizi, mám oko 
 
 > A proto miluju Banán na zdi a vždycky budu prosazovat demokratizaci umění.
 
-## [Kde vidím skutečný problém](#obsah)
+## Kde vidím skutečný problém
 Skutečný problém je to, čeho si naše společnost cení. Cení si nedostatku.
 
 Scarcity mindset prostupuje celou naši západní kulturu. Je to základní princip, který dělá z lidí krále nebo chudáky. Je to nekonečná honba za tím, abychom věci _měli_ — v podstatě jen proto, abychom je _měli_, protože je to z nějakýho důvodu mnohem lepší než je _nemít_. A pak doufáme, že když je budeme _mít_, bude náš život skvělý a zábavný. Ale věcí je málo, stejně tak času a peněz. A proto mají tyhle věci takovou hodnotu.

@@ -20,15 +20,12 @@
   }
   
   .reversefootnote {
-    visibility: hidden;
+    font-family: $font-family-heading;
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.03rem;
+    margin-left: 0.5rem;
     display: inline-flex;
-  }
-  
-  .reversefootnote::after {
-    content: "↑ zpátky";
-    visibility: visible;
-    font-size: 0.8rem;
-    margin-left: -0.8rem;
     text-align: center;
   }
   

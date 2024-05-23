@@ -121,13 +121,8 @@
 
   em, i {
     font-style: italic;
-    color: var(--text-italic);
   }
-  
-  strong, b {
-    font-style: bold;
-    color: var(--text-italic);
-  }
+
 
   pre, code {
     padding: 0 2rem;
@@ -142,6 +137,10 @@
     margin: 0 0;
   }
   
+  mark {
+    background-color: var(--highlight);
+  }
+
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
   @media only screen and (max-width: 800px) {

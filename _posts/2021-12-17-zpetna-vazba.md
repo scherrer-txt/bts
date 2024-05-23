@@ -15,7 +15,7 @@ published: true
 * TOC
 {:toc}
 
-## [Rychlý úvod](#obsah)
+## Rychlý úvod
 Kdysi jsem měl na poli literatury a prózy celkem vysoké ambice. Abych se co nejdřív posunul, zpětnou vazbu jsem vyhledával a vyžadoval. Od blízkého okolí a známých, od ostatních pisálků, i od spisovatelů a nakladatelů.
 
 Můj tehdejší proces psaní vypadal tak, že jsem napsal první verzi povídky, ke které jsem dostal zpětnou vazbu. Tu jsem zpracoval, čímž vznikla druhá verze, kterou jsem poslal na další feedback. Z toho vznikla třetí verze. Pak čtvrtá. Pátá. Verze 1.01b, verze 1.8+. Alfa verze, beta verze. _Párkrát_ se na konci tohoto procesu objevila verze finální.
@@ -24,7 +24,7 @@ Od betačtenářů — nešťastníků, kteří rozepsaná díla _dobrovolně_ �
 
 > Zpomal. I když ve svý tvorbě vidíš rezervy, nauč se říct si: „_Takhle to pro teď stačí._“
 
-## [Na co jsem přišel](#obsah)
+## Na co jsem přišel
 ##### 1. Neustále jsem hledal chyby
 {:.no_toc}
 
@@ -42,12 +42,12 @@ Při jakékoliv _umělecké_ práci je důležitá jen jedna věc. Umělci tvoř
 
 > To, jestli seš dobrej, musíš cítit hlavně ty sám. Neboj se to o sobě říct, když to cítíš.
 
-## [Co se stalo](#obsah)
+## Co se stalo
 Z povídek vznikaly docela zvláštní paskvily. Mé původní nápady se míchaly s těmi od betačtenářů. Nešlo jen o skladbu vět a lingvistickou ekvilibristiku. Šlo o příběh, postavy i o celý fiktivní svět — v rozsahu od mikroekonomiky po mytologii. Nakonec jsem se v tom začal ztrácet. Proces psaní jsem si sám naprosto znechutil. Představa několikatýdenního potácení se ve zpětnovazebném bezvědomí mi začala vyvolávat úzkosti. Poslední verzi poslední povídky jsem napsal před čtyřmi lety. Od té doby nic. Pokud nepočítám občasné grafomanské výstřelky a Behind the Screens.
 
 > Zpětnou vazbu nepřeceňuj. Rozhoduj se sám za sebe. Klidně i jinak, než jak ti radí okolí.
 
-## [Poučení](#obsah)
+## Poučení
 Někdy je prostě zpětné vazby až moc. Někdy je lepší nikoho neposlouchat, sednout a dál dělat, jak nejlíp umíš. Neočekávej od sebe žádný zázraky. Smiř se s tím, že se sebou _nikdy_ nebudeš úplně spokojený. Tvořit můžeš donekonečna. Vždycky je co ladit. Nauč se dát si včas stopku. Zpomal. I když ve svý tvorbě vidíš rezervy, nauč se říct si: „_Takhle to pro teď stačí._“ Pokud víš, že si na ty chyby dáš v budoucnu pozor, odlož nástroje, podívej se na dílo z nadhledu, vyhodnoť situaci a jdi klidně dělat na něčem novém. Jinak se pravděpodobně sekneš na místě.
 
 <div class="gallery-container">

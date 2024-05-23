@@ -52,6 +52,11 @@ theme_config:
 soopr:
   publish-token: "pt_be2b591b4540b65cd5050fb3f7006806" 
 
+kramdown:
+  toc_levels: 1..3
+  footnote_backlink: "&#65514; zpátky"
+
+
 # Markdown
 markdown: kramdown
 

@@ -15,7 +15,7 @@ published: true
 * TOC
 {:toc}
 
-## [Rychlý úvod](#obsah)
+## Rychlý úvod
 Vyhrál jsem povídkovou soutěž. Nejlepší povídky vyšly knižně ve sborníku. O tom když tak jindy. Začátkem února 2023 jsem s Vladimírou Staňkovou, editorkou sborníku, řešil nějaký technikálie — zaslání aktuální fotky, finální verze obálky (o jejíž tvorbě jsem **psal tady**) a autorskýho medailonku. V průběhu konverzace padla otázka, která tohle celý odpálila.
 
 `V:  „Ale ještě mě napadá jedna věc — (mimochodem ta ilustrace se mi moooc líbí) — dáváme na ty obálky e-povídek vždycky i autora — nemohl byste poprosit ilustrátora, jestli by tam Vaše jméno […] nepřidal?“`
@@ -26,7 +26,7 @@ Další den jsem měl v inboxu zprávu, jestli se na projektu povídkový sbírk
 
 > Jestli existuje veršotepec, tak já jsem asi výzvotepec.
 
-## [Když máš vizi, je to jednoduchý](#obsah)
+## Když máš vizi, je to jednoduchý
 Dokáže to ale být fakt těžký, když ji nemáš
 
 Asi tři povídky byly specifický tím, že jsem dostal jasnou vizuální referenci, podle který jsem mohl celkem jednoduše sestavit použitelný prompt (_textové zadání pro AI_). Tohle bylo příjemný, protože to nastavilo jasný mantinely mý představivosti. Celá moje práce pak byla o tom, že jsem vymyslel prompt, vygeneroval ho, vyselektoval nejpoužitelnější variantu a buď ji generoval dál a na konci ji upscaloval (_zvětšil pomocí AI_), nebo jsem udělal novou iteraci promptu, zjistil, jestli funguje/nefunguje a buď dál generoval nebo iteroval. Nic mezi.
@@ -39,7 +39,7 @@ Pomohlo mi to si víc zvědomit, že vztah „_zadavatel → dodavatel_“ je po
 
 Prosím, zkusme spolu víc mluvit. A nejenom to, zkusme si jít víc naproti a actually se snažit sebe navzájem víc chápat — ne jen čekat, až ten druhý udělá v řeči pauzu, abychom mohli vylít to svoje a „_s čistým svědomím_“ od toho odejít, protože „_my jsme to přece řekli dost jasně_“.
 
-## [Když to za mě udělala AI, co jsem teda dělal já?](#obsah)
+## Když to za mě udělala AI, co jsem teda dělal já?
 Kreativní strojvedoucí. Vizuální šaman. Zaříkávač umělého umění. A jestli existuje veršotepec, tak já jsem asi výzvotepec (_prompt = výzva?_).
 
 - V první řadě jsem fungoval jako kreativní síla, která své interní halucinace formuje do konkrétních textů s jasnými parametry, které jsou pochopitelné pro AI.
@@ -57,14 +57,14 @@ Tady jsou.
   <div class="gallery-single" style="background-image: url('/images/bts-12-01.png');" data-full="/images/bts-12-01.png"></div>
 </div>
 
-## [Reflexe projektu](#obsah)
+## Reflexe projektu
 S AI si hraju už od konce září 2022 a nepřestává mě fascinovat, kolik možností přináší každá další nová verze a aplikace. Nicméně, vždycky je to jenom o kvalitě promptu a myslím, že už docela dobře chápu, jak s nimi pracovat. Text-to-image nástroje jsou hodně zajímavý a baví mě s nimi tvořit, vnímám je ale především jako nástroje pro specifický použití. Udělat v nich pár obálek, zkusit si navrhnout design pokoje, bubble tea baru nebo laserový pušky, co vypadá jako mikroskop — proč ne. Pokud je výstupem něco, co bych sám nezvládl a nebo něco, kde je užití AI main selling point, tak to dává smysl. Pro ty ostatní věci tady mám ale nonstop zapnutou Figmu a Photoshop, Illustrator, AfterEffects, Lightroom a svůj vlastní mozek, který halucinování různých věcí zvládá taky poměrně dobře.
 
 Po nějaké době jsem měl možnost zase vstoupit do knižního průmyslu — znovu jako přispěvatel i jako tvůrce obálek. Tahle sféra mě baví odmalička, takže jsem rád, že jsem se mohl vrátit — i když jsem nikdy nezmizel. Klidně rád zas udělám nějaký „_Scherrer × Midjourney_“ obálky, stejně rád ale udělám i nějaký čistě „_Scherrer_“ obálky. [Třeba nějakou takovouhle](https://www.behance.net/gallery/164362287/Ocistec-book-cover).
 
 ---
 
-## [Poznámky pod čarou](#obsah)
+## Poznámky pod čarou
 {:.no_toc}
 
 {: data-content="footnotes"}

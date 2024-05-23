@@ -1,3 +1,7 @@
+#toc a {
+  text-decoration: none;
+}
+
 ul#markdown-toc::before {
     content: "Obsah";
     font-family: $font-family-heading;
@@ -15,9 +19,13 @@ ul#markdown-toc::before {
 ul#markdown-toc {
     width: fit-content;
     border-radius: $border-radius;
-    background-color: var(--text-tertiary);
+    background-color: var(--bg-invert);
     padding: 2.5rem 3.5rem 3rem;
     margin-top: 0;
+
+    a {
+      color: var(--link);
+    }
 }
 
 ul#markdown-toc li {
@@ -35,8 +43,17 @@ ul#markdown-toc li {
     color: var(--text-secondary);
 
     &:hover {
-        color: var(--links-hover);
+        color: var(--link-toc);
     }
+  }
+
+  .page-content h2 > a,
+  .page-content h3 > a,
+  .page-content h4 > a,
+  .page-content h5 > a,
+  .page-content h6 > a {
+    text-decoration: none;
+    vertical-align: text-top;
   }
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
@@ -54,35 +71,3 @@ ul#markdown-toc li {
     letter-spacing: 0.03rem;
     }
 }
-  /*
-.toc-list:before {
-    content: "Table Of Contents";
-    font-weight: bold;
-    font-size: 1.5rem;
-   }
-   
-   .toc-list {
-    border: 2px solid #eee;
-    border-radius: 4px;
-    line-height: 1.8rem;
-    padding: 1rem 1.5rem;
-    font-weight: 600;
-   }
-   
-   .toc-sublist li {
-    padding-left: 1.25rem;
-   }
-   
-   .toc-h2:first-child {
-    margin-top: 1rem;
-   }  
-   
-   #toc a {
-    color: #BE185D;
-    text-decoration: underline;
-   }
-   
-   #toc a:hover {
-    color: #9D174D;
-   }
-   */
