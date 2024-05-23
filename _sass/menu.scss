@@ -80,7 +80,12 @@
 #menu-toggle {
     display: none;
   }
-  
+
+  .menu-bg {
+    height: 0;
+    background-color: transparent;
+  }
+
   .hamburger {
     display: block;
     position: fixed;

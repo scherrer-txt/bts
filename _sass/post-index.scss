@@ -149,6 +149,16 @@
   margin-bottom: 0;
 }
 
+.index-label,
+.index-release,
+.index-order {
+  color: var(--text-light);
+}
+
+.index-title a {
+  color: #2AFF00;
+}
+
 .index-container {
     display: flex;
     flex-flow: wrap;
