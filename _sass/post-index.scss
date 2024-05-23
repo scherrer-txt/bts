@@ -24,8 +24,8 @@
     padding: 48px;
     padding-bottom: 64px;
     border-radius: $border-radius;
-    border: $glass-border;
-    gap: 64px;
+    border: var(--text-light) solid 1px;
+    gap: $meta-gap-64;
     margin: 5em 15%;
     flex-flow: wrap;
     position: relative;
@@ -33,7 +33,7 @@
     max-width: 100vw;
     background-color: transparent;
     backdrop-filter: blur(10px);
-    box-shadow: $drop-shadow;
+    box-shadow: $drop-shadow-soft;
   }
 
   .index-post-background {
@@ -53,13 +53,14 @@
   }
 
   .index-post:hover .index-container {
+    border: var(--border-invis) solid 1px;
     background-color: var(--transpa);
+    box-shadow: $drop-shadow;
   }
 
   .index-post:hover .index-post-background {
     visibility: visible;
     opacity: 1;
-    transition: opacity 2s ease-in-out;
   }
   
   .index-post:hover .index-release,

@@ -48,20 +48,23 @@
         <h2 class="post-nav-link">
           <a href="{{ site.url }}{{ page.previous.url }}" class="prev-button">{{ page.previous.name }}</a>
         </h2>
+        <div class="post-nav-background" id="hover-background" style="background-image: url('{{ site.url }}{{ page.previous.background }}');"></div>
     </div>
   {% endif %}
   {% if page.next %}
     <div class="post-nav-item">
-      <div class="post-meta-label">Novější článek</div>
+      <div class="post-nav-label">Novější článek</div>
         <h2 class="post-nav-link">
           <a href="{{ site.url }}{{ page.next.url }}" class="next-button">{{ page.next.name }}</a>
         </h2>
+        <div class="post-nav-background" id="hover-background" style="background-image: url('{{ site.url }}{{ page.next.background }}');"></div>
     </div>
   {% endif %}
 </div>
 
 {% include progress-bar.html %}
-<script src="/assets/js/header-anchors.js"></script>
+<script src="{{ site.url }}/assets/js/header-anchors.js"></script>
+<script src="{{ site.url }}/assets/js/nav-hover.js"></script>
 
 </body>
 </html>

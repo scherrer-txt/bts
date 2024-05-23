@@ -4,7 +4,6 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 
 ## To-do
 - [] Design a footer for the page
-- [] Redesign the older↔new post navigation
 - [] Upload images for bts-01, bts-02 and bts-03
 
 ## Backlog
@@ -13,9 +12,10 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 - [] Make the images smaller (*jekyll-assets/jekyll-compress-images/image-optim*)
 
 ## Did
+- [x] Redesign the older↔new post navigation
 - [x] Fix the disappearing menu on the index page (*what one element set to "position: absolute" can do, huh*)
 - [x] Found out how to change the default "↩" icon of footnotes to something else, so I finally don't have to resort to CSS trickery
-- [x] Write a script which adds a "↑" after headings, which acts as an anchor to the TOC
+- [x] Write a script which adds a "↑" after headings, which acts as an anchor to the TOC element
 - [x] Make the colors more accessible
 - [x] Design a nicer TOC
 - [x] Change design of the post index (*bg = background of the whole element; post info above; glass effect*)

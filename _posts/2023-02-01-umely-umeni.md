@@ -12,6 +12,7 @@ redirect_from: "/bts10.html"
 published: true
 ---
 
+<div id="toc"></div>
 * TOC
 {:toc}
 

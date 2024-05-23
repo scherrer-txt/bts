@@ -7,17 +7,15 @@
     position: static;
     background-color: var(--bg);
     border-radius: $border-radius;
-    max-width: 100vw;
+    max-width: 99vw;
   }
 
   .page-content-main {
     display: flex;
     flex-direction: column;
-    margin: 0 auto;
     padding: 0;
     align-items: center;
     position: static;
-    max-width: 100vw;
   }
 
   .scroll-anchor {

@@ -14,6 +14,7 @@ redirect_from:
 published: true
 ---
 
+<div id="toc"></div>
 * TOC
 {:toc}
 
