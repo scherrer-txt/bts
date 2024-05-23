@@ -3,14 +3,24 @@
   }
 
   .menu {
-    max-width: 100%;
     position: sticky;
     top: 0;
+    max-width: 100%;
     z-index: 10000;
     backdrop-filter: blur(10px);
     box-shadow: $drop-shadow-soft;
   }
   
+  .menu-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 70px;
+    width: 100%;
+    background-color: var(--bg);
+    z-index: -999;
+  }
+
   .menu-list {
     display: flex;
     list-style-type: none;

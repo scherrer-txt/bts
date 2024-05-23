@@ -2,7 +2,7 @@
     display: flex;
     gap: $meta-gap-48;
     flex-flow: wrap;
-    margin: 4rem auto 5rem;
+    margin: 7rem auto 4rem;
     width: 90vw;
   }
   
@@ -10,23 +10,20 @@
     display: flex;
     border-radius: $border-radius;
     flex-direction: column;
-    box-shadow: $drop-shadow-soft;
+    box-shadow: $drop-shadow;
     box-sizing: border-box;
-    border: var(--text-light) solid 1px;
     align-items: flex-start;
     gap: 16px;
     flex: 1;
     overflow: hidden;
     position: relative;
-    background-color: transparent;
+    background-color: var(--transpa-mob);
     max-width: 50%;
+    backdrop-filter: blur(10px);
 
     &:hover {
-      border: var(--border-invis) solid 1px;
-      background-color: var(--transpa);
+      //background-color: var(--transpa);
       transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
-      box-shadow: $drop-shadow;
-      //scale: 1.05;
     }
   }
 

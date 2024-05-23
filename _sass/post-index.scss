@@ -154,6 +154,7 @@
     flex-flow: wrap;
     justify-content: space-between;
     padding: 48px 32px;
+    border: var(--border-invis) solid 1px;
     background-color: var(--transpa-meta);
     gap: 32px;
   }
