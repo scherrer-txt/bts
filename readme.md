@@ -12,6 +12,7 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 - [] Make the images smaller (*jekyll-assets/jekyll-compress-images/image-optim*)
 
 ## Did
+- [x] Added a fancy parallax for the post bg
 - [x] Redesign the older↔new post navigation
 - [x] Fix the disappearing menu on the index page (*what one element set to "position: absolute" can do, huh*)
 - [x] Found out how to change the default "↩" icon of footnotes to something else, so I finally don't have to resort to CSS trickery

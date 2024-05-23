@@ -8,7 +8,7 @@
     top: 0;
     z-index: 10000;
     backdrop-filter: blur(10px);
-    transition: $transition-02-ease;
+    box-shadow: $drop-shadow-soft;
   }
   
   .menu-list {
@@ -16,15 +16,11 @@
     list-style-type: none;
     flex-direction: row;
     height: 70px;
-    width: 65%;
-    align-items: center;
+    align-items: normal;
     margin: 0 auto;
     padding-bottom: 0;
     padding-left: 0px;
-  }
-  
-  .menu-list li {
-    margin-right: 3.5rem;
+    gap: $meta-gap-64;
   }
   
   .menu-list li:first-child {
