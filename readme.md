@@ -3,7 +3,6 @@
 BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Originaly created in June of 2020, migrated to Github Pages in March of 2024.
 
 ## To-do
-- [] Fix the disappearing menu on the index page
 - [] Design a footer for the page
 - [] Redesign the older↔new post navigation
 - [] Upload images for bts-01, bts-02 and bts-03
@@ -14,6 +13,7 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 - [] Make the images smaller (*jekyll-assets/jekyll-compress-images/image-optim*)
 
 ## Did
+- [x] Fix the disappearing menu on the index page (*what one element set to "position: absolute" can do, huh*)
 - [x] Found out how to change the default "↩" icon of footnotes to something else, so I finally don't have to resort to CSS trickery
 - [x] Write a script which adds a "↑" after headings, which acts as an anchor to the TOC
 - [x] Make the colors more accessible

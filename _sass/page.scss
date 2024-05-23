@@ -10,6 +10,16 @@
     max-width: 100vw;
   }
 
+  .page-content-main {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 0;
+    align-items: center;
+    position: static;
+    max-width: 100vw;
+  }
+
   .scroll-anchor {
     scroll-margin-top: 20rem;
   }
