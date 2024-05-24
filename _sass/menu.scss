@@ -2,6 +2,10 @@
     display: none;
   }
 
+  .menu-icon {
+    display: none;
+  }
+
   .menu {
     position: sticky;
     top: 0;
@@ -54,6 +58,7 @@
 
   .menu-icon {
     z-index: 99999;
+    display: block;
   }
   
   .menu-icon .icon {
