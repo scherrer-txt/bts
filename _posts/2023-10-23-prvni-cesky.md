@@ -55,7 +55,7 @@ Na jedné obálce jsem strávil v průměru 3 hodiny. Někdy to byla 1 hodina, n
 Tady jsou.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('/images/bts-12-01.png');" data-full="/images/bts-12-01.png"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-12-01.png');" data-full="{{ site.url }}/images/bts-12-01.png"></div>
 </div>
 
 ## Reflexe projektu

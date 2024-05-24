@@ -32,45 +32,11 @@
     padding-left: 0px;
     gap: $meta-gap-64;
   }
-  
-  .menu-list li:first-child {
-    margin-left: 0;
-  }
-  
+
   .menu-list li:last-child {
     margin-right: 0;
     margin-left: auto;
     margin-top: 1.3rem;
-  }
-  
-  .hamburger {
-    display: none;
-    z-index: 5;
-    cursor: pointer;
-  }
-  
-  .hamburger div {
-    position: relative;
-    width: 35px;
-    height: 4px;
-    background-color: var(--links);
-    margin-top: 8px;
-    transition: $transition-02-ease;
-  }
-  
-  #menu-toggle:checked + .hamburger .top-bun {
-    transform: rotate(-45deg);
-    margin-top: 25px;
-  }
-  
-  #menu-toggle:checked + .hamburger .bottom-bun {
-    opacity: 0;
-    transform: rotate(45deg);
-  }
-  
-  #menu-toggle:checked + .hamburger .meat {
-    transform: rotate(45deg);
-    margin-top: -5px;
   }
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
@@ -81,35 +47,39 @@
     display: none;
   }
 
-  .menu-bg {
+.menu-bg {
     height: 0;
     background-color: transparent;
   }
 
-  .hamburger {
-    display: block;
+  .menu-icon {
+    z-index: 99999;
+  }
+  
+  .menu-icon .icon {
+    width: 35px;
+    height: 35px;
+    color: var(--links-dark);
+  }
+  
+  .menu-icon .open,
+  .menu-icon .close {
+    opacity: 1;
+    height: 32px;
+    width: 32px;
     position: fixed;
     bottom: 0;
     right: 5%;
     margin-bottom: 5%;
-    z-index: 99999;
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-bottom: 20px;
-    padding-right: 20px;
-    background-color: var(--transpa-mob);
+    z-index: 999;
+    padding: 0.75rem;
+    background-color: var(--transpa-meta);
     backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
     border-radius: 500px;
-  }
-  
-  .menu {
-    transition: $transition-02-ease;
-  }
-  
-  #menu-toggle:not(:checked) ~ .menu {
-    display: none;
-    transition: $transition-02-ease;
+    cursor: pointer;
+    box-shadow: $drop-shadow;
+    filter: invert(1);
+    transition: opacity 0.4s ease-in-out, transform 0.2s ease-in;
   }
   
   #menu-toggle:checked ~ .menu {
@@ -117,38 +87,75 @@
     width: 100%;
     height: 100%;
     background-color: var(--transpa-mob);
-    top: 0; left: 0; right: 0; bottom: 0;
-    transition: $transition-02-ease;
-    transform: scale(1);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    padding-top: 10%;
-  }
-  
-  .menu-list {
+    visibility: visible;
+    padding: 0;
+    display: flex;
     flex-direction: column;
-    border: none;
-    height: inherit;
-    align-items: baseline;
+    justify-content: flex-end;
   }
-  
-  .menu-list a {
-    font-family: "neue-haas-grotesk-display", sans-serif;
-    font-size: 3rem;
-    margin-bottom: 0px;
-    letter-spacing: 0.02rem;
-    margin-left: 0;
-    width: fit-content;
-  }
-  
-  .menu-list li {
-    margin-right: 0;
-    margin-left: 0;
-    margin-bottom: auto;
-  }
-  
-  .menu-list li:last-child {
-    margin-right: 0;
-    margin-left: 0;
-  }  
+
+#menu-toggle:checked ~ .page-content,
+#menu-toggle:checked ~ .page-content-main {
+  position: fixed;
+}
+
+#menu-toggle:not(:checked) ~ .menu {
+  display: none;
+  visibility: hidden;
+}
+
+.menu-list {
+  flex-direction: column;
+  align-items: end;
+  justify-content: flex-end;
+  height: 50%;
+  margin-right: 25px;
+  gap: 40px;
+  margin-bottom: 100px;
+}
+
+#menu-toggle:checked + .menu-icon .open {
+  opacity: 0;
+  transform: rotate(45deg);
+}
+
+#menu-toggle:not(:checked) + .menu-icon .close {
+  opacity: 0;
+  transform: rotate(-45deg);
+}
+
+#menu-toggle:checked + .menu-icon .close {
+  opacity: 1;
+  transform: rotate(0deg);
+}
+
+#menu-toggle:not(:checked) + .menu-icon .open {
+  opacity: 1;
+  transform: rotate(0deg);
+}
+
+.menu-list a {
+  font-family: "neue-haas-grotesk-display", sans-serif;
+  font-size: 3rem;
+  margin-bottom: 0px;
+  letter-spacing: 0.02rem;
+  margin-left: 0;
+  width: fit-content;
+}
+
+.menu-list li {
+  margin-right: 0;
+  margin-left: 0;
+  margin-bottom: auto;
+}
+
+.menu-list li:last-child {
+  margin-right: 0;
+  margin-left: 0;
+  margin-top: 0;
+}
+
+.menu-list ul {
+  width: 100%;
+}
 }

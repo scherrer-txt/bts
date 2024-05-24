@@ -20,8 +20,8 @@ ul#markdown-toc {
     width: fit-content;
     border-radius: $border-radius;
     background-color: var(--bg-invert);
-    padding: 2.5rem 3.5rem 3rem;
-    margin-top: 0;
+    padding: 2rem 3.5rem 3rem;
+    margin: 0 1rem;
 
     a {
       color: var(--link);
@@ -59,9 +59,6 @@ ul#markdown-toc li {
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 @media only screen and (max-width: 800px) {
-  ul#markdown-toc {
-    padding: 3rem 3.5rem 2rem;
-    }
 
 ul#markdown-toc li {
     font-size: $font-size-heading-6-mobile;

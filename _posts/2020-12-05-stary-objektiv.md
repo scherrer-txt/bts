@@ -21,7 +21,7 @@ Skrz různé internetové králičí nory jsem se dostal k videu s názvem „[S
 Snímek z videa natočené na 100 let starý objektiv
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('/images/bts-04-01.png');" data-full="/images/bts-04-01.png"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-04-01.png');" data-full="{{ site.url }}/images/bts-04-01.png"></div>
   <div class="gallery-description">Screenshot ze zmíněnýho videa, go watch it!</div>
 </div>
 
@@ -30,9 +30,9 @@ Proč? Analogové objektivy jsou jako zjevení v době technicky dokonalých a a
 Hned jsem chtěl vědět o těchhle objektivech co nejvíc. Jedno jméno se v té záplavě článků a videí začalo až moc často opakovat. Helios 44–2, který je díky svému unikátnímu způsobu rozmazání světel a předmětů v pozadí přezdívaný „bokeh monster“. Vyráběn v Rusku koncem 50. let. Lehký, malý, bytelný. Vyroben z kovu, zušlechtěn časem. Mohl s ním klidně fotit tvůj praděda.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('/images/bts-04-02.jpg');" data-full="/images/bts-04-02.jpg"></div>
-  <div class="gallery-single" style="background-image: url('/images/bts-04-03.jpg');" data-full="/images/bts-04-03.jpg"></div>
-  <div class="gallery-single" style="background-image: url('/images/bts-04-04.jpg');" data-full="/images/bts-04-04.jpg"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-04-02.jpg');" data-full="{{ site.url }}/images/bts-04-02.jpg"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-04-03.jpg');" data-full="{{ site.url }}/images/bts-04-03.jpg"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-04-04.jpg');" data-full="{{ site.url }}/images/bts-04-04.jpg"></div>
   <div class="gallery-description">Vidíš, jak je ten bokeh jakoby ve spirále? Tak tomu se říká „swirly bokeh“</div>
 </div>
 
@@ -48,7 +48,7 @@ Od začátku do konce července jsem ho tahal všude s sebou a každý den jsem 
 Vyzkoušel jsem si fotit každý den a zároveň jsem otestoval mobilní workflow. Vyfotit fotku, poslat ji do mobilu, nahrát do Lightroomu, upravit, exportovat, nahrát na Instagram Stories.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('/images/bts-04-05.png');" data-full="/images/bts-04-05.png"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-04-05.png');" data-full="{{ site.url }}/images/bts-04-05.png"></div>
   <div class="gallery-description">Na tyhle fotky se můžeš v plné kráse podívat u mě na IG — [@scherrer.jpg](https://www.instagr.am/scherrer.jpg)</div>
 </div>
 
@@ -61,8 +61,8 @@ Zjistil jsem, že když upravuju fotky na počítači, víc koukám na čísla. 
 Zároveň jsem zjistil, jak je fajn mít dva různé objektivy. Starý analogový na pocitovky a portréty, zoomovací 28–70 na cokoliv, co potřebuju mít zachycené rychle a precizně — třeba na koncerty, reportáže a všude tam, kde by byla nezvyklá charakteristika objektivu rušivá.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('/images/bts-04-06.jpg');" data-full="/images/bts-04-06.jpg"></div>
-  <div class="gallery-single" style="background-image: url('/images/bts-04-07.jpg');" data-full="/images/bts-04-07.jpg"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}{{ site.url }}/images/bts-04-06.jpg');" data-full="{{ site.url }}/images/bts-04-06.jpg"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-04-07.jpg');" data-full="{{ site.url }}/images/bts-04-07.jpg"></div>
   <div class="gallery-description">Fig.1: fotka z moderního objektivu; postavy pod stagí mají jasnou kresbu, jsou rozeznatelný. Fig.2: Fotka focená na Helios 44-2; na první pohled má flavor jak řízek s kaší; z lidí v kotli zbyly jen siluety</div>
 </div>
 
@@ -73,9 +73,9 @@ Zjistil jsem, že nepotřebuju fotit technicky precizní fotky. Potřebuju fotit
 Focení s analogovým objektivem mě donutilo ne jenom zpomalit, ale úplně zastavit. Počkat ještě 3 minuty na to, až kolem projede šalina, protože bez ní by ten záběr byl tak nějak prázdný. Počkat na správnou konstelaci a jednou zmáčknout spoušť. Většinou není potřeba ji mačkat víckrát. Stejně je první fotka nejlepší.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('/images/bts-04-08.jpg');" data-full="/images/bts-04-08.jpg"></div>
-  <div class="gallery-single" style="background-image: url('/images/bts-04-09.jpg');" data-full="/images/bts-04-09.jpg"></div>
-  <div class="gallery-single" style="background-image: url('/images/bts-04-10.jpg');" data-full="/images/bts-04-10.jpg"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-04-08.jpg');" data-full="{{ site.url }}/images/bts-04-08.jpg"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-04-09.jpg');" data-full="{{ site.url }}/images/bts-04-09.jpg"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-04-10.jpg');" data-full="{{ site.url }}/images/bts-04-10.jpg"></div>
   <div class="gallery-description">Procházka, Pekanda a pivko — paráda</div>
 </div>
 
@@ -89,7 +89,7 @@ Technický požadavky jsou jasný — světelnost, ohnisko a váha. Kromě typu 
 Přichází podstatná otázka — jaký fotky mi ten objektiv pomůže vyfotit? U mě většinou tahle fáze probíhá tak, že se mrknu na různé bazary a každé zajímavější sklo si ihned googlím.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('/images/bts-04-11.png');" data-full="/images/bts-04-11.png"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-04-11.png');" data-full="{{ site.url }}/images/bts-04-11.png"></div>
   <div class="gallery-description">Stačí jen do vyhledávače napsat jméno objektivu</div>
 </div>
 
@@ -112,9 +112,9 @@ Možností je spousta. Vzácnější objektivy koupíš na eBayi, běžné na Au
 Dej si při nákupu pozor na detaily — třeba na to, jak jsou promazaný lamely clony. Jestli málo, kruh ovládání clony bude nepříjemně cvakat. Jestli hodně, olej po cloně steče a ušpiní objektiv. Pokud chceš natáčet videa, zaostřování a clonu bys měl mít co nejvíc plynulou, ne cvakavou.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('/images/bts-04-15.jpg');" data-full="/images/bts-04-15.jpg"></div>
-  <div class="gallery-single" style="background-image: url('/images/bts-04-16.jpg');" data-full="/images/bts-04-16.jpg"></div>
-  <div class="gallery-single" style="background-image: url('/images/bts-04-17.jpg');" data-full="/images/bts-04-17.jpg"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-04-15.jpg');" data-full="{{ site.url }}/images/bts-04-15.jpg"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-04-16.jpg');" data-full="{{ site.url }}/images/bts-04-16.jpg"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-04-17.jpg');" data-full="{{ site.url }}/images/bts-04-17.jpg"></div>
 </div>
 
 ### Fáze 3. — Just shoot!
@@ -124,9 +124,9 @@ Tady přichází sranda. S objektivem se musíš sžít. Musíš si zvyknout na 
 Objektiv má vliv na podání barev i na celkový dojem fotky. Pokud chceš tenhle retro feeling podpořit, mrkni na nějaké dobové snímky. Barvy ovlivňoval hlavně film, na který se fotilo — to se dá napodobit. Zkus prozkoumat různé možnosti editu. Možná zjistíš, že ti víc sedne upravovat fotky trochu jinak, než jak jsi je upravoval doposud. Tohle a neobvyklá charakteristika ti může pomoct k tomu, aby sis vytvořil svoji vlastní, velmi osobitou estetiku.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('/images/bts-04-18.jpg');" data-full="/images/bts-04-18.jpg"></div>
-  <div class="gallery-single" style="background-image: url('/images/bts-04-19.jpg');" data-full="/images/bts-04-19.jpg"></div>
-  <div class="gallery-single" style="background-image: url('/images/bts-04-20.jpg');" data-full="/images/bts-04-20.jpg"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-04-18.jpg');" data-full="{{ site.url }}/images/bts-04-18.jpg"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-04-19.jpg');" data-full="{{ site.url }}/images/bts-04-19.jpg"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-04-20.jpg');" data-full="{{ site.url }}/images/bts-04-20.jpg"></div>
 </div>
 
 ---

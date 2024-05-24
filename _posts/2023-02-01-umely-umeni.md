@@ -27,7 +27,7 @@ Když jsem začal vnímat ten překotný nástup AI, měl jsem trochu obavy a po
 
 ## Aktuální situace
 
-![image](/images/bts-10-01.png)
+![image]({{ site.url }}/images/bts-10-01.png)
 
 Z obrázku nahoře je patrný, že teď jsme za Cash pointem, v teritoriu Early Majority. Čím víc se to bude dostávat k pravé části křivky, ke Conservatives/Late Majority, tím víc se bude poukazovat na otázku etiky. Což je dobře. Ale vzhledem k současnému klimatu se to všechno může rychle složit — stát se stejně pomíjivou blbostí, jako byly NFTs.
 
@@ -74,4 +74,4 @@ Ale právě tohle hloupé myšlení prehistorických sběračů zabíjí radost 
 
 A proto miluju Banán na zdi a vždycky budu prosazovat demokratizaci umění.
 
-![image](/images/bts-10-02.png)
+![image]({{ site.url }}/images/bts-10-02.png)
