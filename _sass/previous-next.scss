@@ -17,7 +17,7 @@
     flex: 1;
     overflow: hidden;
     position: relative;
-    background-color: var(--transpa-mob);
+    background-color: var(--transpa-meta);
     max-width: 50%;
     backdrop-filter: blur(10px);
 
@@ -51,7 +51,7 @@
     font-size: 0.8rem;
     font-weight: 500;
     text-transform: uppercase;
-    color: var(--text);
+    color: var(--text-light);
     line-height: 0.8rem;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -72,9 +72,17 @@
     margin-bottom: 0px;
     margin-left: 0;
     width: fit-content;
-    padding: 0 48px 64px;
+    padding: 0 48px 64px; 
   }
 
+  .post-nav-link a {
+    color: var(--links-dark);
+
+    &:hover {
+      color: var(--links-dark);
+    }
+  }
+  
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 

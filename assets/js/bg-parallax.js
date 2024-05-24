@@ -29,7 +29,7 @@ document.addEventListener('scroll', function() {
         parallax.style.transformOrigin = 'down center'; // Set the transform origin to top center
     } else {
         // Reverse the effect
-        const reverseScaleValue = 1.05 - ((scrollTop - postEnd.offsetTop) / 5000);
+        const reverseScaleValue = 1.08 - ((scrollTop - postEnd.offsetTop) / 9000);
         parallax.style.transform = `scale(${reverseScaleValue})`;
         parallax.style.filter = 'grayscale(1)';
     }

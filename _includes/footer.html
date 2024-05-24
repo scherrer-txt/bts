@@ -1,7 +1,16 @@
 <div class="footer">
+    
+    <div class="arrow-container">
+        <div class="footer-column-blank"></div>
+        <div class="footer-column-blank"></div>
+        <div class="footer-column-blank"></div>
+        <h2 class="arrow-up"><a href="#top"> ￪</a></h2>
+    </div>
+
     <div class="footer-container">
-        <div class="footer-column footer-column-info">
-            <div class="index-label">Info</div>
+
+        <div class="footer-column-info">
+            <div class="footer-label">Info</div>
             <ul class="footer-list">
                 <li>© 2022—{{ "now" | date: '%Y' }}</li>
                 <li>by Scherrer.txt</li>
@@ -9,8 +18,10 @@
             </ul>
         </div>
 
-        <div class="footer-column">
-            <div class="index-label">Sítě</div>
+        <div class="footer-column-blank"></div>
+
+        <div class="footer-column-socials">
+            <div class="footer-label">Sítě</div>
             <ul class="footer-list">
                 <li><a href="https://www.instagram.com/scherrer.jpg/" role="menuitem">scherrer.jpg</a></li>
                 <li><a href="https://www.instagram.com/scherrer.psd/" role="menuitem">scherrer.psd</a></li>
@@ -23,15 +34,15 @@
             </ul>
         </div>
 
-        <div class="footer-column">
-            <div class="index-label">Menu</div>
+        <div class="footer-column-menu">
+            <div class="footer-label">Menu</div>
             <ul class="footer-list">
                 <li><a href="{{ site.url }}/o-mne" role="menuitem">O autorovi</a></li>
                 <li><a href="{{ site.url }}/o-blogu" role="menuitem">O blogu</a></li>
                 <li><a href="{{ site.url }}/credits" role="menuitem">Credits</a></li>
             </ul>
         </div>
-        <h2 class="arrow-up"><a href="#top"> ￪</a></h2>
+
     </div>
 </div>
 
