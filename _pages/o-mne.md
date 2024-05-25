@@ -4,19 +4,18 @@ title: "O mně | Behind the Screens | by Scherrer.txt"
 permalink: /o-mne
 ---
 
-## Práce
-- [portfolio 2021](https://www.youtube.com/watch?v=83nB-VfMSm4)
-- [portfolio 2019](https://www.youtube.com/watch?v=2zji-PUT1wI)
-- [případový studie](http://be.net/scherrer)
-- [linkedin](https://www.linkedin.com/in/scherrer-jpg)
-
-## Život
-- [fotografický IG](https://instagr.am/scherrer.jpg)
-- [digital art IG](https://instagr.am/scherrer.psd)
-- [blog o kreativitě](https://scherrer-txt.github.io/bts/)
-- [moje literární počiny](https://www.goodreads.com/author/show/6589508.Kevin_Wulfric_Scherrer)
-- [hra, kterou jsem spoluvytvořil](https://its-lea-b.itch.io/does-it-matter)
-- [seznam anime, který jsem viděl](https://anilist.co/user/scherrer/animelist)
+<div class="columns-wrapper">
+  {% for section in site.data.about.sections %}
+    <div class="column">
+      <h2>{{ section.title }}</h2>
+      <ul>
+        {% for link in section.links %}
+          <li><a href="{{ link.url }}">{{ link.text }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+</div>
 
 ## Kdo jsem
 Něco o sobě jsem [napsal tady](bezcasi-ktery-meni-zivot), ale ve zkratce:
@@ -24,19 +23,18 @@ Něco o sobě jsem [napsal tady](bezcasi-ktery-meni-zivot), ale ve zkratce:
 Jsem transdisciplinární[^1] tvůrce/designer/umělec, neurohacker[^2], spisovatel[^3] a blogger[^4], rapper[^5],
 fotograf[^6], motion designer[^7], nezávislý herní vývojář[^8], event producer[^9] a public speaker[^10]. Mám ADHD[^11] a ASD[^12]. Jsem člen Mensy[^13] a mám jen základku[^14].
 
-## Flex zóna
-- František Černý, frontman Čechomoru, mi řekl, že bych byl hezká holka
-- Klipy a vizuály, co jsem dělal, mají dohromady něco přes 15 milionů views
-- Některý legendy brněnský rapový scény mě znají jménem
-- Ve 14 letech jsem napsal svoji první povídku, která rovnou vyhrála v soutěži a vyšla ve [sborníku](https://www.goodreads.com/book/show/16174961-urban-legends-o-ima-d-t)
-- Z nějakýho důvodu jsem v credits k [Sameyovo videoklipu](https://www.youtube.com/watch?v=bUX3DgM9_t0), bez toho, aniž bych se na finálním klipu jakkoliv podílel (*jen jsem udělal návrhu coveru, který ale skončil v koši*)
-- Pro Knihy Dobrovský jsem udělal jedny z [prvních AI obálek](https://www.knihydobrovsky.cz/edice/v-hruze-a-krvi-zrozeni-126) v Česku
-- [Hugo Toxxx](https://cs.wikipedia.org/wiki/Hugo_Toxxx) mě sleduje na IG a zcenil [můj článek](kreativita-originalita-a-rap)
-- s Tvision jsem dělal na [reklamě pro Relax](https://www.youtube.com/watch?v=zLupoqa9Mbc), která se vysílala v televizi, a podílel jsem s něma i na klipu pro [Rytmuse](https://cs.wikipedia.org/wiki/Rytmus_(rapper))
-- [DJ Wich](https://cs.wikipedia.org/wiki/DJ_Wich) mi řekl, že ještě nikdy neviděl nikoho tak [rychle mazat fotky](jak-fotim-koncerty) (*měl jsem plnou paměťovku, tak jsem o pauze v backstagi musel nějaký promazat*)
-- Ve školce jsem hrál na flétnu a zpíval jsem ve sboru s [Calinem](https://cs.wikipedia.org/wiki/Calin)
-- Ochutnal jsem přes [200 rumů](nekdo-to-rad-sladky)
-- Byl jsem týden v Japonsku (*Tokio—Kjóto—Ósaka—Hirošima*), při čekání na vlak jsem se zkamarádil s šéfkuchařem hotelu u Fudži a jeho dvěma kamarádama (*co byli nejspíš mafiáni*)
+## Flexzóna
+<div class="flexzona-container">
+  {% for section in site.data.about.flexzona %}
+      <ul class="flexzona-list">
+        {% for item in section.list %}
+          <li>{{ item.text | markdownify }}</li>
+        {% endfor %}
+      </ul>
+  {% endfor %}
+</div>
+
+
 
 ---
 ## Poznámky pod čarou

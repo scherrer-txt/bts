@@ -9,3 +9,4 @@ gem 'tzinfo'
 gem "tzinfo-data"
 gem 'jekyll-loading-lazy'
 gem 'jekyll-redirect-from'
+gem 'jekyll-email-protect'

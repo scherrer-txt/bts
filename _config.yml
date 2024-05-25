@@ -73,12 +73,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-loading-lazy
   - jekyll-redirect-from
-
-# TOC Settings // ready for jekyll-toc implementation
-toc:
- min_level: 1
- max_level: 2
- list_class: toc
- sublist_class: toc-sublist
+  - jekyll-email-protect
 
 include: ["_pages"]
