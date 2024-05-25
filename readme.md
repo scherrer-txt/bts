@@ -10,9 +10,9 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
     - [] Redesign static pages "o-autorovi" (*also change the url/permalink*), "o-blogu"
     - [] Maybe add some contacts like :mailto and stuff
 - [] Upload images for bts-01, bts-02 and bts-03
-- [] Simplify the code
 
 ## Backlog
+- [] Simplify the code
 - [] Integrate a comment service (?) maybe Staticman
 - [] Make the website even more accessible 
 - [] Make the images smaller (*jekyll-assets/jekyll-compress-images/image-optim*)

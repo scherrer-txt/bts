@@ -6,7 +6,6 @@
   margin: 0;
   padding: 0;
   align-items: center;
-  top: 20vh;
   position: relative;
 }
 
@@ -17,6 +16,10 @@
   overflow: hidden;
   margin-top: 0;
   align-content: center;
+}
+
+.index-post:last-child .index-container{
+  margin: 5em 15% 13rem;
 }
 
 .index-container {

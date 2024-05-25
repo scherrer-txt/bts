@@ -16,7 +16,8 @@
     flex-direction: column;
     padding: 0;
     align-items: center;
-    position: static;
+    position: relative;
+    padding-top: 20vh;
   }
 
   .scroll-anchor {
