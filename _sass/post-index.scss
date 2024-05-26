@@ -185,13 +185,13 @@
   }
 
   .index-title {
-    font-size: 3rem;
-    line-height: 2.7rem;
+    font-size: 2rem;
+    line-height: 2.5rem;
   }
   
   .index-release,
   .index-order {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     line-height: 1.5rem;
   }
   
@@ -208,6 +208,9 @@
     order: 1;
   }
 
+  .index-container:first-child {
+    padding: 80px 32px;
+  }
 }
 
 @media only screen and (max-width: 370px) {
