@@ -74,4 +74,7 @@ html[data-theme="dark"] { @include dark-appearance; }
     height: 60px;
     width: 60px;
   }
+  .theme-toggle:hover .icon {
+    background-color: var(--links);
+  }
 }

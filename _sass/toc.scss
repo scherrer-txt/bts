@@ -8,7 +8,7 @@ ul#markdown-toc::before {
     font-size: 0.8rem;
     font-weight: 500;
     text-transform: uppercase;
-    color: var(--bg);
+    color: var(--text);
     line-height: 0.8rem;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -17,11 +17,13 @@ ul#markdown-toc::before {
 }
 
 ul#markdown-toc {
-    width: fit-content;
+    width: 55%;
     border-radius: $border-radius;
-    background-color: var(--bg-invert);
-    padding: 2rem 3.5rem 3rem;
-    margin: 0 1rem;
+    border: var(--text-light) solid 1px;
+    box-shadow: $drop-shadow-soft;
+    padding: 2rem 5rem 3rem;
+    margin: 0;
+    align-self: center;
 
     a {
       color: var(--link);
@@ -31,12 +33,18 @@ ul#markdown-toc {
 ul#markdown-toc li {
     font-family: $font-family-heading;
     font-size: $font-size-heading-5-mobile;
-    line-height: $line-height-heading-3-mobile;
+    line-height: 2rem;
     font-weight: 500;
-    color: var(--bg);
-    margin-top: 1px;
-    margin-bottom: 1px;
+    color: var(--text);
     letter-spacing: 0.03rem;
+    margin: 0 0 0 2rem;
+    list-style-type: decimal-leading-zero;
+    counter-reset: toc-counter;
+  }
+
+  ul#markdown-toc li:first-child,
+  ul#markdown-toc li:last-child {
+    margin: 1rem 0 1rem 0;
   }
 
   ul#markdown-toc a {
@@ -59,6 +67,12 @@ ul#markdown-toc li {
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 @media only screen and (max-width: 800px) {
+
+  ul#markdown-toc {
+    width: 60vw;
+    margin: 0;
+    align-self: center;
+  }
 
 ul#markdown-toc li {
     font-size: $font-size-heading-6-mobile;

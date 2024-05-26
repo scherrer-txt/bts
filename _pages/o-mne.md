@@ -34,8 +34,6 @@ fotograf[^6], motion designer[^7], nezávislý herní vývojář[^8], event prod
   {% endfor %}
 </div>
 
-
-
 ---
 ## Poznámky pod čarou
 

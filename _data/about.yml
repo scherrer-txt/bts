@@ -37,5 +37,34 @@ flexzona:
     - text: "s Tvision jsem dělal na [reklamě pro Relax](https://www.youtube.com/watch?v=zLupoqa9Mbc), která se vysílala v televizi, a podílel jsem s něma i na klipu pro [Rytmuse](https://cs.wikipedia.org/wiki/Rytmus_(rapper))"
     - text: "[DJ Wich](https://cs.wikipedia.org/wiki/DJ_Wich) mi řekl, že ještě nikdy neviděl fotografa na koncertu tak [rychle mazat fotky](jak-fotim-koncerty) z foťáku"
     - text: "Ve školce jsem hrál na flétnu a zpíval jsem ve sboru s [Calinem](https://cs.wikipedia.org/wiki/Calin)"
-    - text: "Ochutnal jsem přes [200 rumů](nekdo-to-rad-sladky)"
-    - text: "V Japonsku jsem se při čekání na vlak jsem se zkamarádil s šéfkuchařem hotelu u Fudži a jeho dvěma kamarádama (*co byli nejspíš z yakuzy*)"
+    - text: "Od října 2020 ochutnávám rumy. I o tom je tady [článek](nekdo-to-rad-sladky)"
+    - text: "Při čekání na šinkanzen jsem popíjel na peronu s šéfkuchařem hotelu u Fudži a jeho dvěma kamarádama z yakuzy"
+
+credits:
+  - title: "Back-end"
+    list:
+    - text: "Behind the Screens blog běží na generátoru [Jekyll](https://jekyllrb.com/), který v Ruby napsal [Tom Preston-Werner](https://en.wikipedia.org/wiki/Tom_Preston-Werner)"
+    - text: "Blog bydlí na [Github Pages](https://pages.github.com/)"
+    - text: "Používám silně upravenou šablonu [Moonwalk](https://github.com/abhinavs/moonwalk), autorem je [Abhinavs](https://github.com/abhinavs/)"
+    - text: "V HTML tvořím strukturu webu, v CSS upravuju vzhled, články píšu v Markdownu, Liquid používám pro generování obsahu definovanýho v YAML, Javascript na ovlivňování prvků (*hover, lightbox, progress bar a přepínač dark/light modu*)"
+    - text: "Čerpám z návodů na [W3 Schools](https://www.w3schools.com/)"
+    - text: "K bugfixu a brainstormu používám [ChatGPT 3.5/4o](https://chat.openai.com/)"
+  - title: "Programy"
+    list:
+    - text: "Github repo mám naklonovaný lokálně, úpravy dělám ve [Visual Code Studio](https://code.visualstudio.com/)"
+    - text: "Články jako takový píšu v [Obsidianu](https://obsidian.md/)"
+    - text: "UI a dílčí grafiku dělám ve [Figmě](https://www.figma.com/)"
+    - text: "Vektory tvořím v [Adobe Illustrator](https://www.adobe.com/ca/products/illustrator.html)"
+  - title: "Písma"
+    list:
+    - text: "Nadpisový písmo je [Neue Haas Grotesk Display](https://fonts.adobe.com/fonts/neue-haas-grotesk), autor je [Christian Schwartz](https://commercialtype.com/about/christian_schwartz), licencovaný přes [Adobe Fonts](https://fonts.adobe.com/fonts/roc-grotesk#licensing-section)"
+    - text: "Textový písmo je [Source Serif 4](https://fonts.google.com/specimen/Source+Serif+4) by [Frank Grießhammer](https://fonts.adobe.com/designers/frank-griesshammer) for [Google Fonts](https://fonts.google.com/specimen/Source+Serif+4), licencovaný přes [Open Font License](https://fonts.google.com/specimen/Source+Serif+4/about)"
+  # - title: "Ostatní"
+    # list:
+    # - text: "Jestli se ti líbí moje theme toggle ikony, [tady](https://github.com/scherrer-txt/bts/blob/master/downloads/scherrer-theme-toggle.pdf) si můžeš stáhnout zdroják"
+
+blog:
+  - text: "Já jsem Kevin a tohle je můj blog Behind the Screens. Píšu o všem, s čím se jako kreativní člověk setkávám *za obrazovkama* svých dvou monitorů."
+  - text: "Píšu nepravidelně od roku 2020. Původně jsem chtěl sdílet svůj pracovní proces — myslel jsem, že s touhle formou prorazím, udělám si jméno a stanu se „*majitelem tématu*“. Postupem času jsem z toho ale vyrostl; začal jsem sdílet svoje myšlenky. Z rudě nasvíceného, zatemněného prostoru, který je mým kreativním přístavem, jednou za čas vysílám do oceánu internetu vzkaz v lahvi. Občas je sdělení „_tady jsem a tohle si myslím_“, někdy „_pokud to vidíte stejně, tak nejste sami_“."
+  - text: "Behind the Screens _nikdy nebude za paywallem_. Zároveň odmítám nechávat parazitovat na sobě jako na tvůrci jakýkoliv korporát nebo mediální monopol. Proto jsem si v březnu 2024 vytvořil vlastní prostor. Emigroval jsem z dosavadní platformy, s jejímiž praktiky nesouhlasím ani jako designer, ani jako tvůrce obsahu, ani jako člověk."
+  

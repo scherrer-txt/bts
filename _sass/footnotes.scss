@@ -44,4 +44,24 @@
   .footnotes {
     width: fit-content;
   }
+  
+  .footnotes li p,
+  .footnotes li::marker {
+    width: fit-content;
+    margin: -0.3rem 0;
+    font-size: 0.8rem;
+    line-height: 1.4rem;
+  }
+
+  .footnotes ol {
+    width: 90%;
+    padding: 0 5%;
+  }
+  
+  .reversefootnote {
+    font-size: 0.8rem;
+    font-weight: 400;
+    letter-spacing: 0.06rem;
+    margin-left: 0.25rem;
+  }
 }

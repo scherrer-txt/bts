@@ -4,25 +4,44 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 
 ## To-do
 - [] Finish bts-18!
-
-- [] Make the footer nicer
-    - [] Create pages "credits", "citace"
-    - [x] Redesign static pages "o-autorovi" (*also change the url/permalink*), "o-blogu"
-        - [] Unify the yamls and clear the css lingo for the "columns.scss" so its not a hot mes
-    - [] Maybe add some contacts like :mailto and stuff
+- [] Redesign "Citace"
 - [] Upload images for bts-01, bts-02 and bts-03
 
-## Backlog
+## Backlog/Ongoing
 - [] Simplify the code
-- [] Integrate a comment service (?) maybe Staticman
+- [] Fix the lazy load script
 - [] Make the website even more accessible 
 - [] Make the images smaller (*jekyll-assets/jekyll-compress-images/image-optim*)
+- [] Hardcode that the default theme is DARK
+
+- [] TOC: Final Form
+    - Bar under menu — Actual headline | [TOC icon] ← dropdown with all headlines (*levels 1-3*)
+- [] MENU: Final Form
+    - Desktop
+        - Menu item 1 — Menu item 2 — Menu item 3 | [Gear icon] ← dropdown with "Theme [ Dark | Light ]" & "Font size [ - | + | ↺ ]"
+    - Mobile
+        - Menu item 1 — Menu item 2 — Menu item 3 — "Theme [ Dark | Light ]" — "Font size [ - | + | ↺ ]"
 
 ## Did
+- [x] Redesign "Credits"
+- [x] Redesign TOC
+- [x] Fix some mobile issues
+    - [x] Disable :hover
+    - [x] Disable menu scroll
+    - [x] Make the footer responsive
+    - [x] Smaller H2 in older ↔ new post navigation
+    - [x] Make the footnotes a bit smaller
+    - [x] Change the padding of ul li & ol li
+- [x] Make the footer nicer
+    - [x] Redesign static pages "o-autorovi" (*also change the url/permalink*), "o-blogu"
+        - [x] Unify the yamls and clear the css lingo for the "columns.scss" so its not a hot mess (*kinda*)
+- [x] Define more fallback fonts
 - [x] Fix some things in the mobile version (*make the menu nav thumb friendly, resize some headers*)
 - [x] Add a footer
+    - [x] Maybe add some contacts like :mailto and stuff
+        - [x] Obfuscate said :mailto with plugin "jekyll-email-protect" (*kudos to [@vwochnik](https://github.com/vwochnik/jekyll-email-protect)!*)
 - [x] Add a fancy parallax for the post bg (*and fixed the menu scroll so it looks a bit nicer*)
-- [x] Redesign the older↔new post navigation
+- [x] Redesign the older ↔ new post navigation
 - [x] Fix the disappearing menu on the index page (*what one element set to "position: absolute" can do, huh*)
 - [x] Find out how to change the default "↩" icon of footnotes to something else, so I don't have to resort to CSS trickery
 - [x] Write a script which adds a "↑" after headings, which acts as an anchor to the TOC element
@@ -42,7 +61,7 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 - [x] Create a working gallery css
 - [x] Integrate a lazy load script
 - [x] Streamline the css (*using css variables and mixin*)
-- [x] Make the RSS work better (*tried to use Feedburner, but the generated xml works just fine, for now*)
+- [x] Make the RSS work better (*tried to use Feedburner, but the generated xml from "[jekyll-feed](https://github.com/jekyll/jekyll-feed)" works just fine, for now*)
 - [x] Update thumbnails (*I hope for the last time*) (*lol, as if*)
 - [x] Main favicon is now an svg ([thanks to an article by Antoine B.](https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df)); other favicons are hi-res; minimized the need for excesive amount of different icons
 - [x] Make the 404 a bit nicer

@@ -189,10 +189,15 @@
     p, b, em, small, table, figcaption {
       width: 100%;
     }
-  
-    /* header h1 {
-      font-size: 3rem;
-      line-height: 3.2rem;
-    } */
 
+    a:hover {
+        color: var(--links);
+        text-decoration: none;
+    }
+
+    ol, ul {
+      width: 95%;
+      margin: 0;
+      padding: 0 0 0 5%;
+    }
   }

@@ -3,9 +3,9 @@
 @import url("https://use.typekit.net/lnc7ppz.css"); /* NEUE HAAS DISPLAY = 700-600 | 500 (semibold) | 400 (regular) */
 
 // Font families
-$font-family-body: "Source Serif 4", serif;
-$font-family-heading: "neue-haas-grotesk-display", sans-serif;
-$font-family-monospace: "Roboto Mono", monospace;
+$font-family-body: "Source Serif 4", Georgia, Cambira, "Times New Roman", Times, serif;
+$font-family-heading: "neue-haas-grotesk-display", "Helvetica Neue", Arial, Helvetica, "Roboto", sans-serif;
+$font-family-monospace: "Roboto Mono", "Courier New", Courier, monospace;
 
 // Desktop
 $font-size-base: 1.4rem;
