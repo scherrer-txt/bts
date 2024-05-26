@@ -123,8 +123,7 @@
     
     .footer-container {
         row-gap: $meta-gap-48;
-        justify-items: center;
-        grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     }
 
     .footer-column-socials {

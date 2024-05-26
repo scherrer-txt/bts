@@ -45,6 +45,15 @@
     width: fit-content;
   }
   
+.footnotes li {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+
+  &:first-child {
+    margin-top: 1rem;
+  }
+}
+
   .footnotes li p,
   .footnotes li::marker {
     width: fit-content;
