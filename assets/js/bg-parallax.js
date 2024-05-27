@@ -1,11 +1,12 @@
 document.addEventListener('scroll', function() {
     const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
     const parallax = document.querySelector('.post-meta-background');
+    const postMetaContainer = document.querySelector('.post-meta-container');
+    const postEnd = document.querySelector('.post-end');
     const maxScale = 1.15; // Set the maximum scale limit
     let scaleValue;
     const maxGrayscale = 1; // Maximum grayscale value (100%)
     const grayscaleValue = Math.min(scrollTop / 400, maxGrayscale); // Adjust the divisor to change the speed of grayscale
-    const postEnd = document.querySelector('.post-end');
 
     // Check if the post-end element is in the viewport
     const postEndRect = postEnd.getBoundingClientRect();
@@ -33,16 +34,20 @@ document.addEventListener('scroll', function() {
         parallax.style.transform = `scale(${scaleValue})`;
         parallax.style.filter = `grayscale(${grayscaleValue})`;
         parallax.style.transformOrigin = 'down center'; // Set the transform origin to top center
+        postMetaContainer.style.visibility = 'visible';
     } else {
         // Reverse the effect
         const reverseScaleValue = Math.max(1, 1.08 - ((scrollTop - postEnd.offsetTop) / 9000));
         parallax.style.transform = `scale(${reverseScaleValue})`;
         parallax.style.filter = 'grayscale(1)';
+        postMetaContainer.style.visibility = 'hidden';
     }
 });
 
 // Apply smooth transition when DOM content is loaded
 document.addEventListener("DOMContentLoaded", function() {
     const parallax = document.querySelector('.post-meta-background');
+    const postMetaContainer = document.querySelector('.post-meta-container');
     parallax.style.transition = 'transform 0.3s ease, filter 0.6s ease'; // Smooth transition for both transform and filter
+    postMetaContainer.style.transition = 'visibility 0.3s ease'; // Smooth transition for visibility
 });

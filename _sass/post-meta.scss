@@ -20,11 +20,14 @@
     border-radius: $border-radius;
     border: $glass-border;
     backdrop-filter: blur(10px);
-    position: static;
+    position: sticky;
     gap: 64px;
-    margin: 10% 17% 10%;
+    margin: 10vh 17% 10%;
     background-color: var(--transpa-meta);
     box-shadow: $drop-shadow;
+    top: calc(10vh + 70px);
+    z-index: -9999;
+    padding-bottom: 6%;
   }
   
   .post-meta-row {
@@ -103,6 +106,17 @@
     align-items: flex-start;
   }
 
+  .post-meta-title::selection, .post-meta-number::selection,
+  .post-meta-text::selection, .post-meta-label::selection {
+    background: var(--text-secondary);
+  }
+
+  .post-meta-title::-moz-selection, .post-meta-number::-moz-selection,
+  .post-meta-text::-moz-selection, .post-meta-label::-moz-selection {
+    background: var(--text-secondary);
+  }
+
+
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 @media only screen and (max-width: 800px) {
@@ -139,6 +153,7 @@
     gap: $meta-gap-48;
     margin: 5% 5%;
     max-width: 90%;
+    top: 5vh;
   }
   
   .post-meta-number {

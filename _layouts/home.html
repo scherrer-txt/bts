@@ -6,6 +6,7 @@
   <body>
           {% include menu.html collection=site.data.home.navbar_entries %}
       <main class="page-content-main" aria-label="Content">
+      <div class="main-logo"></div>
       <ol class="index-list">
         {% assign sorted_posts = site.posts | sort_natural: 'order' | reverse %}
         {% for post in sorted_posts %}

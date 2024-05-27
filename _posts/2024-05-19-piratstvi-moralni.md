@@ -167,7 +167,6 @@ Jestli se ty osobně cítíš, že je v pohodě platit třeba za YouTube Premium
 ---
 
 ## Poznámky pod čarou
-{:.no_toc}
 
 {: data-content=“footnotes“}
 

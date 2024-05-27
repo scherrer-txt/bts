@@ -27,14 +27,14 @@
     padding: 48px;
     padding-bottom: 64px;
     border-radius: $border-radius;
-    border: var(--text-light) solid 1px;
+    border: var(--border-invis) solid 1px;
     gap: $meta-gap-64;
-    margin: 5em 15%;
+    margin: 3em 15%;
     flex-flow: wrap;
     position: relative;
     z-index: 0;
     max-width: 100vw;
-    background-color: transparent;
+    background-color: var(--transpa-mob);
     backdrop-filter: blur(10px);
     box-shadow: $drop-shadow-soft;
   }
@@ -57,7 +57,7 @@
 
   .index-post:hover .index-container {
     border: var(--border-invis) solid 1px;
-    background-color: var(--transpa);
+    background-color: var(--transpa-meta);
     box-shadow: $drop-shadow;
   }
 
@@ -73,12 +73,15 @@
     color: var(--text-light);
   }
   
+  .index-label, .index-order, .index-release {
+    color: var(--text);
+  }
+
   .index-label {
     font-family: $font-family-heading;
     font-size: 0.8rem;
     font-weight: 500;
     text-transform: uppercase;
-    color: var(--text);
     line-height: 0.8rem;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -88,7 +91,6 @@
   .index-order {
     font-family: $font-family-heading;
     font-size: 3rem;
-    color: var(--text);
     line-height: 3rem;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -99,7 +101,6 @@
   .index-release {
     font-family: $font-family-heading;
     font-size: 2rem;
-    color: var(--text);
     line-height: 2rem;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -119,7 +120,7 @@
   .index-title-container {
     width: calc(50% - 24px);
     flex-grow: 1;
-    order: 2
+    order: 2;
   }
   
   .index-number-container {
@@ -139,7 +140,19 @@
     flex-direction: column;
     gap: 16px;
   }
+  
+  .index-order::selection, .index-release::selection {
+    background: var(--text-secondary);
+  }
 
+  .index-order::-moz-selection, .index-release::-moz-selection {
+    background: var(--text-secondary);
+  }
+
+  .index-label::selection, .index-label::-moz-selection {
+    background: var(--text-secondary);
+  }
+  
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 @media only screen and (max-width: 800px) {
@@ -167,7 +180,6 @@
     flex-flow: wrap;
     justify-content: space-between;
     padding: 48px 32px;
-    border: var(--border-invis) solid 1px;
     background-color: var(--transpa-meta);
     gap: 32px;
   }

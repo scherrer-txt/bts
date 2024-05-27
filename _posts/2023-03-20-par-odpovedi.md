@@ -88,6 +88,13 @@ Zmíním tři.
 
 Všichni bereme všechno hrozně vážně a snažíme se být neomylní. Klademe na sebe nelidský nároky a tohle očekávání si pak bere daň v podobě stresu a vyhoření. Žijeme svázaní konstantním „_musím_“, jenže ve skutečnosti musíme jen platit daně a umřít. Jinak máme vždycky na výběr. Přijmout/odmítnout náročnou zakázku, pracovat se složitým klientem/ve stresu a nátlaku/o víkendu/hluboko do noci, přijít do nebo odejít od nějakého projektu, nastřelit/podstřelit cenovou nabídku. Můžeme se naučit jakýkoliv skill a klidně dělat cokoliv jinýho. Šít oblečení, vařit, obsluhovat nebo rozvážet jídlo, stříhat vlasy, malovat obrazy, fotit svatby, točit videa, pickovat zboží, péct chleba. Vždycky ale budeme do určité míry dělat design. Vždycky budeme kreativně řešit problémy co nejefektivnějším způsobem. Akorát to nebude v teple u stolu s počítačem někde v kanclu. To vadí? Mně osobně vůbec.
 
-Nehledě na to, že jedna velká změna nás brzo všechny v kreativním průmyslu čeká. Je podle mě neskutečně naivní si myslet, že drtivá většina designových procesů se nedá přehodit na AI. Nebude to hned, zabere to pár iterací, ale jednou to přijde. Dokážu si představit budoucnost, kde si klient nakliká nějakou svoji představu, ze které AI vyrobí různé výstupy. Designér by v tomhle světě fungoval jako facilitátor procesu a zasvěcený průvodce, který občas té umělé inteligenci utáhne nějaký šroubek. Proto si myslím, že by designér měl už teď pracovat na svých soft skills a třeba se něco učit o psychologii a machine learningu.
+Nehledě na to, že jedna velká změna nás brzo všechny v kreativním průmyslu čeká. Je podle mě neskutečně naivní si myslet, že drtivá většina designových procesů se nedá přehodit na AI. Nebude to hned, zabere to pár iterací, ale jednou to přijde. Dokážu si představit budoucnost, kde si klient nakliká nějakou svoji představu, ze které AI vyrobí různé výstupy. Designér by v tomhle světě fungoval jako facilitátor procesu a zasvěcený průvodce, který občas té umělé inteligenci utáhne nějaký šroubek. Proto si myslím, že by designér měl už teď pracovat na svých soft skills a třeba se něco učit o psychologii a machine learningu.[^1]
 
-(_Edit 2023-03-20: Jsem hrozně rád a zároveň se trochu děsím, že jsem se posledním odstavcem trefil do toho, jak teď po roce začíná pomalu vypadat._)
+
+---
+
+## Poznámky pod čarou
+
+{: data-content="footnotes"}
+
+[^1]: (*Edit 2023-03-20*) Jsem hrozně rád a zároveň se trochu děsím, že jsem se posledním odstavcem trefil do toho, jak teď po roce začíná pomalu vypadat.

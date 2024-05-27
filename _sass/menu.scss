@@ -37,6 +37,10 @@
     gap: $meta-gap-64;
   }
 
+  .menu ul li {
+    filter: drop-shadow(0 0 7px var(--bg));
+  }
+
   .menu-list li:last-child {
     margin-right: 0;
     margin-left: auto;

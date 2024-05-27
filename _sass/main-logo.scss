@@ -1,0 +1,38 @@
+.main-logo {
+    width: 80vw;
+    height: 80vh;
+    background-color: var(--links);
+    mask-image: url("/assets/bts-logo-big.svg");
+    -webkit-mask-image: url("/assets/bts-logo-big.svg");
+    mask-size: contain;
+    mask-repeat: no-repeat;
+    mask-position: top;
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: top;
+    position: sticky;
+    top: 100px;
+    z-index: -9999999;
+    margin-bottom: -10vh;
+}
+
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+// -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+@media only screen and (max-width: 800px) {
+    .main-logo {
+        width: 80vw;
+        height: 85vh;
+        background-color: var(--links);
+        mask-image: url("/assets/bts-logo-big.svg");
+        -webkit-mask-image: url("/assets/bts-logo-big.svg");
+        mask-size: contain;
+        mask-repeat: no-repeat;
+        mask-position: top;
+        -webkit-mask-size: contain;
+        -webkit-mask-repeat: no-repeat;
+        -webkit-mask-position: top;
+        position: sticky;
+        top:20vh;
+        z-index: -9999999;   
+    }
+}

@@ -104,7 +104,6 @@ Přesto se ale děsím toho, že mi chybí vytrvalost a že si v budoucnu řeknu
 
 ---
 ## Poznámky pod čarou
-{:.no_toc}
 
 {: data-content=“footnotes“}
 

@@ -115,7 +115,6 @@ Všechno má nějakou příčinu. Když vytvořím nějaký problém/situaci, ne
 
 ---
 ## Poznámky pod čarou
-{:.no_toc}
 
 {: data-content=“footnotes“}
 

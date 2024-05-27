@@ -6,7 +6,7 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 - [] Finish bts-18!
 - [] Redesign "Citace"
 - [] Upload images for bts-01, bts-02 and bts-03
-- [] Add "Závěr" to every bts post, so that the TOC makes sense
+
 
 ## Backlog/Ongoing
 - [] Simplify the code
@@ -24,6 +24,9 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
         - Menu item 1 — Menu item 2 — Menu item 3 — "Theme [ Dark | Light ]" — "Font size [ - | + | ↺ ]"
 
 ## Did
+- [x] Design and add the bts logo to the main page
+    - [x] Redo some of the parallax effects (*main index and post meta*)
+- [x] Add "Závěr" to every bts post, so that the TOC makes sense (*actually, just used the Footnote heading instead*)
 - [x] Redesign "Credits"
 - [x] Redesign TOC
 - [x] Fix some mobile issues

@@ -74,6 +74,7 @@ Ať myšlenka na konci není jen flex, tak kdybych to měl shrnout, chci říct 
 ## Poznámky pod čarou
 
 {: data-content="footnotes"}
+
 [^1]: Slovo „_liminální_“ pochází z latinského slova „_limen_“, „_práh_“.
 
 [^2]: Což není nutně špatně — jen je škoda, že unikátnost každýho jednoho z nás je zredukovaná jen na tyhle dvě proměnné. Status a/nebo užitečnost. Měřítka, který ačkoliv jsme naučení vnímat, jako nápomocný, vlastně jen napomáhají prohlubování rozdílů mezi námi; brání nám vnímat/zažívat věci nebo se spojovat s lidmi, kteří by nás mohli obohatit o různorodost. Svůj ke svým a všichni jsou stejní.

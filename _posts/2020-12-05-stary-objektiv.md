@@ -131,7 +131,6 @@ Objektiv má vliv na podání barev i na celkový dojem fotky. Pokud chceš tenh
 
 ---
 ## Poznámky pod čarou
-{:.no_toc}
 
 {: data-content=“footnotes“}
 
