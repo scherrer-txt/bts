@@ -27,6 +27,7 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 - [x] Design and add the bts logo to the main page
     - [x] Redo some of the parallax effects (*main index and post meta*)
 - [x] Add "Závěr" to every bts post, so that the TOC makes sense (*actually, just used the Footnote heading instead*)
+- [x] Forced a highlight color for text and headlines
 - [x] Redesign "Credits"
 - [x] Redesign TOC
 - [x] Fix some mobile issues
