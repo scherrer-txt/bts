@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<!-- FOR INFO PAGES -->
+<!-- Oh, well, this is awkward… Now you’re reading my notes, huh -->
+<html lang="{{ page.lang | default: "cs" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
+        {%- include head.html -%}
+  <body>
+          {% include menu.html collection=site.data.home.navbar_entries %}
+          <main class="page-content-about" aria-label="Content">
+              {{ content }}
+          </main>
+        {%- include footer.html -%}
+  </body>
+</html>

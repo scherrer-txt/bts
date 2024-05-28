@@ -1,13 +1,13 @@
 <input id="menu-toggle" type="checkbox"></input>
 
-<label for="menu-toggle" class="menu-icon" aria-label="Menu Toggle">
-  <div class="open">
+<label for="menu-toggle" class="menu-icon" aria-label="Open or close menu">
+  <div class="open" aria-label="Open menu">
     <svg id="opem" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M5.50488 4H26.4949C27.3249 4 27.9949 4.67 27.9949 5.5C27.9949 6.33 27.3249 7 26.4949 7H5.50488C4.67488 7 4.00488 6.33 4.00488 5.5C4.00488 4.67 4.67488 4 5.50488 4ZM4.00488 26.5C4.00488 27.33 4.67488 28 5.50488 28H26.4949C27.3249 28 27.9949 27.33 27.9949 26.5C27.9949 25.67 27.3249 25 26.4949 25H5.50488C4.67488 25 4.00488 25.67 4.00488 26.5ZM4.00488 16C4.00488 16.83 4.67488 17.5 5.50488 17.5H26.4949C27.3249 17.5 27.9949 16.83 27.9949 16C27.9949 15.17 27.3249 14.5 26.4949 14.5H5.50488C4.67488 14.5 4.00488 15.17 4.00488 16Z" fill="#C6C6C6"/>
     </svg>
   </div>
 
-  <div class="close">
+  <div class="close" aria-label="Close menu">
     <svg id="close" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M18.1198 16.0047L27.5698 6.55469C28.1598 5.96469 28.1598 5.01469 27.5698 4.43469C26.9798 3.84469 26.0298 3.84469 25.4498 4.43469L15.9998 13.8847L6.5498 4.43469C5.9598 3.84469 5.0198 3.84469 4.4298 4.43469C3.8398 5.02469 3.8398 5.96469 4.4298 6.55469L13.8798 16.0047L4.4298 25.4447C3.8398 26.0347 3.8398 26.9847 4.4298 27.5647C5.0198 28.1447 5.9698 28.1547 6.5498 27.5647L15.9998 18.1147L25.4498 27.5647C26.0398 28.1547 26.9898 28.1547 27.5698 27.5647C28.1598 26.9747 28.1598 26.0247 27.5698 25.4447L18.1198 15.9947V16.0047Z" fill="#C6C6C6"/>
     </svg>
@@ -22,7 +22,7 @@
     <li><a href="{{ site.url }}/o-blogu" role="menuitem">o blogu</a></li>
     <li><a href="{{ site.url }}/o-mne" role="menuitem">o mně</a></li>
     <li>
-      <button title="Toggle Theme" class="theme-toggle">
+      <button title="Toggle Theme" class="theme-toggle" aria-label="Switch dark or light mode">
         <span class="icon"></span>
       </button>
     </li>

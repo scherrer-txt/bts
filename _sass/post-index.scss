@@ -38,6 +38,7 @@
     background-color: var(--transpa-mob);
     backdrop-filter: blur(10px);
     box-shadow: $drop-shadow-soft;
+    border-top: 1px solid var(--bg);
   }
 
   .index-post-background {

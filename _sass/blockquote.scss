@@ -1,23 +1,38 @@
-  
-  blockquote p {
-    font-family: $font-family-heading;
-    font-size: 5rem;
-    text-align: center;
-    font-weight: 400;
-    color: var(--text-italic);
-    line-height: 4.7rem;
-    width: fit-content;
-    padding: 5rem 0 5rem;
+blockquote {
+  font-family: $font-family-heading;
+  font-size: 5rem;
+  text-align: center;
+  font-weight: 400;
+  letter-spacing: -0.07rem;
+  line-height: 4.5rem;
+  color: var(--text);
+  width: fit-content;
+  padding: 5rem 0 5rem;
+  width: 100%;
+  margin: 0 auto;
+
+  & p {
+    width: 100%;
+    margin: 0;
   }
+
+  & p::before {
+    content: "„";
+  }
+
+  & p::after {
+    content: "“";
+  }
+}
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 @media only screen and (max-width: 800px) {
-
-  blockquote p {
+  blockquote {
     font-size: 2rem;
     line-height: 2rem;
-    width: 100%;
-    padding: 1rem 0 1rem;
+    width: fit-content;
+    padding: 2.5rem 0 2.5rem;
+    letter-spacing: 0rem;
   }
 }

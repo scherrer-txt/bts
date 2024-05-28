@@ -20,6 +20,15 @@
     padding-top: 0vh;
   }
 
+  .page-content-about {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    align-items: center;
+    position: relative;
+    padding-top: 0vh;
+  }
+
   .scroll-anchor {
     scroll-margin-top: 20rem;
   }
