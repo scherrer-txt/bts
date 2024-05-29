@@ -33,7 +33,7 @@ document.addEventListener('scroll', function() {
     if (scrollTop <= postEnd.offsetTop && !isInViewport) {
         parallax.style.transform = `scale(${scaleValue})`;
         parallax.style.filter = `grayscale(${grayscaleValue})`;
-        parallax.style.transformOrigin = 'down center'; // Set the transform origin to top center
+        parallax.style.transformOrigin = 'center top'; // Set the transform origin to top center
         postMetaContainer.style.visibility = 'visible';
     } else {
         // Reverse the effect

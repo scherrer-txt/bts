@@ -41,11 +41,13 @@
     .page-content {
       padding: 2em 1em 3em;
       max-width: 100%;
+      background-color: var(--bg);
     }
   
     .page-content-main {
       margin-bottom: 0;
       padding-top: 0;
+      background-color: var(--bg);
     }
 
   .home-link {
