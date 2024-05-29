@@ -36,7 +36,10 @@
   </div>
 </div>
 <main class="page-content" aria-label="Content">
-
+  <div class="post-date">
+    <div class="post-meta-label">{{ page.date | date: '%d.%m.%Y' }}</div>
+  </div>
+  
   {{ content }}
 
   <div class="post-end"></div>
