@@ -20,18 +20,18 @@
 @media only screen and (max-width: 800px) {
     .main-logo {
         width: 80vw;
-        height: 85vh;
+        height: 45vh;
         background-color: var(--links);
         mask-image: url("https://scherrer-txt.github.io/bts/assets/bts-logo-big.svg");
         -webkit-mask-image: url("https://scherrer-txt.github.io/bts/assets/bts-logo-big.svg");
         mask-size: contain;
         mask-repeat: no-repeat;
-        mask-position: top;
+        mask-position: center;
         -webkit-mask-size: contain;
         -webkit-mask-repeat: no-repeat;
-        -webkit-mask-position: top;
+        -webkit-mask-position: center;
         position: sticky;
-        top:20vh;
-        z-index: -9999999;   
+        z-index: 0;
+        top: 0;
     }
 }
