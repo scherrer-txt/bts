@@ -161,6 +161,7 @@
     margin: 5% 5%;
     max-width: 90%;
     top: 5vh;
+    position: relative;
   }
   
   .post-meta-number {
@@ -172,4 +173,7 @@
     width: auto;
   }
 
+  .post-date {
+    margin: 0.5rem 0 0.5rem;
+  }
 }
