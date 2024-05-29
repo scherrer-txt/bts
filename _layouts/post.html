@@ -5,6 +5,8 @@
 {%- include head.html -%}
   <body>
           {% include menu.html collection=site.data.home.navbar_entries %}
+
+<div class="post-meta" style="background-image: url('{{ site.url }}{{ page.background }}');">
 <div class="post-meta-container">
   <div class="post-meta-row">
     <div class="post-name-container">
@@ -35,6 +37,8 @@
     </div>
   </div>
 </div>
+</div>
+
 <main class="page-content" aria-label="Content">
   <div class="post-date">
     <div class="post-meta-label">{{ page.date | date: '%d.%m.%Y' }}</div>
