@@ -3,7 +3,6 @@
 BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Originaly created in June of 2020, migrated to Github Pages in March of 2024.
 
 ## To-do
-- [] Finish bts-18!
 - [] Upload images for bts-01, bts-02 and bts-03
 - [] Fix the gallery for mobile
 
@@ -23,6 +22,7 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
         - Menu item 1 — Menu item 2 — Menu item 3 — "Theme [ Dark | Light ]" — "Font size [ - | + | ↺ ]"
 
 ## Did
+- [x] Finish bts-18!
 - [x] Redesign "Citace"
 - [x] Add a date to the posts so that there is a full and clear release date
 - [x] Redesign "O mně" & "O blogu"
