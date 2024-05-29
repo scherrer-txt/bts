@@ -1,3 +1,13 @@
+.post-nav {
+  background-color: #fff;
+  background-blend-mode: luminosity;
+    background-size: cover;
+    background-position: center;
+    image-rendering: optimizeSpeed;
+    overflow: hidden;
+    margin-bottom: -2rem;
+}
+
 .post-nav-container {
     display: flex;
     gap: $meta-gap-48;
@@ -20,6 +30,7 @@
     background-color: var(--transpa-meta);
     max-width: 50%;
     backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
 
     &:hover {
       //background-color: var(--transpa);

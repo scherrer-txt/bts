@@ -37,6 +37,7 @@
     max-width: 100vw;
     background-color: var(--transpa-mob);
     backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
     box-shadow: $drop-shadow-soft;
     border-top: 1px solid var(--bg);
   }

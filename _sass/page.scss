@@ -9,6 +9,8 @@
     max-width: 99vw;
     border-bottom: var(--border-switch) solid 1px;
     border-top: var(--border-switch) solid 1px;
+    margin-bottom: -3rem;
+    z-index: 9;
   }
 
   .page-content-main {

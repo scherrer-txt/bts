@@ -22,6 +22,7 @@
     border-radius: $border-radius;
     border: $glass-border;
     backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
     position: relative;
     gap: 64px;
     margin: 10vh 17% 10%;

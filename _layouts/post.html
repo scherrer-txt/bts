@@ -50,6 +50,7 @@
 
 <!-- <div class="post-meta-background" style="background-image: url('{{ site.url }}{{ page.background }}');"></div>-->
 </main>
+<div class="post-nav" style="background-image: url('{{ site.url }}{{ page.background }}');">
 <div class="post-nav-container">
   {% if page.previous %}
     <div class="post-nav-item">
@@ -69,6 +70,7 @@
         <div class="post-nav-background" id="hover-background" style="background-image: url('{{ site.url }}{{ page.next.background }}');"></div>
     </div>
   {% endif %}
+</div>
 </div>
 
 {% include progress-bar.html %}
