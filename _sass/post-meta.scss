@@ -20,12 +20,12 @@
     border-radius: $border-radius;
     border: $glass-border;
     backdrop-filter: blur(10px);
-    position: sticky;
+    position: relative;
     gap: 64px;
     margin: 10vh 17% 10%;
     background-color: var(--transpa-meta);
     box-shadow: $drop-shadow;
-    top: calc(10vh + 70px);
+    //top: calc(10vh + 70px);
     z-index: -9999;
     padding-bottom: 6%;
   }
@@ -161,7 +161,6 @@
     margin: 5% 5%;
     max-width: 90%;
     top: 5vh;
-    position: relative;
   }
   
   .post-meta-number {
