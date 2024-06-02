@@ -8,7 +8,8 @@ permalink: /o-blogu
   <div class="column-info">
     <div class="post-meta-label">O blogu</div>
       <p>Jsem <a href="{{ site.url }}/o-mne">Kevin</a> a tohle je můj blog Behind the Screens. Píšu o všem, s čím se jako kreativní člověk setkávám za obrazovkama svých dvou monitorů.</p>
-      <p>Píšu nepravidelně od roku 2020. Původně jsem chtěl sdílet svůj pracovní proces — myslel jsem, že s touhle formou prorazím, udělám si jméno a stanu se „<em>majitelem tématu</em>“. Postupem času jsem z toho ale vyrostl; začal jsem sdílet svoje myšlenky. Z rudě nasvíceného, zatemněného prostoru, který je mým kreativním přístavem, jednou za čas vysílám do oceánu internetu vzkaz v lahvi. Občas je sdělení „<em>tady jsem a tohle si myslím</em>“, někdy „<em>pokud to vidíte stejně, tak nejste sami</em>“.</p>
+      <p>Píšu long-form články, snažím se psát pravidelně, tempem jeden článek za měsíc. Stojím na průsečíku gonza, kreativní ne-fikce a narativního žurnalismu.</p>
+      <p>Nejdřív jsem psal nepravidelně, chtěl jsem sdílet svůj pracovní proces — myslel jsem, že s touhle formou prorazím, udělám si jméno a stanu se „<em>majitelem tématu</em>“. Postupem času jsem z toho ale vyrostl; začal jsem sdílet svoje myšlenky. Z rudě nasvíceného, zatemněného prostoru, který je mým kreativním přístavem, jednou za čas vysílám do oceánu internetu vzkaz v lahvi. Občas je sdělení „<em>tady jsem a tohle si myslím</em>“, někdy „<em>pokud to vidíte stejně, tak nejste sami</em>“.</p>
     </div>
     <div class="column-side-sect">
       <div class="post-meta-label">Paywall</div>

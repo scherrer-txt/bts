@@ -22,6 +22,7 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
         - Menu item 1 — Menu item 2 — Menu item 3 — "Theme [ Dark | Light ]" — "Font size [ - | + | ↺ ]"
 
 ## Did
+- [x] Add alt descriptions to all the images
 - Hotfixes
     - [x] Fix mobile main menu logo
     - [x] Fix the post-meta-background (*now it scrolls with the page instead of any weird shenanigans*) and post-nav-background (*grayscale without the js*)

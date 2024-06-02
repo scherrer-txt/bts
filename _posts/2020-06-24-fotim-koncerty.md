@@ -28,7 +28,7 @@ published: true
 - Dělat si vlastní report na sociální sítě; nebát se označovat interprety a sdílet i nedokonalé fotky;
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*5NirYbX3m_CAfEJk-Dc9Ag.jpeg');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*5NirYbX3m_CAfEJk-Dc9Ag.jpeg');" alt="fotka interpreta na stagi v levý části snímku, v pravý je vidět publikum, který má zdvižený ruce a mává vlajkama"></div>
 </div>
 _Fléda, 26. února 2016, křest ep AK-47 — první koncert, který jsem fotil_
 
@@ -62,7 +62,7 @@ Extrémně důležitá věc v rámci přípravy je jasná dohoda s někým, kdo 
 Tady je fajn zmínit, že přemýšlím o nějaké stručné smlouvě, kde by byly jasné termíny placení, odevzdání fotek, upřesnění práv na nakládání s fotkami a případné sankce, když se smlouva nedodrží. Dá se tak vyvarovat různým failům a působí to profesionálně.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:640/format:webp/1*HnsRVVBS9gezPR_E5lryhA.jpeg');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:640/format:webp/1*HnsRVVBS9gezPR_E5lryhA.jpeg');" alt="fotka interpreta na stagi, je otočený zády k publiku, takže je mu vidět do obličeje; za ním publikum, fotka je modro-bílá"></div>
 </div>
 _#throwback na křest Indigova EP #4B0082 v Kabinetu Múz_
 
@@ -79,7 +79,7 @@ Backstage, 20 lidí, ztratí se věci za 40k a podle guest listu se dá celkem d
 Nemyslet na bezpečí věcí je základem k uvolnění; líp se pak dostanu do flow, ve které se soustředím jen na to důležité — co nejlepší fotky.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*T6M99xThvriqDv1yjbpWtA.jpeg');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*T6M99xThvriqDv1yjbpWtA.jpeg');" alt="detail interpretovy bundy v backstage těsně před začátkem show, na detailu je vidět několik nášivek ACH ANO, který jsou na bundě našitý"></div>
 </div>
 
 #### Proč volný pohyb po klubu?
@@ -89,14 +89,14 @@ Tím myslím hlavně přístup stage, ale dá se dostat i na zajímavější spo
 > Nevyfotíš moshpit, když v něm stojíš.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*HIG36BGHp2pwN2Yit7jozQ.jpeg');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*HIG36BGHp2pwN2Yit7jozQ.jpeg');" alt="stage dive, interpret leží na rukou lidí v davu, je to vyfocený tak, žeto trochu vypadá jak renesanční obraz, protože je hrozně velký kontrast mezi publikem a nasvětleným interpretem"></div>
 </div>
 _r/AccidentalRenaissance; z crowdu bych tuhle fotku těžko vyfotil_
 
 Občas to vyjde dobře zpod stage a ze zadní části klubu — obzvláště když koncert viditelně není naplněný. Perspektiva dělá divy. To pak stačí pár lidí, dobrý ořez a hned to vypadá, že bylo docela plno.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*sRQpS28R_vQuhSKqY1cR4A.jpeg');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*sRQpS28R_vQuhSKqY1cR4A.jpeg');" alt="pohled z dálky na stage, kterou nasvětlují tyrkysový a růžový světelný kužely, interpret je na stagi, pod ním jsou vidět ruce a siluety lidí"></div>
 </div>
 
 Jo, jeden tip. **Prostředek stage je posvátný území**, které patří interpretovi. Přistupuj k němu s podobnou úctou, jako ke hrobu svých předků. Protože jestli to posereš, tak se stane i **tvým hrobem**. Hodněkrát jsem viděl, jak se nemotorní fotografové motají pod nohy a vesměs překáží. Jedna věc je skvěle nafotit koncert a věc druhá je **umožnit při focení hladký průběh práce ostatních lidí**.
@@ -110,7 +110,7 @@ Na koncert se nejdu bavit, nejdu chlastat, nejdu si to „užít“. Součást m
 Na uvolnění si rád dám buď RedBull, jedno G&T nebo pivko, u kterého končím na jednom, maximálně dvou kouscích. Pomáhá přijít než začnou chodit lidi a klub si projít. Vytipovat si místa, z kterých by se dobře fotilo. Klidně se zeptat osvětlovače, jakou intenzitu mají světla, jaké má v plánu dělat efekty, …
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*E8UpoYhFwxePDDXxDIYE_w.jpeg');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*E8UpoYhFwxePDDXxDIYE_w.jpeg');" alt="fotka plechovky s Red Bullem; modro-šedá úprava"></div>
 </div>
 _Na uvolnění ideální_
 
@@ -121,7 +121,7 @@ Všechny předchozí kroky minimalizovaly jakékoliv technické problémy, takž
 Občas mě poprosí někdo z crowdu o fotku. Vždycky je aspoň jednou cvaknu. Za prvé bych byl za idiota, kdybych odmítl a snažil se vysvětlit rozdíl mezi focením lidí jako celku a focením na individuální žádost. Za druhé mi to nic neudělá — fotku upravovat nemusím, když se nepovede (a že se nepovede skoro nikdy). Za třetí mám klid, protože se mi asi třikrát stalo, že se jim mé odmítnutí opravdu nelíbilo.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*GPUpqoer9Gf-RvOEWZIMTQ.jpeg');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*GPUpqoer9Gf-RvOEWZIMTQ.jpeg');" alt="další fotka interpreta na stagi, pod ním ruce a lidi"></div>
 </div>
 
 ## Fáze 3 — Akce
@@ -156,7 +156,7 @@ Moje tempo je zhruba 4.5 fotek / 1 minutu, za večer je to 1100 fotek. Čtvrtina
 Lock-on AF je funkce, kterou používám, když si na ni vzpomenu. Focus foťáku se v rámci nastavitelného pole zaměří na jeden objekt, který sleduje a průběžně na něj zaostřuje. Je to šílený sci–fi, když to teď takhle píšu. Jinak používám Continuous autofocus, který málokdy přepnu na single.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*DWjPbSG3F_a6wFRFk4d4Ag.jpeg');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*DWjPbSG3F_a6wFRFk4d4Ag.jpeg');" alt="další interpret na stagi, další lidi, další ruce; tentokrát jsem fotku vyfotil zároveň se zábleskem stroboskopu, takže jde vidět celý sál, v kterým se akce odehrává; sál má černý zdi, na fotce je zhruba 300 lidí, převážně mladých, kteří si užívají večer, nad nima se na stagi tyčí interpret, který je zády k objektivu"></div>
 </div>
 
 ## Fáze 4 — Edit
@@ -165,7 +165,9 @@ Lock-on AF je funkce, kterou používám, když si na ni vzpomenu. Focus foťák
 Doma přesunu RAWy do složky na počítači. Abych měl pořádek ve složkách, držím se tohoto pojmenovávání:
 **2020–05–20 NÁZEV AKCE**
 
-![img](https://miro.medium.com/v2/resize:fit:640/format:webp/1*aoqmhGvJWBaQ5Sx_bGCnfw.png)
+<div class="gallery-container">
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:640/format:webp/1*aoqmhGvJWBaQ5Sx_bGCnfw.png');" alt="screenshot mý složky se složkama, jsou chronologicky seřazený a jsou ve formátu RRRR-MM-DD MÍSTO"></div>
+</div>
 
 Nejdřív rok, aby byly fotky z jednoho roku u sebe. Následuje měsíc, ze stejného důvodu, a nakonec den.
 
@@ -179,7 +181,7 @@ Tři fotky na obrazovku a jedu. Dobré fotky označím žlutě (klávesa “7"),
 Zapněte si CapsLock, po obarvení fotky automaticky naskočí následující fotka; nemusíte používat šipky
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*FZrFkTGIdLZa43sDEs5ekA.png');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*FZrFkTGIdLZa43sDEs5ekA.png');" alt="screenshot z programu Lightroom; tři fotky vedle sebe, první má žlutý rám, druhá červený, třetí zelený; žlutý rám označuje fotky, který bych mohl upravit, červený jsou fotky, který jsem vyřadil, zelený jsou vybraný a upravený"></div>
 </div>
 _Zapněte si CapsLock, po obarvení fotky automaticky naskočí následující fotka; nemusíte používat šipky_
 
@@ -197,7 +199,7 @@ Poté fotky jednotlivě projdu a naposledy upravím nastavení, srovnám, oříz
 Exportuji buď do plné velikosti v 72PPI, nebo do 4000 px v delší straně a 150DPI. Záleží na domluvě.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*CHDOza3oM_8uipHYwEHlbA.png');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*CHDOza3oM_8uipHYwEHlbA.png');" alt="tohle a následující fotka jsou screenshoty s nastavením exportu v Lightroomu"></div>
   <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*pcPjxWQ337KYXCD2a2XB4Q.png');"></div>
 </div>
 _4K 150PPI × Fullsize 72PPI_
@@ -218,7 +220,7 @@ MyAirBridge má limit 20GB, což taky stačí, ale má hrozně nepřehledný UI,
 MEGA nabízí v základu 15GB zadarmo, ale přes různé achievementy se dá úložiště dočasně navýšit až na 80GB, což už je hodně slušné. Odeslané soubory se dají zašifrovat. Kromě webu existuje aplikace na počítače i mobily.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*hMAiEFMW6QNMpdTB9nQUNA.jpeg');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*hMAiEFMW6QNMpdTB9nQUNA.jpeg');" alt="tmavá fotka, interpret na stagi, zády k objektivu, pod ním desítky mobilů se zapnutou baterkou"></div>
 </div>
 _Povinná „interpret v moři smartphone světel“ fotka_
 
@@ -231,7 +233,7 @@ _Povinná „interpret v moři smartphone světel“ fotka_
 V případě focení za honorář beru tag na fotce na IG/FB jako hezké gesto, ne povinnost. Většinou jsem spíš příjemně překvapený, když si někdo vzpomene — když ne, tak je mi to jedno, zaplaceno jsem dostal.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*pswS_LLdBXOHgQUvkp3Mfg.png');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*pswS_LLdBXOHgQUvkp3Mfg.png');" alt="screenshot z profilu na Instagramu, kde je moje fotka interpreta, vedle ní popisek, ve kterým mě označil"></div>
 </div>
 
 Situace je trochu jiná u focení za vstup. Tady to beru jako vzájemnou výměnu, kdy já pomůžu někomu v propagaci a je fér to oplatit. Free vstup a backstage pass neberu jako odměnu, ale jako základní podmínku spolupráce.
@@ -248,7 +250,7 @@ Já si vodoznakovou fází prošel a není to za mě úplně cesta.
 K tomuhle mě inspiroval Lukáš Matoušek, který po každé show na stories sdílí své nejlepších fotky. Po jeho vzoru vyberu 8–10 nejlepších fotek, které sdílím na stories po dvou nebo třech fotkách.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*_I4TssEmJ4SE8LPOO0AoCA.jpeg');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*_I4TssEmJ4SE8LPOO0AoCA.jpeg');" alt="soubor několika fotek z koncertu"></div>
 </div>
 
 ### Post
@@ -259,7 +261,7 @@ Mnohem lepší je nevymýšlet zbytečný kraviny a prostě tvorbu sdílet. Ani 
 Tři různé fotky. Les vlevo, kmen stromu, vchod do podzemí.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*DVEtKxNLrhYGm_Qa3-17LA.jpeg');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*DVEtKxNLrhYGm_Qa3-17LA.jpeg');" alt="triptych, první fotka je lesní cesta, druhá fotka je kmen stromu, třetí je vytesaný vchod do skal; fotky na sebe navazují, jsou to tři fotky v jedné, jde o koláž; kmen stromu uprostřed slouží jako předěl/pojítko dvou různých fotek"></div>
 </div>
 
 ### Ostatní

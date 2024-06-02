@@ -22,7 +22,7 @@ Od malička jsem miloval příběhy, reálné i smyšlené. Snažil jsem se hodn
 Číst a psát jsem se naučil mnohem dřív, než jsem vůbec věděl, co je to škola a co mě tam čeká. Začátkem druhého stupně se to ale začalo ubírat zajímavým směrem. Zatímco ostatní četli Deník malého poseroutky, já se nechával pohltit Středozemí. Uměl jsem trochu elfsky a celkem obstojně jsem dokázal číst a psát trpasličí runy. Svět profesora Tolkiena mě naprosto uchvátil — a měl jsem to štěstí, že jsem v tom nebyl sám. Do třídy se mnou chodil podobně praštěný blázen, Tom. Zpočátku jsme se nebavili. Byl vzorný, snaživý a klidný. Já pravý opak. Jakýmsi zvláštním způsobem mezi námi později vznikla do velké míry pozitivní rivalita. Navzájem jsme se inspirovali. A hecovali. Nakonec jsme spolu vedli sáhodlouhé diskuze ohledně všeho možného a nemožného — kolikrát i v hodině, kterou jsme učitelům dost často nabourávali.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*vZdB-oGB30-KvFmRWm6zNg.jpeg');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*vZdB-oGB30-KvFmRWm6zNg.jpeg');" alt="modrý Wulfrion, v gotickým/lomenným písmu, na fotce šedých dřevěných parket (tehdy jsem s designem začínal a bylo to fakt smutný, nebudu kecat), to je záhlaví webu, pod ním je web rozdělený na menu a hlavní obsah; v menu jsou nějaký ulítlý nápisy, který tehdy měly symbolizovat kategorie, takže Literatura je fontem Pána Prstenů, Sci-fi nějakým nesmyslným písmem, PC Hry mají font Starcraftu, víc toho vidět není; obsah je klasický Nadpis přes jeden celý řádek, pod ním den vydání a čas, autor a rubrika na řádku pod nadpisem, pak úvod článku přes dva řádky a na dalším řádku je vpravo Celý článek | Přidat komentář"></div>
 </div>
 _Takhle můj blog vypadal v lednu 2012_
 
@@ -42,12 +42,12 @@ Zmínil jsem design. K němu jsem se dostal tak, že jsem chtěl, aby náš blog
 Čím víc jsem dělal grafiku, tím míň se mi chtělo psát recenze. Zjistil jsem, že grafikou se dá sem tam něco přivydělat — což recenzemi dost dobře nejde. V nejlepším se má skončit. Uvědomil jsem si, že co se recenzí týče, všechno jsem si víceméně splnil. Nebo jsem se s tím alespoň takhle spokojil.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*AqqNlTiW_SrFhJKdQaSEnw.png');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*AqqNlTiW_SrFhJKdQaSEnw.png');" alt="tenhle design už je o dost lepší, pokud to tak můžu říct; záhlaví je fotka hor mezi dvěma velmi slabě průhlednými pruhy, který vedou diagonálně zprava doleva, jeden pruh je menu, kde je logo W (jako Wulfrion) a položky menu jako Recenze, Články, Aktuality, v jednom řádku; pak je vidět ta fotka hor, pak je druhý pruh a tam u je vidět obsah webu, struktura stejná, jako předtím (nadpis, datum, autor, rubrika, úvod, buttony)"></div>
 </div>
 _Design blogu z listopadu 2014_
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*0hq5hsonLqjgWyVd0DQqsg.jpeg');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*0hq5hsonLqjgWyVd0DQqsg.jpeg');" alt="fotka jednostrannýho komiksu, který převypráví moji povídku"></div>
 </div>
 _Moje povídka Dum Spiro Spero, zpracovaná jako komiks_
 
@@ -63,7 +63,7 @@ Do psaní té povídky jsem dal všechno. Už ani nevím, kolik verzí a různý
 Povedlo se. Vyhrál jsem druhé místo. Byl to skvělý pocit. V tu dobu jsem začal věřit, že dokážu cokoliv, pokud budu opravdu chtít. Tvůrčí psaní jsem vzal kompletně za své. Chodil jsem na literární dílny, které v KJM pořádala [Tereza “Temnářka” Matoušková](https://cs.wikipedia.org/wiki/Tereza_Matou%C5%A1kov%C3%A1) a Jana “Elinor” Poláčková. Dostával jsem cennou kritiku a rostl. Zároveň mi to pomohlo hodnotit knihy mnohem lépe; čtení už nebyla jen zábava, ale studium. Skladba vět, práce se slovy, styl. Na všechno jsem najednou nahlížel z jiného úhlu. Psal jsem a psal a psal. Vymýšlel, vytvářel, přemýšlel, psal. Do počítače, do sešitů, do mobilu. Dlouhé hodiny jsem hloubal nad tím, jak s co nejméně slovy předat co nejvíc.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*lgM2JGw8wx6HPWN_9ATNMg.png');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*lgM2JGw8wx6HPWN_9ATNMg.png');" alt="mapa mýho smyšlenýho světa, moře je tmavě hnědý, souš světle písková; celý obrázek je texturovaný a působí trochu omšele; písmo je mix historizující latinky a azbuky, je to fakt divný písmo"></div>
 </div>
 _Mapa k mému fantasy světu_
 
@@ -76,7 +76,7 @@ Ze studny vědomostí jsem čerpal po plných vědrech. V jeden nestřežený mo
 Pár měsíců jsem se ještě snažil psát a jednou za čas si i teď řeknu, že bych to zkusil. Občas mám i docela dobrý nápad, který si hned zapíšu. Ale napsat fantasy sérii s propracovaným světem? To už asi přenechám jiným. Já své jméno v knize už viděl, aspoň malý odkaz tu po mně je.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*BDViEQzOtgdbfyn0Gb9IxQ.png');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*BDViEQzOtgdbfyn0Gb9IxQ.png');" alt="šedý logo na bílým pozadí; velký kruh a menší uvnitř něj; nápis Vaše kavárna v psacím písmu, DVOREK přes jeden celý řádek, POD PETROVEM na druhým řádku, obojí v rustikálním patkovým písmu (slab serif), pod tím nápis v Brně zase v psacím písmu, takže celý dohromady Vaše kavárna DVOREK POD PETROVEM v Brně"></div>
 </div>
 _První logo, který jsem dělal jako zakázku_
 
@@ -98,7 +98,7 @@ Byl jsem vždycky dost rozlítaný a nestálý, měl jsem hromadu zájmů a kon�
 Přesto se ale děsím toho, že mi chybí vytrvalost a že si v budoucnu řeknu: „Tahle mi to stačí, splnil jsem si to, jdu dál.“[^1] Protože přesně takhle se přichází o sny, v momentě, kdy se spokojíme s málem. Rozhodně se nechci spokojit s málem. Jen je někdy tak těžké chtít pořád víc.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*5WDnRZRC7d9H9VJ9Qdntkg.png');"></div>
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*5WDnRZRC7d9H9VJ9Qdntkg.png');" alt="screenshot webu, uprostřed fialové stránky s lehkým přechodem z tmavé do světlé je na střed zarovnaný text Pomůžeme Vaší značce s budováním image, celý je to napsaný velmi širokým, patkovým písmem, pod tím je menší, bezpatkový nápis Tvoříme identity od loga až po finální realizaci tiskovin, pod tím svítící růžový button s černým textem KONTAKTUJTE NÁS"></div>
 </div>
 
 

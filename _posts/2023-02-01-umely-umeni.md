@@ -74,4 +74,6 @@ Ale právě tohle hloupé myšlení prehistorických sběračů zabíjí radost 
 
 A proto miluju Banán na zdi a vždycky budu prosazovat demokratizaci umění.
 
-![image]({{ site.url }}/images/bts-10-02.png)
+<div class="gallery-container">
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-10-02.png');" data-full="{{ site.url }}/images/bts-10-02.png" alt="Fotka banánu přilepeného na bílou zeď stříbrnou lepící páskou"></div>
+</div>
