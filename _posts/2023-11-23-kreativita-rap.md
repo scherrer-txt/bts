@@ -34,7 +34,7 @@ Za metalové fans si dosaď jakékoliv odborné diváctvo a jsme dobří, pointa
 
 Parádní příklad je Calinova hardstyle verze songu Hannah Montana, která běžného posluchače může bavit a může mu přijít vcelku dobře stravitelná — před znalci žánru ale neobstojí, jejich ostřížímu oku totiž neunikne sebemenší chybka nebo odlišnost. V tom vidím důvod, proč mají žánroví fans občas problém pochopit, jak může mít nějaké konkrétní dílo takový úspěch. Chápu proč? Jo. Je to gatekeeping? Působí to tak. Opomíjejí fakt, že se díky Calinovi mohlo rozrůst celkové posluchačstvo jejich oblíbeného žánru, protože se jim Hannah Montana líbila a chtějí slyšet víc podobné hudby? Rozhodně.
 
-> „To, před čím by měl být rap chráněn, je přesně tenhle konzervatismus.“
+> To, před čím by měl být rap chráněn, je přesně tenhle konzervatismus.
 
 ## Zlatá éra rapu
 Rap byl donedávna záležitost rovných kšiltů, ulice, chlapáckého nalhávání si věcí a kolektivního přesvědčování se o vlastní tvrdosti. Ještě předtím to byla černošská hudba, se silnými kořeny v discu, funku a soulu. Byla to okrajová záležitost určité menšiny, která čerpala z bohaté hudební historie těch, co přišli před nimi. V současnosti je to mainstream. Každý může být rapper — nehledě na background — a témat, která rap otevírá, je nekonečno. Výpověď doby, kritika společnosti a politiky, upozorňování na důležitost mentálního zdraví, ale samozřejmě pořád i nějaká ta vyčpělá pózovitost, rádoby-tvrdost, ale zároveň i původní hravost a radost z tvorby a ze sdílení myšlenek se svým kmenem. Uškodilo rapu nějak to, že se stal mainstreamem? Vyměkl? Změnil se k nepoznání? Nebo se úplně zkazil? Je mi to fuk, jedno je ale jasný — teď je zlatá éra rapu.

@@ -187,6 +187,6 @@ Jestli se ty osobně cítíš, že je v pohodě platit třeba za YouTube Premium
 [^12]: Celej tenhle problém by možná neexistoval, kdyby ta pekárna nebyla jen jedna na celým světě a neprodávala rohlíky buď příliš draze (*se snahou maximalizovat zisky*) anebo nekvalitní.
 [^13]: Bohatý jak po finanční stránce (*protože ceny nových her, ceny počítačů a konzolí*), tak po stránce volnýho času
 [^14]: Jde o Allegriho skladbu Miserere Mei, Deus, která nikdy neměla opustit zdi Sixtínský kaple; Mozart ale udělal svůj přepis notovýho zápisu, a skladbu pak o rok později vydal — aspoň takový je [příběh](https://en.wikipedia.org/wiki/Online_piracy#History), který se dochoval
-[^15]: Tady teda alternativa je v podobě [Jellyfin](https://www.youtube.com/watch?v=jKF5GtBIxpM), ale dělal pro ne-programátory může být tvorba vlastního cloudovýho řešení knihovny obsahu dost náročná
-[^16]: O alternativě v podobě [Affinity](https://affinity.serif.com/en-us/) vím, ale z druhý ruky vím, že bych ke svý práci stejně potřeboval i programy od Adobe
+[^15]: Tady teda alternativa je v podobě [Jellyfin](https://www.youtube.com/watch?v=jKF5GtBIxpM), ale pro ne-programátory může být tvorba vlastního cloudovýho řešení knihovny obsahu dost náročná
+[^16]: O alternativě v podobě [Affinity](https://affinity.serif.com/en-us/) vím, ale pořád bych ke svý práci stejně potřeboval i programy od Adobe
 [^17]: Kecám, našel jsem tři — [Element](https://element.io/), [Mattermost](https://mattermost.com/) a [Zulip](https://zulip.com/)

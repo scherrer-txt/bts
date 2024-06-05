@@ -30,7 +30,8 @@ permalink: /o-mne
   <div class="column-side-sect-achiev">
     <div class="post-meta-label">Stalo se</div>
       <ul>
-        <li>V hrůze a krvi zrozeni — <a href="https://www.knihydobrovsky.cz/akce-a-slevy/detail/zname-vyherce-velke-povidkove-souteze-2-1335">Top 20</a></li>
+        <li>Brno Game Jam 2023 — <a href="https://itch.io/jam/brno-game-jam-2023">Účast</a></li>
+        <li>V hrůze a krvi zrozeni — <a href="https://www.knihydobrovsky.cz/akce-a-slevy/detail/velka-povidkova-soutez-3">Top 20</a></li>
         <li>Red Bull Brand Run — <a href="https://www.advertia.cz/redbull/">2. místo</a></li>
         <li>Urban Legends — <a href="https://www.facebook.com/urbanlegendy/posts/pfbid02HiAbfAwN4JDNUWYRXhox51BDwKR4fTShc7qU8oqJYNb9WmnVyxkvM6dtJif9cwoVl?__cft__[0]=AZVTPVBVU8r9WPvb1iZbCwzh8K_Jah5f2C9rEax_ay4FKQ6PZv9V9Zzd4fNIAM0-YhSHMdTk5W5AxBR-MmUXj3LLLQC2ymeNxwG9KPpaDjDGco51OrPPNWKlWHcQaNyClvdZWpLCc27OPE8YKb136d56&__tn__=%2CO%2CP-R">2. místo</a></li>
       </ul>
