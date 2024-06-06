@@ -1,7 +1,6 @@
 document.addEventListener('scroll', function() {
     const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-    const parallax = document.querySelector('.post-meta-background');
-    const postMetaContainer = document.querySelector('.post-meta-container');
+    const parallax = document.querySelector('.post-meta');
     const postEnd = document.querySelector('.post-end');
     const maxScale = 1.15; // Set the maximum scale limit
     let scaleValue;
@@ -29,25 +28,21 @@ document.addEventListener('scroll', function() {
         scaleValue = Math.min(1 + (scrollTop / 5000), maxScale); // Calculate scale value within range
     }
 
-    // Apply scaling and grayscale transformations based on scroll position
+    // Apply background scaling and grayscale transformations based on scroll position
     if (scrollTop <= postEnd.offsetTop && !isInViewport) {
-        parallax.style.transform = `scale(${scaleValue})`;
+        parallax.style.backgroundSize = `${scaleValue * 100}% auto`;
         parallax.style.filter = `grayscale(${grayscaleValue})`;
-        parallax.style.transformOrigin = 'center top'; // Set the transform origin to top center
-        postMetaContainer.style.visibility = 'visible';
+        parallax.style.backgroundPosition = 'center'; // Set the background position to top center
     } else {
         // Reverse the effect
         const reverseScaleValue = Math.max(1, 1.08 - ((scrollTop - postEnd.offsetTop) / 9000));
-        parallax.style.transform = `scale(${reverseScaleValue})`;
+        parallax.style.backgroundSize = `${reverseScaleValue * 100}% auto`;
         parallax.style.filter = 'grayscale(1)';
-        postMetaContainer.style.visibility = 'hidden';
     }
 });
 
 // Apply smooth transition when DOM content is loaded
 document.addEventListener("DOMContentLoaded", function() {
-    const parallax = document.querySelector('.post-meta-background');
-    const postMetaContainer = document.querySelector('.post-meta-container');
-    parallax.style.transition = 'transform 0.3s ease, filter 0.6s ease'; // Smooth transition for both transform and filter
-    postMetaContainer.style.transition = 'visibility 0.3s ease'; // Smooth transition for visibility
+    const parallax = document.querySelector('.post-meta');
+    parallax.style.transition = 'background-size 0.3s ease, filter 0.6s ease'; // Smooth transition for both background-size and filter
 });

@@ -1,17 +1,10 @@
 .post-meta {
-/*  position: fixed;
-    top: 0;
-    left: 0;
-    height: 100vh;
-    width: 100vw;
-    transition: $transition-02-ease;
-    transition: transform 0.3s ease-in-out, filter 0.3s ease-in-out;
-    */
-    background-size: cover;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
     background-position: center;
     z-index: -99999;
     image-rendering: optimizeSpeed;
-    overflow: hidden;
+    overflow: clip;
     margin-bottom: -2rem;
   }
   
@@ -28,9 +21,9 @@
     margin: 10vh 17% 10%;
     background-color: var(--transpa-meta);
     box-shadow: $drop-shadow;
-    //top: calc(10vh + 70px);
     z-index: -9999;
     padding-bottom: 6%;
+    overflow: hidden;
   }
   
   .post-meta-row {
