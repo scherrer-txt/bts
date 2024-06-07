@@ -22,12 +22,16 @@ li {
     width: 100%;
   } 
   
-  
   ol {
     display: flex;
     flex-direction: column;
     width: 65%;
     margin: 0 auto;
+
+    & em, p, b, strong {
+      line-height: $line-height-smaller;
+      font-size: $font-size-smaller;
+    }
   }
   
   ul li {
@@ -40,6 +44,20 @@ li {
     margin: 0;
     max-width: 65%;
   }
+
+ol li {
+  font-size: $font-size-smaller;
+  line-height: $line-height-smaller;
+  
+  & em, strong, b {
+    font-size: $font-size-smaller;
+    line-height: $line-height-smaller;
+  }
+}
+
+ol:last-child, li:last-child, ul:last-child {
+  margin-bottom: 4rem;
+}
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
@@ -73,6 +91,20 @@ li {
 
   .list-without-markers {
     width: 90%;
+  }
+  
+  ol li {
+    font-size: $font-size-smaller-mobile;
+    line-height: $line-height-smaller-mobile;
+
+    & em, strong, b {
+      font-size: $font-size-smaller-mobile;
+      line-height: $line-height-smaller-mobile;
+    }
+  }
+
+  ol:last-child, li:last-child, ul:last-child {
+    margin-bottom: 2rem;
   }
 }
 

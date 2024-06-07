@@ -62,6 +62,9 @@ ul#markdown-toc li {
   .page-content h6 > a {
     text-decoration: none;
     vertical-align: text-top;
+    position: absolute;
+    transform: translateX(-100%);
+    padding-right: 1rem;
   }
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
@@ -76,11 +79,23 @@ ul#markdown-toc li {
     margin: 2rem;
   }
 
-ul#markdown-toc li {
+  ul#markdown-toc li {
     font-size: $font-size-heading-6-mobile;
     line-height: $line-height-heading-6-mobile;
     margin-top: 2px;
     margin-bottom: 2px;
     letter-spacing: 0.03rem;
     }
+
+  .page-content h2 > a,
+  .page-content h3 > a,
+  .page-content h4 > a,
+  .page-content h5 > a,
+  .page-content h6 > a {
+    text-decoration: none;
+    vertical-align: text-top;
+    position: relative;
+    transform: translateX(-100%);
+    margin-left: 0.5rem;
+  }
 }

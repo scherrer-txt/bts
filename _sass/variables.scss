@@ -8,53 +8,60 @@ $font-family-heading: "neue-haas-grotesk-display", "Helvetica Neue", Arial, Helv
 $font-family-monospace: "Roboto Mono", "Courier New", Courier, monospace;
 
 // Desktop
-$font-size-base: 1.4rem;
+$font-size-base: 24px; // 16 × 1.5
+$line-height-base: 40px;
 
-$line-height-base: 2.6rem;
+$font-size-smaller: 20px; // 16 × 1.375
+$line-height-smaller: 30px;
 
-$font-size-heading-1: 6rem;
-$line-height-heading-1: 5.8rem;
+$font-size-heading-1: 90pt;
+$line-height-heading-1: 90pt;
 
-$font-size-heading-2: 3.5rem;
-$line-height-heading-2: 3.5rem;
+$font-size-blockquote: 78px;
+$line-height-blockquote: 72px;
 
-$font-size-heading-3: 3rem;
-$line-height-heading-3: 3rem;
+$font-size-heading-2: 69px;
+$line-height-heading-2: 69px;
 
-$font-size-heading-4: 2.5rem;
-$line-height-heading-4: 2.5rem;
+$font-size-heading-3: 53px;
+$line-height-heading-3: 53px;
 
-$font-size-heading-5: 2rem;
-$line-height-heading-5: 2rem;
+$font-size-heading-4: 41px;
+$line-height-heading-4: 41px;
 
-$font-size-heading-6: 2rem;
-$line-height-heading-6: 2rem;
+$font-size-heading-5: 31px;
+$line-height-heading-5: 31px;
+
+$font-size-heading-6: 24px;
+$line-height-heading-6: 24px;
 
 // Mobile
-$font-size-base-mobile: 1rem;
+$font-size-base-mobile: 16px;
+$line-height-base-mobile: 26px;
 
-$line-height-base-mobile: 1.6rem;
+$font-size-smaller-mobile: 13px; // 16 × 0.8
+$line-height-smaller-mobile: 21px;
 
-$font-size-heading-1-mobile: 1.9rem;
-$line-height-heading-1-mobile: 2.15rem;
+$font-size-heading-1-mobile: 60px;
+$line-height-heading-1-mobile: 60px;
 
-$font-size-heading-2-mobile: 1.75rem;
-$line-height-heading-2-mobile: 1.9rem;
+$font-size-blockquote-mobile: 52px;
+$line-height-blockquote-mobile: 52px;
 
-$font-size-heading-3-mobile: 1.6rem;
-$line-height-heading-3-mobile: 1.75rem;
+$font-size-heading-2-mobile: 46px;
+$line-height-heading-2-mobile: 46px;
 
-$font-size-heading-4-mobile: 1.45rem;
-$line-height-heading-4-mobile: 1.6rem;
+$font-size-heading-3-mobile: 35px;
+$line-height-heading-3-mobile: 35px;
 
-$font-size-heading-5-mobile: 1.3rem;
-$line-height-heading-5-mobile: 1.45rem;
+$font-size-heading-4-mobile: 27px;
+$line-height-heading-4-mobile: 27px;
 
-$font-size-heading-6-mobile: 1.15rem;
-$line-height-heading-6-mobile: 1.3rem;
+$font-size-heading-5-mobile: 21px;
+$line-height-heading-5-mobile: 21px;
 
-$font-size-blockquote-mobile: 1.45rem;
-$line-height-blockquote-mobile: 1.6rem;
+$font-size-heading-6-mobile: 16px;
+$line-height-heading-6-mobile: 16px;
 
 // Details
 $meta-gap-48: 48px;

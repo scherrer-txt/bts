@@ -37,6 +37,10 @@
     gap: $meta-gap-64;
   }
   
+  .menu-list:last-child {
+    margin-bottom: 0;
+  }
+
 /*
   .menu ul li {
     filter: drop-shadow(0 0 7px var(--bg));
@@ -115,6 +119,10 @@
   visibility: hidden;
 }
 
+.menu-list:last-child {
+  margin-bottom: 125px;
+}
+
 .menu-list {
   flex-direction: column;
   align-items: end;
@@ -122,7 +130,6 @@
   height: 50%;
   margin-right: 25px;
   gap: 40px;
-  margin-bottom: 125px;
 }
 
 #menu-toggle:checked + .menu-icon .open {

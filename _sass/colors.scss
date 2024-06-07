@@ -2,11 +2,11 @@
   --highlight: #ffff00;
   --transpa: rgba(18, 18, 18, 0.3);
   --transpa-meta: rgba(18, 18, 18, 0.6);
-  --text-secondary: #FF5500;
   --text-light: #e8d4ca;
   --link-toc: #2affO0;
   --border-invis: rgba(0, 0, 0, 0);
   --links-dark: #2AFF00;
+  --grey: #666666;
 }
 
 @mixin light-appearance {
@@ -23,6 +23,7 @@
     --bg-invert: #0e0e0e;
 
     --text: #1C2E33;
+    --text-secondary: #c04000;
 
     --transpa-mob: rgba(237, 221, 213, 0.8);
     --border-switch: rgba(0, 0, 0, 0);
@@ -43,6 +44,7 @@
     --bg-invert: #e8d4ca;
 
     --text: #E3D1CC;
+    --text-secondary: #FF5500;
 
     --transpa-mob: rgba(18, 18, 18, 0.8);
     --border-switch: #e8d4ca;

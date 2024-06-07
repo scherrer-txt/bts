@@ -11,14 +11,12 @@ document.addEventListener('DOMContentLoaded', function() {
   headings.forEach(heading => {
     const anchor = document.createElement('a');
     anchor.href = `#${tocId}`;
-    anchor.innerHTML = ' \uFFEA';
-    anchor.style.fontFamily = 'inherit';
-    anchor.style.fontSize = 'inherit';
-    anchor.style.marginLeft = 'inherit';
-    anchor.style.textAlign = 'inherit';
-    anchor.style.verticalAlign = 'text-top';
-    anchor.style.cursor = 'pointer';
-    heading.appendChild(anchor);
+    anchor.innerHTML = '\uFFEA'; // Upwards arrow character
+    anchor.classList.add('anchor-marker');
+    
+    // Insert the anchor before the heading text
+    heading.insertBefore(anchor, heading.firstChild);
+    heading.classList.add('anchor-heading');
 
     anchor.addEventListener('click', function(event) {
       event.preventDefault();
@@ -35,4 +33,25 @@ document.addEventListener('DOMContentLoaded', function() {
       });
     });
   });
+
+  // Function to update anchor position based on screen width
+  function updateAnchorPosition() {
+    const isMobile = window.innerWidth <= 800;
+    headings.forEach(heading => {
+      const anchor = heading.querySelector('.anchor-marker');
+      if (isMobile) {
+        // Move the anchor to the end for mobile
+        heading.appendChild(anchor);
+      } else {
+        // Move the anchor to the beginning for desktop
+        heading.insertBefore(anchor, heading.firstChild);
+      }
+    });
+  }
+
+  // Initial update on page load
+  updateAnchorPosition();
+
+  // Update anchor position on window resize
+  window.addEventListener('resize', updateAnchorPosition);
 });
