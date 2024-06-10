@@ -2,6 +2,10 @@ document.addEventListener('scroll', function() {
     const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
     const parallax = document.querySelector('.post-meta');
     const postEnd = document.querySelector('.post-end');
+    
+    // If postEnd element doesn't exist, return early to avoid errors
+    if (!postEnd || !parallax) return;
+    
     const maxScale = 1.15; // Set the maximum scale limit
     let scaleValue;
     const maxGrayscale = 1; // Maximum grayscale value (100%)
@@ -44,5 +48,7 @@ document.addEventListener('scroll', function() {
 // Apply smooth transition when DOM content is loaded
 document.addEventListener("DOMContentLoaded", function() {
     const parallax = document.querySelector('.post-meta');
-    parallax.style.transition = 'background-size 0.3s ease, filter 0.6s ease'; // Smooth transition for both background-size and filter
+    if (parallax) {
+        parallax.style.transition = 'background-size 0.3s ease, filter 0.6s ease'; // Smooth transition for both background-size and filter
+    }
 });

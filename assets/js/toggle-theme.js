@@ -1,5 +1,5 @@
 window.addEventListener('DOMContentLoaded', () => {
-  const configTheme = document.documentElement.getAttribute('data-config-theme');
+  const configTheme = document.documentElement.getAttribute('data-config-theme') || 'dark'; // Default to 'dark' if no configTheme
   const storedTheme = localStorage.getItem('theme');
   const initialTheme = storedTheme || configTheme;
   const button = document.querySelector('.theme-toggle');
