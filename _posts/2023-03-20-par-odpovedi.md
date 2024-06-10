@@ -6,8 +6,8 @@ name: Pár odpovědí na otázky
 release: 2023/03
 perex: V roce 2021 jsem odpověděl na pár otázek. V roce 2023 jsem se k nim vrátil a položil si je znova.
 order: "11"
-thumbnail: "/images/thumbs/bts-thumb-11.png"
-background: "/images/bg/11.jpg"
+thumbnail: "/images/thumbs/bts-thumb-11.avif"
+background: "/images/bg/11.avif"
 redirect_from: "/bts11.html"
 published: true
 ---

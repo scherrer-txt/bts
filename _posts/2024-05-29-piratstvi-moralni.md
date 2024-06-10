@@ -6,8 +6,8 @@ name: Pirátství je morálně v pohodě
 release: 2024/05
 perex: Digitální pirátství jako nástroj inkluze, protestu a aktivismu; způsob, jak získat zpátky digitální svobodu.
 order: "18"
-thumbnail: "/images/thumbs/bts-thumb-18.png"
-background: "/images/bg/18.jpg"
+thumbnail: "/images/thumbs/bts-thumb-18.avif"
+background: "/images/bg/18.avif"
 redirect_from: "/bts18.html"
 published: true
 ---

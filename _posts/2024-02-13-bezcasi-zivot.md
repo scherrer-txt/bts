@@ -6,8 +6,8 @@ name: Bezčasí, který mění život
 release: 2024/02
 perex: Bez času, bez tlaku, s kávou v hrnku. V tomhle Behind the Screens se ponoříme do věcí, který mění život.
 order: "15"
-thumbnail: "/images/thumbs/bts-thumb-15.png"
-background: "/images/bg/15.jpg"
+thumbnail: "/images/thumbs/bts-thumb-15.avif"
+background: "/images/bg/15.avif"
 redirect_from:
 - "/bts15.html"
 - "/bezcasi-ktery-meni-zivot.html"

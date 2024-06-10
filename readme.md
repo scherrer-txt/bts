@@ -8,10 +8,8 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 
 ## Backlog/Ongoing
 - [] Simplify the code
-- [] Fix the lazy load script
+- [] Add a lazy load script
 - [] Make the website even more accessible 
-- [] Make the images smaller (*jekyll-assets/jekyll-compress-images/image-optim*)
-- [] Hardcode that the default theme is DARK
 
 - [] TOC: Final Form
     - Bar under menu — Actual headline | [TOC icon] ← dropdown with all headlines (*levels 1-3*)
@@ -22,6 +20,9 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
         - Menu item 1 — Menu item 2 — Menu item 3 — "Theme [ Dark | Light ]" — "Font size [ - | + | ↺ ]"
 
 ## Did
+- [x] Replace every jpg & png with avif
+- [x] Fix the Chrome theme problem
+    - [x] Hardcode DARK theme as the default web theme
 - [x] Refine text typesetting (*paragraphs and lists*)
 - [x] Refine typography scale
 - [x] Fix issues with code paragraph text

@@ -6,8 +6,8 @@ name: Každý jsme trochu ADHD
 release: 2024/04
 perex: Z toho titulku se mi chce zvracet. A doufám, že i vám. Mělo by. Další článek zpoza obrazovek.
 order: "17"
-thumbnail: "/images/thumbs/bts-thumb-17.png"
-background: "/images/bg/17.jpg"
+thumbnail: "/images/thumbs/bts-thumb-17.avif"
+background: "/images/bg/17.avif"
 redirect_from:
 - "/bts17.html"
 - "/kazdy-trochu-adhd.html"
