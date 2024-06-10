@@ -27,14 +27,15 @@
     flex: 1;
     overflow: hidden;
     position: relative;
-    background-color: var(--transpa-meta);
+    //background-color: var(--transpa-mob);
     max-width: 50%;
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
 
     &:hover {
       //background-color: var(--transpa);
-      transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
+      //transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
+      box-shadow: $drop-shadow;
     }
   }
 
@@ -87,7 +88,7 @@
   }
 
   .post-nav-link a {
-    color: var(--links-dark);
+    color: var(--links);
 
     &:hover {
       color: var(--links-dark);

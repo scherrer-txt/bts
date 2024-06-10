@@ -171,11 +171,13 @@
 .index-label,
 .index-release,
 .index-order {
-  color: var(--text-light);
+  color: var(--text);
+  filter: drop-shadow(0 0 5px var(--bg));
 }
 
 .index-title a {
-  color: var(--links-dark);
+  color: var(--links);
+  filter: drop-shadow(0 0 5px var(--bg));
 }
 
 .index-container {
@@ -183,7 +185,7 @@
     flex-flow: wrap;
     justify-content: space-between;
     padding: 48px 32px;
-    background-color: var(--transpa-meta);
+    background-color: var(--transpa-mob);
     gap: 32px;
   }
   

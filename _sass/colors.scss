@@ -2,11 +2,12 @@
   --highlight: #ffff00;
   --transpa: rgba(18, 18, 18, 0.3);
   --transpa-meta: rgba(18, 18, 18, 0.6);
-  --text-light: #e8d4ca;
+  --transpa-light: rgba(66, 135, 245, 0.6)
   --link-toc: #2aff00;
   --border-invis: rgba(0, 0, 0, 0);
   --links-dark: #2AFF00;
   --grey: #666666;
+  --text-light: #e8d4ca;
 }
 
 @mixin light-appearance {
