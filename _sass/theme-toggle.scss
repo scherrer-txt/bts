@@ -2,8 +2,8 @@ html.transition,
 html.transition *,
 html.transition *:before,
 html.transition *:after {
-    transition: all 250ms !important;
-    transition-delay: 0 !important;
+  transition: all 250ms !important;
+  transition-delay: 0 !important;
 }
 
 .theme-toggle {
@@ -51,20 +51,29 @@ html.transition *:after {
   background-color: var(--links-hover);
 }
 
-
 html.transition .theme-toggle {
   transition: background-image 250ms ease-in-out;
 }
 
-html[data-theme="dark"] { @include dark-appearance; }
-  html[data-theme="light"] { @include light-appearance; }
-  
-  @media (prefers-color-scheme: dark) {
-    body[data-theme="auto"] { @include dark-appearance; }
+html[data-theme="dark"] {
+  @include dark-appearance;
+}
+
+html[data-theme="light"] {
+  @include light-appearance;
+}
+
+@media (prefers-color-scheme: dark) {
+  body[data-theme="auto"] {
+    @include dark-appearance;
   }
-  @media (prefers-color-scheme: light) {
-    body[data-theme="auto"] { @include light-appearance; }
+}
+
+@media (prefers-color-scheme: light) {
+  body[data-theme="auto"] {
+    @include light-appearance;
   }
+}
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //

@@ -3,52 +3,40 @@
   --transpa: rgba(18, 18, 18, 0.3);
   --transpa-meta: rgba(18, 18, 18, 0.6);
   --text-light: #e8d4ca;
-  --link-toc: #2affO0;
+  --link-toc: #2aff00;
   --border-invis: rgba(0, 0, 0, 0);
   --links-dark: #2AFF00;
   --grey: #666666;
 }
 
 @mixin light-appearance {
-
   html,
   body {
     --headings: #1C2E33;
-
-    --links: #7700ee; //#3d1785//
+    --links: #7700ee;
     --links-hover: #bb77ff;
-
     --bg: #e8d4ca;
     --bg-secondary: #E3D1CC;
     --bg-invert: #0e0e0e;
-
     --text: #1C2E33;
     --text-secondary: #c04000;
-
     --transpa-mob: rgba(237, 221, 213, 0.8);
     --border-switch: rgba(0, 0, 0, 0);
   }
 }
 
 @mixin dark-appearance {
-
   html,
   body {
     --headings: #E3D1CC;
-
     --links: #2AFF00;
     --links-hover: #116600;
-
     --bg: #0e0e0e;
     --bg-secondary: #0A0A0A;
     --bg-invert: #e8d4ca;
-
     --text: #E3D1CC;
     --text-secondary: #FF5500;
-
     --transpa-mob: rgba(18, 18, 18, 0.8);
     --border-switch: #e8d4ca;
   }
-
-  ;
 }
