@@ -6,6 +6,9 @@
     image-rendering: optimizeSpeed;
     overflow: clip;
     margin-bottom: -2rem;
+    position: relative;
+    height: 92vh;
+    align-content: center;
   }
   
   .post-meta-container {
@@ -131,7 +134,9 @@
     z-index: -99999;
     image-rendering: optimizeSpeed;
     overflow: hidden;
-    padding: 20% 0 15%;
+    padding: 10% 0 15%;
+    position: relative;
+    height: 86vh;
   }
     
   .post-meta-text {
