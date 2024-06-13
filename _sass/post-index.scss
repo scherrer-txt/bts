@@ -53,7 +53,6 @@
     transform: scale(1);
     transform-origin: center center 0px;
     image-rendering: optimizeSpeed;
-    visibility: hidden;
     opacity: 0;
     z-index: -9999;
   }
@@ -65,7 +64,6 @@
   }
 
   .index-post:hover .index-post-background {
-    visibility: visible;
     opacity: 1;
   }
   
@@ -91,7 +89,7 @@
     letter-spacing: 0.03rem;
   }
   
-  .index-order {
+  /* .index-order {
     font-family: $font-family-heading;
     font-size: 3rem;
     line-height: 3rem;
@@ -99,9 +97,9 @@
     margin-bottom: 0px;
     margin-left: 0;
     width: fit-content;
-  }
+  } */
   
-  .index-release {
+  .index-order, .index-release {
     font-family: $font-family-heading;
     font-size: 2rem;
     line-height: 2rem;

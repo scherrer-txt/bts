@@ -9,7 +9,6 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 ## Backlog/Ongoing
 - [] Simplify the code
 - [] Add a lazy load script
-- [] Make the website even more accessible 
 
 - [] TOC: Final Form
     - Bar under menu — Actual headline | [TOC icon] ← dropdown with all headlines (*levels 1-3*)
@@ -20,6 +19,10 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
         - Menu item 1 — Menu item 2 — Menu item 3 — "Theme [ Dark | Light ]" — "Font size [ - | + | ↺ ]"
 
 ## Did
+- [x] Score 100 in Accessibility on Lighthouse
+- [x] Score 100 in Best Practices on Lighthouse
+- [x] Score 100 in SEO on Lighthouse
+- [x] PWA-compliant on Lighthouse
 - [x] Replace every jpg & png with avif
 - [x] Fix the Chrome theme problem
     - [x] Hardcode DARK theme as the default web theme

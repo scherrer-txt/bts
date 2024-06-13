@@ -6,6 +6,8 @@ window.addEventListener('DOMContentLoaded', () => {
 
   function setTheme(theme) {
     document.documentElement.setAttribute('data-theme', theme);
+    button.setAttribute('aria-checked', theme === 'dark' ? 'false' : 'true');
+    button.setAttribute('aria-label', theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
     button.classList.toggle('moon', theme === 'dark');
     button.classList.toggle('sun', theme === 'light');
     localStorage.setItem('theme', theme);

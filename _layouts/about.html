@@ -3,6 +3,7 @@
 <!-- Oh, well, this is awkward… Now you’re reading my notes, huh -->
 <html lang="{{ page.lang | default: "cs" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
         {%- include head.html -%}
+        {% include lazyload.html %}
   <body>
           {% include menu.html collection=site.data.home.navbar_entries %}
           <main class="page-content-about" aria-label="Content">
