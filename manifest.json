@@ -1,11 +1,27 @@
 {
-    "name": "Starter",
-    "short_name": "Starter",
-    "icons": [{
-        "src": "google-touch-icon.png",
-        "sizes": "512x512"
-    }],
-    "background_color": "#ffffff",
-    "theme_color": "#ffffff",
-    "display": "fullscreen"
-}
+    "name": "Behind the Screens",
+    "short_name": "BTS",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0e0e0e",
+    "theme_color": "#2AFF00",
+    "description": "Blog o všem, s čím se jako kreativní člověk setkávám za obrazovkama. Since 2020.",
+    "icons": [
+      {
+        "src": "/assets/images/favicon/apple-touch-icon.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      },
+      {
+        "src": "/assets/images/favicon/favicon-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/assets/images/favicon/favicon-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
