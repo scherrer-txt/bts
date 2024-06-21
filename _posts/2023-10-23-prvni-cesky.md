@@ -6,7 +6,7 @@ name: První český AI obálky
 release: 2023/10
 perex: Jak jsem udělal jedny z prvních knižních AI-generated obálek v Česku — tohle je další Behind the Screens!
 order: "12"
-thumbnail: "/images/thumbs/bts-thumb-12.avif"
+thumbnail: "/images/thumbs/bts-thumb-12.jpg"
 background: "/images/bg/12.avif"
 redirect_from: "/bts12.html"
 published: true

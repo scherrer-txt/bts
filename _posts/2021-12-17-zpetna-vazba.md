@@ -6,7 +6,7 @@ name: O zpětný vazbě
 release: 2021/12
 perex: Před 10 lety jsem napsal svoji první povídku, která vyhrála v soutěži a vyšla ve sborníku. Proč jsem si dal od psaní 5 let pauzu a jak s tím souvisí zpětná vazba?
 order: "08"
-thumbnail: "/images/thumbs/bts-thumb-08.avif"
+thumbnail: "/images/thumbs/bts-thumb-08.jpg"
 background: "/images/bg/08.avif"
 redirect_from: "/bts08.html"
 published: true

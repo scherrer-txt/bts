@@ -6,7 +6,7 @@ name: Merch pro EREM
 release: 2020/06
 perex: Rozhodl jsem se začít sdílet storky z průběhu mý tvorby. První díl možná někdy větší série
 order: "01"
-thumbnail: "/images/thumbs/bts-thumb-01.avif"
+thumbnail: "/images/thumbs/bts-thumb-01.jpg"
 background: "/images/bg/01.avif"
 redirect_from: "/bts01.html"
 published: true
@@ -23,8 +23,9 @@ Erem, respektive MC Kadilaka, mi kdysi dávno ukázal David Kopecký, když jsem
 
 Tyhle dvě věci by spolu jinak nesouvisely, ale jednou se mi na zdi objevil tenhle tweet od Martyho.
 
-![img](https://miro.medium.com/v2/resize:fit:640/format:webp/1*_BAibJ3q8TP3a0djEiuUBg.png) <div alt="screenshot z twitteru, Marty napsal: Pořád hledám nějakýho schopnýho grafika na pomoc s merchem. Pod tím můj komentář, který je jen emoji člověka s pokrčenýma ramenama. Pod tím je Martyho odpověď: Ozvu se, a emoji očí"></div>
-
+<div class="gallery-container">
+  <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:640/format:webp/1*_BAibJ3q8TP3a0djEiuUBg.png)');" alt="screenshot z twitteru, Marty napsal: Pořád hledám nějakýho schopnýho grafika na pomoc s merchem. Pod tím můj komentář, který je jen emoji člověka s pokrčenýma ramenama. Pod tím je Martyho odpověď: Ozvu se, a emoji očí"></div>
+</div>
 
 ## Zápletka
 Myslel jsem, že během těch dvou dnů už někoho našli, tak jsem mu tam jen hodil smajlíka, aby jako věděl, že jsem kdyby něco tady.

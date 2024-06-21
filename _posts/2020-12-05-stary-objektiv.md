@@ -6,7 +6,7 @@ name: 60 let starý objektiv
 release: 2020/12
 perex: O objevování krásy v nedokonalostech; o nahlížení na svět skrz zaprášený starý sklo
 order: "04"
-thumbnail: "/images/thumbs/bts-thumb-04.avif"
+thumbnail: "/images/thumbs/bts-thumb-04.jpg"
 background: "/images/bg/04.avif"
 redirect_from: "/bts04.html"
 published: true

@@ -19,6 +19,7 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
         - Menu item 1 — Menu item 2 — Menu item 3 — "Theme [ Dark | Light ]" — "Font size [ - | + | ↺ ]"
 
 ## Did
+- [x] Switch the share thumbnails from aviff back to jpg (*this is what you get when you're trying to hard to have a fast-loading images everywhere, I guess*)
 - [x] Score 98 in Performance on Lighthouse (*can't go higher than that — thanks, Adobe Fonts*)
 - [x] Score 100 in Accessibility on Lighthouse
 - [x] Score 100 in Best Practices on Lighthouse

@@ -6,7 +6,7 @@ name: Jak se přichází o sny
 release: 2020/10
 perex: O tom, jak je někdy neuvěřitelně těžký, chtít po sobě pořád víc a víc
 order: "03"
-thumbnail: "/images/thumbs/bts-thumb-03.avif"
+thumbnail: "/images/thumbs/bts-thumb-03.jpg"
 background: "/images/bg/03.avif"
 redirect_from: "/bts03.html"
 published: true

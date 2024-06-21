@@ -6,7 +6,7 @@ name: Kreativita, originalita a rap
 release: 2023/11
 perex: Jak do sebe zapadá kreativita a originalita? A co rap? Další Behind the Screens! Držte si klobouky, we are going metaphysical!
 order: "13"
-thumbnail: "/images/thumbs/bts-thumb-13.avif"
+thumbnail: "/images/thumbs/bts-thumb-13.jpg"
 background: "/images/bg/13.avif"
 redirect_from: "/bts13.html"
 published: true
