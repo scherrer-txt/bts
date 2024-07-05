@@ -71,6 +71,11 @@ ol:last-child, li:last-child, ul:last-child {
     width: 85%;
   }
 
+  ul li {
+    line-height: $line-height-base-mobile;
+    margin-bottom: 0;
+  }
+
   li {
     width: fit-content;
     margin-top: 1rem;
@@ -95,12 +100,13 @@ ol:last-child, li:last-child, ul:last-child {
   }
   
   ol li {
-    font-size: $font-size-smaller-mobile;
-    line-height: $line-height-smaller-mobile;
+    font-size: $font-size-base-mobile;
+    line-height: $line-height-base-mobile;
+    margin-bottom: 0;
 
     & em, strong, b {
-      font-size: $font-size-smaller-mobile;
-      line-height: $line-height-smaller-mobile;
+      font-size: $font-size-base-mobile;
+      line-height: $line-height-base-mobile;
     }
   }
 
