@@ -7,10 +7,11 @@
     background-color: var(--bg);
     border-radius: $border-radius;
     max-width: 99vw;
-    border-bottom: var(--border-switch) solid 1px;
-    border-top: var(--border-switch) solid 1px;
+    /*border-bottom: var(--border-switch) solid 1px;
+    border-top: var(--border-switch) solid 1px;*/
     margin-bottom: -3rem;
     z-index: 9;
+    box-shadow: $drop-shadow;
   }
 
   .page-content-main {

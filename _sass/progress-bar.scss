@@ -7,4 +7,6 @@
     bottom: 0;
     border-top: 4px var(--bg) solid;
     z-index: 100;
+    transition: $transition-02-ease;
+    opacity: 1;
   }

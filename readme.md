@@ -5,6 +5,7 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 ## To-do
 - [] Upload images for bts-01, bts-02 and bts-03
 - [] Fix the gallery for mobile
+- [] Create a "Linktree" of all the stuff that was previously in the footer
 
 ## Backlog/Ongoing
 - [] Simplify the code
@@ -19,6 +20,10 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
         - Menu item 1 — Menu item 2 — Menu item 3 — "Theme [ Dark | Light ]" — "Font size [ - | + | ↺ ]"
 
 ## Did
+- [x] Fix the progress bar so that 1) it calculates the lenght of only the article and 2) dissappears at the end of the article
+- [x] Reduce the footer to minimum
+- [x] Fix some minor issues with the width of elements on page, so that it's flush with the new menu
+- [x] Switch the menu to pre-final form (*Introduced the squeeze animation for the menu when scrolled*)
 - [x] Switch the share thumbnails from aviff back to jpg (*this is what you get when you're trying to hard to have a fast-loading images everywhere, I guess*)
 - [x] Score 98 in Performance on Lighthouse (*can't go higher than that — thanks, Adobe Fonts*)
 - [x] Score 100 in Accessibility on Lighthouse
