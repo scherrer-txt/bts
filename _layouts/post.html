@@ -49,9 +49,9 @@
 
   <div class="post-end"></div>
 
-<!-- <div class="post-meta-background" style="background-image: url('{{ site.url }}{{ page.background }}');"></div>-->
 </main>
 <div class="post-nav" style="background-image: url('{{ site.url }}{{ page.background }}');">
+  <div class="post-nav-grad"></div>
 <div class="post-nav-container">
   {% if page.previous %}
     <div class="post-nav-item">
@@ -75,9 +75,9 @@
 </div>
 
 {% include progress-bar.html %}
+
 {%- include footer.html -%}
 <script src="{{ site.url }}/assets/js/header-anchors.js"></script>
 <script src="{{ site.url }}/assets/js/nav-hover.js"></script>
-<!-- <script src="{{ site.url }}/assets/js/bg-parallax.js"></script> -->
 </body>
 </html>
