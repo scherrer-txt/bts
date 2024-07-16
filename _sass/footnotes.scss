@@ -3,12 +3,18 @@
     width: 100%;
     scroll-margin-top: 5rem;
   }
-  
-  .footnotes li p {
+
+  .footnotes ol p,
+  .footnotes li p,
+  .footnotes li::marker,
+  .footnotes ol li em,
+  .footnotes ol li i {
     width: fit-content;
     margin: -0.3rem 0;
+    font-size: $font-size-smaller;
+    line-height: $line-height-smaller;
   }
-  
+
   a.footnote {
     text-decoration: none;
   }
@@ -25,12 +31,22 @@
   
   .reversefootnote {
     font-family: $font-family-heading;
+    text-decoration: none;
     font-size: 1rem;
-    font-weight: 600;
-    letter-spacing: 0.03rem;
+    font-weight: 300;
+    letter-spacing: 0.05rem;
     margin-left: 0.5rem;
     display: inline-flex;
     text-align: center;
+    margin-top: -0.1rem;
+    padding: 0.1rem 0.5rem 0.3rem;
+    border-radius: 8px;
+    border: solid 1px var(--links);
+
+    &:hover {
+      color: var(--bg);
+      background-color: var(--links);
+    }
   }
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
@@ -50,7 +66,9 @@
 }
 
   .footnotes li p,
-  .footnotes li::marker {
+  .footnotes li::marker,
+  .footnotes ol li em,
+  .footnotes ol li i {
     width: fit-content;
     margin: -0.3rem 0;
     font-size: 0.8rem;
