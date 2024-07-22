@@ -6,8 +6,13 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 - [] Upload images for bts-01, bts-02 and bts-03
 - [] Fix the gallery for mobile
 - [] Create a "Linktree" of all the stuff that was previously in the footer
+- [] Create "/now" page
+- [] Create "/stack" page
+- [] Create "/ai" page
+- [] Improve typography using [Liquid filters](https://sylvaindurand.org/improving-typography-on-jekyll/)
 
 ## Backlog/Ongoing
+- [] Transform BTS into my digital garden
 - [] Simplify the code
 - [] Add a lazy load script
 
