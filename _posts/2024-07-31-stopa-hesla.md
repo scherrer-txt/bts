@@ -26,19 +26,19 @@ Různý úniky dat se dějou relativně často — unikají data jako e-maily a 
 > Pod hadrama jsme všichni nazí, ale stejně je nosíme. Stejně máme v pokoji záclony anebo závěsy.
 
 ## Better safe than sorry
-Spousta z nás si při odchodu ze záchodu celkem běžně myje ruce, zamyká při odchodu byt, počítač a mobil má na heslo, používá kondomy nebo aspoň neolizuje zábradlí a madla v MHD — nevidím důvod zůstávat v oblasti kyberbezpečnosti a soukromí u důvěry a naděje v lidstvo.
+Spousta z nás si při odchodu ze záchodu celkem běžně myje ruce, zamyká při odchodu byt, počítač a mobil má na heslo, používá kondomy nebo aspoň neolizuje zábradlí a madla v MHD — nevidím důvod zůstávat v oblasti kyberbezpečnosti a soukromí jen u důvěry a naděje v lidstvo a dál to neřešit.
 
-Svět je komplikovaný místo. Každý den se objeví nový téma, který je potřeba teď hned řešit, protože včera bylo pozdě a planeta hoří, a volby, a Izrael, a Putin, a gender. Je toho hodně. Každý máme jiný možnosti a priority. Někdo prostě na svůj stůl další téma nenacpe. Podle mě úplně v pořádku. Přijde mi ale lepší narovinu říct, že „nemám kapacitu řešit ještě tohle téma“, než se snažit stavět do pózy, že je to stejně jedno, s protiargumenty jako:
+Na druhou stranu je svět dost komplikovaný místo. Každý den se objeví nový téma, který je potřeba teď hned řešit, protože včera bylo pozdě a planeta hoří, a volby, a Izrael, a Putin, a gender. Každý máme jiný možnosti a priority. Někdo prostě na svůj stůl další téma nenacpe. Podle mě úplně v pořádku. Přijde mi ale lepší narovinu říct, že „nemám kapacitu řešit ještě tohle téma“, než se snažit stavět do pózy, že je to stejně jedno, s protiargumenty jako:
 
-### 1. „Stejně už tvoje data mají“
+1. „Stejně už tvoje data mají“
 Je politováníhodná chyba, že třeba Google a Meta mají moje data za posledních ~16 let. Rozhodně to ale není důvod, abych nad tím mávl rukou — to by bylo jako říct, že na co si umývat ruce, když už je mám stejně ušpiněný.
 
 Tehdy jsem nevěděl, co vím teď. Byla to chyba, kterou když můžu dneska neudělat, tak ji fakt rád neudělám. Ať si moje starý data nechají, nový jim dávat nechci.
 
-### 2. „Stejně si na tobě nemají co vzít“
+2. „Stejně si na tobě nemají co vzít“
 Hele, pod hadrama jsme všichni nazí, ale stejně je nosíme. Stejně máme v pokoji záclony anebo závěsy. Takže sice nemám, co skrývat, ale zároveň úplně nepotřebuju, aby měla dostatečně ochotná entita možnost 1) hrabat se v mých datech a zneužívat je, 2) trénovat na nich AI, 3) mít je někde na serveru, z kterýho to leakne — a to není otázka „jestli“ to leakne, ale „kdy“.
 
-### 3. „Tvoje data nikoho nezajímají“
+3. „Tvoje data nikoho nezajímají“
 Zajímám minimálně nějaký lidi z Bangladeše, Srí Lanky, Indie, Číny a Pakistánu. Aspoň podle asi třiceti varovných e-mailů, který mi v horizontu dvou měsíců přišly od služeb, do kterých se lidi z těchhle zemí snažili (neúspěšně) přihlásit.
 
 Kdo má jakýkoliv online herní účet, tak ví, že existuje fakt tuna [bad actors](https://en.wikipedia.org/wiki/Threat_actor), který zajímají účty jiných lidí. Případů, kdy někdo přišel o Steam, LoL nebo WoW účet znám docela dost, někteří z mýho čtenářstva pravděpodobně taky. Ale nemusí jít jen o hry. Všichni jsme se aspoň jednou setkali s tím, že nám od někoho z ničeho nic přišel nějaký podezřelý odkaz — o kterým pak dotyčný ani nevěděl, že ho poslal.
