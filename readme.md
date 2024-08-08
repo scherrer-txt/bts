@@ -10,6 +10,7 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 - [] Create "/stack" page
 - [] Create "/ai" page
 - [] Improve typography using [Liquid filters](https://sylvaindurand.org/improving-typography-on-jekyll/)
+- [] Create a repo or a page with all of the BGs for download
 
 ## Backlog/Ongoing
 - [] Transform BTS into my digital garden
