@@ -28,15 +28,12 @@ Spousta z nás si při odchodu ze záchodu celkem běžně myje ruce, zamyká p�
 
 Zkusím rozebrat tři nejčastější argumenty, s kterýma jsem se setkal, a říct, proč bezpečnost a soukromí jedno fakt nejsou.
 
-1. **„Stejně už tvoje data mají“**
-    - Jo, je blbý, že třeba Google a Meta mají moje data za posledních ~16 let. Rozhodně to ale není důvod, abych nad tím mávl rukou — to by bylo jako říct, že na co si umývat ruce, když už je mám stejně ušpiněný. Ať si moje starý data nechají, nový jim ale dávat nechci (minimálně ne tak jednoduše).
+1. **„Stejně už tvoje data mají“** — Jo, je blbý, že třeba Google a Meta mají moje data za posledních ~16 let. Rozhodně to ale není důvod, abych nad tím mávl rukou — to by bylo jako říct, že na co si umývat ruce, když už je mám stejně ušpiněný. Ať si moje starý data nechají, nový jim ale dávat nechci (minimálně ne tak jednoduše).
 
-2. **„Stejně si na tobě nemají co vzít“**
-    - Pod hadrama jsme všichni nazí, ale stejně je nosíme. Stejně máme v pokoji záclony anebo závěsy. Nemám co skrývat. Zároveň ale nepotřebuju, aby měla dostatečně ochotná entita možnost hrabat se v mých datech a zneužívat je, nebo na nich trénovat AI, nebo aby je měla někde na serveru, z kterýho ty data leaknou — a to není otázka „*jestli*“, ale „*kdy*“.
+2. **„Stejně si na tobě nemají co vzít“** — Pod hadrama jsme všichni nazí, ale stejně je nosíme. Stejně máme v pokoji záclony anebo závěsy. Nemám co skrývat. Zároveň ale nepotřebuju, aby měla dostatečně ochotná entita možnost hrabat se v mých datech a zneužívat je, nebo na nich trénovat AI, nebo aby je měla někde na serveru, z kterýho ty data leaknou — a to není otázka „*jestli*“, ale „*kdy*“.
 
-3. **„Tvoje data nikoho nezajímají“**
-    - Já osobně zajímám docela dost lidí z Asie. Aspoň podle asi třiceti varovných e-mailů, který mi v horizontu dvou měsíců přišly od služeb, do kterých se někdo z těchhle zemí snažil (neúspěšně) přihlásit. V tomhle případě navíc ani nejde o moje/tvoje, ale o *naše* data. Jde o to množství hesel a údajů, s kterýma se dá pracovat, který se často kupují v balících po desítkách milionů.
-    - I když je úspěšnost prolomení zabezpečení třeba 0,001 %, z deseti milionů účtů je to pořád tisícovka smolařů, co můžou přijít o úspory nebo přístup k osobním/pracovním účtům.
+3. **„Tvoje data nikoho nezajímají“** — Já osobně zajímám docela dost lidí z Asie. Aspoň podle asi třiceti varovných e-mailů, který mi v horizontu dvou měsíců přišly od služeb, do kterých se někdo z těchhle zemí snažil (neúspěšně) přihlásit. V tomhle případě navíc ani nejde o moje/tvoje, ale o *naše* data. Jde o to množství hesel a údajů, s kterýma se dá pracovat, který se často kupují v balících po desítkách milionů.
+- I když je úspěšnost prolomení zabezpečení třeba 0,001 %, z deseti milionů účtů je to pořád tisícovka smolařů, co můžou přijít o úspory nebo přístup k osobním/pracovním účtům.
 
 > Já tuhle možnost měl, tak jsem ji uplatnil. Mrzí mě, že ji lidi přede mnou neměli.
 
@@ -57,7 +54,7 @@ Podobně jsem pročistil i svoji druhou schránku. Tu teď čeká pozvolná arch
 > Měl jsem asi 500 účtů. Zbylo mi 130.
 
 ## Fuck off, (almost) everyone
-Od roku 2011[^6] používám [Firefox](https://www.mozilla.org/en-US/firefox/). S přestávkama — chvíli jsem používal Chrome (což je v podstatě [spyware](https://www.gnu.org/proprietary/malware-google.en.html) a nesmyslný žrout výkonu), chvíli Operu a Operu GX (což je odnedávna taky spyware, akorát [posílají data do Číny](https://www.reddit.com/r/operabrowser/comments/ajmbox/opera_is_spyware/)[^7]), pak jsem experimentoval s Brave a Vivaldi (který by byly v pohodě, kdyby to nebyly jen převlečený Chrome[^8]), než jsem zase zaparkoval u ohnivý lišky.
+Od roku 2011[^6] používám [Firefox](https://www.mozilla.org/en-US/firefox/). S přestávkama — chvíli jsem používal Chrome (což je v podstatě [malware](https://www.gnu.org/proprietary/malware-google.en.html) a nesmyslný žrout výkonu), chvíli Operu a Operu GX (což je odnedávna taky spyware, akorát [posílají data do Číny](https://www.reddit.com/r/operabrowser/comments/ajmbox/opera_is_spyware/)[^7]), pak jsem experimentoval s Brave a Vivaldi (který by byly v pohodě, kdyby to nebyly jen převlečený Chrome[^8]), než jsem zase zaparkoval u ohnivý lišky.
 
 Při přechodu do novýho prohlížeče jsem si vždycky importoval svoje záložky a hesla. Díky tomu mám docela rozsáhlou databázi hesel a účtů, který jsem si všude možně za ty roky vytvářel. Účtů bylo asi 500. V průběhu let jsem je občas zredukoval, ale až teď byl prostor a důvod na pořádnou čistku.
 
@@ -101,7 +98,7 @@ Jo, už jo. Náhodných e-mailů mi chodí naprostý minimum — a to, co mi cho
 Kdyby někoho zajímalo, kam si chodit pro informace ohledně privacy, tak bych doporučil [r/Privacy](https://www.reddit.com/r/privacy/), potažmo [r/cybersecurity](https://www.reddit.com/r/cybersecurity/), [blog Mozilly](https://blog.mozilla.org/en/), kde informujou o aktuálním dění, a kanál [Louis Rossmann](https://www.youtube.com/@rossmanngroup). [LinusTechTips](https://www.youtube.com/@LinusTechTips) se tématu taky občas věnuje a má docela zajímavý informace a alternativy.
 
 ## Co si z toho vzít
-Jak jsem říkal výš, svět je dost komplikovanej sám o sobě. Proto miluju hledat cesty, jak jednou něco nastavit, ideálně tak, aby to prostě fungovalo a/nebo abych to nemusel řešit následujících pár let. Set up and forget, se tomu říká. Následující tipy, kterých se sám držím, z týhle filozofie dost vychází.
+Jak jsem říkal výš, svět je dost komplikovanej sám o sobě. Proto miluju hledat cesty, jak jednou něco nastavit, ideálně tak, aby to prostě fungovalo a/nebo abych to nemusel řešit následujících pár let. Set up and forget, se tomu říká. Následující tipy, kterých se sám držím, z týhle filozofie dost vychází. Ke všemu existují alternativy, ale ty doporučovat nebudu, nemám s něma zkušenosti.
 
 1. **Nepoužívat všude stejný heslo** a když už, tak ho opepřit. **Pepření** je to, že mám nějaký heslo, třeba „heslo“, za který dám nějaký náhodný znaky, třeba „1_?#2č“. Ty náhodný znaky jsou pro každej účet jiný. V tomhle případě i kdybych používal všude stejný „heslo“, tak pokud ho vždycky opepřím trochu jinak, pořád bude dost obtížně prolomitelný.
 - **Doporučuju pepřit nebo si hesla generovat prohlížečem**.
@@ -113,7 +110,7 @@ Jak jsem říkal výš, svět je dost komplikovanej sám o sobě. Proto miluju h
 - **Doporučuju [2FAS](https://2fas.com)**.
 
 4. **Používat nějakou klíčenku na hesla je fajn**, protože si člověk nemusí žádný heslo pamatovat, na mobilu i v prohlížeči se při přihlašování vládají automaticky, a některý klíčenky mají možnost kontroly síly hesel, jejich generování i monitorování.
-- **Dopuručuju [Firefoxu](https://www.mozilla.org/en-US/firefox/new/) nebo [Proton Pass](https://proton.me/pass)**.
+- **Dopuručuju [Firefox Password Manager](https://www.mozilla.org/en-US/firefox/features/password-manager/) nebo [Proton Pass](https://proton.me/pass)**.
 
 5. **Jednorázový e-maily** jsou life saver. Pokud se někde chci zaregistrovat, abych jednorázově něco udělal (využil nějakou akci, něco si stáhl, něco získal), přičemž neplánuju ten vytvořený účet dál používat a zároveň se nechci dealovat s dark patterns rušení účtu, tak jednorázový e-maily jsou na tohle skvělý. Člověk má možnost si vytvořit účet, potvrdit e-mailovou adresu, udělat zamýšlenou aktivitu a pak stačí jen ten e-mail smazat.
 - **Doporučuju [Firefox Relay](https://relay.firefox.com/accounts/profile/) nebo [SimpleLogin](https://simplelogin.io/) od Protonu**.
