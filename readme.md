@@ -25,6 +25,7 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
         - Menu item 1 — Menu item 2 — Menu item 3 — "Theme [ Dark | Light ]" — "Font size [ - | + | ↺ ]"
 
 ## Did
+- [x] Added a Dark Reader lock (because the default state is already a dark mode)
 - [x] Redo legacy BGs (01-13)
 - [x] Do something about the "↑ zpátky" buttons in footnotes
 - [x] Fix About Me page links
