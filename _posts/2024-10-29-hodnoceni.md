@@ -4,7 +4,7 @@ author: scherrer.txt
 title: "„10 z 10“ je blbost | Behind the Screens | by Scherrer.txt"
 name: „10 z 10“ je blbost
 release: 2024/10
-perex: O hodnocení věcí
+perex: Možná existuje lepší způsob jak hodnotit věci. A možná je občas lepší nehodnotit vůbec. Behind the Screens je zpátky.
 order: "21"
 thumbnail: "/images/thumbs/bts-thumb-21.jpg"
 background: "/images/bg/21.avif"
