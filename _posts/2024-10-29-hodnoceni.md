@@ -26,22 +26,13 @@ Já už několik let používám sedmičkovou škálu, která mi vyhovuje nejví
 
 | Bod na škále 1-7 | Slovní ekvivalent | Odpovídající bod na škále 1-10 |
 | ---------------- | ----------------- | ------------------------------ |
-| 7                | Nejlepší          | 9-10                           |
-| 6                | Lepší             | 8                              |
-| 5                | Nadpůrměr         | 7                              |
-| 4                | Průměr/neutral    | 5-6                            |
-| 3                | Podprůměr         | 4                              |
-| 2                | Špatný            | 3                              |
-| 1                | Nejhorší          | 1-2                            |
-
-Bod na sedmičkové škále | Slovní ekvivalent | Odpovídající body na desítkové škále
-- 7 = Nejlepší = 9-10
-- 6 = Lepší = 8
-- 5 = Nadpůrměr = 7
-- 4 = Průměr/neutral = 5-6
-- 3 = Podprůměr = 4
-- 2 = Špatný = 3
-- 1 = Nejhorší = 1-2
+| 7 | Nejlepší | 9-10 |
+| 6 | Lepší | 8 |
+| 5 | Nadpůrměr | 7 |
+| 4 | Průměr/neutral | 5-6 |
+| 3 | Podprůměr | 4 |
+| 2 | Špatný | 3 |
+| 1 | Nejhorší | 1-2 |
 
 ## Jaký problém to řeší
 Sedmičková škála je velmi intuitivní. Tři pozitivní stupně, tři negativní, jeden neutrální bod. Jednotlivé stupně jsem schopný mezi sebou celkem jednoduše porovnat a je mezi nimi znatelný rozdíl. Tím šetřím mentální energii, která je nutná pro smrsknutí slovního hodnocení do čísel. Zároveň se mi nestává, že bych měl potřebu si hodnocení 7/7 šetřit. Prostě pokud je to, co hodnotím, fakt skvělý, tak to dostane 7. 
