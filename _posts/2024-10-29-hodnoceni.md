@@ -1,8 +1,8 @@
 ---
 layout: post
 author: scherrer.txt
-title: "10 z 10 je blbost | Behind the Screens | by Scherrer.txt"
-name: 10 z 10 je blbost
+title: "„10 z 10“ je blbost | Behind the Screens | by Scherrer.txt"
+name: „10 z 10“ je blbost
 release: 2024/10
 perex: O hodnocení věcí
 order: "21"
