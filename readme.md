@@ -1,6 +1,21 @@
-# [BTS](https://scherrer-txt.github.io/bts/)
+# [Behind the Screens](https://scherrer-txt.github.io/bts/)
+<img style="height:200px!important;" src="https://scherrer-txt.github.io/bts/assets/bts-logo-big.svg" alt="">
 
-BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Originaly created in June of 2020, migrated to Github Pages in March of 2024.
+## Table of contents
+- [About](#about)
+- [License](#license)
+- [To-do](#to-do)
+- [Backlog](#backlog)
+- [Did](#did)
+
+## About
+Behind the Screens is a weblog by Kevin Wulfric Scherrer. Originaly created in June of 2020, migrated to Github Pages in March of 2024.
+
+Formerly based on [moonwalk](https://github.com/abhinavs/moonwalk) theme by [abhinavs](https://github.com/abhinavs)
+
+## License
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://scherrer-txt.github.io/bts/g">Behind the Screens</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/scherrer-txt">Kevin Scherrer</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+
 
 ## To-do
 - [] Upload images for bts-01, bts-02 and bts-03
@@ -13,7 +28,7 @@ BTS (Behind the Screens) is a blog by scherrer.txt (Kevin Wulfric Scherrer). Ori
 - [] Create a repo or a page with all of the BGs for download
 - [] Add a lazy load script
 
-## Backlog/Ongoing
+## Backlog
 - [] Transform BTS into my digital garden
 
 - [] TOC: Final Form
