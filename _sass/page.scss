@@ -1,36 +1,27 @@
-  .page-content {
-    display: flex;
-    flex-direction: column;
-    padding: 1em 15% 10rem;
-    align-items: center;
-    position: static;
-    background-color: var(--bg);
-    border-radius: $border-radius;
-    max-width: 99vw;
-    /*border-bottom: var(--border-switch) solid 1px;
-    border-top: var(--border-switch) solid 1px;*/
-    margin-bottom: -3rem;
-    z-index: 9;
-    box-shadow: $drop-shadow;
-  }
+.page {
+  display: flex;
+  flex-direction: column;
+  padding: 1em 15% 10rem;
+  position: relative;
+  background-color: var(--bg);
+  border-radius: $border-radius;
+  margin: 0 0 -2rem;
+  align-items: center;
+  z-index: 2;
+}
 
-  .page-content-main {
-    display: flex;
-    flex-direction: column;
-    padding: 0;
-    align-items: center;
-    position: relative;
-    padding-top: 0vh;
-  }
+.page-content {
+  display: flex;
+  flex-direction: column;
+  //align-items: center;
+  position: relative;
+  padding-top: 0;
+  width: 45vw;
+}
 
-  .page-content-about {
-    display: flex;
-    flex-direction: column;
-    padding: 0;
-    align-items: center;
-    position: relative;
-    padding-top: 0vh;
-  }
+.page-content-main.about {
+  background: none;
+}
 
   .scroll-anchor {
     scroll-margin-top: 20rem;

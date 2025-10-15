@@ -1,0 +1,72 @@
+---
+permalink: /test.html
+layout: default
+css: /assets/css/_typography.scss
+---
+
+<body>
+<div class="page">
+  <main class="page-content">
+    <h1>H1 — Zkušební Nadpis Pro Hierarchii</h1>
+    <p>Tohle je úvodní odstavec<sup id="fnref:1" role="doc-noteref"><a class="footnote" href="#fn1" rel="footnote">1</a></sup> pro dlouhý text. Cílem je otestovat <em>vertikální rytmus</em>, čitelnost při různých line-height a stabilitu měřítka napříč zařízeními. Délka řádku by se měla držet v rozmezí 60–70 znaků na desktopu.</p>
+    <p>Pestřejší a bohatší v tom smyslu, že jako umělci jsme zvyklí vnímat <em>věci z vícero rovin</em> (emočních, symbolických, intelektuálních…). Myslím, že <strong>mnohem víc cítíme</strong> jak to dobré, tak i to špatné. Což přináší pocity odloučení, nepochopení, samoty, sklony k pochybování o světě i sobě samém, celkový životní cynismus i pesimismus a něco, co by šlo označit jako vnitřní rozervanost — bohužel to ale není ta romantická a naivní představa, že umělci mají hlad a bojují s démony a pak usednou k dílu a celý to klikne a jejich život začne v jeden moment dávat naprostý smysl, což pak vede k náhlýmu úspěchu přes noc, slávě, docenění a vnitřnímu klidu. Máme hlad, bojujeme s démony, momenty, kdy usedáme k dílu a celý to klikne — to všechno je pravda. Až na to, že to často prostě zkurveně bolí, protože odhalit srdce znamená rozříznout kůži, vyštípat žebra a za tepla ho ještě tlukoucí narvat do díla, přitom pořád dokola čelit odmítnutí, nepochopení, výsměchu, pochybám, lhostejnosti, s nabitým kvérem vnitřního fízla na spánku.</p>
+    <pre>
+        <code>// kód by měl mít vlastní rytmus, ale nepůsobit hlučně</code>
+        <code>const scale = (base, ratio, steps) => base * Math.pow(ratio, steps);</code>
+        <code>console.log(scale(24, 1.25, 6)); // ≈ 91 px</code>
+    </pre>
+    <small>Pestřejší a bohatší v tom smyslu, že jako umělci jsme zvyklí vnímat <em>věci z vícero rovin</em> (emočních, symbolických, intelektuálních…). Myslím, že <strong>mnohem víc cítíme</strong> jak to dobré, tak i to špatné. Což přináší pocity odloučení, nepochopení, samoty, sklony k pochybování o světě i sobě samém.</small>
+
+    <div class="footnotes">
+        <ol>
+            <li id="fn:1" role="doc-endnote">
+                <p>Tohle rozhodně od Mety nevnímám jako něco, za co jim patří bonusový bodíky. Není to něco, co dělají z dobroty duše, jen si kryjou prdel před žalobama — tak, jak to mělo udělat Midjourney, OpenAI a jakejkoliv AI startup, co dneska frčí. Možnost nesouhlasit by měla být naprostej základ.</p>
+            </li>
+            <li id="fn:1" role="doc-endnote">
+                <p>Tohle rozhodně od Mety nevnímám jako něco, za co jim patří bonusový bodíky. Není to něco, co dělají z dobroty duše, jen si kryjou prdel před žalobama — tak, jak to mělo udělat Midjourney, OpenAI a jakejkoliv AI startup, co dneska frčí. Možnost nesouhlasit by měla být naprostej základ.</p>
+            </li>
+            <li id="fn:1" role="doc-endnote">
+                <p>Tohle rozhodně od Mety nevnímám jako něco, za co jim patří bonusový bodíky. Není to něco, co dělají z dobroty duše, jen si kryjou prdel před žalobama — tak, jak to mělo udělat Midjourney, OpenAI a jakejkoliv AI startup, co dneska frčí. Možnost nesouhlasit by měla být naprostej základ.</p>
+            </li>
+        </ol>
+    </div>
+
+    <h2>H2 — Podnadpis Ještě Pořád Robustní</h2>
+    <p><strong>Bold</strong> a <em>italic</em> by neměly rozbíjet řádkování. Přidejme taky odrážky, ať vidíme, jak si vede seznam:</p>
+    <ul>
+      <li>První bod — krátký.</li>
+      <li>Druhý bod s delší větou pro kontrolu zalamování a konzistence.</li>
+      <li>Třetí bod — zakončení.</li>
+    </ul>
+
+    <h3>H3 — Ještě Jeden Stupeň Níž Lorem Ipsum Dolor Sit Amet</h3>
+    <blockquote>Citát Typografie je architektura jazyka. Dobrá mřížka nebolí. Špatná se nedá přehlédnout.</blockquote>
+
+    <h4>H4 — Kód a Tabulka Lorem Ipsum Dolor Sit Amet Proin Gravida Sic Nunquan Adipiscit Elit</h4>
+    <pre><code>// kód by měl mít vlastní rytmus, ale nepůsobit hlučně
+const scale = (base, ratio, steps) => base * Math.pow(ratio, steps);
+console.log(scale(24, 1.25, 6)); // ≈ 91 px
+</code></pre>
+
+    <table>
+      <thead><tr><th>Úroveň</th><th>Velikost</th><th>Line-height</th></tr></thead>
+      <tbody>
+        <tr><td>BODY</td><td>var(--fs-body)</td><td>var(--lh-body)</td></tr>
+        <tr><td>H6</td><td>var(--fs-h6)</td><td>var(--lh-h6)</td></tr>
+        <tr><td>H5</td><td>var(--fs-h5)</td><td>var(--lh-h5)</td></tr>
+        <tr><td>H4</td><td>var(--fs-h4)</td><td>var(--lh-h4)</td></tr>
+        <tr><td>H3</td><td>var(--fs-h3)</td><td>var(--lh-h3)</td></tr>
+        <tr><td>H2</td><td>var(--fs-h2)</td><td>var(--lh-h2)</td></tr>
+        <tr><td>H1</td><td>var(--fs-h1)</td><td>var(--lh-h1)</td></tr>
+      </tbody>
+    </table>
+
+    <h5>H5 — Další Odstavec Lorem Ipsum Dolor Sit Amet Proin Gravida Sic Nunquan Adipiscit Elit</h5>
+    <p>Kontrast textu drž raději na úrovni #222 na #fdfdfd; absolutní černá na bílé je při velkých velikostech opticky ostrá. Odkazy <a href="#">by měly vypadat jako odkazy</a>, ale neměly by křičet.</p>
+
+    <h6>H6 — Finální Kontrola Lorem Ipsum Dolor Sit Amet Proin Gravida Sic Nunquan Adipiscit Elit</h6>
+    <p>Teď si zkus pohýbat „LH tight“ a „LH loose“. H1 nech tight (1.10–1.25), text kolem 1.55–1.7, podle fontu a gusto. Když se řádky „lepí“, přidej prostor. Když plavou, uber.</p>
+  </main>
+</div>
+</body>
+</html>

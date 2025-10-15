@@ -4,11 +4,13 @@
         {% include lazyload.html %}
   <body>
           {% include menu.html collection=site.data.home.navbar_entries %}
-    <main class="page-content" aria-label="Content">
-      <div class="post-meta-background" style="background-image: url('{{ page.background }}');"></div>
+    <main class="page" aria-label="Content">
+      <div class="page-content">
+        <div class="post-meta-background" style="background-image: url('{{ page.background }}');"></div>
     
       {{ content }}
-    
+
+        </div>
       </main>
   </body>
 </html>

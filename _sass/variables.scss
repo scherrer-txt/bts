@@ -1,6 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap');
 @import url("https://use.typekit.net/lnc7ppz.css"); /* NEUE HAAS DISPLAY = 700-600 | 500 (semibold) | 400 (regular) */
 
 // Overused Grotesk
@@ -43,6 +42,7 @@
 $font-family-body: "Source Serif 4", Georgia, Cambira, "Times New Roman", Times, serif;
 $font-family-heading: "Overused Grotesk", "Helvetica Neue", Arial, Helvetica, sans-serif;
 $font-family-monospace: "Roboto Mono", "Courier New", Courier, monospace;
+$font-family-main: "Overused Grotesk";
 
 // Desktop
 $font-size-base: 24px; // 16 × 1.5

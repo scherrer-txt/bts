@@ -56,7 +56,7 @@ theme_config:
 
 kramdown:
   toc_levels: 1..2
-  footnote_backlink: "&#65514; zpátky"
+  footnote_backlink: "&nbsp;"
 
 # Markdown
 markdown: kramdown

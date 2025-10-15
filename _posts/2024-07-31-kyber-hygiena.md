@@ -72,7 +72,7 @@ Oukej, co to je za sprostý slova.
 - **Authenticator** je program, kterej generuje dočasná, šestimístná hesla (mají životnost nejčastěji 30 sekund). V první fázi se člověk přihlašuje běžným heslem, v druhý fázi potvrzuje přihlášení právě tímhle dočasným heslem. V authenticatoru bydlí jen tyhle neustále se generující dočasný hesla a e-mail, ne hesla samotný — od toho je tu password manager. Podle mě je nejlepší authenticator [2FAS](https://2fas.com/), ale někdo možná zná Google Authenticator (ale eww, Google).
 - **Password Manager** je trezor, ve kterým bydlí všechny potřebný údaje k účtu (e-mail adresa/login a hesla). Některý mají funkce jako rozpoznání duplicitních údajů, sdílení, hodnocení a generování nových hesel, a třeba i breach monitoring. Nejznámější jsou [1password](https://1password.com/), [Bitwarden](https://bitwarden.com/) a [Proton Pass](https://proton.me/pass), ale v pohodě mi přijde i integrovaná [Firefox klíčenka](https://www.mozilla.org/en-US/firefox/features/password-manager/), jen nemá tolik funkcí.
 
-> A man of focus, commitment and sheer fucking will.
+> A man of focus, commitment and sheer fucking will
 
 ## Konec dobrý, všechno dobrý? Ne!
 Smazal jsem jeden Instagramový profil a trochu promazal Facebook. Vyčistil jsem dva plný Google Drives a přecházím z Gmailu na Proton. Zrušil jsem přes 200 účtů, změnil si hesla na 130, přešel z Google Authenticatoru na 2FAS, a všude, kde to šlo, jsem si nastavil dvoufáz. A místo Google DNS používám [Cloudfare](https://one.one.one.one/). Na registrace do zbytečných služeb používám dočasný e-mail adresy ([Firefox Relay](https://relay.firefox.com/)). Jako vyhledávač používám [Brave Search](https://search.brave.com/). To už asi můžu bejt docela v klidu, ne?

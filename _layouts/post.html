@@ -40,15 +40,16 @@
 </div>
 </div>
 
-<main class="page-content" aria-label="Content">
-  <div class="post-date">
-    <div class="post-meta-label">{{ page.date | date: '%d.%m.%Y' }}</div>
-  </div>
+<main class="page" aria-label="Content">
+  <div class="page-content">
+    <div class="post-date">
+      <div class="post-meta-label">{{ page.date | date: '%d.%m.%Y' }}</div>
+    </div>
   
-  {{ content }}
+    {{ content }}
 
-  <div class="post-end"></div>
-
+    <div class="post-end"></div>
+  </div>
 </main>
 <div class="post-nav" style="background-image: url('{{ site.url }}{{ page.background }}');">
   <div class="post-nav-grad"></div>

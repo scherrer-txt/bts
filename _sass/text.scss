@@ -1,139 +1,236 @@
-html {
-    font-size: 16px;
-  }
-  
-  body {
-    font-family: $font-family-body;
-    font-size: $font-size-base;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-    letter-spacing: -0.003em;
-    text-rendering: optimizeLegibility;
-  }
-  
+$font-family-b: "Source Serif 4", Georgia, Cambira, "Times New Roman", Times, serif;
+$font-family-h: "Overused Grotesk", Arial, Helvetica, sans-serif;
+$font-family-m: "Geist Mono", Courier, monospace;
+$font-family-main: "Overused Grotesk";
+
+$font-base: 24px;
+
+$line-base: 1.6;
+$space-base: 1.6rem;
+
+
+:root {
+  --font-base: #{$font-base};
+  --font-h1: calc(#{$font-base} * 3.8);
+  --font-h2: calc(#{$font-base} * 3);
+  --font-h3: calc(#{$font-base} * 2.3);
+  --font-h4: calc(#{$font-base} * 1.8);
+  --font-h5: calc(#{$font-base} * 1.4);
+  --font-h6: calc(#{$font-base} * 1.15);
+  --font-s: calc(#{$font-base} * 0.8);
+  --font-mono: 18px;
+
   html, body {
-    background-color: var(--bg);
-    color: var(--text);
+    background-color: var(--links);
+    text-rendering: optimizeLegibility;
+    font-family: $font-family-b;
+    margin: 0;
   }
+}
 
-  header {
-    width: 100%;
-    height: 0;
-  }
-  
-  header h1 {
-    visibility: hidden;
-  }
+// -------------------------------------------------------- headers
 
-  header p {
-    width: fit-content;
-  }
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-h;
+  letter-spacing: -0.02em;
+  text-rendering: geometricPrecision;
+  scroll-margin-top: 5rem;
+  font-weight: 400;
+  color: var(--text-secondary);
+  //max-width: 60ch;
+  margin-top: calc($space-base * 2);
+  margin-bottom: calc($space-base * 1);
+}
 
-  h1 {
-    font-size: $font-size-heading-1;
-    line-height: $line-height-heading-1;
-  }
-
-  h2 {
-    font-size: $font-size-heading-2;
-    line-height: $line-height-heading-2;
-  }
-
-  h3 {
-    font-size: $font-size-heading-3;
-    line-height: $line-height-heading-3;
-  }
-
-  h4 {
-    font-size: $font-size-heading-4;
-    line-height: $line-height-heading-4;
-  }
-
-  h5 {
-    font-size: $font-size-heading-5;
-    line-height: $line-height-heading-5;
-  }
-
-  h6 {
-    font-size: $font-size-heading-6;
-    line-height: $line-height-heading-6;
-  }
-
-  a {
-    color: var(--links);
-    text-decoration: underline;
-  
-    &:hover {
-      color: var(--links-hover);
-      text-decoration: line-through;
-    }
-  }
-  
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    color: var(--text-secondary);
-    width: 75%;
-    margin: 6rem auto 2rem;
-    scroll-margin-top: 5rem;
-    font-weight: 400;
-    font-family: $font-family-heading;
-    letter-spacing: -0.02em;
-    text-rendering: geometricPrecision;
-
-    a {
-      color: var(--links);
-      text-decoration: underline;
-    }
-  }
-
+h1 {
+  font-size: var(--font-h1);
+  line-height: 0.9;
+}
+h2 {
+  font-size: var(--font-h2);
+  line-height: 0.8;
+  //width: 25ch;
+}
+h3 {
+  font-size: var(--font-h3);
+  line-height: 0.8;
+  //width: 30ch;
+  display: inline-block;
+}
+h4 {
+  font-size: var(--font-h4);
+  line-height: 0.8;
+  //width: 40ch;
+  display: inline-block;
+}
+h5 {
+  font-size: var(--font-h5);
+  line-height: 0.8;
+  //width: 40ch;
+  display: inline-block;
+}
 h6 {
+  font-size: var(--font-h6);
+  line-height: 1;
   text-transform: uppercase;
+  //width: 40ch;
+  display: inline-block;
 }
 
-  table, th, td {
-    border: thin solid black;
-    border-collapse: collapse;
-    padding: 0.4em;
-  }
-  
-  p, small, table, figcaption {
-    color: var(--text);
-    width: 75%;
-    margin-block-start: 0.5em;
-    margin-block-end: 0.5em;
-    line-height: $line-height-base;
+// -------------------------------------------------------- body
+
+p {
+  font-size: var(--font-base);
+  line-height: 1.6;
+  letter-spacing: -0.003em;
+  color: var(--text);
+  width: 60ch;
+  margin-top: 0;
+  margin-bottom: calc($space-base * 1);
+  flex-direction: column; //check if it does anything
 }
 
-  strong, b, em {
-    color: var(--text);
-    width: 75%;
-    line-height: $line-height-base;
+
+table, figcaption {
+  font-size: var(--font-base);
+  line-height: 1.6;
+  letter-spacing: -0.003em;
+  color: var(--text);
+  width: 60ch;
+  margin-top: 0;
+  margin-bottom: $space-base;
+}
+
+strong, b {
+  font-weight: 800;
+}
+
+em, i {
+  font-style: italic;
+}
+
+small {
+  font-size: var(--font-s);
+  color: var(--text);
+  line-height: 1.4;
+}
+
+figcaption {
+  font-size: var(--font-s);
+  line-height: 1.4;
+  color: var(--text-secondary);
+  text-align: center;
+  margin-top: 0.5rem;
+  width: 60ch;
+}
+
+a {
+  color: var(--links);
+  text-decoration: underline;
+
+  &:hover {
+    color: var(--links-hover);
+    text-decoration: line-through;
+  }
+}
+
+code {
+  font-family: $font-family-m;
+  letter-spacing: -0.02rem;
+  font-size: var(--font-mono);
+  font-weight: 400;
+  line-height: 1.2rem;
+  color: var(--text);
+}
+
+pre {
+  position: relative;
+  margin: $space-base 0;
+
+  &::before {
+    content: ">";
+    position: absolute;
+    width: 2ch;
+    left: 0;
+    top: 0;
+    font-family: $font-family-m;
+    letter-spacing: -0.02rem;
+    font-size: var(--font-mono);
+    color: var(--links);
+    pointer-events: none;
+  }
+}
+
+// -------------------------------------------------------- lists
+
+ul,
+ol {
+  margin: 0 0 $space-base 0;
+  padding-left: 1.5em;
+}
+
+li {
+  font-size: var(--font-base);
+  line-height: 1.6;
+  letter-spacing: -0.003em;
+  color: var(--text);
+  width: 60ch;
+  margin-top: 0;
+  margin-bottom: calc($space-base * 1);
+}
+
+li ul,
+li ol {
+  margin-top: calc($space-base * 0.25);
+  margin-bottom: calc($space-base * 0.5);
+  padding-left: 2em;
+  list-style-type: disc;
+}
+
+li ul li {
+  list-style-type: disc;
+}
+
+ul li {
+  list-style-type: disc;
+}
+
+ul ul li {
+  list-style-type: circle;
+}
+
+ul ul ul li {
+  list-style-type: square;
+}
+
+ol li {
+  list-style-type: decimal;
+}
+
+// -------------------------------------------------------- blockquote
+
+blockquote {
+  font-family: $font-family-h;
+  font-size: var(--font-h2);
+  letter-spacing: -0.07rem;
+  text-align: center;
+  line-height: 1;
+  font-weight: 500;
+  padding: 10% 0 5%;
+  color: var(--text);
+  width: 100%;
+  margin: 0;
+
+  &::before {
+    content: "„";
   }
 
-  em, i {
-    font-style: italic;
+  &::after {
+    content: "“";
   }
+}
 
-  pre, code, pre p, code p, p code {
-    font-family: $font-family-monospace;
-    font-size: 1rem;
-    font-weight: 400;
-    font-style: normal;
-    line-height: 1.6rem;
-    display: flex;
-    color: var(--text-secondary);
-  
-    &::before {
-      content: "> ";
-      color: var(--links);
-    }
-  }
-
+// -------------------------------------------------------- selection
 
 *::selection,
 *::-moz-selection {
@@ -141,85 +238,231 @@ h6 {
   color: var(--bg) !important;
 }
 
-/* nadpisy přepíšeme na jinou barvu */
-:where(h1,h2,h3,h4,h5,h6)::selection,
-:where(h1,h2,h3,h4,h5,h6)::-moz-selection {
-  background: var(--links) !important;
-  color: var(--bg) !important;
+// -------------------------------------------------------- table
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: var(--space-base) 0;
+  font-size: var(--font-s);
+  font-family: $font-family-h;
+  line-height: 1.4;
+  color: var(--text);
+}
+
+th, td {
+  padding: 0.4em 0.6em;
+  text-align: left;
+  border-bottom: 1px solid color-mix(in srgb, var(--text-secondary) 50%, transparent);
+}
+
+th {
+  font-size: var(--font-s);
+  font-weight: 600;
+  font-family: $font-family-h;
+  line-height: 1;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+}
+
+// -------------------------------------------------------- footnotes
+
+.footnotes {
+  color: var(--text);
+  max-width: 120ch;
+  scroll-margin-top: 5rem;
+
+  ol,
+  li {
+    padding: 0;
+    width: fit-content;
+  }
+
+  li {
+    list-style-position: inside;
+
+    &::marker {
+      color: var(--text-secondary);
+      font-family: $font-family-h;
+      font-weight: 800;
+      font-size: var(--font-h6);
+    }
+  }
+
+  ol li p {
+    font-size: var(--font-s);
+    line-height: 1.4;
+    width: fit-content;
+  }
+}
+
+.footnotes ol li {
+  scroll-margin-top: 10rem;
+  margin-top: calc($space-base * 2);
+  margin-bottom: calc($space-base * 2);
+}
+
+sup {
+  font-family: $font-family-h;
+  font-weight: 800;
+  font-size: var(--font-s);
+  vertical-align: text-top;
+  line-height: 0.3em;
+  scroll-margin-top: 10rem;
+  
+  a {
+    text-decoration: none;
+  }
+}
+
+.reversefootnote {
+  text-rendering: optimizeLegibility;
+  text-decoration: none;
+  display: block;
+  margin-top: calc($space-base * 0.5);
+  width: fit-content;
+
+  &::before {
+    content: "↑ zpět";
+    font-family: $font-family-main;
+    font-size: var(--font-s);
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  &:hover {
+    text-decoration: line-through;
+  }
+}
+
+// -------------------------------------------------------- toc
+
+#markdown-toc {
+  width: 60ch;
+  padding: 2rem 3rem;
+  border: 1px solid color-mix(in srgb, var(--text) 20%, transparent);
+  border-radius: $border-radius;
+  box-shadow: $drop-shadow-soft;
+  background: var(--bg);
+  list-style: none;
+  counter-reset: toc-counter;
+
+  &::before {
+    content: "Obsah";
+    display: block;
+    font-family: $font-family-h;
+    font-size: var(--font-s);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-secondary);
+    margin-bottom: 1rem;
+  }
+
+  li {
+    font-family: $font-family-h;
+    line-height: 1.6;
+    font-weight: 500;
+    color: var(--text);
+    margin: calc($space-base * 0.1) 0;
+    list-style-type: none;
+    position: relative;
+
+    &::before {
+      counter-increment: toc-counter;
+      content: counter(toc-counter) ". ";
+      color: var(--text);
+    }
+
+    a {
+      color: var(--links);
+
+      &:hover {
+        color: var(--links);
+      }
+    }
+  }
+}
+
+.page-content h2 > a.anchor-marker,
+.page-content h3 > a.anchor-marker,
+.page-content h4 > a.anchor-marker,
+.page-content h5 > a.anchor-marker,
+.page-content h6 > a.anchor-marker {
+  position: absolute;
+  display: inline-block;
+  font-family: $font-family-main;
+  font-weight: 800;
+  font-size: 0.8em;
+  letter-spacing: -0.05em;
+  transform: translateX(-100%) rotate(-90deg);
+  transform-origin: center center;
+  vertical-align: text-top;
+  padding-right: 1rem;
+  text-decoration: none;
 }
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
-  @media only screen and (max-width: 800px) {
-    body {
-      font-size: $font-size-base-mobile;
-      line-height: $line-height-base-mobile;
-    }
-  
-    h1 {
-      font-size: $font-size-heading-1-mobile;
-      line-height: $line-height-heading-1-mobile;
-    }
-  
-    h2 {
-      font-size: $font-size-heading-2-mobile;
-      line-height: $line-height-heading-2-mobile;
-    }
-  
-    h3 {
-      font-size: $font-size-heading-3-mobile;
-      line-height: $line-height-heading-3-mobile;
-    }
-  
-    h4 {
-      font-size: $font-size-heading-4-mobile;
-      line-height: $line-height-heading-4-mobile;
-    }
-  
-    h5 {
-      font-size: $font-size-heading-5-mobile;
-      line-height: $line-height-heading-5-mobile;
-    }
-  
-    h6 {
-      font-size: $font-size-heading-6-mobile;
-      line-height: $line-height-heading-6-mobile;
-    }
- 
-    h1, h2, h3, h4, h5, h6 {
-      color: var(--text-secondary);
-      width: 100%;
-      margin: 2rem auto 0;
-    }
-  
-    p, b, em, small, table, figcaption {
-      width: 100%;
-      line-height: $line-height-base-mobile;
-    }
+  @media (max-width: 800px) {
+  :root {
+    --font-base: 20px;
+    --font-h1: calc(var(--font-base) * 3);
+    --font-h2: calc(var(--font-base) * 2.4);
+    --font-h3: calc(var(--font-base) * 1.9);
+    --font-h4: calc(var(--font-base) * 1.6);
+    --font-h5: calc(var(--font-base) * 1.3);
+    --font-h6: calc(var(--font-base) * 1.1);
+    --font-s: calc(var(--font-base) * 0.9);
+  }
 
-    pre, code, pre p, code p, p code {
-      font-family: $font-family-monospace;
-      font-size: 0.8rem;
-      font-weight: 400;
-      font-style: normal;
-      line-height: 1.2rem;
-      display: flex;
-      color: var(--text-secondary);
-    
-      &::before {
-        content: "> ";
-        color: var(--links);
-      }
-    }
+  body {
+    padding: 0 1.5rem;
+  }
 
-    a:hover {
-        color: var(--links);
-        text-decoration: none;
-    }
+  h1, h2, h3, h4, h5, h6 {
+    width: 100%;
+    max-width: 100%;
+    line-height: 1.1;
+    margin-top: calc($space-base * 1.5);
+    margin-bottom: calc($space-base * 0.5);
+  }
 
-    ol, ul {
-      width: 95%;
-      margin: 0;
-      padding: 0 0 0 5%;
+  p, li, table, figcaption, pre, code {
+    width: 100%;
+    max-width: 100%;
+    font-size: var(--font-base);
+    line-height: 1.6;
+  }
+
+  blockquote {
+    font-size: var(--font-h4);
+    padding: 2rem 0;
+  }
+
+  ul, ol {
+    padding-left: 1.2rem;
+  }
+
+  table {
+    font-size: var(--font-s);
+    display: block;
+    overflow-x: auto;
+  }
+
+  .footnotes {
+    li {
+      margin-bottom: calc($space-base * 0.5) !important;
     }
   }
+
+  #markdown-toc {
+    width: 100%;
+    padding: 1.5rem 1.5rem;
+    font-size: var(--font-s);
+    box-shadow: none;
+    border-radius: 0;
+  }
+}

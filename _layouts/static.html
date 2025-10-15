@@ -6,8 +6,10 @@
         {% include lazyload.html %}
   <body>
           {% include menu.html collection=site.data.home.navbar_entries %}
-          <main class="page-content" aria-label="Content">
-              {{ content }}
+          <main class="page" aria-label="Content">
+            <div class="page-content">
+                {{ content }}
+              </div>
           </main>
         {%- include footer.html -%}
   </body>
