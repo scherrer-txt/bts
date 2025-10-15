@@ -40,6 +40,7 @@ Formerly based on [moonwalk](https://github.com/abhinavs/moonwalk) theme by [abh
         - Menu item 1 — Menu item 2 — Menu item 3 — "Theme [ Dark | Light ]" — "Font size [ - | + | ↺ ]"
 
 ## Did
+- [x] 
 - [x] Fix issues with hover fx & transparency on post index
 - [x] Fix arrows font
 - [x] Minimize all the .js stuff
