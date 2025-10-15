@@ -6,8 +6,8 @@ name: O umělým umění
 release: 2023/03
 perex: Další článek zpoza obrazovek. O inspiraci, umění a etice výtvorů umělý inteligence.
 order: "10"
-thumbnail: "/images/thumbs/bts-thumb-10.jpg"
-background: "/images/bg/10.avif"
+thumbnail: "/assets/images/thumbs/bts-thumb-10.jpg"
+background: "/assets/images/bg/10.avif"
 redirect_from: "/bts10.html"
 published: true
 ---
@@ -75,5 +75,5 @@ Ale právě tohle hloupé myšlení prehistorických sběračů zabíjí radost 
 A proto miluju Banán na zdi a vždycky budu prosazovat demokratizaci umění.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-10-02.png');" data-full="{{ site.url }}/images/bts-10-02.png" alt="Fotka banánu přilepeného na bílou zeď stříbrnou lepící páskou"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-10-02.png');" data-full="{{ site.url }}/assets/images/bts-10-02.png" alt="Fotka banánu přilepeného na bílou zeď stříbrnou lepící páskou"></div>
 </div>

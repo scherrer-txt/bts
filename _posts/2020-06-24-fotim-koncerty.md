@@ -6,8 +6,8 @@ name: Jak fotím koncerty
 release: 2020/06
 perex: Další díl série Behind the Screens. Tentokrát s praktickými tipy a návody!
 order: "02"
-thumbnail: "/images/thumbs/bts-thumb-02.jpg"
-background: "/images/bg/02.avif"
+thumbnail: "/assets/images/thumbs/bts-thumb-02.jpg"
+background: "/assets/images/bg/02.avif"
 redirect_from: "/bts02.html"
 published: true
 ---

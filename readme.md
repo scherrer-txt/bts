@@ -40,6 +40,10 @@ Formerly based on [moonwalk](https://github.com/abhinavs/moonwalk) theme by [abh
         - Menu item 1 — Menu item 2 — Menu item 3 — "Theme [ Dark | Light ]" — "Font size [ - | + | ↺ ]"
 
 ## Did
+- [x] Fix issues with hover fx & transparency on post index
+- [x] Fix arrows font
+- [x] Minimize all the .js stuff
+- [x] Recompress the images (from ~4 MB to ~800 KB)
 - [x] Added a Dark Reader lock (because the default state is already a dark mode)
 - [x] Redo legacy BGs (01-13)
 - [x] Do something about the "↑ zpátky" buttons in footnotes

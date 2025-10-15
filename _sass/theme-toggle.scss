@@ -1,8 +1,8 @@
 html.transition,
 html.transition *,
-html.transition *:before,
-html.transition *:after {
-  transition: all 250ms !important;
+html.transition *::before,
+html.transition *::after {
+  transition: all 250ms ease !important;
   transition-delay: 0 !important;
 }
 
@@ -14,70 +14,68 @@ html.transition *:after {
   outline: none;
   margin: 0;
   background: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .theme-toggle .icon {
   display: block;
   width: 100%;
   height: 100%;
-  background: transparent;
-}
-
-.theme-toggle.sun .icon {
   background-color: var(--links);
-  mask-image: url("https://scherrer-txt.github.io/bts/assets/icons/moon.svg");
-  -webkit-mask-image: url("https://scherrer-txt.github.io/bts/assets/icons/moon.svg");
   mask-size: contain;
   mask-repeat: no-repeat;
   mask-position: center;
   -webkit-mask-size: contain;
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-position: center;
+  transition: background-color 0.25s ease;
 }
 
-.theme-toggle.moon .icon {
-  background-color: var(--links);
+:root[data-theme="dark"] .theme-toggle .icon {
   mask-image: url("https://scherrer-txt.github.io/bts/assets/icons/sun.svg");
   -webkit-mask-image: url("https://scherrer-txt.github.io/bts/assets/icons/sun.svg");
-  mask-size: contain;
-  mask-repeat: no-repeat;
-  mask-position: center;
-  -webkit-mask-size: contain;
-  -webkit-mask-repeat: no-repeat;
-  -webkit-mask-position: center;
+}
+
+:root[data-theme="light"] .theme-toggle .icon {
+  mask-image: url("https://scherrer-txt.github.io/bts/assets/icons/moon.svg");
+  -webkit-mask-image: url("https://scherrer-txt.github.io/bts/assets/icons/moon.svg");
 }
 
 .theme-toggle:hover .icon {
   background-color: var(--links-hover);
 }
 
-html.transition .theme-toggle {
-  transition: background-image 250ms ease-in-out;
+:root[data-theme="light"] {
+  color-scheme: light;
+  --headings: #1C2E33;
+  --links: #7700ee;
+  --links-hover: #bb77ff;
+  --bg: #e8d4ca;
+  --bg-secondary: #E3D1CC;
+  --text: #1C2E33;
+  --text-secondary: #c04000;
+  --transpa-mob: rgba(237, 221, 213, 0.8);
+  --border-switch: rgba(0, 0, 0, 0);
 }
 
-html[data-theme="dark"] {
-  @include dark-appearance;
-}
-
-html[data-theme="light"] {
-  @include light-appearance;
-}
-
-@media (prefers-color-scheme: dark) {
-  body[data-theme="auto"] {
-    @include dark-appearance;
-  }
-}
-
-@media (prefers-color-scheme: light) {
-  body[data-theme="auto"] {
-    @include light-appearance;
-  }
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --headings: #E3D1CC;
+  --links: #2AFF00;
+  --links-hover: #116600;
+  --bg: #0e0e0e;
+  --bg-secondary: #0A0A0A;
+  --text: #E3D1CC;
+  --text-secondary: #FF5500;
+  --transpa-mob: rgba(18, 18, 18, 0.8);
+  --border-switch: #e8d4ca;
 }
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
-@media only screen and (max-width: 800px) {
+@media (max-width: 800px) {
 .theme-toggle {
     left: 0;
     height: 60px;

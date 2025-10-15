@@ -6,8 +6,8 @@ name: První český AI obálky
 release: 2023/10
 perex: Jak jsem udělal jedny z prvních knižních AI-generated obálek v Česku — tohle je další Behind the Screens!
 order: "12"
-thumbnail: "/images/thumbs/bts-thumb-12.jpg"
-background: "/images/bg/12.avif"
+thumbnail: "/assets/images/thumbs/bts-thumb-12.jpg"
+background: "/assets/images/bg/12.avif"
 redirect_from: "/bts12.html"
 published: true
 ---
@@ -55,7 +55,7 @@ Na jedné obálce jsem strávil v průměru 3 hodiny. Někdy to byla 1 hodina, n
 Tady jsou.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-12-01.png');" data-full="{{ site.url }}/images/bts-12-01.png" alt="12 obálek pro e-booky, které jsem dělal"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-12-01.png');" data-full="{{ site.url }}/assets/images/bts-12-01.png" alt="12 obálek pro e-booky, které jsem dělal"></div>
 </div>
 
 ## Reflexe projektu

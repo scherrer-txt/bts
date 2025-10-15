@@ -6,8 +6,8 @@ name: Umění je cokoliv
 release: 2024/07
 perex: Současný diskurz se mi nelíbí, nepřijde mi ani přátelský, ani prospěšný. Tady jsou tři definice toho, co je umění pro mě.
 order: "19"
-thumbnail: "/images/thumbs/bts-thumb-19.jpg"
-background: "/images/bg/19.avif"
+thumbnail: "/assets/images/thumbs/bts-thumb-19.jpg"
+background: "/assets/images/bg/19.avif"
 redirect_from: "/bts19.html"
 published: true
 ---

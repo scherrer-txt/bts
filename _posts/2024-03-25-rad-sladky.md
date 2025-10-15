@@ -6,8 +6,8 @@ name: Někdo to rád sladký
 release: 2024/03
 perex: Podporuju užívání těžký drogy — kvůli mindfulness. Další článek zpoza obrazovek, tentokrát o alkoholu.
 order: "16"
-thumbnail: "/images/thumbs/bts-thumb-16.jpg"
-background: "/images/bg/16.avif"
+thumbnail: "/assets/images/thumbs/bts-thumb-16.jpg"
+background: "/assets/images/bg/16.avif"
 redirect_from:
 - "/bts16.html"
 - "/nekdo-to-rad-sladky.html"

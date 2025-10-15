@@ -6,8 +6,8 @@ name: O zpětný vazbě
 release: 2021/12
 perex: Před 10 lety jsem napsal svoji první povídku, která vyhrála v soutěži a vyšla ve sborníku. Proč jsem si dal od psaní 5 let pauzu a jak s tím souvisí zpětná vazba?
 order: "08"
-thumbnail: "/images/thumbs/bts-thumb-08.jpg"
-background: "/images/bg/08.avif"
+thumbnail: "/assets/images/thumbs/bts-thumb-08.jpg"
+background: "/assets/images/bg/08.avif"
 redirect_from: "/bts08.html"
 published: true
 ---
@@ -52,7 +52,7 @@ Z povídek vznikaly docela zvláštní paskvily. Mé původní nápady se mícha
 Někdy je prostě zpětné vazby až moc. Někdy je lepší nikoho neposlouchat, sednout a dál dělat, jak nejlíp umíš. Neočekávej od sebe žádný zázraky. Smiř se s tím, že se sebou _nikdy_ nebudeš úplně spokojený. Tvořit můžeš donekonečna. Vždycky je co ladit. Nauč se dát si včas stopku. Zpomal. I když ve svý tvorbě vidíš rezervy, nauč se říct si: „_Takhle to pro teď stačí._“ Pokud víš, že si na ty chyby dáš v budoucnu pozor, odlož nástroje, podívej se na dílo z nadhledu, vyhodnoť situaci a jdi klidně dělat na něčem novém. Jinak se pravděpodobně sekneš na místě.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-08-01.png');" data-full="{{ site.url }}/images/bts-08-01.png" alt="Obrovský kusy kamene, ze kterých jakoby vystupují části lidských postav, jako když se člověk noří z vany, tak se tyhle postavy noří z kamene"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-08-01.png');" data-full="{{ site.url }}/assets/images/bts-08-01.png" alt="Obrovský kusy kamene, ze kterých jakoby vystupují části lidských postav, jako když se člověk noří z vany, tak se tyhle postavy noří z kamene"></div>
   <div class="gallery-description">fig. 1 — Michelangelovy záměrně nedokončené sochy — výsledek jeho tréninku. Když sochal Davida a přemýšlel, jak by vypadal ten či onen sval, dost pravděpodobně ho nejdřív nanečisto vysochal tady. Nevypadají ty sochy skvěle i nedokončené? Není to důkaz toho, že hodnota díla není v jeho „dokončenosti“?</div>
 </div>
 

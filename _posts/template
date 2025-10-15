@@ -6,8 +6,8 @@ name: Název
 release: 202Y/XX
 perex: Perex
 order: "XX"
-thumbnail: "/images/thumbs/bts-thumb-XX.png"
-background: "/images/bg/XX.jpg"
+thumbnail: "/assets/images/thumbs/bts-thumb-XX.png"
+background: "/assets/images/bg/XX.jpg"
 redirect_from: "/btsXX.html"
 published: true
 ---

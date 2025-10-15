@@ -70,15 +70,23 @@
     margin: 5% 15% 0;
 }
 
-.arrow-up,
-.arrow-up a {
+a.arrow-up {
+    font-family: $font-family-heading !important;
+    font-weight: 800 !important;
+    font-size: 2rem;
     line-height: 2rem;
-    margin: 0;
-    font-size: 4rem;
     text-decoration: none;
-    order: 3;
     text-align: end;
+    display: inline-block;
+    margin: 0;
+    transform: rotate(-90deg);
+    transform-origin: center center;
     width: auto;
+    order: 3;
+
+    &:hover {
+        text-decoration: none;
+    }
 }
 
 .footer-list li sup {

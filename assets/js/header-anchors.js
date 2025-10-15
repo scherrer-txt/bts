@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
   headings.forEach(heading => {
     const anchor = document.createElement('a');
     anchor.href = `#${tocId}`;
-    anchor.innerHTML = '\uFFEA'; // Upwards arrow character
+    anchor.innerHTML = '\u2192'; // Upwards arrow character
     anchor.classList.add('anchor-marker');
     
     // Insert the anchor before the heading text

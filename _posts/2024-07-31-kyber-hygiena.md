@@ -6,8 +6,8 @@ name: Kybernetická hygiena
 release: 2024/07
 perex: O soukromí, bezpečnosti a redukci digitální stopy z pohledu chronicky online člověka
 order: "20"
-thumbnail: "/images/thumbs/bts-thumb-20.jpg"
-background: "/images/bg/20.avif"
+thumbnail: "/assets/images/thumbs/bts-thumb-20.jpg"
+background: "/assets/images/bg/20.avif"
 redirect_from: "/bts20.html"
 published: true
 ---

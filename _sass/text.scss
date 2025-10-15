@@ -1,4 +1,4 @@
-  html {
+html {
     font-size: 16px;
   }
   
@@ -8,6 +8,8 @@
     margin: 0;
     display: flex;
     flex-direction: column;
+    letter-spacing: -0.003em;
+    text-rendering: optimizeLegibility;
   }
   
   html, body {
@@ -80,16 +82,14 @@
     scroll-margin-top: 5rem;
     font-weight: 400;
     font-family: $font-family-heading;
+    letter-spacing: -0.02em;
+    text-rendering: geometricPrecision;
 
     a {
       color: var(--links);
       text-decoration: underline;
     }
   }
-  
-h4 {
-  color: var(--grey);
-}
 
 h6 {
   text-transform: uppercase;
@@ -125,7 +125,7 @@ h6 {
     font-weight: 400;
     font-style: normal;
     line-height: 1.6rem;
-    display: flex;
+    display: block;
     color: var(--text-secondary);
   
     &::before {
@@ -133,31 +133,20 @@ h6 {
       color: var(--links);
     }
   }
-  
-  mark {
-    background-color: var(--highlight);
-  }
 
-  p::selection, strong::selection, b::selection, em::selection,
-  a::selection, small::selection, li::selection, sup::selection, code::selection {
-    background: var(--text-secondary);
-    color: black;
-  }
-  p::-moz-selection, strong::-moz-selection, b::-moz-selection, em::-moz-selection,
-  a::-moz-selection, small::-moz-selection, li::-moz-selection, sup::-moz-selection, code::-moz-selection {
-    background: var(--text-secondary);
-    color: black;
-  }
 
-  h1::selection, h2::selection, h3::selection,
-  h4::selection, h5::selection, h6::selection {
-    background: var(--links);
-  }
+*::selection,
+*::-moz-selection {
+  background: var(--links) !important;
+  color: var(--bg) !important;
+}
 
-  h1::-moz-selection, h2::-moz-selection, h3::-moz-selection,
-  h4::-moz-selection, h5::-moz-selection, h6::-moz-selection {
-    background: var(--links);
-  }
+/* nadpisy přepíšeme na jinou barvu */
+:where(h1,h2,h3,h4,h5,h6)::selection,
+:where(h1,h2,h3,h4,h5,h6)::-moz-selection {
+  background: var(--links) !important;
+  color: var(--bg) !important;
+}
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //

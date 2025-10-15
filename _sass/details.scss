@@ -9,7 +9,7 @@ details {
   summary {
     margin: -0.5em -0.5em 0;
     padding: 0.5em;
-    font-family: "neue-haas-grotesk-display", sans-serif;
+    font-family: var(--font-family-heading);
   }
   
   details[open] {

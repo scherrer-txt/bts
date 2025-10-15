@@ -59,21 +59,14 @@
 
   .index-post:hover .index-container {
     border: var(--border-invis) solid 1px;
-    background-color: var(--transpa-meta);
+    background-color: var(--transpa-mob);
     box-shadow: $drop-shadow;
   }
 
   .index-post:hover .index-post-background {
     opacity: 1;
   }
-  
-  .index-post:hover .index-release,
-  .index-post:hover .index-order,
-  .index-post:hover .index-title,
-  .index-post:hover .index-label {
-    color: var(--text-light);
-  }
-  
+    
   .index-label, .index-order, .index-release {
     color: var(--text);
   }

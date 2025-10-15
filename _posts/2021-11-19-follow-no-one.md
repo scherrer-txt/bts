@@ -6,8 +6,8 @@ name: Follow no one
 release: 2021/11
 perex: Tenhle článek je o sociálních sítích, o jejich dopadu na lidi, o svobodné vůli, sebevědomí a vlastní identitě.
 order: "07"
-thumbnail: "/images/thumbs/bts-thumb-07.jpg"
-background: "/images/bg/07.avif"
+thumbnail: "/assets/images/thumbs/bts-thumb-07.jpg"
+background: "/assets/images/bg/07.avif"
 redirect_from: "/bts07.html"
 published: true
 ---
@@ -64,7 +64,7 @@ Musí mít všechno nějaký konkrétní smysl a účel? Funkci a záměr? Něja
 Tohle jsou věci, které mám v hlavě a které motivovaly FOLLOW NO ONE performance. Potřebuju je dostat z hlavy, podělit se o ně s někým. Vzal jsem inkoust a chrtsnul ho na papír — co v těch flecích vidíš, to už je na tobě.
 
 <div class="gallery-container">
-  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-07-01.png');" data-full="{{ site.url }}/images/bts-07-01.png" alt="Černá vodovková matlanina, která je uprostřed zrcadlená na druhou stranu, takže má perfektní středovou symetrii; já osobně v tom vidím nějakou hmyzáckou masku s kusadlama a tykadlama"></div>
+  <div class="gallery-single" style="background-image: url('{{ site.url }}/images/bts-07-01.png');" data-full="{{ site.url }}/assets/images/bts-07-01.png" alt="Černá vodovková matlanina, která je uprostřed zrcadlená na druhou stranu, takže má perfektní středovou symetrii; já osobně v tom vidím nějakou hmyzáckou masku s kusadlama a tykadlama"></div>
 </div>
 
 Každý správný, byť jen okrajově filozofující článek by se asi neobešel bez citátu od Nietzscheho. Takže proč bych nepřeložil zrovna ten, co mě motivoval nad tím vším začít přemýšlet:

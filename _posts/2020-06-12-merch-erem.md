@@ -6,8 +6,8 @@ name: Merch pro EREM
 release: 2020/06
 perex: Rozhodl jsem se začít sdílet storky z průběhu mý tvorby. První díl možná někdy větší série
 order: "01"
-thumbnail: "/images/thumbs/bts-thumb-01.jpg"
-background: "/images/bg/01.avif"
+thumbnail: "/assets/images/thumbs/bts-thumb-01.jpg"
+background: "/assets/images/bg/01.avif"
 redirect_from: "/bts01.html"
 published: true
 ---

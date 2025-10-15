@@ -51,21 +51,29 @@ ul#markdown-toc li {
     color: var(--text-secondary);
 
     &:hover {
-        color: var(--link-toc);
+        color: var(--link);
     }
   }
 
-  .page-content h2 > a,
-  .page-content h3 > a,
-  .page-content h4 > a,
-  .page-content h5 > a,
-  .page-content h6 > a {
-    text-decoration: none;
-    vertical-align: text-top;
-    position: absolute;
-    transform: translateX(-100%);
-    padding-right: 1rem;
-  }
+.page-content h2 > a.anchor-marker,
+.page-content h3 > a.anchor-marker,
+.page-content h4 > a.anchor-marker,
+.page-content h5 > a.anchor-marker,
+.page-content h6 > a.anchor-marker {
+  position: absolute;
+  display: inline-block;
+  font-family: $font-family-heading;
+  font-weight: 800;
+  font-size: 0.8em;
+  letter-spacing: -0.05em;
+  transform: translateX(-100%) rotate(-90deg);
+  transform-origin: center center;
+  vertical-align: text-top;
+  padding-right: 1rem;
+  text-decoration: none;
+}
+
+
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
@@ -87,15 +95,14 @@ ul#markdown-toc li {
     letter-spacing: 0.03rem;
     }
 
-  .page-content h2 > a,
-  .page-content h3 > a,
-  .page-content h4 > a,
-  .page-content h5 > a,
-  .page-content h6 > a {
-    text-decoration: none;
-    vertical-align: text-top;
-    position: relative;
-    transform: translateX(-100%);
-    margin-left: 0.5rem;
+  .page-content h2 > a.anchor-marker,
+  .page-content h3 > a.anchor-marker,
+  .page-content h4 > a.anchor-marker,
+  .page-content h5 > a.anchor-marker,
+  .page-content h6 > a.anchor-marker {
+    position: absolute;
+    right: 5%;               /* posune o 3rem doprava mimo text */
+    transform: rotate(-90deg);  /* odstraní translate, nechá jen otočení */
+    margin-left: 0;
   }
 }

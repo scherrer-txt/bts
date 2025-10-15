@@ -1,10 +1,47 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap');
 @import url("https://use.typekit.net/lnc7ppz.css"); /* NEUE HAAS DISPLAY = 700-600 | 500 (semibold) | 400 (regular) */
+
+// Overused Grotesk
+@font-face {
+  font-family: "Overused Grotesk";
+  src: url("/assets/fonts/OverusedGrotesk-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Overused Grotesk";
+  src: url("/assets/fonts/OverusedGrotesk-Book.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Overused Grotesk";
+  src: url("/assets/fonts/OverusedGrotesk-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Overused Grotesk";
+  src: url("/assets/fonts/OverusedGrotesk-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Overused Grotesk";
+  src: url("/assets/fonts/OverusedGrotesk-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
+}
 
 // Font families
 $font-family-body: "Source Serif 4", Georgia, Cambira, "Times New Roman", Times, serif;
-$font-family-heading: "neue-haas-grotesk-display", "Helvetica Neue", Arial, Helvetica, "Roboto", sans-serif;
+$font-family-heading: "Archivo", "Overused Grotesk", "Helvetica Neue", Arial, Helvetica, sans-serif;
 $font-family-monospace: "Roboto Mono", "Courier New", Courier, monospace;
 
 // Desktop
