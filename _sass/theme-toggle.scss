@@ -2,8 +2,7 @@ html.transition,
 html.transition *,
 html.transition *::before,
 html.transition *::after {
-  transition: all 250ms ease !important;
-  transition-delay: 0 !important;
+  transition: all var(--transition-fast) !important;
 }
 
 .theme-toggle {
@@ -29,7 +28,6 @@ html.transition *::after {
   -webkit-mask-size: contain;
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-position: center;
-  transition: background-color 0.25s ease;
 }
 
 :root[data-theme="dark"] .theme-toggle .icon {
@@ -44,32 +42,6 @@ html.transition *::after {
 
 .theme-toggle:hover .icon {
   background-color: var(--links-hover);
-}
-
-:root[data-theme="light"] {
-  color-scheme: light;
-  --headings: #1C2E33;
-  --links: #7700ee;
-  --links-hover: #bb77ff;
-  --bg: #e8d4ca;
-  --bg-secondary: #E3D1CC;
-  --text: #1C2E33;
-  --text-secondary: #c04000;
-  --transpa-mob: rgba(237, 221, 213, 0.8);
-  --border-switch: rgba(0, 0, 0, 0);
-}
-
-:root[data-theme="dark"] {
-  color-scheme: dark;
-  --headings: #E3D1CC;
-  --links: #2AFF00;
-  --links-hover: #116600;
-  --bg: #0e0e0e;
-  --bg-secondary: #0A0A0A;
-  --text: #E3D1CC;
-  --text-secondary: #FF5500;
-  --transpa-mob: rgba(18, 18, 18, 0.8);
-  --border-switch: #e8d4ca;
 }
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //

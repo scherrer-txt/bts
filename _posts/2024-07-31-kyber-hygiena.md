@@ -21,7 +21,7 @@ Můj červen 2024 měl příchuť mazání neaktivních a nepotřebných účtů
 
 Různý úniky dat (*leak*) se dějou relativně často — unikají data jako e-maily a hesla, adresy bydliště, údaje z občanky a pasu nebo čísla účtu, kreditních karet a PINy. Existují stránky, kde se dá zjistit, jestli vaše hesla/e-mail/jakýkoliv jiný údaje nebyly kompromitovaný — [Have I Been Pwned](https://haveibeenpwned.com/) a [Mozilla Monitor](https://monitor.mozilla.org). Já se v těchhle databázích párkrát našel a nebylo to úplně příjemný zjištění. Ale dá se to řešit. Jak jsem to řešil já?
 
-> Pod hadrama jsme všichni nazí, ale stejně je nosíme. Stejně máme v pokoji záclony anebo závěsy.
+>Pod hadrama jsme všichni nazí, ale stejně je nosíme. Stejně máme v pokoji záclony anebo závěsy.
 
 ## Vždyť je to stejně jedno
 Spousta z nás si při odchodu ze záchodu celkem běžně myje ruce, zamyká při odchodu byt, počítač a mobil má na heslo, používá kondomy nebo aspoň neolizuje zábradlí a madla v MHD — nevidím důvod zůstávat v oblasti kyberbezpečnosti a soukromí jen u důvěry a naděje v lidstvo a dál to neřešit. Better safe than sorry, jak se říká.
@@ -37,7 +37,7 @@ Zkusím rozebrat tři nejčastější argumenty, s kterýma jsem se setkal, a ř
 1. **„Tvoje data nikoho nezajímají“**. Já osobně zajímám docela dost lidí z Asie. Aspoň podle asi třiceti varovných e-mailů, který mi v horizontu dvou měsíců přišly od služeb, do kterých se někdo z těchhle zemí snažil (neúspěšně) přihlásit. V tomhle případě navíc ani nejde o moje/tvoje, ale o *naše* data. Jde o to množství hesel a údajů, s kterýma se dá pracovat, který se často kupují v balících po desítkách milionů.
 - I když je úspěšnost prolomení zabezpečení třeba 0,001 %, z deseti milionů účtů je to pořád tisícovka smolařů, co můžou přijít o úspory nebo přístup k osobním/pracovním účtům.
 
-> Já tuhle možnost měl, tak jsem ji uplatnil. Mrzí mě, že ji lidi přede mnou neměli.
+>Já tuhle možnost měl, tak jsem ji uplatnil. Mrzí mě, že ji lidi přede mnou neměli.
 
 ## Kámen, co spustil lavinu
 Nedávno Meta dala svým uživatelům možnost neposkytnout souhlas s trénováním AI na jejich obsahu.[^1] Já byl jeden z těch, co ten souhlas nedal (týhle možnosti se říká „opt-out“). Je mi jedno, že to může působit pokrytecky, když sám používám AI, která je trénovaná na dílech lidí, co tuhle možnost neměli. Já tuhle možnost měl, tak jsem ji uplatnil. Mrzí mě, že ji lidi přede mnou neměli, ale nevidím moc důvodů, proč by mě to mělo v současnosti ovlivňovat.
@@ -46,7 +46,7 @@ I přes to, že jsem jim ten souhlas neposkytl, jsem ještě ten den smazal vše
 
 Situace: sedím u stolu, grafickej profil kompletně vyčištěnej. Co teď?
 
-> Cítil jsem klid na duši, že jsem udělal maximum, co udělat šlo.
+>Cítil jsem klid na duši, že jsem udělal maximum, co udělat šlo.
 
 ## Fuck off, Google
 Kdysi dávno jsem používal aplikaci Fotky od Google jako záložní „disk“ na opravdu hodně osobní věci. V průběhu let jsem na to zapomněl. Nedávno jsem si vzpomněl, takže to byla další položka na seznamu. Když už jsem byl v tom, rovnou jsem si stáhnul na lokální uložiště všechny e-maily z adresy, na kterou byl ten drive vedený. A kromě fotek jsem promazal i celý Google Drive. Ani nevím proč jsem to vzal tak od podlahy, ale na konci tohohle procesu jsem se cítil líp. Ne nutně bezpečněji nebo jako že jsem to teď Googlu hrozně nandal. Spíš jsem cítil určitý klid na duši, že jsem udělal maximum toho, co jsem v ten moment mohl udělat. Jasně, Google už pravděpodobně použil všechny moje data několikrát, ale jak jsem říkal výš — s tím nenadělám nic, můžu jim ale nedávat nový data.
@@ -62,7 +62,7 @@ Při přechodu do novýho prohlížeče jsem si vždycky importoval svoje zálo�
 
 Zabralo to sice jedno dost dlouhý odpoledne, ale z těch několika stovek účtů mi zbylo 130. Když už jsem byl v tom, u těch zbylých účtů jsem si změnil hesla, odhlásil se z reklamních sdělení a kde mi to přišlo důležitý, tam jsem si nastavil silnější zabezpečení (2FA). Nepamatuju si skoro žádný heslo, protože nemusím.
 
-> Zlatý cyber security pravidlo: pro každý účet jiný heslo
+>Zlatý cyber security pravidlo: pro každý účet jiný heslo
 
 ## Nepamatuju si skoro žádný heslo
 Kdo si má jako pamatovat stovky různých hesel? V tom je ten vtip. Podle mě by člověk neměl všude používat zapamatovatelný hesla, ale dvoufázový zabezpečení (2FA, jako two-phase authentication), nějaký authenticator a nějaký password manager. Jediný heslo, který by si měl člověk pamatovat, je tzv. **master password**, kterým se odemyká password manager.
@@ -72,7 +72,7 @@ Oukej, co to je za sprostý slova.
 - **Authenticator** je program, kterej generuje dočasná, šestimístná hesla (mají životnost nejčastěji 30 sekund). V první fázi se člověk přihlašuje běžným heslem, v druhý fázi potvrzuje přihlášení právě tímhle dočasným heslem. V authenticatoru bydlí jen tyhle neustále se generující dočasný hesla a e-mail, ne hesla samotný — od toho je tu password manager. Podle mě je nejlepší authenticator [2FAS](https://2fas.com/), ale někdo možná zná Google Authenticator (ale eww, Google).
 - **Password Manager** je trezor, ve kterým bydlí všechny potřebný údaje k účtu (e-mail adresa/login a hesla). Některý mají funkce jako rozpoznání duplicitních údajů, sdílení, hodnocení a generování nových hesel, a třeba i breach monitoring. Nejznámější jsou [1password](https://1password.com/), [Bitwarden](https://bitwarden.com/) a [Proton Pass](https://proton.me/pass), ale v pohodě mi přijde i integrovaná [Firefox klíčenka](https://www.mozilla.org/en-US/firefox/features/password-manager/), jen nemá tolik funkcí.
 
-> A man of focus, commitment and sheer fucking will
+>A man of focus, commitment and sheer fucking will
 
 ## Konec dobrý, všechno dobrý? Ne!
 Smazal jsem jeden Instagramový profil a trochu promazal Facebook. Vyčistil jsem dva plný Google Drives a přecházím z Gmailu na Proton. Zrušil jsem přes 200 účtů, změnil si hesla na 130, přešel z Google Authenticatoru na 2FAS, a všude, kde to šlo, jsem si nastavil dvoufáz. A místo Google DNS používám [Cloudfare](https://one.one.one.one/). Na registrace do zbytečných služeb používám dočasný e-mail adresy ([Firefox Relay](https://relay.firefox.com/)). Jako vyhledávač používám [Brave Search](https://search.brave.com/). To už asi můžu bejt docela v klidu, ne?
@@ -81,7 +81,7 @@ Ne tak úplně. Zrušit jen tak z jedničky 200 účtů, to člověk neudělá j
 
 Takže tady je druhá, dost podstatná část mý motivace, proč jsem tohle celý podstoupil.
 
-> Nehledej zlý úmysl tam, kde je dostatečným vysvětlením hloupost
+>Nehledej zlý úmysl tam, kde je dostatečným vysvětlením hloupost
 
 ## Jako pěkně macatej, mastnej šváb
 Nesnáším online reklamy — i přestože, nebo možná právě protože je občas sám vytvářím. Naštěstí existuje Firefox a [uBlock Origin](https://ublockorigin.com/). Nevím, kdy naposledy jsem nějakou reklamu viděl. Můj internet je čistý a nerušený hnusnýma, nevkusnýma reklamama. A dělám, co můžu, aby to tak zůstalo.[^9]
@@ -126,6 +126,7 @@ Jak jsem říkal výš, svět je dost komplikovanej sám o sobě. Proto miluju h
 8. **Nepoužívat Google jako výchozí vyhledávač**. Je sice celkem jedno, v kterým prohlížeči za svůj dotaz napíšete „reddit“, ale Brave vám to pak aspoň nebude mlátit o hlavu na každým dalším kroku. Nesledují uživatelstvo, jejich vyhledávání nebo jejich kliky. Brave má navíc svůj vlastní vyhledávací index, to znamená, že při vyhledávání může člověk narazit na věci, který by přes Google nenašel (protože cenzura, protože reklamy, protože biasy). Dlouho jsem používal DuckDuckGo, ale ten používá Bing jako zdroj, což není úplně ideální (protože závislost na Microsoftu, protože cenzura).
 - **Doporučuju [Brave Search](https://brave.com/search/)**, ale na mapy pořád používám Google.
 
+---
 
 ## Poznámky pod čarou
 

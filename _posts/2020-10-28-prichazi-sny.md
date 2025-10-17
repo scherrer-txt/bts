@@ -27,7 +27,7 @@ Od malička jsem miloval příběhy, reálné i smyšlené. Snažil jsem se hodn
 _Takhle můj blog vypadal v lednu 2012_
 
 ## Měl jsem sen, že budu literární kritik
-_Že budu psát hodně osobité články, za které mě budou čtenáři milovat i nesnášet. Že budu nejmladší v redakcích časopisů, ale že mé názory budou rezonovat i s těmi staršími._
+`Že budu psát hodně osobité články, za které mě budou čtenáři milovat i nesnášet. Že budu nejmladší v redakcích časopisů, ale že mé názory budou rezonovat i s těmi staršími.`
 
 Od prvního stupně jsme si vedli čtenářské deníky. Čím jsem byl starší, tím míň mě to bavilo. Vypsat informace, napsat hodnocení, udělat ilustraci — takové práce kvůli jedné známce. Kdybych to mohl napsat někam, kde si to může přečíst víc lidí, to by bylo fajn…
 
@@ -52,7 +52,7 @@ _Design blogu z listopadu 2014_
 _Moje povídka Dum Spiro Spero, zpracovaná jako komiks_
 
 ## Měl jsem sen, že budu spisovatel
-_Že budu psát příběhy, které bych si sám rád přečetl. Že budu svou tvorbu sdílet a lidé se k ní budou vyjadřovat — aby kritika obrousila čepel mé fantazie. Že své dílo jednou uvidím v knižní podobě, která tu po mě zůstane jako odkaz._
+`Že budu psát příběhy, které bych si sám rád přečetl. Že budu svou tvorbu sdílet a lidé se k ní budou vyjadřovat — aby kritika obrousila čepel mé fantazie. Že své dílo jednou uvidím v knižní podobě, která tu po mě zůstane jako odkaz.`
 
 Tolkien a ostatní autoři, které jsme v té době četli, nám byl s Tomem velkou inspirací. Jak se říká, „kopírování je nejvyšší formou úcty“. Řekli jsme si, že si zkusíme vytvořit naše vlastní světy, s fantastickými bytostmi, vymyšlenými jazyky a rozsáhlou mytologií. Fascinuje mě energie a nadšení, s jakým jsme se do toho pouštěli.Ani nejmenším náznakem jsme si neuvědomovali, jak neuvěřitelně těžké to může být.
 
@@ -81,7 +81,7 @@ Pár měsíců jsem se ještě snažil psát a jednou za čas si i teď řeknu, 
 _První logo, který jsem dělal jako zakázku_
 
 ## Mám sen, že budu designer
-_Že pozitivně ovlivním to, jak v Česku věci vypadají. Že díky funkčnímu vizuálnímu řešení pomůžu vyřešit byznysové problémy mých klientů. Že povedu kreativní, spokojený život, který nebude jen nuda, šeď a od devíti do pěti u soustruhu._
+`Že pozitivně ovlivním to, jak v Česku věci vypadají. Že díky funkčnímu vizuálnímu řešení pomůžu vyřešit byznysové problémy mých klientů. Že povedu kreativní, spokojený život, který nebude jen nuda, šeď a od devíti do pěti u soustruhu.`
 
 Ze světa knih a spisovatelů jsem díky grafické střední vkročil do světa umění a vizuální tvorby. Aktuální programy, moderní technika, fotoateliér, soutěže, uvedení do obrazu toho, jak grafický a kreativní průmysl funguje. To byly body, kvůli kterým jsem se pro tuto školu rozhodl. Ze své nové školy jsem byl nadšený. Asi tak týden. Pak mi došlo, jak se věci ve skutečnosti mají a že pokud chci něco dokázat, musím se snažit sám. A taky jsem se snažil. Účastnil jsem se výběrových řízení, soutěží, ve volném čase jsem na sobě pracoval a učil se řemeslu. Když to došlo do bodu, kdy jsem často opravoval nepřesnosti ve výkladu odborných učitelů, přestal jsem se ve škole snažit a už jsem tam ani moc nechodil. Což mělo následky.
 

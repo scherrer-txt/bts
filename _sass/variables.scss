@@ -1,18 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap');
-@import url("https://use.typekit.net/lnc7ppz.css"); /* NEUE HAAS DISPLAY = 700-600 | 500 (semibold) | 400 (regular) */
 
 // Overused Grotesk
 @font-face {
   font-family: "Overused Grotesk";
-  src: url("/assets/fonts/OverusedGrotesk-Light.woff2") format("woff2");
-  font-weight: 300;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Overused Grotesk";
-  src: url("/assets/fonts/OverusedGrotesk-Book.woff2") format("woff2");
+  src: url("/assets/fonts/OverusedGrotesk-Roman.woff2") format("woff2");
   font-weight: 400;
   font-display: swap;
 }
@@ -23,13 +15,13 @@
   font-weight: 500;
   font-display: swap;
 }
-
+/*
 @font-face {
   font-family: "Overused Grotesk";
   src: url("/assets/fonts/OverusedGrotesk-SemiBold.woff2") format("woff2");
   font-weight: 600;
   font-display: swap;
-}
+}*/
 
 @font-face {
   font-family: "Overused Grotesk";
@@ -38,6 +30,199 @@
   font-display: swap;
 }
 
+// -------------------------------------------------------- typography
+
+$font-family-b: "Source Serif 4", Georgia, Cambira, "Times New Roman", Times, serif;
+$font-family-h: "Overused Grotesk", Arial, Helvetica, sans-serif;
+$font-family-m: "Geist Mono", Courier, monospace;
+$font-family-main: "Overused Grotesk";
+
+$font-base: 24px;
+$line-base: 1.6;
+$space-base: 1.6rem;
+
+:root {
+  --line-tight: 1.1;
+  --line-base: 1.6;
+  --line-loose: 1.8;
+
+  --letter-tight: -0.02em;
+  --letter-base: -0.003em;
+  --letter-wide: 0.05em;
+
+  --weight-regular: 400;
+  --weight-medium: 500;
+  --weight-bold: 800;
+
+  --space-base: #{$space-base};
+  --space-text-top: calc(var(--space-base) * 2);            // space above headers
+  --space-text-bottom: calc(var(--space-base) * 1);
+  --space-blockquote-top: 15vh;
+  --space-blockquote-side: -9vw;
+
+  --toc-max-width: 75%;
+  --footnote-width: 120ch;
+}
+
+// -------------------------------------------------------- font scale
+
+:root {
+  --font-base: #{$font-base};
+
+  --font-h1: calc(#{$font-base} * 3.8);
+  --font-h2: calc(#{$font-base} * 3);
+  --font-h3: calc(#{$font-base} * 2.3);
+  --font-h4: calc(#{$font-base} * 1.8);
+  --font-h5: calc(#{$font-base} * 1.4);
+  --font-h6: calc(#{$font-base} * 1.15);
+  --font-s: calc(#{$font-base} * 0.8);
+  --font-mono: calc(#{$font-base} * 0.75);
+
+  --meta-small: var(--font-h6);
+  --meta-big: var(--font-h4);
+  --meta-title: var(--font-h2);
+}
+
+@media (max-width: 800px) {
+  :root {
+    --font-base: 20px;
+
+    --font-h1: calc(var(--font-base) * 3);
+    --font-h2: calc(var(--font-base) * 2.4);
+    --font-h3: calc(var(--font-base) * 1.9);
+    --font-h4: calc(var(--font-base) * 1.6);
+    --font-h5: calc(var(--font-base) * 1.3);
+    --font-h6: calc(var(--font-base) * 1.1);
+    --font-s: calc(var(--font-base) * 0.9);
+    --font-mono: calc(var(--font-base) * 0.8);
+
+    --space-base: 1.4rem;
+    --space-section: 2rem;
+    --space-padding: 2rem;
+  }
+}
+
+// -------------------------------------------------------- spacing
+
+$meta-gap-24: 24px;
+$meta-gap-48: 48px;
+$meta-gap-64: 64px;
+
+$border-radius: 24px;
+
+:root {
+  
+  --gap-xlarge: calc(var(--space-padding) * 2);
+  --gap-large: calc(var(--space-padding) * 1);
+  --gap-medium: calc(var(--space-padding) * 0.75);
+  --gap-small: calc(var(--space-padding) * 0.5);
+  --gap-xsmall: calc(var(--space-padding) * 0.2);
+
+  --space-section: 3rem;            // section margin
+  --space-padding: 3rem;            // padding inside cards
+  --container-width: 90%;           // main content width
+  --container-side: 15%;            // horizontal offset for meta/more
+  --radius: 24px;                   // global border radius
+}
+
+// -------------------------------------------------------- layout containers
+
+:root {
+  --container-max: 1200px;          // maximum width for global sections
+  --container-narrow: 90ch;         // width for text content
+  --container-side: clamp(2rem, 10vw, 8rem);            // horizontal padding for meta/more/menu/footer
+}
+
+// Global centering helper
+.container {
+  width: min(var(--container-max), 100% - 2 * var(--container-side));
+  margin-inline: auto;
+  position: relative;
+}
+
+// Variant for narrow text blocks
+.container--narrow {
+  width: min(var(--container-narrow), 100% - 2 * var(--container-side));
+  margin-inline: auto;
+  position: relative;
+}
+
+// -------------------------------------------------------- fx
+
+$transition-02-ease: all 0.2s ease-in-out;
+$drop-shadow: 0px 5px 20px rgba(0, 0, 0, 0.4);
+$drop-shadow-soft: 0px 5px 20px rgba(0, 0, 0, 0.1);
+
+:root {
+  --blur-strong: 10px;
+  --blur-soft: 6px;
+
+  --hover-opacity: 0.8;
+  --hover-scale: 1.05;
+
+  --shadow-soft: 0 5px 20px rgba(0, 0, 0, 0.1);
+  --shadow-hard: 0 5px 20px rgba(0, 0, 0, 0.4);
+  --text-shadow-soft: 0 1px 4px var(--bg);
+
+  --transition-fast: 0.2s ease-in-out;
+  --transition-base: 0.4s ease;
+  --transition-slow: 0.6s ease-out;
+
+  --border-solid: 1px solid var(--bg);
+
+  --sheez1: linear-gradient(
+    transparent 60%,
+    color-mix(in srgb, var(--links) 15%, transparent) 100%
+    );
+
+  --frosted-mask: radial-gradient(
+    var(--mask-shape) at var(--mask-position),
+    var(--mask-color-inner) var(--mask-inner),
+    var(--mask-color-outer) var(--mask-outer)
+  );
+
+  --mask-shape: ellipse 60% 70%;
+  --mask-position: 50% 50%;
+  --mask-inner: 20%;
+  --mask-outer: 90%;
+  --mask-color-inner: rgba(0, 0, 0, 0.1);
+  --mask-color-outer: rgba(0, 0, 0, 1);
+
+--sheez: radial-gradient(
+    var(--sheez-shape) at var(--sheez-position),
+    var(--sheez-color-inner) var(--sheez-inner),
+    var(--sheez-color-outer) var(--sheez-outer)
+  );
+
+  --sheez-shape: ellipse 100% 110%;
+  --sheez-position: 50% 20%;
+  --sheez-inner: 60%;
+  --sheez-outer: 110%;
+  --sheez-color-inner: var(--bg);
+  --sheez-color-outer: var(--links);
+
+}
+
+@media (max-width: 800px) {
+  :root {
+    --blur-strong: 6px;
+
+    --mask-inner: 40%;
+  }
+}
+
+// -------------------------------------------------------- global
+
+html, body {
+  background-color: var(--bg);
+  text-rendering: optimizeLegibility;
+  font-family: $font-family-b;
+  margin: 0;
+  line-height: $line-base;
+}
+
+
+/*
 // Font families
 $font-family-body: "Source Serif 4", Georgia, Cambira, "Times New Roman", Times, serif;
 $font-family-heading: "Overused Grotesk", "Helvetica Neue", Arial, Helvetica, sans-serif;
@@ -101,6 +286,7 @@ $font-size-heading-6-mobile: 16px;
 $line-height-heading-6-mobile: 16px;
 
 // Details
+$meta-gap-24: 24px;
 $meta-gap-48: 48px;
 $meta-gap-64: 64px;
 $border-radius: 24px;
@@ -108,3 +294,4 @@ $transition-02-ease: all 0.2s ease-in-out;
 $glass-border: var(--code-text) solid 0;
 $drop-shadow: 0px 5px 20px rgba(0, 0, 0, 0.4);
 $drop-shadow-soft: 0px 5px 20px rgba(0, 0, 0, 0.1);
+*/

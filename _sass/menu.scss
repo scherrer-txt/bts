@@ -1,53 +1,55 @@
-#menu-toggle {
-    display: none;
-  }
+#menu-toggle,
+.menu-icon {
+  display: none;
+}
 
-  .menu-icon {
-    display: none;
-  }
+.menu {
+  position: fixed;
+  z-index: 10000;
+  display: flex;
+  align-items: end;
+  width: fit-content;
+  left: 1%;
+  right: 1%;
+  top: var(--gap-xsmall);
 
-  .menu {
-    position: sticky;
-    top: 0;
-    z-index: 10000;
+  padding-block: var(--gap-xsmall);
+  padding-inline: var(--gap-xlarge);
+  gap: var(--gap-xlarge);
+
+  border: var(--border-solid);
+  border-radius: calc(var(--radius) * 4);
+  background-color: var(--transpa-mob);
+  backdrop-filter: blur(var(--blur-strong));
+  -webkit-backdrop-filter: blur(var(--blur-strong));
+  box-shadow: var(--shadow-soft);
+  transition: all var(--transition-fast);
+
+  li {
+    display: inline-block;
     margin: 0;
-    padding: 1.5rem 17% 2rem;
-    border: var(--border-invis) solid 1px;
-    border-radius: 0 0 0 0;
-    background-color: var(--transpa-mob);
-    backdrop-filter: blur(10px);
-    box-shadow: $drop-shadow-soft;
-    transition: all 0.1s ease-in-out;
-    
-    &.scrolled {
-      top: 16px;
-      margin: 0 15%;
-      padding: 1.5rem 80px 1.5rem;
-      border-radius: 24px;
-    }
-
-    ul {
-      width: auto;
-    }
-  }
-  
-  .menu-list {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
     padding: 0;
-    width: 100%;
-  
-    li {
-      margin: 0;
-      padding: 0;
-      width: fit-content;
-      list-style-type: none;
+    list-style: none;
+
+    a {
+      display: inline-flex;
+      align-items: center;
+      font-family: $font-family-h;
+      font-size: calc(var(--font-base) * 1.4);
+      color: var(--links);
+      font-weight: var(--weight-regular);
+
+      &:hover {
+        color: var(--links-hover);
+      }
     }
   }
-
-  .menu-list li:last-child, ul:last-child {
-    margin: 0;
+}
+  
+  .theme-toggle .icon {
+    width: 34px;
+    height: 34px;
+    display: inline-block;
   }
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //

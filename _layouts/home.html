@@ -1,43 +1,44 @@
 <!DOCTYPE html>
 <!-- FOR MAIN PAGE -->
-<!-- Hey you! I see you looking at my code! -->
+<!-- Hey, I can see you looking... spicy. -->
 <html lang="{{ page.lang | default: "cs" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
-        {%- include head.html -%}
-        {% include lazyload.html %}
+<head>
+    {%- include head.html -%}
+    {% include lazyload.html %}
+  </head>
   <body>
           {% include menu.html collection=site.data.home.navbar_entries %}
-      <main class="page" aria-label="Content">
-        <div class="page-content">
+      <main class="page-list" aria-label="Content">
           <div class="main-logo"></div>
         <ol class="index-list">
           {% assign sorted_posts = site.posts | sort_natural: 'order' | reverse %}
           {% for post in sorted_posts %}
             {% if post.published == true %}
-              <li class="index-post">
-                <div class="index-container">
-                  <div class="index-number-container">
-                    <div class="index-label">Číslo</div>
-                    <p class="index-order">{{ post.order }}</h3>
+
+                <div class="index-wrap" style="--bg-img: url('{{ site.url }}{{ post.background }}');">
+                  <div class="number-wrap">
+                    <small class="meta-small">Číslo</small>
+                    <h4 class="meta-big">{{ post.order }}</h4>
                   </div>
-                  <div class="index-title-container">
-                    <div class="index-label">Název</div>
-                    <h2 class="index-title">
-                      <a href="{{ post.url | relative_url }}">{{ post.name }}</a>
+
+                  <div class="title-wrap">
+                    <small class="meta-small">Název</small>
+                    <h2 class="meta-title">
+                      <a href="{{ post.url | relative_url }}" class="index-link">{{ post.name }}</a>
                     </h2>
                   </div>
-                  <div class="index-release-container">
-                    <div class="index-label">Vyšlo</div>
-                    <p class="index-release">{{ post.release }}</h4>
+
+                  <div class="release-wrap">
+                    <small class="meta-small">Vyšlo</small>
+                    <h4 class="meta-big">{{ post.release }}</h4>
                   </div>
+
                 </div>
-                <div class="index-post-background" id="hover-background" style="background-image: url('{{ site.url }}/images/blank.png') center center no-repeat;" data-echo-background="{{ site.url }}{{ post.background }}"></div>
-              </li>
+
             {% endif %}
           {% endfor %}
         </ol>
-      </div>
     </main>
     {%- include footer.html -%}
   </body>
-  <script src="{{ site.url }}/assets/js/bg-hover.js"></script>
 </html>

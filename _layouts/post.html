@@ -1,75 +1,77 @@
 <!DOCTYPE html>
 <!-- FOR POSTS & NOTES -->
 <!-- Hey, look away, my code is naked! -->
-<html lang="{{ page.lang | default: "cs" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
-{%- include head.html -%}
-{% include lazyload.html %}
+<html lang="{{ page.lang | default: 'cs' }}" class="html" data-theme="{{ site.theme_config.appearance | default: 'auto' }}">
+  <head>
+    {%- include head.html -%}
+    {% include lazyload.html %}
+  </head>
+
   <body>
           {% include menu.html collection=site.data.home.navbar_entries %}
 
-<div class="post-meta" style="background-image: url('{{ site.url }}{{ page.background }}');">
-<div class="post-meta-container">
-  <div class="post-meta-row">
-    <div class="post-name-container">
-      <div class="post-meta-label">Název</div>
-      <div class="post-meta-content">
-        <h1 class="post-meta-title">{{ page.name }}</h1>
+<div class="meta">
+  <div class="meta-bg" style="--bg-img: url('{{ site.url }}{{ page.background }}')"></div>
+  <div class="meta-wrap">
+
+    <div class="meta-row">
+      <div class="title-wrap">
+        <small class="meta-small">Název</small>
+        <h1 class="meta-title">{{ page.name }}</h1>
       </div>
     </div>
+
+    <div class="meta-row">
+      <div class="number-wrap">
+        <small class="meta-small">Číslo</small>
+        <h4 class="meta-big">{{ page.order }}</h4>
+      </div>
+      <div class="appetizer-wrap">
+        <small class="meta-small">Appetizer</small>
+        <h2 class="meta-small">{{ page.perex }}</h2>
+      </div>
+      <div class="release-wrap">
+        <small class="meta-small">Vyšlo</small>
+        <h4 class="meta-big">{{ page.release }}</h4>
+      </div>
+    </div>
+
+{% if page.moreinfo %}
+    <div class="meta-row">
+      <div class="appetizer-wrap">
+        <small class="meta-small">Více</small>
+        <h2 class="meta-small">{{ page.perex }}</h2>
+      </div>
+    </div>
+{% endif %}
+
   </div>
-  <div class="post-meta-row">
-    <div class="number-container">
-      <div class="post-meta-label">Číslo</div>
-      <div class="post-meta-content">
-        <h4 class="post-meta-number">{{ page.order }}</h4>
-      </div>
-    </div>
-    <div class="appetizer-container">
-      <div class="post-meta-label">Appetizer</div>
-      <div class="post-meta-content">
-        <h2 class="post-meta-text">{{ page.perex }}</h2>
-      </div>
-    </div>
-    <div class="release-container">
-      <div class="post-meta-label">Vyšlo</div>
-      <div class="post-meta-content">
-        <h2 class="post-meta-text">{{ page.release }}</h2>
-      </div>
-    </div>
-  </div>
-</div>
 </div>
 
 <main class="page" aria-label="Content">
   <div class="page-content">
-    <div class="post-date">
-      <div class="post-meta-label">{{ page.date | date: '%d.%m.%Y' }}</div>
-    </div>
   
     {{ content }}
 
     <div class="post-end"></div>
   </div>
 </main>
-<div class="post-nav" style="background-image: url('{{ site.url }}{{ page.background }}');">
-  <div class="post-nav-grad"></div>
-<div class="post-nav-container">
+<div class="more" style="--bg-img: url('{{ site.url }}{{ page.background }}');">
+<div class="more-wrap">
   {% if page.previous %}
-    <div class="post-nav-item">
-      <div class="post-nav-label">Starší článek</div>
-        <h2 class="post-nav-link">
+    <div class="more-item" style="--bg-img: url('{{ site.url }}{{ page.previous.background }}');">
+      <small class="meta-small">Starší článek</small>
+        <h3 class="meta-title">
           <a href="{{ site.url }}{{ page.previous.url }}" class="prev-button">{{ page.previous.name }}</a>
-        </h2>
-        <div class="post-nav-background" id="hover-background" style="background-image: url('{{ site.url }}{{ page.previous.background }}');"></div>
+        </h3>
     </div>
   {% endif %}
   {% if page.next %}
-    <div class="post-nav-item">
-      <div class="post-nav-label">Novější článek</div>
-        <h2 class="post-nav-link">
+    <div class="more-item" style="--bg-img: url('{{ site.url }}{{ page.next.background }}');">
+      <small class="meta-small">Novější článek</small>
+        <h3 class="meta-title">
           <a href="{{ site.url }}{{ page.next.url }}" class="next-button">{{ page.next.name }}</a>
-        </h2>
-        <div class="post-nav-background" id="hover-background" style="background-image: url('{{ site.url }}{{ page.next.background }}');"></div>
+        </h3>
     </div>
   {% endif %}
 </div>
@@ -79,6 +81,5 @@
 
 {%- include footer.html -%}
 <script src="{{ site.url }}/assets/js/header-anchors.js"></script>
-<script src="{{ site.url }}/assets/js/nav-hover.js"></script>
 </body>
 </html>

@@ -1,7 +1,31 @@
+.menu,
+.footer,
+.meta-wrap,
+.more-wrap,
+.index-list {
+  @extend .container;
+}
+
+.page-content {
+  @extend .container--narrow;
+}
+
+.container {
+  width: min(var(--container-max), 100% - 2 * var(--container-side));
+  margin-inline: auto;
+  position: relative;
+}
+
+.container--narrow {
+  width: min(var(--container-narrow), 100% - 2 * var(--container-side));
+  margin-inline: auto;
+  position: relative;
+}
+
 .page {
   display: flex;
   flex-direction: column;
-  padding: 1em 15% 10rem;
+  padding: 0 15% 10rem;
   position: relative;
   background-color: var(--bg);
   border-radius: $border-radius;
@@ -13,36 +37,42 @@
 .page-content {
   display: flex;
   flex-direction: column;
-  //align-items: center;
   position: relative;
   padding-top: 0;
-  width: 45vw;
+  width: 90ch;
+}
+
+.page-list {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-items: center;
+  padding-top: 0;
+  width: 100%;
 }
 
 .page-content-main.about {
   background: none;
 }
 
-  .scroll-anchor {
-    scroll-margin-top: 20rem;
-  }
   
   // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
   // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
   
   @media only screen and (max-width: 800px) {
 
-    .page-content {
-      padding: 2em 1em 3em;
-      max-width: 100%;
+    .page {
+      width: 100%;
       background-color: var(--bg);
-      margin-top: 3rem;
+      padding: 0;
+      margin: 0;
     }
   
-    .page-content-main {
+    .page-content {
       margin-bottom: 0;
       padding-top: 0;
       background-color: var(--bg);
+      width: 100%;
     }
 
   .home-link {

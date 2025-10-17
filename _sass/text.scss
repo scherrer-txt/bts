@@ -1,45 +1,14 @@
-$font-family-b: "Source Serif 4", Georgia, Cambira, "Times New Roman", Times, serif;
-$font-family-h: "Overused Grotesk", Arial, Helvetica, sans-serif;
-$font-family-m: "Geist Mono", Courier, monospace;
-$font-family-main: "Overused Grotesk";
-
-$font-base: 24px;
-
-$line-base: 1.6;
-$space-base: 1.6rem;
-
-
-:root {
-  --font-base: #{$font-base};
-  --font-h1: calc(#{$font-base} * 3.8);
-  --font-h2: calc(#{$font-base} * 3);
-  --font-h3: calc(#{$font-base} * 2.3);
-  --font-h4: calc(#{$font-base} * 1.8);
-  --font-h5: calc(#{$font-base} * 1.4);
-  --font-h6: calc(#{$font-base} * 1.15);
-  --font-s: calc(#{$font-base} * 0.8);
-  --font-mono: 18px;
-
-  html, body {
-    background-color: var(--links);
-    text-rendering: optimizeLegibility;
-    font-family: $font-family-b;
-    margin: 0;
-  }
-}
-
 // -------------------------------------------------------- headers
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-family-h;
-  letter-spacing: -0.02em;
+  letter-spacing: var(--letter-tight);
   text-rendering: geometricPrecision;
   scroll-margin-top: 5rem;
-  font-weight: 400;
+  font-weight: var(--weight-regular);
   color: var(--text-secondary);
-  //max-width: 60ch;
-  margin-top: calc($space-base * 2);
-  margin-bottom: calc($space-base * 1);
+  margin-top: var(--space-text-top);
+  margin-bottom: var(--space-text-bottom);
 }
 
 h1 {
@@ -49,31 +18,26 @@ h1 {
 h2 {
   font-size: var(--font-h2);
   line-height: 0.8;
-  //width: 25ch;
 }
 h3 {
   font-size: var(--font-h3);
   line-height: 0.8;
-  //width: 30ch;
   display: inline-block;
 }
 h4 {
   font-size: var(--font-h4);
   line-height: 0.8;
-  //width: 40ch;
   display: inline-block;
 }
 h5 {
   font-size: var(--font-h5);
   line-height: 0.8;
-  //width: 40ch;
   display: inline-block;
 }
 h6 {
   font-size: var(--font-h6);
   line-height: 1;
   text-transform: uppercase;
-  //width: 40ch;
   display: inline-block;
 }
 
@@ -81,28 +45,25 @@ h6 {
 
 p {
   font-size: var(--font-base);
-  line-height: 1.6;
-  letter-spacing: -0.003em;
+  line-height: var(--line-base);
+  letter-spacing: var(--letter-base);
   color: var(--text);
-  width: 60ch;
   margin-top: 0;
-  margin-bottom: calc($space-base * 1);
-  flex-direction: column; //check if it does anything
+  margin-bottom: var(--space-text-bottom);
 }
 
 
 table, figcaption {
   font-size: var(--font-base);
-  line-height: 1.6;
-  letter-spacing: -0.003em;
+  line-height: var(--line-base);
+  letter-spacing: var(--letter-base);
   color: var(--text);
-  width: 60ch;
   margin-top: 0;
   margin-bottom: $space-base;
 }
 
 strong, b {
-  font-weight: 800;
+  font-weight: var(--weight-bold);
 }
 
 em, i {
@@ -117,11 +78,10 @@ small {
 
 figcaption {
   font-size: var(--font-s);
-  line-height: 1.4;
+  line-height: 1.4em;
   color: var(--text-secondary);
   text-align: center;
   margin-top: 0.5rem;
-  width: 60ch;
 }
 
 a {
@@ -134,23 +94,36 @@ a {
   }
 }
 
+// -------------------------------------------------------- code
+
+p {
+  code {
+    display: block;
+    font-family: $font-family-m;
+    letter-spacing: -0.02rem;
+    font-size: var(--font-mono);
+    font-weight: var(--weight-regular);
+    line-height: calc($space-base * 1.2) !important;
+    color: var(--text);
+  }
+}
+
 code {
   font-family: $font-family-m;
   letter-spacing: -0.02rem;
   font-size: var(--font-mono);
-  font-weight: 400;
-  line-height: 1.2rem;
+  font-weight: var(--weight-regular);
+  line-height: calc($space-base * 0.5) !important;
   color: var(--text);
 }
 
 pre {
   position: relative;
   margin: $space-base 0;
+  line-height: 1rem;
 
   &::before {
     content: ">";
-    position: absolute;
-    width: 2ch;
     left: 0;
     top: 0;
     font-family: $font-family-m;
@@ -167,16 +140,16 @@ ul,
 ol {
   margin: 0 0 $space-base 0;
   padding-left: 1.5em;
+  width: fit-content;
 }
 
 li {
   font-size: var(--font-base);
   line-height: 1.6;
-  letter-spacing: -0.003em;
+  letter-spacing: var(--letter-base);
   color: var(--text);
-  width: 60ch;
   margin-top: 0;
-  margin-bottom: calc($space-base * 1);
+  margin-bottom: var(--space-text-bottom);
 }
 
 li ul,
@@ -211,22 +184,39 @@ ol li {
 
 blockquote {
   font-family: $font-family-h;
-  font-size: var(--font-h2);
+  font-size: var(--font-h3);
   letter-spacing: -0.07rem;
   text-align: center;
   line-height: 1;
-  font-weight: 500;
-  padding: 10% 0 5%;
+  font-weight: var(--weight-medium);
   color: var(--text);
-  width: 100%;
-  margin: 0;
+  overflow-wrap: break-word;
+  align-self: center;
+  margin: var(--space-blockquote-top) var(--space-blockquote-side);
 
-  &::before {
-    content: "„";
+  > p {
+    display: inline-block;
+    white-space: pre-line;
+    font-family: $font-family-h;
+    font-size: var(--font-h3);
+    letter-spacing: -0.07rem;
+    text-align: center;
+    line-height: 1;
+    font-weight: var(--weight-medium);
+    color: var(--text);
+    margin: 0;
   }
 
-  &::after {
-    content: "“";
+  &:has(p + p) p:last-child {
+    display: block;
+    margin-top: 1rem;
+    font-family: $font-family-h !important;
+    font-size: var(--font-h6);
+    color: var(--text-secondary);
+    font-family: $font-family-b;
+    font-weight: var(--weight-regular);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
   }
 }
 
@@ -269,7 +259,7 @@ th {
 
 .footnotes {
   color: var(--text);
-  max-width: 120ch;
+  max-width: var(--footnote-width);
   scroll-margin-top: 5rem;
 
   ol,
@@ -284,7 +274,7 @@ th {
     &::marker {
       color: var(--text-secondary);
       font-family: $font-family-h;
-      font-weight: 800;
+      font-weight: var(--weight-bold);
       font-size: var(--font-h6);
     }
   }
@@ -298,13 +288,13 @@ th {
 
 .footnotes ol li {
   scroll-margin-top: 10rem;
-  margin-top: calc($space-base * 2);
+  margin-top: var(--space-text-top);
   margin-bottom: calc($space-base * 2);
 }
 
 sup {
   font-family: $font-family-h;
-  font-weight: 800;
+  font-weight: var(--weight-bold);
   font-size: var(--font-s);
   vertical-align: text-top;
   line-height: 0.3em;
@@ -326,7 +316,7 @@ sup {
     content: "↑ zpět";
     font-family: $font-family-main;
     font-size: var(--font-s);
-    font-weight: 800;
+    font-weight: var(--weight-bold);
     letter-spacing: 0.04em;
     text-transform: uppercase;
     text-align: center;
@@ -340,35 +330,44 @@ sup {
 // -------------------------------------------------------- toc
 
 #markdown-toc {
-  width: 60ch;
-  padding: 2rem 3rem;
-  border: 1px solid color-mix(in srgb, var(--text) 20%, transparent);
-  border-radius: $border-radius;
-  box-shadow: $drop-shadow-soft;
-  background: var(--bg);
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  gap: var(--gap-large);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-soft);
+  background-color: var(--transpa-mob);
+  backdrop-filter: blur(var(--blur-strong));
+  -webkit-backdrop-filter: blur(var(--blur-strong));
+  padding: var(--gap-large) var(--gap-xlarge);
+  max-width: var(--container-max, 90%);
+  margin-inline: auto;
+  box-sizing: border-box;
   list-style: none;
   counter-reset: toc-counter;
+  white-space: normal;
+  transform: translateY(-15vh);
 
   &::before {
     content: "Obsah";
     display: block;
     font-family: $font-family-h;
     font-size: var(--font-s);
-    font-weight: 600;
+    font-weight: var(--weight-medium);
     text-transform: uppercase;
-    letter-spacing: 0.05em;
+    letter-spacing: var(--letter-wide);
     color: var(--text-secondary);
-    margin-bottom: 1rem;
   }
 
   li {
     font-family: $font-family-h;
     line-height: 1.6;
-    font-weight: 500;
+    font-weight: var(--weight-medium);
     color: var(--text);
     margin: calc($space-base * 0.1) 0;
     list-style-type: none;
     position: relative;
+    display: block;
 
     &::before {
       counter-increment: toc-counter;
@@ -376,47 +375,44 @@ sup {
       color: var(--text);
     }
 
-    a {
-      color: var(--links);
-
-      &:hover {
-        color: var(--links);
-      }
-    }
   }
 }
 
-.page-content h2 > a.anchor-marker,
-.page-content h3 > a.anchor-marker,
-.page-content h4 > a.anchor-marker,
-.page-content h5 > a.anchor-marker,
-.page-content h6 > a.anchor-marker {
+.page-content h2,
+.page-content h3,
+.page-content h4,
+.page-content h5,
+.page-content h6 {
+  position: relative;
+}
+
+.anchor-marker {
   position: absolute;
-  display: inline-block;
-  font-family: $font-family-main;
-  font-weight: 800;
+  left: 0;
+  top: 0.15em;
+  transform: translateX(-120%) rotate(-90deg);
   font-size: 0.8em;
-  letter-spacing: -0.05em;
-  transform: translateX(-100%) rotate(-90deg);
-  transform-origin: center center;
-  vertical-align: text-top;
-  padding-right: 1rem;
+  font-family: $font-family-main;
+  font-weight: var(--weight-bold);
+  color: var(--links);
   text-decoration: none;
+  transition: all var(--transition-fast);
+
+  &:hover {
+    opacity: 1;
+    color: var(--links);
+    text-decoration: none;
+  }
+}
+
+.scroll-anchor {
+  scroll-margin-top: 20rem;
 }
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
+
   @media (max-width: 800px) {
-  :root {
-    --font-base: 20px;
-    --font-h1: calc(var(--font-base) * 3);
-    --font-h2: calc(var(--font-base) * 2.4);
-    --font-h3: calc(var(--font-base) * 1.9);
-    --font-h4: calc(var(--font-base) * 1.6);
-    --font-h5: calc(var(--font-base) * 1.3);
-    --font-h6: calc(var(--font-base) * 1.1);
-    --font-s: calc(var(--font-base) * 0.9);
-  }
 
   body {
     padding: 0 1.5rem;
@@ -426,20 +422,22 @@ sup {
     width: 100%;
     max-width: 100%;
     line-height: 1.1;
-    margin-top: calc($space-base * 1.5);
-    margin-bottom: calc($space-base * 0.5);
+    margin-top: calc(var(--space-base) * 1.5);
+    margin-bottom: calc(var(--space-base) * 0.5);
   }
 
   p, li, table, figcaption, pre, code {
     width: 100%;
     max-width: 100%;
     font-size: var(--font-base);
-    line-height: 1.6;
+    line-height: var(--line-base);
   }
 
   blockquote {
-    font-size: var(--font-h4);
+    font-size: var(--font-h5);
     padding: 2rem 0;
+    width: 100%;
+    max-width: 100%;
   }
 
   ul, ol {
@@ -452,17 +450,30 @@ sup {
     overflow-x: auto;
   }
 
-  .footnotes {
-    li {
-      margin-bottom: calc($space-base * 0.5) !important;
-    }
+  .footnotes li {
+    margin-bottom: calc(var(--space-base) * 0.5) !important;
   }
 
   #markdown-toc {
-    width: 100%;
-    padding: 1.5rem 1.5rem;
+    width: 90%;
+    padding: 1.5rem;
     font-size: var(--font-s);
     box-shadow: none;
     border-radius: 0;
   }
+
+  .page-content h2,
+  .page-content h3,
+  .page-content h4,
+  .page-content h5,
+  .page-content h6 {
+    padding-left: 0;
+  }
+
+  .anchor-marker {
+    position: static;
+    transform: none;
+    margin-right: 0.5rem;
+  }
 }
+

@@ -45,13 +45,15 @@ V září 2019 jsem měl možnosti si koupit nový foťák a rozhodl jsem se pro
 
 Základ je mít dostatek nabitých baterek a čisté paměťovky.
 
-> „Borci, někde zástrčka?“
-— já, 2016
+>„Borci, někde zástrčka?“
+>
+>— já, 2016
 
 Je to basic věc, ale opravdu je potřeba to zdůraznit. Zrovna když byli lidi ve varu, mi občas zkapala buď baterka nebo jsem neměl dost místa. Je trapný pak sedět v backstagi a čekat půl hodiny, až se baterka dobije nebo ve spěchu mazat fotky.
 
-> „Nikdy předtím jsem neviděl někoho takhle rychle mazat fotky.“
-— DJ Wich, 2017
+>„Nikdy předtím jsem neviděl někoho takhle rychle mazat fotky.“
+>
+>— DJ Wich, 2017
 
 Mám 3 náhradní baterky s nabíječkou a náhradní paměťovku. Baterky vydrží 1400 fotek a na paměťovky narvu dohromady 1716 ±50Mb RAWů. Musím říct, že se mi fotí úplně jinak, když vím, že mám dost místa i šťávy.
 
@@ -86,7 +88,7 @@ Nemyslet na bezpečí věcí je základem k uvolnění; líp se pak dostanu do f
 {:.no_toc}
 Tím myslím hlavně přístup stage, ale dá se dostat i na zajímavější spoty. Důležité je mít místo, odkud je vidět interpret a lidé. Většinou je to za DJem nebo po stranách stage. Zpravidla nejlepší je, když je interpret zády nebo bokem a předmětem fotky je crowd pod ním.
 
-> Nevyfotíš moshpit, když v něm stojíš.
+>Nevyfotíš moshpit, když v něm stojíš.
 
 <div class="gallery-container">
   <div class="gallery-single" style="background-image: url('https://miro.medium.com/v2/resize:fit:720/format:webp/1*HIG36BGHp2pwN2Yit7jozQ.jpeg');" alt="stage dive, interpret leží na rukou lidí v davu, je to vyfocený tak, žeto trochu vypadá jak renesanční obraz, protože je hrozně velký kontrast mezi publikem a nasvětleným interpretem"></div>
@@ -190,7 +192,7 @@ Nejdřív upravím jednu dobře exponovanou fotku, na které si udělám nástř
 ![img](https://miro.medium.com/v2/resize:fit:640/format:webp/1*5-0OrjnelLcnj-rvtcStWQ.png)
 
 
-_Seznamte se, tlačítko **Sync…** je odteď váš největší kámoš_
+`Seznamte se, tlačítko **Sync…** je odteď váš největší kámoš`
 
 Poté fotky jednotlivě projdu a naposledy upravím nastavení, srovnám, oříznu a podle potřeby udělám lehkou retuš.
 
@@ -226,7 +228,7 @@ _Povinná „interpret v moři smartphone světel“ fotka_
 
 ## Fáze 5 – Selfpromo
 
-> Máš jen takový promo, jaký si sám uděláš.
+>Máš jen takový promo, jaký si sám uděláš.
 
 ### Označení na fotce
 
@@ -274,4 +276,4 @@ Já bych se ale soustředil na stories a psaní si s ostatními fotografy. Ať u
 
 S pravidelností bych to taky moc nepřeháněl. Vydával jsem každý den v průběhu tří měsíců a bylo to celkem k ničemu. Bohatě stačí jednou dvakrát týdně, když vyjde třeba obden jedno story.
 
-> Nemůžeš tvořit obsah, když pořád jen konzumuješ.
+>Nemůžeš tvořit obsah, když pořád jen konzumuješ.

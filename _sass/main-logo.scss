@@ -1,18 +1,20 @@
 .main-logo {
-    width: 80vw;
-    height: 80vh;
-    background-color: var(--links);
-    mask-image: url("https://scherrer-txt.github.io/bts/assets/bts-logo-big.svg");
-    -webkit-mask-image: url("https://scherrer-txt.github.io/bts/assets/bts-logo-big.svg");
-    mask-size: contain;
-    mask-repeat: no-repeat;
-    mask-position: top;
-    -webkit-mask-size: contain;
-    -webkit-mask-repeat: no-repeat;
-    -webkit-mask-position: top;
-    position: sticky;
-    top: 70px;
-    z-index: -9999999;
+  width: 80vw;
+  height: 80vh;
+  background-color: var(--links);
+
+  mask-image: url("https://scherrer-txt.github.io/bts/assets/bts-logo-big.svg");
+  -webkit-mask-image: url("https://scherrer-txt.github.io/bts/assets/bts-logo-big.svg");
+  mask-size: contain;
+  -webkit-mask-size: contain;
+  mask-repeat: no-repeat;
+  -webkit-mask-repeat: no-repeat;
+  mask-position: top;
+  -webkit-mask-position: top;
+
+  position: sticky;
+  top: 70px;
+  z-index: 0;
 }
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
@@ -21,15 +23,7 @@
     .main-logo {
         width: 80vw;
         height: 45vh;
-        background-color: var(--links);
-        mask-image: url("https://scherrer-txt.github.io/bts/assets/bts-logo-big.svg");
-        -webkit-mask-image: url("https://scherrer-txt.github.io/bts/assets/bts-logo-big.svg");
-        mask-size: contain;
-        mask-repeat: no-repeat;
-        mask-position: center;
-        -webkit-mask-size: contain;
-        -webkit-mask-repeat: no-repeat;
-        -webkit-mask-position: center;
+        
         position: sticky;
         z-index: 0;
         top: 0;

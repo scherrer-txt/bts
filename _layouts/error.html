@@ -2,8 +2,10 @@
 <!-- FOR ERROR PAGES -->
 <!-- I said it's broken, what are you trying to find here? -->
 <html lang="{{ page.lang | default: "cs" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
-        {%- include head.html -%}
-        {% include lazyload.html %}
+<head>
+    {%- include head.html -%}
+    {% include lazyload.html %}
+  </head>
   <body>
     <div class="error">
           {% include menu.html collection=site.data.home.navbar_entries %}

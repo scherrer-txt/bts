@@ -57,6 +57,8 @@ theme_config:
 kramdown:
   toc_levels: 1..2
   footnote_backlink: "&nbsp;"
+  syntax_highlighter_opts:
+    disable: true
 
 # Markdown
 markdown: kramdown

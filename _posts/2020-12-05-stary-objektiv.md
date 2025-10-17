@@ -39,7 +39,7 @@ Hned jsem chtěl vědět o těchhle objektivech co nejvíc. Jedno jméno se v t�
 ## Co díky tomu vzniklo?
 ##### Projekt Quickshots
 {:toc}
-_Vyfotit, upravit, nahrát. Během 10 minut._
+`Vyfotit, upravit, nahrát. Během 10 minut.`
 
 Třicátýho června jsem pořídil objektiv Helios 44–2. Hned ten den jsem na něj začal fotit. Byl jsem nadšený hned ze dvou důvodů. Za prvé jsem neměl nikdy možnost fotit na pevné sklo. Když už, rozhodně nemělo clonu f/2.0. Díky ní teď můžu kouzlit takové fotky, jaké jsem vždycky chtěl. Za druhé má naprosto nádherný a velmi neobyčejný bokeh, kterému se současné objektivy nemůžou ani zdaleka přiblížit.
 

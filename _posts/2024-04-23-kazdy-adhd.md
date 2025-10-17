@@ -18,7 +18,7 @@ published: true
 * TOC
 {:toc}
 
-> Člověk na vozíku fakt těžko vyjde schody do pátýho patra. Můj vozík není vidět. Ale to neznamená, že neexistuje, že je pro mě jednoduchý ty schody vyjít.
+>Člověk na vozíku fakt těžko vyjde schody do pátýho patra. Můj vozík není vidět. Ale to neznamená, že neexistuje, že je pro mě jednoduchý ty schody vyjít.
 
 ## Krátký úvod
 Někdy zhruba v roce 2019/2020 jsem se začal víc zajímat o duševní zdraví. Necítil jsem se, že jsem úplně normální. Kdo četl moje předchozí články, ví, že jsem měl odmalička dost divný zájmy; byl jsem celkem zvláštní dítě.[^1]
@@ -46,7 +46,7 @@ Kdo si tohle fakt doopravdy, neironicky myslí, by si měl umýt ruce — má na
 4. Je to dezinformace a lež. ADHD je klinicky uznávaná porucha uvedená v Diagnostickém a statistickém manuálu duševních poruch (DSM-5[^5]). Tvrdit, že „*každý má trochu ADHD*,“ podporuje šíření dezinformací o povaze ADHD a přispívá k nedorozumění o duševních poruchách obecně. Navíc, ADHD má podle současných studií zhruba každý dvacátý člověk. Zatím. Víc jich odhalených není.
 5. Odrazuje od vyhledání pomoci a podpory. Když příznaky ADHD odmávneme s tím, že „*to má přece každej*“, je míň pravděpodobný, že jedinci, kteří by mohli mít prospěch z vyšetření a léčby, pomoc vůbec vyhledají. To může oddálit diagnózu a ve výsledku zásadně zhoršit kvalitu jejich života. A jak jsem psal výš, tušíme, kam to může směřovat.
 
-> Sebediagnóza je naprosto validní nástroj toho, jak si pomoct. No matter what anyone tries to tell you.
+>Sebediagnóza je naprosto validní nástroj toho, jak si pomoct. No matter what anyone tries to tell you.
 
 ## Sebediagnóza je první krok
 Sebediagnóza je první krok k tomu, aby se něco — cokoliv — mohlo dít. Ne vždycky se potvrdí jako správná (*což teda platí i u diagnózy odbornictvem, ale o tom později*), ale je to první možný krok. Pokud si o sobě kdokoliv myslí, že mají cokoliv, já osobně nemám důvod jim nevěřit. Je jen na nich, jestli se rozhodnou s tou sebediagnózou něco dělat a třeba vyhledat odbornictvo. Což ale fakt není tak jednoduchý, jako vzít si číslo objednávky v mekáči a počkat pět minut. Ten proces hledání, čekání a objednání trvá měsíce, klidně i roky. A je plný bariér, který hromadu lidí zastraší, znechutí, demotivuje, odradí. Hromadu lidí, který má paradoxně pomoct.
@@ -63,7 +63,7 @@ Další bariéra je to, jak je odbornictvo extrémně přetížený. Pokud někd
 
 Rád bych řekl, že tímhle to končí. Že aby člověk vyhrál, stačí zbořit zdi postavený z cihel vlastních pochyb, nejistoty, nedostatku energie, času, prostoru, z toho, jak je nepřátelsky je proces hledání/dostáni pomoci nastavený. Že je stačí zbořit, najít odborníka, objednat se, dostat termín, dostat diagnózu a první bitva je vyhraná. Bohužel, realita současnýho českýho zdravotnictví je úplně jinde. Moje cesta byla velmi přímočará, ale to jen díky tomu, že jsem dostal od [@Lea Belejová](https://linktr.ee/lea_be_linky) kontakt na konkrétní osobu, paní doktorku Zuzanu Hogenbuchovou, která se (nejen) na ADHD specializuje.[^7] Takhle jednoduchý to ale drtivá většina lidí, co hledají pomoc, fakt nemá. Lékaři a lekařky se k pacientům nemusí chovat dobře, ani profesionálně, ani s empatií. Můžou soudit, vycházet z vlastních předsudků, nenaslouchat, a kvůli tomu můžou být jejich diagnózy nepravdivé. Velká spousta žen, diagnostikovaných v dospělosti s ADHD, by mohla vyprávět.[^8] Od takových odborníků pacienti odchází třeba s nálepkou deprese nebo úzkostí, která sice může pomoct vyřešit *nějaký* problém, ale ne ten hlavní. V tom lepším případě. Taková je realita.
 
-> Nejdřív je potřeba problém pojmenovat, pak se s ním dá teprv pracovat
+>Nejdřív je potřeba problém pojmenovat, pak se s ním dá teprv pracovat
 
 ## Sebediagnóza je naprosto validní
 **Sebediagnóza je naprosto validní nástroj pomoci.[^9] No matter what anyone tries to tell you.** Sami sebe známe mnohem líp, než jak nás zná někdo jiný. Sami se sebou trávíme nejvíc času, z první osoby vidíme naše akce a neustále vnímáme tok myšlenek v našich mozcích.
@@ -88,7 +88,7 @@ Poznámka bokem — sebediagnóza i diagnóza jsou obě subjektivní záležitos
 
 ---
 
-> Nikdy nebylo jednodušší se nechat diagnostikovat a léčit bez toho, aby nemocným lidem někdo strkal obrovskou jehlu přes oční důlek do mozku
+>Nikdy nebylo jednodušší se nechat diagnostikovat a léčit bez toho, aby nemocným lidem někdo strkal obrovskou jehlu přes oční důlek do mozku
 
 ## Epidemie duševních chorob
 I tak by se dalo shrnout to, co se teď děje na celým světě. [Každý desátý dítě](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10551769/) v Americe má ADHD, celosvětově [každý dvacátý](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7508636/). U dospělých [je to podobný](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7916320/). A to ani nemluvím o depresích, autismu, úzkostech, hraničářích nebo bipolárech a ostatních. Skoro to působí, že nikdy předtím v historii nebylo tolik duševně nemocných lidí. Jenže nikdy předtím v historii lidstva nebyly tak dostupný informace, nebylo tak jednoduchý se o duševní zdraví zajímat, nebylo tak jednoduchý se nechat diagnostikovat a naučit se s tím pracovat (od nedávna dokonce i bez toho, aby nemocným lidem někdo strkal cepín přes oční důlek do mozku[^13]) — a to i přes to, že jsem pár řádku dozadu říkal, že ten proces není easy. Není. Ale je to furt objektivně nejvíc easy ever.
@@ -97,7 +97,7 @@ Vypůjčil bych si název knihy Filipa Titlbacha — [Byli jsme tu vždycky](htt
 
 To, co se teď jeví jako „*epidemie*“ ve skutečnosti žádná epidemie není. Když Portugalci a Španělé začali objevovat Nový svět, taky se zničehonic nezačal generovat nový kontinent — byl tam celou dobu. Jen konečně Evropani měli možnosti na to, aby mohli objevovat (*a vykořistit*). Nemocných nepřibývá, je jich furt stejně. Jen máme lepší chápání různých nemocí, lepší nástroje jak je identifikovat. Osobně bych slovo epidemie použil spíš v kontextu nárůstu zájmu o duševní choroby díky sociálním sítím, ale ne v kontextu duševních chorob obecně.
 
-> If you can’t handle me at my worst, you don’t deserve me at my best
+>If you can’t handle me at my worst, you don’t deserve me at my best
 
 ## Duševní choroba jako výmluva
 Hele, jo. Občas je to fakt lákavý se vymluvit na to, že já vlastně za nic nemůžu, že jsem jenom chudák, co mu mozek nemozkuje tak, jako ostatním. Že moje ADHD chodí pozdě, já ne. Ale realita je zase jinde. Svoje ADHD a autismus beru jako součást toho, jakej jsem. Bez toho bych takovej nebyl. Je to něco, co ode mě nejde oddělit, ani kdybych sebevíc chtěl. Má to svoje neuvěřitelně silný stránky, ale i fakt na hovno zápory. It is what it is. I tak ale dělám [hromadu](bezcasi-ktery-meni-zivot) různých [věcí](beru-5-prasku-kazdy-rano) pro to, aby se mi s tím žilo dobře. Autismus a/nebo ADHD fakt nepokládám za svoji superschopnost. Jestli něco, tak je to mentální opičí pracka.[^15]

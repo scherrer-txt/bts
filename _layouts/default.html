@@ -1,8 +1,10 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: "cs" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
-        {%- include head.html -%}
-        {% include lazyload.html %}
-  <body>
+<html lang="{{ page.lang | default: 'cs' }}" class="html">
+<head>
+    {%- include head.html -%}
+    {% include lazyload.html %}
+  </head>
+    <body>
           {% include menu.html collection=site.data.home.navbar_entries %}
     <main class="page" aria-label="Content">
       <div class="page-content">

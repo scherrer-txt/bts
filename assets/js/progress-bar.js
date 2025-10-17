@@ -1,27 +1,25 @@
-let processScroll = () => {
-  let docElem = document.documentElement,
-      docBody = document.body,
-      scrollTop = docElem['scrollTop'] || docBody['scrollTop'],
-      postEnd = document.querySelector('.post-end'),
-      postEndPosition = postEnd.getBoundingClientRect().top + window.scrollY,
-      scrollPercent;
+document.addEventListener('DOMContentLoaded', () => {
+  const progressBar = document.getElementById('progress-bar');
+  const postEnd = document.querySelector('.post-end');
+  if (!progressBar || !postEnd) return;
 
-  // Calculate the scroll percentage relative to the post-end element
-  if (scrollTop + window.innerHeight >= postEndPosition) {
-      scrollPercent = '100%';
-  } else {
-      scrollPercent = (scrollTop / (postEndPosition - window.innerHeight)) * 100 + '%';
-  }
+  const postEndPosition = postEnd.getBoundingClientRect().top + window.scrollY;
+  const viewportHeight = window.innerHeight;
 
-  // Update progress bar width
-  document.getElementById("progress-bar").style.setProperty("--scrollAmount", scrollPercent);
+  const updateProgress = () => {
+    const scrollTop = window.scrollY;
+    const maxScroll = postEndPosition - viewportHeight;
+    const percent = Math.min((scrollTop / maxScroll) * 100, 100);
 
-  // Toggle visibility of progress bar
-  if (scrollTop + window.innerHeight >= postEndPosition) {
-      document.getElementById("progress-bar").style.opacity = '0';
-  } else {
-      document.getElementById("progress-bar").style.opacity = '1';
-  }
-};
+    progressBar.style.setProperty('--scrollAmount', `${percent}%`);
+    progressBar.style.opacity = percent >= 100 ? '0' : '1';
+  };
 
-document.addEventListener('scroll', processScroll);
+  window.addEventListener('scroll', updateProgress, { passive: true });
+  window.addEventListener('resize', () => {
+    const newPostEnd = postEnd.getBoundingClientRect().top + window.scrollY;
+    updateProgress(newPostEnd);
+  });
+
+  updateProgress();
+});

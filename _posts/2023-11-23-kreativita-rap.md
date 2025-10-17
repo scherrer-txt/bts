@@ -23,7 +23,7 @@ Nezbláznil jsem se. Jen prostě nemám lepší pojmenování pro jednotlivý d�
 
 Článek jsem začal psát před víc jak rokem, koncem srpna 2022. Myslím, že dozrál čas na to, abych ho dopsal, domyslel a podělil se o tuhle docela kuriózní věc, co mi leží v hlavě.
 
-> Kreativita je: schopnost vidět kolem sebe často dost překvapivý možnosti vytvoření něčeho novýho, užitečnýho a/nebo neobvyklýho.
+>Kreativita je: schopnost vidět kolem sebe často dost překvapivý možnosti vytvoření něčeho novýho, užitečnýho a/nebo neobvyklýho.
 
 ## Metal, Calin a strážci bran
 Situace: jednou za čas si poslechneš metal, ale oproti skupince lidí, co v šalině stojí kousek od tebe, kteří mají různý vesty s nášivkama, kožený náramky, těžký glády a řetězů na dvě železářství, víš úplný prd. Tahle skupinka je natolik dedicated, že zasvětila kus života, aby do hloubky společně prozkoumali svůj oblíbený žánr. To netrumfneš za večer poslouchání Black Sabbath na Spotify. Ne, oni mají nejspíš sbírku snad všech desek, co kdy vyšly, znají folk lore, a ty divný loga, co vypadají jako hromady větví, umí i přečíst.
@@ -34,7 +34,7 @@ Za metalové fans si dosaď jakékoliv odborné diváctvo a jsme dobří, pointa
 
 Parádní příklad je Calinova hardstyle verze songu Hannah Montana, která běžného posluchače může bavit a může mu přijít vcelku dobře stravitelná — před znalci žánru ale neobstojí, jejich ostřížímu oku totiž neunikne sebemenší chybka nebo odlišnost. V tom vidím důvod, proč mají žánroví fans občas problém pochopit, jak může mít nějaké konkrétní dílo takový úspěch. Chápu proč? Jo. Je to gatekeeping? Působí to tak. Opomíjejí fakt, že se díky Calinovi mohlo rozrůst celkové posluchačstvo jejich oblíbeného žánru, protože se jim Hannah Montana líbila a chtějí slyšet víc podobné hudby? Rozhodně.
 
-> To, před čím by měl být rap chráněn, je přesně tenhle konzervatismus.
+>To, před čím by měl být rap chráněn, je přesně tenhle konzervatismus.
 
 ## Zlatá éra rapu
 Rap byl donedávna záležitost rovných kšiltů, ulice, chlapáckého nalhávání si věcí a kolektivního přesvědčování se o vlastní tvrdosti. Ještě předtím to byla černošská hudba, se silnými kořeny v discu, funku a soulu. Byla to okrajová záležitost určité menšiny, která čerpala z bohaté hudební historie těch, co přišli před nimi. V současnosti je to mainstream. Každý může být rapper — nehledě na background — a témat, která rap otevírá, je nekonečno. Výpověď doby, kritika společnosti a politiky, upozorňování na důležitost mentálního zdraví, ale samozřejmě pořád i nějaká ta vyčpělá pózovitost, rádoby-tvrdost, ale zároveň i původní hravost a radost z tvorby a ze sdílení myšlenek se svým kmenem. Uškodilo rapu nějak to, že se stal mainstreamem? Vyměkl? Změnil se k nepoznání? Nebo se úplně zkazil? Je mi to fuk, jedno je ale jasný — teď je zlatá éra rapu.

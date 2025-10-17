@@ -46,7 +46,7 @@ Lingvistický okýnko máme za sebou, teď k jádru pudla.
 
 Z různých diskuzí a osobního bádání mi vykrystalizovala moje osobní (*tzn. subjektivní*) definice umění:
 
-> Umění je to, co je kdokoliv ochotný za umění považovat.
+>Umění je to, co je kdokoliv ochotný za umění považovat.
 
 Tahle definice je fajn v tom, že máme najednou všichni možnost a svobodu si každý sám za sebe vědomě rozhodnout, co je pro každýho a každou z nás umění — bez veledůležitýho mudrování lidí ze slonovinových věží. A všichni máme možnost za umění považovat úplně cokoliv, bez nutnosti to před kýmkoliv obhajovat.
 
@@ -58,7 +58,7 @@ Prostor pro debatu tady je, ale v určitých mezích. Třeba můj kamarád Pepa 
 
 Procvičím si výrokovou logiku. Kdo dělá umění? Umělci a umělkyně (*tedy, umělectvo*). Co dělá umělectvo? Umění. Kdo má označení za umělec\*kyně? Ti, kdo dělají umění. Z toho vyplývá další, tentokrát objektivnější, definice:
 
-> Umělectvo jsou všichni, kdo tvoří umění a jsou tak označeni.
+>Umělectvo jsou všichni, kdo tvoří umění a jsou tak označeni.
 
 Jak ale člověk k takovýmu označení příjde? Jsou dvě cesty.
 
@@ -78,7 +78,7 @@ Každý může být umělec nebo umělkyně (*opakuju i pro lidi vzadu*).
 
 ## Záměr
 
-> Umění vzniká se záměrem být uměním.
+>Umění vzniká se záměrem být uměním.
 
 Akademická — a asi i objektivní — definice umění, s kterou jsem se setkal, je: „*umění je cokoliv, co neslouží*“. Když se vrátím k příkladům shora — auto, jídlo, barák, zeď, web, plakát, kabát. To jsou všechno věci, který primárně slouží nějaký potřebě. Může (*a nemusí*) je vytvářet umělectvo; může (*a nemusí*) v nich kdokoliv vidět umění, jedno je ale celkem jistý — nebyly vytvořený s primárním záměrem tvořit umění.
 

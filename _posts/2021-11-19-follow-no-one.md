@@ -26,7 +26,7 @@ Poslední dobou se snažím se svými zlozvyky něco dělat. Přestat si kousat 
 Od doby, co to dělám, jsem v sobě zase objevil radost z tvorby. Náhoda?
 
 ## Okamžité uspokojení, algoritmy a černá zrcadla
-_Instantní gratifikace = Okamžitá odměna (zpravidla za něco, co nestojí tolik sil). Takový ten super pocit, když vidíš něco hrozně hezkýho a dáš tomu like — nebo když like dostaneš. Nudíš se při čekání na šalinu? Pár swipů, několik hezkých fotek, nějaký zajímavý novinky ze světového dění, chvilkový nával uspokojení a takhle pořád dokola._
+`Instantní gratifikace = Okamžitá odměna (zpravidla za něco, co nestojí tolik sil). Takový ten super pocit, když vidíš něco hrozně hezkýho a dáš tomu like — nebo když like dostaneš. Nudíš se při čekání na šalinu? Pár swipů, několik hezkých fotek, nějaký zajímavý novinky ze světového dění, chvilkový nával uspokojení a takhle pořád dokola.`
 
 Je mi 24 a fakt nechci znít jako nějaký fotr, ale to, jakým způsobem používáme sociální sítě, je problém. To už si asi všichni uvědomujeme. Je to společenský[^2], psychologický[^3] i bezpečnostní[^4] riziko. Některý klíčový části socek jsou záměrně co nejvíc návykový[^5]. Tím útočí na naše nejprimitivnější pudy[^6] a proti tomu je dost těžké se bránit. A i když si odinstalujeme TikTok, IG i Facebook, zdaleka[^7] nemáme[^8] vyhráno[^9].
 
@@ -69,14 +69,9 @@ Tohle jsou věci, které mám v hlavě a které motivovaly FOLLOW NO ONE perform
 
 Každý správný, byť jen okrajově filozofující článek by se asi neobešel bez citátu od Nietzscheho. Takže proč bych nepřeložil zrovna ten, co mě motivoval nad tím vším začít přemýšlet:
 
-Nyní jdu sám, mí učedníci. Vy též jděte sami. Tak tomu chci. Vpravdě vám radím: odstupte ode mne a straňte se Zarathuštry! Ještě lépe — styďte se za něj! Možná vás zradil!
-Nestačí, aby člověk poznání byl schopen milovat své nepřátele; nechť dovede nenávidět své přátele.
-A špatně splácí svému učiteli, kdo zůstane žákem.
-Uctíváte mne, ale co až padne vaše víra jednoho dne k zemi? Střezte se, aby vás nezabila socha!
-Pravíte, že věříte v Zarathuštru? Ale co na něm záleží!
-Jste mými věřícími, ale co záleží na všech věřících?
-Sami jste se ještě nehledali — a tu jste nalezli mne. Tak se vede všem věřícím, proto má veškerá víra tak málo ceny.
-— _Friedrich Nietzche, Tak pravil Zarathuštra_
+>Nyní jdu sám, mí učedníci. Vy též jděte sami. Tak tomu chci. Vpravdě vám radím: odstupte ode mne a straňte se Zarathuštry! Ještě lépe — styďte se za něj! Možná vás zradil! Nestačí, aby člověk poznání byl schopen milovat své nepřátele; nechť dovede nenávidět své přátele. A špatně splácí svému učiteli, kdo zůstane žákem. Uctíváte mne, ale co až padne vaše víra jednoho dne k zemi? Střezte se, aby vás nezabila socha! Pravíte, že věříte v Zarathuštru? Ale co na něm záleží! Jste mými věřícími, ale co záleží na všech věřících? Sami jste se ještě nehledali — a tu jste nalezli mne. Tak se vede všem věřícím, proto má veškerá víra tak málo ceny.
+>
+>— Friedrich Nietzche, Tak pravil Zarathuštra
 
 ---
 

@@ -6,7 +6,7 @@
     position: fixed;
     bottom: 0;
     border-top: 4px var(--bg) solid;
-    z-index: 100;
-    transition: $transition-02-ease;
+    z-index: 10;
+    transition: all var(--transition-base);
     opacity: 1;
   }
