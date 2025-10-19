@@ -14,7 +14,7 @@
   top: var(--gap-xs);
 
   padding-block: var(--gap-xs);
-  padding-inline: var(--gap-menu);
+  padding-inline: var(--gap-l);
   gap: var(--gap-xl);
 
   border: var(--border-solid);
@@ -33,9 +33,9 @@
 
     a {
       display: inline-flex;
-      align-items: center;
+      align-items: baseline;
       font-family: $font-family-h;
-      font-size: calc(var(--font-b) * 1.4);
+      font-size: var(--font-h4);
       color: var(--links);
       font-weight: var(--weight-regular);
 
@@ -50,129 +50,68 @@
     width: 34px;
     height: 34px;
     display: inline-block;
+
+    &:hover {
+        color: var(--links-hover);
+      }
   }
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
-@media (max-width: 800px) {
-  #menu-toggle {
-    display: none;
-  }
-
-  /* Overlay – klik mimo menu zavře menu */
-  .menu-overlay {
-    position: fixed;
-    inset: 0;
-    background: transparent;
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 0.3s ease;
-    z-index: 9999;
-  }
-
-  #menu-toggle:checked ~ .menu-overlay {
-    opacity: 1;
-    pointer-events: auto;
-    cursor: pointer;
-  }
-
-  /* Tlačítko MENU */
-  .menu-button {
-    position: fixed;
-    bottom: 2rem;
-    right: 2rem;
-    font-family: $font-family-h;
-    font-size: calc(var(--font-b) * 1.1);
-    letter-spacing: var(--letter-wide);
-    color: var(--links);
-    cursor: pointer;
-    z-index: 10001;
-    padding: 0.8rem 1.6rem;
-    border-radius: calc(var(--radius) * 3);
-    background-color: color-mix(in srgb, var(--bg) 80%, transparent);
-    backdrop-filter: blur(var(--blur-s));
-    -webkit-backdrop-filter: blur(var(--blur-s));
-    box-shadow: var(--shadow-s);
-    transition: all 0.3s ease;
-  }
-
-  /* Menu panel */
+@media only screen and (max-width: 800px) {
+  
   .menu {
-    position: fixed;
-    bottom: calc(2rem + 3.5rem);
-    right: 2rem;
-    flex-direction: column;
-    align-items: flex-end;
-    justify-content: flex-end;
-    background-color: var(--transpa-mob);
-    backdrop-filter: blur(var(--blur-l));
-    -webkit-backdrop-filter: blur(var(--blur-l));
-    border-radius: calc(var(--radius) * 3);
-    box-shadow: var(--shadow-s);
-    padding: var(--gap-s);
+    padding-block: var(--gap-xs);
+    padding-inline: var(--gap-m);
     gap: var(--gap-s);
-    z-index: 10000;
-    max-height: 0;
-    overflow: hidden;
-    opacity: 0;
-    pointer-events: none;
-    transition: all 0.4s cubic-bezier(0.25, 0.8, 0.3, 1);
-    height: 90vw;
+    align-items: center;
+    left: -var(----container-side);
+    right: 1%;
 
-    .menu-list {
-      align-self: center;
-      padding: 0;
-      margin: 0;
+    li {
+      display: inline-block;
+      height: auto;
 
-      li { a {
-        font-size: var(--h2);
+      a {
+        display: inline-flex;
+        font-family: $font-family-h;
+        font-size: var(--font-h6);
+        color: var(--links);
+        font-weight: var(--weight-regular);
+
+        &:hover {
+          color: var(--links-hover);
+        }
       }
     }
   }
 }
 
-  /* Menu otevřené */
-  #menu-toggle:checked ~ .menu {
-    opacity: 1;
-    pointer-events: auto;
-    max-height: 100vh;
-    padding: var(--gap-m);
-  }
-
-  .menu li {
-    display: flex;
-    flex-direction: column;
-    list-style: none;
-    opacity: 0;
-    transform: translateY(1rem);
-    transition: all 0.25s ease;
+@media only screen and (max-width: 400px) {
+  
+  .menu {
+    padding-block: var(--gap-xs);
+    padding-inline: var(--gap-s);
+    gap: var(--gap-s);
     align-items: center;
-  }
+    left: -var(----container-side);
+    right: 1%;
 
-  #menu-toggle:checked ~ .menu li {
-    opacity: 1;
-    transform: translateY(0);
-  }
+    li {
+      display: inline-block;
+      height: auto;
 
-  .menu li a {
-    font-family: $font-family-h;
-    font-size: calc(var(--font-b) * 1.1);
-    color: var(--links);
-    text-decoration: none;
+      a {
+        display: inline-flex;
+        font-family: $font-family-h;
+        font-size: var(--font-b);
+        color: var(--links);
+        font-weight: var(--weight-regular);
 
-    &:hover {
-      color: var(--links-hover);
+        &:hover {
+          color: var(--links-hover);
+        }
+      }
     }
-  }
-
-  .theme-toggle .icon {
-    width: 28px;
-    height: 28px;
-  }
-
-  /* Scroll lock */
-  body:has(#menu-toggle:checked) {
-    overflow: hidden;
-    touch-action: none;
   }
 }

@@ -1,14 +1,8 @@
-<input id="menu-toggle" type="checkbox" aria-label="Toggle menu" />
-
-<label for="menu-toggle" class="menu-overlay"></label>
-
-<label for="menu-toggle" class="menu-button">MENU</label>
-
 <nav class="menu" role="navigation" aria-label="Main Menu">
-  <ul class="menu-list">
-    <li><a href="/">Domů</a></li>
-    <li><a href="/o-blogu">O blogu</a></li>
-    <li><a href="/o-mne">O mně</a></li>
-    <li class="theme-toggle"><span class="icon"></span></li>
-  </ul>
+    <li role="menuitem"><a href="{{ site.url }}/">domů</a></li>
+    <li role="menuitem"><a href="{{ site.url }}/o-blogu">o blogu</a></li>
+    <li role="menuitem"><a href="{{ site.url }}/o-mne">o mně</a></li>
+    <li title="Toggle Theme" role="menuitemradio" aria-checked="false" aria-label="Switch dark or light mode" class="theme-toggle moon">
+      <span class="icon"></span>
+    </li>
 </nav>
