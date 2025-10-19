@@ -23,7 +23,7 @@ details {
   
   details,
   summary {
-    transition: $transition-02-ease;
+    transition: var(--transition-fast);
   }
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //

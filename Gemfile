@@ -20,3 +20,5 @@ gem "bigdecimal"
 
 gem "jekyll-sass-converter", "~> 3.0"
 gem "sass-embedded", ">= 1.77", "< 2.0"
+
+gem "puma", "~> 7.1"

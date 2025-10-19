@@ -7,36 +7,36 @@ h1, h2, h3, h4, h5, h6 {
   scroll-margin-top: 5rem;
   font-weight: var(--weight-regular);
   color: var(--text-secondary);
-  margin-top: var(--space-text-top);
-  margin-bottom: var(--space-text-bottom);
+  margin-top: var(--space-l);
+  margin-bottom: var(--space-b);
 }
 
 h1 {
   font-size: var(--font-h1);
-  line-height: 0.9;
+  line-height: var(--line-xs);
 }
 h2 {
   font-size: var(--font-h2);
-  line-height: 0.8;
+  line-height: var(--line-xs);
 }
 h3 {
   font-size: var(--font-h3);
-  line-height: 0.8;
+  line-height: var(--line-xs);
   display: inline-block;
 }
 h4 {
   font-size: var(--font-h4);
-  line-height: 0.8;
+  line-height: var(--line-xs);
   display: inline-block;
 }
 h5 {
   font-size: var(--font-h5);
-  line-height: 0.8;
+  line-height: var(--line-xs);
   display: inline-block;
 }
 h6 {
   font-size: var(--font-h6);
-  line-height: 1;
+  line-height: var(--line-xs);
   text-transform: uppercase;
   display: inline-block;
 }
@@ -44,22 +44,22 @@ h6 {
 // -------------------------------------------------------- body
 
 p {
-  font-size: var(--font-base);
-  line-height: var(--line-base);
+  font-size: var(--font-b);
+  line-height: var(--line-b);
   letter-spacing: var(--letter-base);
   color: var(--text);
   margin-top: 0;
-  margin-bottom: var(--space-text-bottom);
+  margin-bottom: var(--space-b);
 }
 
 
 table, figcaption {
-  font-size: var(--font-base);
-  line-height: var(--line-base);
+  font-size: var(--font-b);
+  line-height: var(--line-b);
   letter-spacing: var(--letter-base);
   color: var(--text);
   margin-top: 0;
-  margin-bottom: $space-base;
+  margin-bottom: var(--space-b);
 }
 
 strong, b {
@@ -103,7 +103,7 @@ p {
     letter-spacing: -0.02rem;
     font-size: var(--font-mono);
     font-weight: var(--weight-regular);
-    line-height: calc($space-base * 1.2) !important;
+    line-height: calc(var(--space-b) * 1.2) !important;
     color: var(--text);
   }
 }
@@ -113,13 +113,13 @@ code {
   letter-spacing: -0.02rem;
   font-size: var(--font-mono);
   font-weight: var(--weight-regular);
-  line-height: calc($space-base * 0.5) !important;
+  line-height: calc(var(--space-b) * 0.5) !important;
   color: var(--text);
 }
 
 pre {
   position: relative;
-  margin: $space-base 0;
+  margin: var(--space-b) 0;
   line-height: 1rem;
 
   &::before {
@@ -138,24 +138,24 @@ pre {
 
 ul,
 ol {
-  margin: 0 0 $space-base 0;
+  margin: 0 0 var(--space-b) 0;
   padding-left: 1.5em;
   width: fit-content;
 }
 
 li {
-  font-size: var(--font-base);
+  font-size: var(--font-b);
   line-height: 1.6;
   letter-spacing: var(--letter-base);
   color: var(--text);
   margin-top: 0;
-  margin-bottom: var(--space-text-bottom);
+  margin-bottom: var(--space-b);
 }
 
 li ul,
 li ol {
-  margin-top: calc($space-base * 0.25);
-  margin-bottom: calc($space-base * 0.5);
+  margin-top: calc(var(--space-b) * 0.25);
+  margin-bottom: calc(var(--space-b) * 0.5);
   padding-left: 2em;
   list-style-type: disc;
 }
@@ -184,7 +184,7 @@ ol li {
 
 blockquote {
   font-family: $font-family-h;
-  font-size: var(--font-h3);
+  font-size: var(--font-quote-l);
   letter-spacing: -0.07rem;
   text-align: center;
   line-height: 1;
@@ -192,13 +192,13 @@ blockquote {
   color: var(--text);
   overflow-wrap: break-word;
   align-self: center;
-  margin: var(--space-blockquote-top) var(--space-blockquote-side);
+  margin: var(--space-quote-top) 0;
 
   > p {
     display: inline-block;
     white-space: pre-line;
     font-family: $font-family-h;
-    font-size: var(--font-h3);
+    font-size: var(--font-quote-l);
     letter-spacing: -0.07rem;
     text-align: center;
     line-height: 1;
@@ -211,7 +211,7 @@ blockquote {
     display: block;
     margin-top: 1rem;
     font-family: $font-family-h !important;
-    font-size: var(--font-h6);
+    font-size: var(--font-quote-s);
     color: var(--text-secondary);
     font-family: $font-family-b;
     font-weight: var(--weight-regular);
@@ -233,7 +233,7 @@ blockquote {
 table {
   width: 100%;
   border-collapse: collapse;
-  margin: var(--space-base) 0;
+  margin: var(--space-b) 0;
   font-size: var(--font-s);
   font-family: $font-family-h;
   line-height: 1.4;
@@ -288,8 +288,8 @@ th {
 
 .footnotes ol li {
   scroll-margin-top: 10rem;
-  margin-top: var(--space-text-top);
-  margin-bottom: calc($space-base * 2);
+  margin-top: var(--space-l);
+  margin-bottom: calc(var(--space-b) * 2);
 }
 
 sup {
@@ -309,7 +309,7 @@ sup {
   text-rendering: optimizeLegibility;
   text-decoration: none;
   display: block;
-  margin-top: calc($space-base * 0.5);
+  margin-top: calc(var(--space-b) * 0.5);
   width: fit-content;
 
   &::before {
@@ -333,13 +333,13 @@ sup {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  gap: var(--gap-large);
+  gap: var(--gap-l);
   border-radius: var(--radius);
-  box-shadow: var(--shadow-soft);
+  box-shadow: var(--shadow-s);
   background-color: var(--transpa-mob);
-  backdrop-filter: blur(var(--blur-strong));
-  -webkit-backdrop-filter: blur(var(--blur-strong));
-  padding: var(--gap-large) var(--gap-xlarge);
+  backdrop-filter: blur(var(--blur-l));
+  -webkit-backdrop-filter: blur(var(--blur-l));
+  padding: var(--gap-l) var(--gap-xl);
   max-width: var(--container-max, 90%);
   margin-inline: auto;
   box-sizing: border-box;
@@ -364,7 +364,7 @@ sup {
     line-height: 1.6;
     font-weight: var(--weight-medium);
     color: var(--text);
-    margin: calc($space-base * 0.1) 0;
+    margin: calc(var(--space-b) * 0.1) 0;
     list-style-type: none;
     position: relative;
     display: block;
@@ -392,7 +392,7 @@ sup {
   top: 0.15em;
   transform: translateX(-120%) rotate(-90deg);
   font-size: 0.8em;
-  font-family: $font-family-main;
+  font-family: $font-family-main !important;
   font-weight: var(--weight-bold);
   color: var(--links);
   text-decoration: none;
@@ -413,67 +413,40 @@ sup {
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 
   @media (max-width: 800px) {
+    p, li, table, figcaption, pre, code {
+      line-height: var(--line-b);
+    }
 
-  body {
-    padding: 0 1.5rem;
+    blockquote {
+      margin: var(--space-quote-top) 0;
+    }
+
+    ul, ol {
+      padding-left: 1.2rem;
+    }
+
+    table {
+      font-size: var(--font-s);
+      display: block;
+      overflow-x: auto;
+    }
+
+    .footnotes li {
+      margin-top: var(--space-b);
+      margin-bottom: var(--space-s) !important;
+    }
+
+    #markdown-toc {
+      padding: var(--space-s) var(--space-b);
+      transform: translateY(0);
+    }
+
+    .anchor-marker {
+      position: static !important;
+      display: inline-block;
+      transform: rotate(-90deg); // zachováš otočení, ale už se neposouvá
+      margin-right: 0.5rem;
+      left: auto;
+      top: auto;
+    }
   }
-
-  h1, h2, h3, h4, h5, h6 {
-    width: 100%;
-    max-width: 100%;
-    line-height: 1.1;
-    margin-top: calc(var(--space-base) * 1.5);
-    margin-bottom: calc(var(--space-base) * 0.5);
-  }
-
-  p, li, table, figcaption, pre, code {
-    width: 100%;
-    max-width: 100%;
-    font-size: var(--font-base);
-    line-height: var(--line-base);
-  }
-
-  blockquote {
-    font-size: var(--font-h5);
-    padding: 2rem 0;
-    width: 100%;
-    max-width: 100%;
-  }
-
-  ul, ol {
-    padding-left: 1.2rem;
-  }
-
-  table {
-    font-size: var(--font-s);
-    display: block;
-    overflow-x: auto;
-  }
-
-  .footnotes li {
-    margin-bottom: calc(var(--space-base) * 0.5) !important;
-  }
-
-  #markdown-toc {
-    width: 90%;
-    padding: 1.5rem;
-    font-size: var(--font-s);
-    box-shadow: none;
-    border-radius: 0;
-  }
-
-  .page-content h2,
-  .page-content h3,
-  .page-content h4,
-  .page-content h5,
-  .page-content h6 {
-    padding-left: 0;
-  }
-
-  .anchor-marker {
-    position: static;
-    transform: none;
-    margin-right: 0.5rem;
-  }
-}
-

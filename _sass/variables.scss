@@ -37,143 +37,97 @@ $font-family-h: "Overused Grotesk", Arial, Helvetica, sans-serif;
 $font-family-m: "Geist Mono", Courier, monospace;
 $font-family-main: "Overused Grotesk";
 
-$font-base: 24px;
-$line-base: 1.6;
-$space-base: 1.6rem;
+/*
+font-base:    24px / 16 = 1.5rem
+font-mobile:  18px / 16 = 1.125rem
+
+--thing-xl: extra large
+--thing-l: large
+--thing-m: medium
+--thing-b: base
+--thing-s: small
+--thing-xs: extra small
+*/
 
 :root {
-  --line-tight: 1.1;
-  --line-base: 1.6;
-  --line-loose: 1.8;
+  --pref-scale: 1.4vw + 0.8rem;
+  
+  --font-b: clamp(1.125rem, var(--pref-scale), 1.5rem);
+  
+  --font-h1: clamp(calc(var(--font-b) * 3), calc(var(--font-b) * 3.4), calc(var(--font-b) * 3.8));
+  --font-h2: clamp(calc(var(--font-b) * 2.4), calc(var(--font-b) * 2.7), calc(var(--font-b) * 3));
+  --font-h3: clamp(calc(var(--font-b) * 1.9), calc(var(--font-b) * 2.1), calc(var(--font-b) * 2.3));
+  --font-h4: clamp(calc(var(--font-b) * 1.6), calc(var(--font-b) * 1.7), calc(var(--font-b) * 1.8));
+  --font-h5: clamp(calc(var(--font-b) * 1.3), calc(var(--font-b) * 1.35), calc(var(--font-b) * 1.4));
+  --font-h6: clamp(calc(var(--font-b) * 1.1), calc(var(--font-b) * 1.12), calc(var(--font-b) * 1.15));
+  --font-s: clamp(calc(var(--font-b) * 0.9), calc(var(--font-b) * 0.85), calc(var(--font-b) * 0.8));
+  --font-mono: clamp(calc(var(--font-b) * 0.8), calc(var(--font-b) * 0.78), calc(var(--font-b) * 0.75));
+  --font-quote-l: clamp(calc(var(--font-b) * 1.5), var(--pref-scale), calc(var(--font-b) * 2.3));
+  --font-quote-s: clamp(calc(var(--font-b) * 0.8), calc(var(--font-b) * 0.85), calc(var(--font-b) * 0.8));
 
-  --letter-tight: -0.02em;
-  --letter-base: -0.003em;
+  --meta-s: var(--font-h6);
+  --meta-m: var(--font-h4);
+  --meta-l: var(--font-h2);
+
+  --line-l: 1.8;
+  --line-b: 1.6;
+  --line-s: 1.1;
+  --line-xs: 0.9;
+  
   --letter-wide: 0.05em;
-
-  --weight-regular: 400;
-  --weight-medium: 500;
+  --letter-base: -0.003em;
+  --letter-tight: -0.02em;
+  
   --weight-bold: 800;
-
-  --space-base: #{$space-base};
-  --space-text-top: calc(var(--space-base) * 2);            // space above headers
-  --space-text-bottom: calc(var(--space-base) * 1);
-  --space-blockquote-top: 15vh;
-  --space-blockquote-side: -9vw;
-
-  --toc-max-width: 75%;
-  --footnote-width: 120ch;
-}
-
-// -------------------------------------------------------- font scale
-
-:root {
-  --font-base: #{$font-base};
-
-  --font-h1: calc(#{$font-base} * 3.8);
-  --font-h2: calc(#{$font-base} * 3);
-  --font-h3: calc(#{$font-base} * 2.3);
-  --font-h4: calc(#{$font-base} * 1.8);
-  --font-h5: calc(#{$font-base} * 1.4);
-  --font-h6: calc(#{$font-base} * 1.15);
-  --font-s: calc(#{$font-base} * 0.8);
-  --font-mono: calc(#{$font-base} * 0.75);
-
-  --meta-small: var(--font-h6);
-  --meta-big: var(--font-h4);
-  --meta-title: var(--font-h2);
-}
-
-@media (max-width: 800px) {
-  :root {
-    --font-base: 20px;
-
-    --font-h1: calc(var(--font-base) * 3);
-    --font-h2: calc(var(--font-base) * 2.4);
-    --font-h3: calc(var(--font-base) * 1.9);
-    --font-h4: calc(var(--font-base) * 1.6);
-    --font-h5: calc(var(--font-base) * 1.3);
-    --font-h6: calc(var(--font-base) * 1.1);
-    --font-s: calc(var(--font-base) * 0.9);
-    --font-mono: calc(var(--font-base) * 0.8);
-
-    --space-base: 1.4rem;
-    --space-section: 2rem;
-    --space-padding: 2rem;
-  }
-}
+  --weight-medium: 500;
+  --weight-regular: 400;
 
 // -------------------------------------------------------- spacing
 
-$meta-gap-24: 24px;
-$meta-gap-48: 48px;
-$meta-gap-64: 64px;
-
-$border-radius: 24px;
-
-:root {
+  --space-xl: calc(var(--space-b) * 3);
+  --space-l: calc(var(--space-b) * 2);
+  --space-b: clamp(1.4rem, var(--pref-scale), 1.6rem);
+  --space-s: calc(var(--space-b) * 0.5);
   
-  --gap-xlarge: calc(var(--space-padding) * 2);
-  --gap-large: calc(var(--space-padding) * 1);
-  --gap-medium: calc(var(--space-padding) * 0.75);
-  --gap-small: calc(var(--space-padding) * 0.5);
-  --gap-xsmall: calc(var(--space-padding) * 0.2);
+  --space-quote-top: 10vh;
 
-  --space-section: 3rem;            // section margin
-  --space-padding: 3rem;            // padding inside cards
+  --gap-xl: calc(var(--space-l) * 2);
+  --gap-l: calc(var(--space-l) * 1);
+  --gap-m: calc(var(--space-l) * 0.75);
+  --gap-s: calc(var(--space-l) * 0.5);
+  --gap-xs: calc(var(--space-l) * 0.2);
+
+  --gap-menu: var(--gap-l);
+
+// -------------------------------------------------------- width
+
+  --toc-max-width: 75%;
+  --footnote-width: 120ch;
+
   --container-width: 90%;           // main content width
   --container-side: 15%;            // horizontal offset for meta/more
-  --radius: 24px;                   // global border radius
-}
 
-// -------------------------------------------------------- layout containers
-
-:root {
-  --container-max: 1200px;          // maximum width for global sections
-  --container-narrow: 90ch;         // width for text content
-  --container-side: clamp(2rem, 10vw, 8rem);            // horizontal padding for meta/more/menu/footer
-}
-
-// Global centering helper
-.container {
-  width: min(var(--container-max), 100% - 2 * var(--container-side));
-  margin-inline: auto;
-  position: relative;
-}
-
-// Variant for narrow text blocks
-.container--narrow {
-  width: min(var(--container-narrow), 100% - 2 * var(--container-side));
-  margin-inline: auto;
-  position: relative;
-}
+  --container-max: 1200px;
+  --container-side: clamp(1rem, 5vw, 4rem);
 
 // -------------------------------------------------------- fx
 
-$transition-02-ease: all 0.2s ease-in-out;
-$drop-shadow: 0px 5px 20px rgba(0, 0, 0, 0.4);
-$drop-shadow-soft: 0px 5px 20px rgba(0, 0, 0, 0.1);
-
-:root {
-  --blur-strong: 10px;
-  --blur-soft: 6px;
-
-  --hover-opacity: 0.8;
+  --radius: clamp(12px, var(--pref-scale), 24px);
+  --border-solid: 1px solid var(--bg);
+  
+  --blur-l: clamp(6px, 1vw + 2px, 10px);
+  --blur-s: 6px;
+  
+  --hover-opacity: 0.6;
   --hover-scale: 1.05;
 
-  --shadow-soft: 0 5px 20px rgba(0, 0, 0, 0.1);
-  --shadow-hard: 0 5px 20px rgba(0, 0, 0, 0.4);
+  --shadow-s: 0 5px 20px rgba(0, 0, 0, 0.1);
+  --shadow-l: 0 5px 20px rgba(0, 0, 0, 0.4);
   --text-shadow-soft: 0 1px 4px var(--bg);
 
   --transition-fast: 0.2s ease-in-out;
   --transition-base: 0.4s ease;
   --transition-slow: 0.6s ease-out;
-
-  --border-solid: 1px solid var(--bg);
-
-  --sheez1: linear-gradient(
-    transparent 60%,
-    color-mix(in srgb, var(--links) 15%, transparent) 100%
-    );
 
   --frosted-mask: radial-gradient(
     var(--mask-shape) at var(--mask-position),
@@ -188,25 +142,10 @@ $drop-shadow-soft: 0px 5px 20px rgba(0, 0, 0, 0.1);
   --mask-color-inner: rgba(0, 0, 0, 0.1);
   --mask-color-outer: rgba(0, 0, 0, 1);
 
---sheez: radial-gradient(
-    var(--sheez-shape) at var(--sheez-position),
-    var(--sheez-color-inner) var(--sheez-inner),
-    var(--sheez-color-outer) var(--sheez-outer)
-  );
-
-  --sheez-shape: ellipse 100% 110%;
-  --sheez-position: 50% 20%;
-  --sheez-inner: 60%;
-  --sheez-outer: 110%;
-  --sheez-color-inner: var(--bg);
-  --sheez-color-outer: var(--links);
-
 }
 
 @media (max-width: 800px) {
   :root {
-    --blur-strong: 6px;
-
     --mask-inner: 40%;
   }
 }
@@ -218,80 +157,5 @@ html, body {
   text-rendering: optimizeLegibility;
   font-family: $font-family-b;
   margin: 0;
-  line-height: $line-base;
+  line-height: var(--line-b);
 }
-
-
-/*
-// Font families
-$font-family-body: "Source Serif 4", Georgia, Cambira, "Times New Roman", Times, serif;
-$font-family-heading: "Overused Grotesk", "Helvetica Neue", Arial, Helvetica, sans-serif;
-$font-family-monospace: "Roboto Mono", "Courier New", Courier, monospace;
-$font-family-main: "Overused Grotesk";
-
-// Desktop
-$font-size-base: 24px; // 16 × 1.5
-$line-height-base: 40px;
-
-$font-size-smaller: 20px; // 16 × 1.375
-$line-height-smaller: 30px;
-
-$font-size-heading-1: 90pt;
-$line-height-heading-1: 90pt;
-
-$font-size-blockquote: 78px;
-$line-height-blockquote: 72px;
-
-$font-size-heading-2: 69px;
-$line-height-heading-2: 69px;
-
-$font-size-heading-3: 53px;
-$line-height-heading-3: 53px;
-
-$font-size-heading-4: 41px;
-$line-height-heading-4: 41px;
-
-$font-size-heading-5: 31px;
-$line-height-heading-5: 31px;
-
-$font-size-heading-6: 24px;
-$line-height-heading-6: 24px;
-
-// Mobile
-$font-size-base-mobile: 16px;
-$line-height-base-mobile: 26px;
-
-$font-size-smaller-mobile: 13px; // 16 × 0.8
-$line-height-smaller-mobile: 21px;
-
-$font-size-heading-1-mobile: 60px;
-$line-height-heading-1-mobile: 60px;
-
-$font-size-blockquote-mobile: 52px;
-$line-height-blockquote-mobile: 52px;
-
-$font-size-heading-2-mobile: 46px;
-$line-height-heading-2-mobile: 46px;
-
-$font-size-heading-3-mobile: 35px;
-$line-height-heading-3-mobile: 35px;
-
-$font-size-heading-4-mobile: 27px;
-$line-height-heading-4-mobile: 27px;
-
-$font-size-heading-5-mobile: 21px;
-$line-height-heading-5-mobile: 21px;
-
-$font-size-heading-6-mobile: 16px;
-$line-height-heading-6-mobile: 16px;
-
-// Details
-$meta-gap-24: 24px;
-$meta-gap-48: 48px;
-$meta-gap-64: 64px;
-$border-radius: 24px;
-$transition-02-ease: all 0.2s ease-in-out;
-$glass-border: var(--code-text) solid 0;
-$drop-shadow: 0px 5px 20px rgba(0, 0, 0, 0.4);
-$drop-shadow-soft: 0px 5px 20px rgba(0, 0, 0, 0.1);
-*/

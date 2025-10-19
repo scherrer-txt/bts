@@ -11,18 +11,18 @@
   width: fit-content;
   left: 1%;
   right: 1%;
-  top: var(--gap-xsmall);
+  top: var(--gap-xs);
 
-  padding-block: var(--gap-xsmall);
-  padding-inline: var(--gap-xlarge);
-  gap: var(--gap-xlarge);
+  padding-block: var(--gap-xs);
+  padding-inline: var(--gap-menu);
+  gap: var(--gap-xl);
 
   border: var(--border-solid);
   border-radius: calc(var(--radius) * 4);
   background-color: var(--transpa-mob);
-  backdrop-filter: blur(var(--blur-strong));
-  -webkit-backdrop-filter: blur(var(--blur-strong));
-  box-shadow: var(--shadow-soft);
+  backdrop-filter: blur(var(--blur-l));
+  -webkit-backdrop-filter: blur(var(--blur-l));
+  box-shadow: var(--shadow-s);
   transition: all var(--transition-fast);
 
   li {
@@ -35,7 +35,7 @@
       display: inline-flex;
       align-items: center;
       font-family: $font-family-h;
-      font-size: calc(var(--font-base) * 1.4);
+      font-size: calc(var(--font-b) * 1.4);
       color: var(--links);
       font-weight: var(--weight-regular);
 
@@ -54,136 +54,125 @@
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
-@media only screen and (max-width: 800px) {
-
-  .menu {
-  &.scrolled {
-    top: 0;
-    margin: 0;
-    padding: 0;
-    border-radius: 0;
-  }
-}
-
-#menu-toggle {
+@media (max-width: 800px) {
+  #menu-toggle {
     display: none;
   }
 
-.menu-bg {
-    height: 0;
-    background-color: transparent;
+  /* Overlay – klik mimo menu zavře menu */
+  .menu-overlay {
+    position: fixed;
+    inset: 0;
+    background: transparent;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+    z-index: 9999;
   }
 
-  .menu-icon {
-    z-index: 99999;
-    display: block;
-  }
-  
-  .menu-icon .icon {
-    width: 35px;
-    height: 35px;
-    color: var(--links);
-  }
-  
-  .menu-icon .open,
-  .menu-icon .close {
+  #menu-toggle:checked ~ .menu-overlay {
     opacity: 1;
-    height: 32px;
-    width: 32px;
-    position: fixed;
-    bottom: 0;
-    right: 5%;
-    margin-bottom: 10%;
-    z-index: 999;
-    padding: 0.75rem;
-    background-color: var(--transpa-meta);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    border-radius: 500px;
+    pointer-events: auto;
     cursor: pointer;
-    box-shadow: $drop-shadow;
-    filter: invert(1);
-    transition: opacity 0.4s ease-in-out, transform 0.2s ease-in;
   }
-  
-  #menu-toggle:checked ~ .menu {
+
+  /* Tlačítko MENU */
+  .menu-button {
     position: fixed;
-    width: 100%;
-    height: 100%;
+    bottom: 2rem;
+    right: 2rem;
+    font-family: $font-family-h;
+    font-size: calc(var(--font-b) * 1.1);
+    letter-spacing: var(--letter-wide);
+    color: var(--links);
+    cursor: pointer;
+    z-index: 10001;
+    padding: 0.8rem 1.6rem;
+    border-radius: calc(var(--radius) * 3);
+    background-color: color-mix(in srgb, var(--bg) 80%, transparent);
+    backdrop-filter: blur(var(--blur-s));
+    -webkit-backdrop-filter: blur(var(--blur-s));
+    box-shadow: var(--shadow-s);
+    transition: all 0.3s ease;
+  }
+
+  /* Menu panel */
+  .menu {
+    position: fixed;
+    bottom: calc(2rem + 3.5rem);
+    right: 2rem;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
     background-color: var(--transpa-mob);
-    visibility: visible;
-    padding: 0;
+    backdrop-filter: blur(var(--blur-l));
+    -webkit-backdrop-filter: blur(var(--blur-l));
+    border-radius: calc(var(--radius) * 3);
+    box-shadow: var(--shadow-s);
+    padding: var(--gap-s);
+    gap: var(--gap-s);
+    z-index: 10000;
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.4s cubic-bezier(0.25, 0.8, 0.3, 1);
+    height: 90vw;
+
+    .menu-list {
+      align-self: center;
+      padding: 0;
+      margin: 0;
+
+      li { a {
+        font-size: var(--h2);
+      }
+    }
+  }
+}
+
+  /* Menu otevřené */
+  #menu-toggle:checked ~ .menu {
+    opacity: 1;
+    pointer-events: auto;
+    max-height: 100vh;
+    padding: var(--gap-m);
+  }
+
+  .menu li {
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
+    list-style: none;
+    opacity: 0;
+    transform: translateY(1rem);
+    transition: all 0.25s ease;
+    align-items: center;
   }
 
-#menu-toggle:checked ~ body {
-  overflow: hidden;
-}
+  #menu-toggle:checked ~ .menu li {
+    opacity: 1;
+    transform: translateY(0);
+  }
 
-#menu-toggle:not(:checked) ~ .menu {
-  display: none;
-  visibility: hidden;
-}
+  .menu li a {
+    font-family: $font-family-h;
+    font-size: calc(var(--font-b) * 1.1);
+    color: var(--links);
+    text-decoration: none;
 
-.menu-list:last-child {
-  margin-bottom: 125px;
-}
+    &:hover {
+      color: var(--links-hover);
+    }
+  }
 
-.menu-list {
-  flex-direction: column;
-  align-items: end;
-  justify-content: flex-end;
-  height: 50%;
-  margin-right: 25px;
-  gap: 40px;
-}
+  .theme-toggle .icon {
+    width: 28px;
+    height: 28px;
+  }
 
-#menu-toggle:checked + .menu-icon .open {
-  opacity: 0;
-  transform: rotate(45deg);
-}
-
-#menu-toggle:not(:checked) + .menu-icon .close {
-  opacity: 0;
-  transform: rotate(-45deg);
-}
-
-#menu-toggle:checked + .menu-icon .close {
-  opacity: 1;
-  transform: rotate(0deg);
-}
-
-#menu-toggle:not(:checked) + .menu-icon .open {
-  opacity: 1;
-  transform: rotate(0deg);
-}
-
-.menu-list a {
-  font-family: "neue-haas-grotesk-display", sans-serif;
-  font-size: 3rem;
-  margin-bottom: 0px;
-  letter-spacing: 0.02rem;
-  margin-left: 0;
-  width: fit-content;
-  color: var(--links);
-  text-decoration: none;
-}
-
-.menu-list li {
-  margin-left: 0;
-  margin-bottom: auto;
-  margin-right: 25px;
-}
-
-.menu-list li:last-child {
-  margin-right: 25px;
-  margin-left: 0;
-  margin-top: 0;
-}
-
-.menu-list ul {
-  width: 100%;
-}
+  /* Scroll lock */
+  body:has(#menu-toggle:checked) {
+    overflow: hidden;
+    touch-action: none;
+  }
 }

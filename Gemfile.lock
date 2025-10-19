@@ -81,12 +81,15 @@ GEM
     logger (1.7.0)
     mercenary (0.4.0)
     mini_portile2 (2.8.5)
+    nio4r (2.7.4)
     nokogiri (1.16.3)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (5.0.0)
+    puma (7.1.0)
+      nio4r (~> 2.0)
     racc (1.7.3)
     rake (13.3.0)
     rb-fsevent (0.11.2)
@@ -126,6 +129,7 @@ DEPENDENCIES
   jekyll-toc
   logger
   moonwalk!
+  puma (~> 7.1)
   rexml
   sass-embedded (>= 1.77, < 2.0)
   tzinfo

@@ -14,14 +14,10 @@
   <div class="meta-bg" style="--bg-img: url('{{ site.url }}{{ page.background }}')"></div>
   <div class="meta-wrap">
 
-    <div class="meta-row">
       <div class="title-wrap">
         <small class="meta-small">Název</small>
         <h1 class="meta-title">{{ page.name }}</h1>
       </div>
-    </div>
-
-    <div class="meta-row">
       <div class="number-wrap">
         <small class="meta-small">Číslo</small>
         <h4 class="meta-big">{{ page.order }}</h4>
@@ -34,15 +30,12 @@
         <small class="meta-small">Vyšlo</small>
         <h4 class="meta-big">{{ page.release }}</h4>
       </div>
-    </div>
 
 {% if page.moreinfo %}
-    <div class="meta-row">
       <div class="appetizer-wrap">
         <small class="meta-small">Více</small>
         <h2 class="meta-small">{{ page.perex }}</h2>
       </div>
-    </div>
 {% endif %}
 
   </div>
