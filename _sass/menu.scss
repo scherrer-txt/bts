@@ -14,7 +14,7 @@
   top: var(--gap-xs);
 
   padding-block: var(--gap-xs);
-  padding-inline: var(--gap-l);
+  padding-inline: var(--gap-xl);
   gap: var(--gap-xl);
 
   border: var(--border-solid);
@@ -58,19 +58,19 @@
 
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
 // -------------------------------------------------------- MOBILE -------------------------------------------------------- //
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 900px) {
   
   .menu {
     padding-block: var(--gap-xs);
-    padding-inline: var(--gap-m);
-    gap: var(--gap-s);
+    padding-inline: var(--gap-l);
+    gap: var(--gap-m);
     align-items: center;
     left: -var(----container-side);
     right: 1%;
 
-    li {
-      display: inline-block;
-      height: auto;
+      li {
+        display: inline-block;
+        height: auto;
 
       a {
         display: inline-flex;
@@ -78,12 +78,17 @@
         font-size: var(--font-h6);
         color: var(--links);
         font-weight: var(--weight-regular);
-
-        &:hover {
-          color: var(--links-hover);
-        }
       }
     }
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  
+.menu {
+    padding-block: var(--gap-xs);
+    padding-inline: var(--gap-m);
+    gap: var(--gap-s);
   }
 }
 
@@ -92,25 +97,13 @@
   .menu {
     padding-block: var(--gap-xs);
     padding-inline: var(--gap-s);
-    gap: var(--gap-s);
-    align-items: center;
-    left: -var(----container-side);
-    right: 1%;
 
     li {
       display: inline-block;
       height: auto;
 
       a {
-        display: inline-flex;
-        font-family: $font-family-h;
         font-size: var(--font-b);
-        color: var(--links);
-        font-weight: var(--weight-regular);
-
-        &:hover {
-          color: var(--links-hover);
-        }
       }
     }
   }

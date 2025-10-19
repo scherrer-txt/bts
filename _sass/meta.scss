@@ -334,6 +334,16 @@
 
 @media only screen and (max-width: 970px) {
 
+  .meta {
+    padding: 10vh var(--container-side);
+    max-height: 75vh;
+  }
+
+  #markdown-toc {
+    padding: var(--space-s) var(--space-b);
+    transform: translateY(0);
+  }
+
   .more-item {
     flex-direction: column;
     align-items: flex-start;
@@ -365,7 +375,7 @@
     grid-template-rows: auto auto auto;
     gap: var(--gap-m);
     padding: var(--space-l);
-    margin-bottom: var(--space-xl);
+    margin: var(--space-xl) 0;
 
     .title-wrap {
       grid-column: 1 / -1;
@@ -389,7 +399,8 @@
     }
 
     .number-wrap {
-      grid-column: 1;
+      grid-column: 1 / -1;
+      width: 100%;
       grid-row: 3;
       display: flex;
       flex-direction: column;
@@ -398,7 +409,8 @@
     }
 
     .release-wrap {
-      grid-column: 1;
+      grid-column: 1 / -1;
+      width: 100%;
       grid-row: 4;
       justify-self: end;
       display: flex;
@@ -409,7 +421,8 @@
     }
 
     .appetizer-wrap {
-      grid-column: 1;
+      grid-column: 1 / -1;
+      width: 100%;
       grid-row: 2;
       display: flex;
       flex-direction: column;
@@ -421,7 +434,6 @@
 }
 
 @media only screen and (max-width: 600px) {
-
   .index-wrap {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -472,56 +484,23 @@
   }
 }
 
-
-  /*
-  
-  .meta {
-    padding: 20vh var(--space-b);
-    height: 60vh;
-    align-items: center;
-  }
-
-  .meta-title {
-    font-size: var(--meta-l);
-    line-height: var(--line-xs);
-    line-clamp: unset;
-    -webkit-line-clamp: unset;
-    display: block;
-    overflow: visible;
-    min-height: auto;
-    white-space: normal;
-    margin-bottom: 0;
-  }
-
-  .meta-wrap {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto auto auto;
-    gap: var(--gap-m);
-    padding: var(--space-l);
-  }
-
+@media only screen and (max-width: 300px) {
   .index-wrap {
-    display: grid;
-    grid-template-columns: auto 1fr auto;
-    align-items: center;
-    gap: var(--gap-l);
-  }
+    .title-wrap {
+      grid-row: 2;
+    }
 
-  .title-wrap {
-    grid-column: 1 / -1;
-    grid-row: 1;
-    width: max-content;
-    overflow: visible;
-    min-width: 0;
-  }
+    .number-wrap {
+      grid-column: 1 / -1;
+      width: 100%;
+      grid-row: 1;
+    }
 
-  .number-wrap  { grid-column: 1; grid-row: 2; }
-  .release-wrap { grid-column: 2; grid-row: 2; justify-self: end; }
-
-  .appetizer-wrap {
-    grid-column: 1 / -1;
-    grid-row: 3;
+    .release-wrap {
+      grid-column: 1 / -1;
+      width: 100%;
+      grid-row: 3;
+      align-items: flex-start;
+    }
   }
 }
-*/
