@@ -119,8 +119,8 @@ font-mobile:  18px / 16 = 1.125rem
   --hover-opacity: 0.6;
   --hover-scale: 1.05;
 
-  --shadow-s: 0 5px 20px rgba(0, 0, 0, 0.1);
-  --shadow-l: 0 5px 20px rgba(0, 0, 0, 0.4);
+  --shadow-s: inset 0 2px 2px #ffffff30, 0 5px 20px rgba(0, 0, 0, 0.1);
+  --shadow-l: inset 0 2px 2px #ffffff30, 0 5px 20px rgba(0, 0, 0, 0.4);
   --text-shadow-soft: 0 1px 4px var(--bg);
 
   --transition-fast: 0.2s ease-in-out;
