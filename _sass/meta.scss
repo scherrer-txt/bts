@@ -335,7 +335,7 @@
 @media only screen and (max-width: 970px) {
 
   .meta {
-    max-height: calc(var(--space-b) * 4);
+    //max-height: calc(var(--space-b) * 4);
     padding: var(--space-xl) var(--container-side);
     overflow: hidden;
     position: relative;
